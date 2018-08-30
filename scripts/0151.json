@@ -1,0 +1,886 @@
+[
+    {
+        "id": 0,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d100f2000100e8055a0afe00f3000b010e01ef00f200ee00fd00fa0002000a00dc001b01d300f900dc02db00df05d300f5001a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "あっ、昨日はつぼみだったのに。\u0000\nきれいな花が咲いてる。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 1,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "ce076f0d2101e600f500ee005b05ff0adb00d1001a01f900d00002000a00e200fd0056092606f6001101f200f700cd08dc00de00f9001a012201ef00ed0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "世話をしてた甲斐があるなぁ。\u0000\nこの調子でもっと大きくなるんだぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "0401d40023002300e600da00e6000100fb06d300f900d00002000a00dc02ee00f000fa00fe00a5081001fa00b107d100e100f900d300f700f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "ふぅ……しかし、暑いなぁ。\u0000\n花たちには多めに水あげないとな。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d900f20001005301750131011d076b0a02000a0099055a0afe00dc02fa00b10713011901da00d30008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "おっ、パンク少年。\u0000\n今日は花に水やりかい？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d700f2000800000023002300d1000100e2002201fa00f000fe0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "えっ？　……あ、こんにちは。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900e200fd009907fe003203da00010094006b0afd001208960aef00f200ee00f200e0002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（この人は確か、娃年の先輩だったっけ）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "f3081101b1072101d100e100f900d300da0018010200f609f00ae7001201f900d300e000f8000a0013011a011701d500fa00e600f5001a012201f600e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "誰も水をあげないから。当番じゃないけど\u0000\nやるようにしてるんです。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d9001b000100d300d300fc000200530175013101f900cb0a9b04e600f5001a01de00ea00fa000a00950ce600d300f700e2001c01db00d1001a01e7001201220102000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "お―、いいね。パンクな髪型してるくせに\u0000\n優しいところがあるじゃん。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 8,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d100fe00fe000100e200fd00cb0a9b04fe00e2070d011b01f300dc00f600e800da00180102000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "あはは、この髪型は生まれつきですから。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "0d01ee000d01ee001b000200ec00d5001301f200f50030016501450159012101e006e600f5000a005f01260175014a0124014501590121014808f200f5001a01f90008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "またまた―。そうやってギャップを出して\u0000\nポイントアップを狙ってるな？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "ec002201f9000200100cf609fd00e200f7002101fa04f200f5001a01ef00e000f600e800f200f50002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "そんな。本当のことを言ってるだけですって。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "de001b000100fa00de00d300fc001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "く―、にくいね―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d300d7000100ef00da00180123002300220108000a00d100f20001001208960a01005509f600e800170102000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "いえ、だから……ん？\u0000\nあっ、先輩、蝶ですよ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 13,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d90001005d0175014a01ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "お、ホントだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d10001000e0b2201ef0002000a005306fe00f800e200fa002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "あ、飛んだ。\u0000\n次はどこに……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "230023002300230008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "…………？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d900d900f200010053055b091208e207fd000a0afa0029091309800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "おおっ、校長先生の頭に着地弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "5509",
+            "textraw": "090009000a00",
+            "warnings": 0
+        },
+        "speaker": "蝶",
+        "speaker_translation": "",
+        "text": "！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "6c06900af200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "失敗っ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "0bff",
+            "textraw": "dd001201fe00fe00fe00fe0009000a00f7000d011901ee00de00f50011010100f7000d011b01f900d300e7001201f900d300da0009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "ぎゃはははは！\u0000\nとまりたくても、とまれないじゃないか！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "0cff",
+            "textraw": "de00f2000100de00de00de00de000100d300da00220101000a005e0cae0ae800dd00f50019064a06db009c06fa00f300da00f900d30009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "くっ、くくくく、いかん、\u0000\n面白すぎて仕事が手につかない！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 21,
+        "internal": {
+            "speakerraw": "0bff",
+            "textraw": "de00de000100fe0001006908de00550921016b09d3007d0bd700f200f500230023000a00e7001201f900d300f700bc02fd00780b5804db003406fb002300230009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "くく、は、早く蝶を追い払えって……\u0000\nじゃないと俺の腹筋が死ぬ……！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speakerraw": "0cff",
+            "textraw": "2c0101002c01450133011b0001003201570145010100600aea001c0102000a00e200d5001301f200f5009c06f6007d0bf200f5002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "オ、オッケ―、グフッ、任せろ。\u0000\nこうやって手で払って……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "0cff",
+            "textraw": "2300230023002300d10002000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "…………あ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "0bff",
+            "textraw": "2300230023002300d700f20008000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "…………えっ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "0cff",
+            "textraw": "2300230023002300e3001001220102000a002401750148014c0101000808f200f0001201f200ee002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "…………ごめん。\u0000\nアンテナ、折っちゃった……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 26,
+        "internal": {
+            "speakerraw": "0bff",
+            "textraw": "ff00f200da0013011c011b001b001b001b00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "ばっかやろ――――！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d100f2002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "あっ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "58014501090009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "ブッ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d100fe00fe00fe00fe0009000a005509db0001005509db00640154012d017501fa0033060d01f200ee0009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "あはははは！\u0000\n蝶が、蝶がモヒカンに止まった！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d100fe00fe0023002300f9000100c502f600e2002201f900f700e200fa00230023000a00dc02fa0033060d011b01ff008703d3003c0cdb00fb03d7001a01fd00fa002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "あはは……な、何でこんなとこに……\u0000\n花に止まれば甘い蜜が吸えるのに……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "31013101310101001101e600da00e600ee0018010a00640154012d017501db008703d300fd00da00110102000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "ククク、もしかしたら\u0000\nモヒカンが甘いのかも。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d100fe00fe000100ec002201f90052012d01f90002000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "あはは、そんなバカな。\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "f8001b01f8001b011b00080000003602100c8e0a8c0602000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "どれどれ―？　一本拝借。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 0,
+        "internal": {
+            "speakerraw": "0a0016ff",
+            "textraw": "1aff04000000680000000a0016ffffffc1fffa001000ebfe000064ffffff0a00f0ff22002a09730a6007ffff6d09f200090008000a0023002300ea0001001208960a090008000a00",
+            "warnings": 11
+        },
+        "speaker": "\u0000\n",
+        "speaker_translation": "",
+        "text": "．　　\u0000\nに￣　\u0000\n中之条痛っ！？\u0000\n……せ、先輩！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d5001e01f200090000000a012201f7008703d300550ad300db00e8001a01170109000a00f8000100f800d500d300d500e200f700090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "うわっ！　ほんと甘い匂いがするよ！\u0000\nど、どういうこと！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d700f200090008000a0098ff0000effe060097fffdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff0e00eefe15000400c1fffb001000ebfe0100adffffff65ff08000a00f0ff25002a09730a6007ffff29008703d3000800000052012d01f9002300230009000a000000cb0adb008703d300f9002201f5000100ec002201f900e200f700230023002a000a00",
+            "warnings": 25
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "えっ！？\u0000\n　：．哀　・：；．ぬ￣、？\u0000\n中之条（甘い？　バカな……！\u0000\n　髪が甘いなんて、そんなこと……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900fb06e400f60082031101da00d300f500d3001a012201ef00ed0008000000e6001601f2000001d3000a000000f90018010d01ef00e600110101008703d300ef00f9002201f500230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（暑さで汗もかいているんだぞ？　しょっぱい\u0000\n　ならまだしも、甘いだなんて……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900d30013010100e600da00e60001001208960afe008703d300f700fa04f200f500d3001a0102000a000000e2002201f900e200f700f6005b022101f300de00fe00e900db00f900d3002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（いや、しかし、先輩は甘いと言っている。\u0000\n　こんなことで嘘をつくはずがない）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900ef00f700e8001a01f700230023001301fe0019018703d300fd00da0008000a000000010cfd00cb0afe005509db00b50319014d0bde00de001801d3008703d3002300230008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（だとすると……やはり甘いのか？\u0000\n　僕の髪は蝶が寄り付くくらい甘い……？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2300230023002300090009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "…………！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "0a011b010a011b0101004206e600fa0075070801f5000e01f900170102000a00800d800df200f5000100ec0019011201470ced0cda001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "ほれほれ、試しに食べてみなよ。\u0000\n弌弌って、そりゃ無理か―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d300d7000100d300ee00ef00dc000d01e80009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "いえ、いただきます！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "0f01e600f200ee00090008000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "むしった！？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900ec00d5000100f00442026b090604fd00ee001001fa00fe000a000000c5024a061101430165016e0175013a01e600f5000e01f900e0001b01ff0009002a000a0098ff0000effe040097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（そう、原因追究のためには\u0000\n　何事もチャレンジしてみなければ！）\u0000\n　．",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "75070801ee00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "食べた！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "e2001b01fe00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "これは！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2300230060013c01450109000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "……マズッ！\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "23002300550ad300ef00e000da0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff6e011000ebfe000065ff15001900f0ff3200280129015e0139011b00ffffd500fe00fe00fe0009000000e200190112011101d5000a00640154012d017501e7001201f900de00f5002d0145014a01530126017501ef00fc0009000a00",
+            "warnings": 23
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "……匂いだけか。\u0000\n　，　？￣レ￣　〆ウェボシ―うははは！　こりゃもう\u0000\nモヒカンじゃなくてカットパインだね！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "ec000100ec002201f90052012d01f900230023000a008703d3001e01e0002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "そ、そんなバカな……\u0000\n甘いわけ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d3001301d300130101008703d300550ad300e8001a01f200f50009000a00e2001901120155091101b503f200f500de001a011e01e000ef0009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "いやいや、甘い匂いするって！\u0000\nこりゃ蝶も寄ってくるわけだ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d3001301d30013010100ec002201f900e200f700d1001a011e01e000800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "いやいや、そんなことあるわけ弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "230023002300230002000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "6106090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "鹿！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "66013001",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ヤギ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "66013001090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "ヤギ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d100fe00fe00fe000100550ad300fa00a60c1e011b01f5000a006106f70066013001db001301f200f500dc00ee00170102000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "あははは、匂いに誘われて\u0000\n鹿とヤギがやってきたよ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "5c016f015c016f012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "ペロペロ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "5509",
+            "textraw": "f00014011b00f00014011b002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "蝶",
+        "speaker_translation": "",
+        "text": "ちゅ―ちゅ―……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "66013001",
+            "textraw": "5b016f015b016f012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ヤギ",
+        "speaker_translation": "",
+        "text": "ベロベロ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "29002300230099055a0afd00010cfd00640154012d017501fe0001000a0000003602b4080100f800d500f900f200f500d3001a012201ef0008002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200c1fffa001000ebfe000065ff23000a00f0ff40002a09730a6007ffffd10001008703d3002300230008000a00",
+            "warnings": 23
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（……今日の僕のモヒカンは、\u0000\n　一体、どうなっているんだ？）\u0000\n　，　？に￣　…\u0000\n中之条あ、甘い……？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "ec00f20001008703d300fd0009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "そっ、甘いの！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "ec001b0123002300a508820b0100da07cb0a0f0d2300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "それ……多分、整髪料……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "090008000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "23002300d1000100060ae100ee0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "……あ、逃げた。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    }
+]

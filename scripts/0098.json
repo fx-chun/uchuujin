@@ -1,0 +1,912 @@
+[
+    {
+        "id": 0,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "230023001701e60002000a00e200e2000d01f600db005306fd0048013b014a01e90a1902ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "……よし。\u0000\nここまでが次のテスト範囲だ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 1,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "1101f0001c0122013808f902fd00aa064604f600e006ee00ef044f08cd037e0511010a00760cd008f700e600f500e006e800fd00f6003403d7001a011701d500fa0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "もちろん前回の授業で出た元素記号も\u0000\n問題として出すので覚えるように。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d700d7001b0009000000e2002201f900fd003403d70018011b010d01ea001b00220109000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "ええ―！　こんなの覚えられませ―ん！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "3304d0020107fd00990096005c011b003a012101e5041c0102000a00ef044f08cd037e05fe00e200e200fa003c08f5000107da001b01f500d3001a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "教科書の姶哀ペ―ジを見ろ。\u0000\n元素記号はここに全て書かれている。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "3403d7001301e800de00e8001a01ee001001fa0001000a00d402fa00e600f5003403d7001a01fd00110124016c01ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "覚えやすくするために、\u0000\n歌にして覚えるのもアリだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "3500e800d30007011b0019011b0008011b000b01de00fd000401fc0036000a00f200f5001301f300ef001701fc001b0002000a00",
+            "warnings": 2
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "すいへ―り―べ―ぼくのふね\u0000\nってやつだよね―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "ec00d500ef0002005d06820bfd003403d7001301e800d300d402fa00e600f5003403d7001c0102000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "そうだ。自分の覚えやすい歌にして覚えろ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 8,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2300230022010800000053055b0908000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "……ん？　校長？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "23002300d1000100d1001e011e01090009000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "……あ、あわわ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "f9000100f900fa00da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "な、なにか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "040123002300590b6e09fa00aa064604e600f5001a0109000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "ふ……普通に授業してる！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 13,
+        "internal": {
+            "speakerraw": "0fff",
+            "textraw": "d900d30001002c01450137017501fa00f9002201f500e200f700fa041e01ea00f5002201ef00170109000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "おい、オッサンになんてこと言わせてんだよ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "0dff",
+            "textraw": "f6000100f600110109000a00d90038081101ec00d5002b06d500ef001c0108000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "で、でも！\u0000\nお前もそう思うだろ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "0eff",
+            "textraw": "d100d1000100d300f3001101f70142050e01e600f5001a01e60001000a007a07e70018011b01f900d300f200f50009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "ああ、いつも悪巧みしてるし、\u0000\n信じられないって！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "0fff",
+            "textraw": "0d01d00001003203da00fa00ec00d500ef00db00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "まぁ、確かにそうだが弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "0fff",
+            "textraw": "f200f50001002c01450137017501090009000a00c502e4001b01ee001b001b001b001b00f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "って、オッサン！！\u0000\n何された――――っ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "3403d7001301e800d300d402da002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "覚えやすい歌か……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "0f0108000000d1000d011901520698031101470cd300f90002000a00f600fe001806f200ee0052069803f600ef044f08cd037e0521013403d700f5000e011c0102000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "む？　あまり時間も無いな。\u0000\nでは残った時間で元素記号を覚えてみろ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900e400f500f70001001806f200ee0052069803f6003806fe000a000000ec096802f900fd00fd00b70b3103d30bd50bf6001101230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（さてと、残った時間で私は\u0000\n　東雲なのの捕獲方法でも……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 21,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2000200020008e000a00",
+            "warnings": 1
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "〜〜〜\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900f9002201ef0008000000af0b2d04f900fd00fa000a0000007208e207db003e03e600ec00d500fa00e600f500d3001a0108002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（なんだ？　勉強なのに\u0000\n　相生が楽しそうにしている？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "29003602b408c50221010107d300f500d3001a0108000000ef044f08cd037e05ef001701f90008000a000000c502da007208e207fd00c403fa005c0a1a01c70c4f08db00d100f200ee00da0008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（一体何を書いている？　元素記号だよな？\u0000\n　何か相生の気に入る要素があったか？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fc00d700fc00d7000e01d900f000120122010200e2001b01e504f50002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "ねえねえみおちゃん。これ見て。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 26,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "220108000000230023002300230059015701450109000a00c5021301f200f5001a01fd0024017501410102000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "ん？　…………プフッ！\u0000\n何やってるのアンタ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "090008000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900f9000100c502db000107da001b01f500d3001a0108000a000000de00f2000100ff02e600d300db000100c403fa00f9001a01ed00230023002a000a00fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700c1ffc2001000ebfe0100adffffff65ff05000600f0ff1d002a09a2081208e207ffff2900c403fa00f9001a01f900230023000a0000001701e6000200f0001601f200f7007d0adc00fa006c05f200f5000e011a01da002a000a00",
+            "warnings": 17
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（な、何が書かれている？\u0000\n　くっ、悔しいが、気になるぞ……）\u0000\n．\u0000\n哀　・：；夷￣、・：中村先生（気になるな……\u0000\n　よし。ちょっと覗きに行ってみるか）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "23002300d100f2000100f000160101006601520126011501f200e20002000a00e800df003107e400f900d300f70009000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "……あっ、ちょ、ヤバイゆっこ。\u0000\nすぐ消さないと！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d700f20008000000d5001e01f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "えっ？　うわっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900c502f2000900080000003107e80008000000ec001b010a01f8000d01f600fa000a0000003806fa00e50418011b01f500fe0060013c0126011101fd00f900fd00da00090008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（何っ！？　消す？　それほどまでに\u0000\n　私に見られてはマズイものなのか！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "7208e20709000000e504ea001c0109000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "相生！　見せろ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "0900090009000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "！！！\u0000\n　？",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900060ae100ee00090008000000f700d300d500e200f700fe00d100fd0050011b004a01fa00fe000a0000003806fa00e50418011b011a01f700da00f90019010d01e900d300e200f700db00090008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（逃げた！？　ということはあのノ―トには\u0000\n　私に見られるとかなりまずいことが！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "060adb00e800da00f20009000000ba08f5007208e207090009000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "逃がすかっ！　待て相生！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fe00f2000100fe00f2000100fe00f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "はっ、はっ、はっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d100f20001001c010100590dc20221017e08f200f0001201ef00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "あっ、ろ、廊下を走っちゃだ弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d100f200230023006c05f200f0001201f200ee002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "あっ……行っちゃった……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "2300230023002300d10002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "…………あ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "fe00d0000100fe00d0000100fe00d000230023000a000d010100ba08f50001007208e2072300230009000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "はぁ、はぁ、はぁ……\u0000\nま、待て、相生……！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "930801009408e800dd0023002300d90001006b09d300f300e000f900d3002300230002000a0098ff0000effe020097fffdffedfffcff1aff04000000680010010a0016ffffff66ff30000000bfff06001000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff17000b00f0ff2f00ef0530021208e207ffff090008000000d700f200090008000000d700f2000900080000002a09a2081208e207090008000a00",
+            "warnings": 49
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "足、速すぎ……お、追いつけない……。\u0000\n　。．　め\u0000\n｝　：￣？　　，、　　悪ば\u0000\nば　？　｛桜井先生！？　えっ！？　えっ！？　中村先生！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffbf001000ebfe0100adffffff65ff19000600f0ff31002a09a2081208e207ffff2900c403fa00f9001a0123002300db0001000a000000f30018011b01f500e504fa006c05de00fd001101980def00f9002a000a00",
+            "warnings": 23
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，　？依￣、〆：中村先生（気になる……が、\u0000\n　つられて見に行くのも亶だな）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900e600da00e6003602d909c403fa00e600f500e6000d01d500f7000a000000e504ee00de00f500e504ee00de00f500ee000d011801f900de00f9001a01f900230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（しかし一度気にしてしまうと\u0000\n　見たくて見たくてたまらなくなるな……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "fc00d7001501f200e2000100e200e200fe001101f200f7000a00e200d500e600ee00d30bdb00d300d3002201e7001201f900d30008000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "ねえゆっこ、ここはもっと\u0000\nこうした方がいいんじゃない？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d900d90009000000fc0cfa070e01d9001208e20709000a00e400f200dc001701190111013c083b08170dde00f900f200ee00170102000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "おお！　流石みお先生！\u0000\nさっきよりも全然良くなったよ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "090008000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900f9000100c502ef0001003602b408c502db000a000000e400f200dc00170119011101170dde00f900f200ee002201ef0008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（な、何だ、一体何が\u0000\n　さっきよりも良くなったんだ？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900ec001b01fa00e400f200dc00fe00f8002201f900800bef00f200ee002201ef0008000a000000c403fa00f9001a01c403fa00f9001a01c403fa00f9001a01230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（それにさっきはどんな物だったんだ？\u0000\n　気になる気になる気になる……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900d100f2000100ba061e01f200ee00230023000a000000c704470450011b004a01fd002a099407fe00e50418011b01e900e7000d01d300da002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（あっ、終わった……\u0000\n　結局ノ―トの中身は見られずじまいか）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "29002300230023002300d1000100ec00d500ef002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（…………あ、そうだ）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "e2001b01f600aa064604fe00ba061e011a0102000a00d100f700010050011b004a0121019509e006e8001a011701d500fa0002000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "これで授業は終わる。\u0000\nあと、ノ―トを提出するように。\u0000\n　；",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "0401040104010100ec02f900db0018010a004f08dc071801e600d300d30bd50b21012b06d300f300d300ee001101fd00ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "ふふふ、我ながら\u0000\n素晴らしい方法を思いついたものだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "e2001b01f9001801f308fa001101e50418011b011a01e200f700f900de0001000a00d300de001801f60011017208e207fd0050011b004a01fd002a0994072101e50418011b011a01ed0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "これなら誰にも見られることなく、\u0000\nいくらでも相生のノ―トの中身を見られるぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "e400f50001007208e207fd0050011b004a01fa00fe003602b408c502db000107da001b01f5002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "さて、相生のノ―トには一体何が書かれて……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "3107e4001b01f5001a0109000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffc0001000ebfe0100adffffff65ff29000600f0ff41002a09a2081208e207ffff29001701e6000200e4001901e100f900de0001000a0000009b02de00da00180150011b004a0121017d0ad300f50013011a012a000a0098ff0000effe070097ff",
+            "warnings": 26
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "消されてる！\u0000\n　\u0000\n　？偉￣、（：中村先生（よし。さりげなく、\u0000\n　遠くからノ―トを覗いてやる）\u0000\n　；",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "8e0020008e0020008e0020000a00",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "〜〜〜\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f600e4000100e2002201f9007803e700e7001201f900d300da00f90008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "でさ、こんな感じじゃないかな？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "d100fe00fe00fe00fe0002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "あはははは。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900e200e200da00180150011b004a0121012300230009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（ここからノ―トを……！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "29004b06f500fc001b001b001b001b00090009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（似てね――――！！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900f700fa04d500da00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（と言うか……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "id": 0,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "0401d50001001701de003403d700f500d90018012201db0001000a0099055a0a1101cc067406e600ee0093005a0aef00f200ee00c403db00e8001a01fd00d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "ふう、よく覚えておらんが、\u0000\n今日も充実した唖日だった気がするのう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 1,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "23002300e400f5000100ec001c01ec001c01c2031a01f700e8001a01da00fd0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "……さて、そろそろ帰るとするかの。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "23002300220108000a00d100fd00ee076b0a23002300e2002201f900fa06f6002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "……ん？\u0000\nあの青年……こんな所で……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "e2002201f900fa06f60075074a06f700fe00ec02f900db001801470ce405d50bef00db00230023000a001c07780bdb007304d300f500fe00c203d608fe00f600dc002201f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "こんな所で食事とは我ながら無作法だが……\u0000\n小腹が空いては帰宅はできんな。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "230023000f01080000004c0126015701fd0004081b01350cdb00f701d300f90002000a0099055a0a0100bd051f05fd003602100cdb00d100f200ee00fe00e9000100be08d700f500de001b0102000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……む？　ナイフの切れ味が悪いな。\u0000\n今日、最後の一本があったはず、替えてくれ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "6b064a06",
+            "textraw": "fe00d3000100e200f0001801210102000a00",
+            "warnings": 0
+        },
+        "speaker": "執事",
+        "speaker_translation": "",
+        "text": "はい、こちらを。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d5000f0102000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "うむ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d900f200f70001004c01260157012101de0cf700e600f500e6000d01f200ee00da0002000a00230023001d071800db00f200f300dc00e800dd00ee001701d500ef0002000a00",
+            "warnings": 1
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "おっと、ナイフを落としてしまったか。\u0000\n……少がっつきすぎたようだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 8,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "3302f000e3071901fd0095068606f9001801ff001906d30bf900d300e200f700f600e6001601d50002000a00230023000a01180101004c0126015701fa000d07fe00d10019010d01ea002201ed0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "育ち盛りの若者ならば仕方ないことでしょう。\u0000\n……ほら、ナイフに傷はありませんぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d900d9000100e2001b01fe00e2001b01fe00da00ee00e700e000f900d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "おお、これはこれはかたじけない。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "f9002201fd00f9002201fd000100e200fd009a09d909fd00e200f700fe0002000a0023002300ec001b01170119011d07e60002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "なんのなんの、この程度のことは。\u0000\n……それより少し。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0f010f0108000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "むむ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "e2001b01f600dc001b01d300fa00f90019010d01e600ee00ed0002000a00d900ac0be600e6000d01e6001601d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "これできれいになりましたぞ。\u0000\nお返ししましょう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 13,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "4c012601570121012008f200f5005c09e0001a01f700fe00230023000a00d30013010100e2001b01fe009d0c4f0ad3000200c502f700370d2101fa04d700ff00170dd300da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "ナイフを洗って頂けるとは……\u0000\nいや、これは有難い。何と礼を言えば良いか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "d300d700d300d7000200d900c403fa00f900e4001801e900fa000200ec001b01f600fe00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "いえいえ。お気になさらずに。それでは弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "7a07e70018011b01f900d30009000000c5021301f200f5002201fd001701f105f00409000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "信じられない！　何やってんのよ笹原！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300c502f700fa041e011b01f500110101003806fe00e200fd0020059a07fa000a004c01260157012101b606f200f50011011801f200f500d300ee00fd00ef00db0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……何と言われても、私はこの御仁に\u0000\nナイフを拾ってもらっていたのだが。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "ec001b01df001801d3001209f200f5001a011e01170109000a002008f200f50011011801f200ee00e200f7000d01f6001209f200f5001a011e01170109000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "それぐらい知ってるわよ！\u0000\n洗ってもらったことまで知ってるわよ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "f9001801ff000100f900eb00fa002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "ならば、なぜに……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "3806fe00ee00ef000100d900370d1101470ce600f600c203e800f9002201f5000a001509e900da00e600de00f900d300fd00da00f200f5008f0bd300f5002201fd0009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "私はただ、お礼も無しで帰すなんて\u0000\n恥ずかしくないのかって聞いてんの！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0900000023002300ec00fd00f700d9001901ef00f70cdc020e01e400f70017010200af03d500de000a00f105f004ce025b090f09f700e600f500fd00500cdb008d0a1a01f700e2001c01f600d100f200ee0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "！　……そのとおりだ立花みさとよ。危うく\u0000\n笹原家長男としての名が廃るところであった。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 21,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "20059a0701008907e600870cf900d300db00ea001001f5001101fd00370df700e600f50001000a002709fd003602910af60011014d0bdc007f05f200f5005c09e000f900d300ef001c01d500da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "御仁、申し訳ないがせめてもの礼として、\u0000\n茶の一杯でも付き合って頂けないだろうか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "04010f0123002300e200e200f6000b091a01fd00fe00d100f900ee00f70001000a00ec00e200fd00950ce600d3004e0ce4002201fa00f701d300f600e800f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "ふむ……ここで断るのはあなたと、\u0000\nそこの優しい娘さんに悪いですな。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "a20bfa0001003806fe00950ce600de00f9002201da002300230009000a00ee00ef000100d9006b0ab50319012101cd080408fa00e600f500d3001a01ef00e000170109000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "別に、私は優しくなんか……！\u0000\nただ、お年寄りを大切にしているだけよ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "d1001901db00f700d5004e0ce400220102000a00d100f900ee00fe00dc00f200f700170ddc00c20bfa00f9001b011a01f600e6001601d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "ありがとう娘さん。\u0000\nあなたはきっと良き母になれるでしょう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "f900f900f900f900f900f900f900090008000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "ななななななな！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 26,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "f9000100c502fa04f200f5001a01fd001701090009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "な、何言ってるのよ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "f3081101f105f004f700370157012301260124019d050d01f600ba04d700ee00d300f9002201f5000a002b06f200f500f900d3002201ef00da0018011b00f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "誰も笹原とサファイア婚まで迎えたいなんて\u0000\n思ってないんだから―っ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "f105f00454003a01290175014a016d0160017501",
+            "textraw": "2300230023002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原＆ジェントルマン",
+        "speaker_translation": "",
+        "text": "……………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "07078007fe004f0ae600d300f600e800fd00d90002000a00230023000d011a01f6001e01e600fd00c005fd001701d500e700120102000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "女心は難しいですのお。\u0000\n……まるでわしの妻のようじゃ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0a01d50008000000c202ce076f0df900db0018011101ec001b01fe003b04350c8807d30002000a0020059a07db0017011c01e600e0001b01ff000100ec00fd006f0d800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "ほう？　下世話ながらもそれは興味深い。\u0000\n御仁がよろしければ、その話弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "d700d70002000a00d9002709eb07e000cb081e011901fa00d9006f0de600e6000d01e6001601d500da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "ええ。\u0000\nお茶請け代わりにお話ししましょうか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    }
+]

@@ -1,0 +1,639 @@
+[
+    {
+        "id": 0,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "ee00ef00d3000d011b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "ただいま―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 1,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "d10020000100d900780bf404f200ee00200002000a0099055a0afd00d9002f09e300ed0ac502da00f900200002000a00fdffedfffcfffcffedffc1ffffff1000c8ffffffffff10001fff0300000000020000c0ff03003001ff001aff0300000078ff00001e001fff0400000000020000c0ff04003201ff001aff04000000680000001e0016ffffffdaffedffc8ff300132011000adff0a00aeff03008000aeff04008000ebfe000064ffffff0e00f0ff020052014901250154003501520149012501ffff230023002300230002000a00",
+            "warnings": 34
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "あ〜、お腹減った〜。\u0000\n今日のお昼ご飯何かな〜。\u0000\n￣￣，　斡　，ギば，　　／．　斡　．グば．　　／ギグ￣\u0000\n，．　。バディ＆コバディ…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "520149012501010035015201490125010100ee00ef00d3000d0102000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "バディ、コバディ、ただいま。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "23002300d1000100ec00d500ef00f200ee00f90002000a00c203f200f500dc00ee0018010a06b80bfa006c05de00850c9108ef00f200e00002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "……あ、そうだったな。\u0000\n帰ってきたら散歩に行く約束だっけ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "d900780bf404f200ee00e000f80023002300d300d300130102000a001208fa000a06b80bfa006c05de00da0009000a00fdffedfffcffedffc1ffffff100066ff18000000daff66ff7e000000edffc8ff300132011000adff0a00ebfe000064ffffff0e00f0ff060052014901250154003501520149012501ffff09000a00fdffedfffcfffcff67ff120066ff200000001aff0300000000fe00001e001aff0400000078ff00001e0016ffffff1aff0400000000fe00001e00daffedffc1ffffff1000e8fe0200ebfe000064ffffff1700f0ff0700dc001701e600ffff090008000a0098ff0000effe060097ff",
+            "warnings": 49
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "お腹減ったけど……いいや。\u0000\n先に散歩に行くか！\u0000\n￣　　ギグ￣\u0000\n　：バディ＆コバディ！\u0000\n〜　，　　／．　　／．　　／￣。　；きよし！？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 8,
+        "internal": {
+            "speakerraw": "07ff",
+            "textraw": "d5001e01f2000100f900f9000100f9002201ef00090008000a00de04db000f079c06fa007e081901e006e600ee00ed00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "うわっ、なな、なんだ！？\u0000\n犬が勝手に走り出したぞ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "08ff",
+            "textraw": "c5021301f200f5002201ef0009000a006908de00de042101330610011a012201ef0009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "何やってんだ！\u0000\n早く犬を止めるんだ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "07ff",
+            "textraw": "d9000100bc020100c1030703c1021809f9002201ef00f200f50009000a00f800f8000100f800fd005e01410175012101a702ea00ff00d300d3002201ef0008000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "お、俺、機械音痴なんだって！\u0000\nどど、どのボタンを押せばいいんだ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "08ff",
+            "textraw": "d100f2000100ba08f500090000001e01da001801f900d300da001801f200f5000a0048012f014a011b00fa005e01410175012101a702e8002201e7001201800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "あっ、待て！　わからないからって\u0000\nテキト―にボタンを押すんじゃ弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "07ff540008ff",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "＆",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 13,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "520101005201490125010900080000003501520149012501090008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "バ、バディ！？　コバディ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "2300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "……………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "0d01ee0023002300f900fd00da0008000a000a06b80bfd00850c9108db00d1001a01fd00fa000100d9003808ee00f000fe000d01ee002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "また……なのか？\u0000\n散歩の約束があるのに、お前たちはまた……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "0d01ee0001001e01e0001e01da001801f900d300e200f70021010a00e600fa006c05f200f500e6000d01d500fd00da00090009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "また、わけわからないことを\u0000\nしに行ってしまうのか！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "d10023002300d900e700d300f00012012201230023000a008f0bd300f50017010100520149012501ee00f000db002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "あ……おじいちゃん……\u0000\n聞いてよ、バディたちが……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "520149012501ee00f000db00010cf700fd000a06b80bfd00850c91082101d20bf200f5000a00f800e200da00fa006c05f200f0001201f200ee002201ef002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "バディたちが僕との散歩の約束を放って\u0000\nどこかに行っちゃったんだ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 21,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "dc001701e60013012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "きよしや……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "f9000100f900fa0008000000d900e700d300f000120122012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "な、なに？　おじいちゃん……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "7a07e700f900e400d30002000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "信じなさい。\u0000\n　；",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "d700f20008000a00d900e700d300f000120122012300230008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "えっ？\u0000\nおじいちゃん……？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "230023007a07e700f900e400d30008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "……信じなさい？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 26,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "f9000100c50221012300230008000a00fdff7fff040002ff01ff",
+            "warnings": 4
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "な、何を……？\u0000\n．",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "7a07e7001c01f200f50001003602b408c50221017a07e7001b01ff002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "信じろって、一体何を信じれば……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "51014501090008000000ec000100ec00d500da0009000a00520149012501ee00f00021017a07e7001c01f700d300d500e200f700ef00fc0009000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "ハッ！？　そ、そうか！\u0000\nバディたちを信じろということだね！\u0000\n　？",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "3203da00fa00520149012501ee00f000fe00e200fd00380801000a00f9002201da001701de001e01da001801f900d300e200f7002101e600f500ee00e000f8002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "確かにバディたちはこの前、\u0000\nなんかよくわからないことをしてたけど……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "f6001101010099055a0afe00dc00f200f7002d02d5001701fc0009000a0098ff0000effe090097ff",
+            "warnings": 3
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "でも、今日はきっと違うよね！\u0000\n　！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "dc00f200f7000100e800df006c05da00f900d300f700d300e000f900d3001701d500f900230023000a00f900fa00da00cd084a06f900c10cf9002201ef000200ec00d5007a07e7001701d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "きっと、すぐ行かないといけないような……\u0000\nなにか大事な用なんだ。そう信じよう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "ef00f200f5000100010cfe00520149012501ee00f000fd004806d3009906e7001201f900d300da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "だって、僕はバディたちの飼い主じゃないか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "ef00da001801ec00d5000100520149012501ee00f000fa00fe000a00f900fa00da00cd084a06f900c10cdb00d1001a01f200f5007a07e700f5002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "だからそう、バディたちには\u0000\nなにか大事な用があるって信じて……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "7a07e700f5002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "信じて……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "7a07e7001b01fc001b0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ff65011000ebfe000065ff0f001700f0ff2500dc001701e600ffff7a07e7001c01f200f500230023001101e600da00e600f5000100d900e700d300f00012012201db000a00520149012501ee00f0002101f908e600f500dc00f500de001b011a01f200f500e200f70008000a00",
+            "warnings": 25
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "信じれね―。\u0000\n　，　？ャ￣　きよし信じろって……もしかして、おじいちゃんが\u0000\nバディたちを探してきてくれるってこと？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "23002300f60011010100f9002201ef001c01d50002000a00e400f200dc00da001801d504f90039048308dd00db00e8001a012201ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "……でも、なんだろう。\u0000\nさっきから嫌な胸騒ぎがするんだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "c502da000100cd080408f900c502da002101ee0b1b01f500d3001a011701d500f900230023000a00d900e700d300f00012012201fa00c109d700f900e0001b01ff00d300e000f900d3001701d500f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "何か、大切な何かを忘れているような……\u0000\nおじいちゃんに伝えなければいけないような。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "fe00f20001001101e600da00e600f50001000a00d900e700d300f00012012201fd009407fa00c502da00db00cf03dc001a012201e700120108000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "はっ、もしかして、\u0000\nおじいちゃんの身に何かが起きるんじゃ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "23002300cd0854074f0bef001701fc000200d900e700d300f00012012201f90018010a00470c4a06fa00520149012501ee00f0002101e504f300e000f500dc00f500de001b011a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "……大丈夫だよね。おじいちゃんなら\u0000\n無事にバディたちを見つけてきてくれる。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "ec001b01fa0001001101e600c502da00d100f200ee00f700e600f500110101000a00a404b908f6004e0ddd0ce600f500de001b011a01ef001c01d500e6002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "それに、もし何かあったとしても、\u0000\n携帯で連絡してくれるだろうし……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "23002300d5001b00220102000a001301f2000001190139048308dd00db00e8001a012201ef001701f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "……う―ん。\u0000\nやっぱり胸騒ぎがするんだよな。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "f60011010100cd0854074f0bfd00fe00e90009000a00c502da00d1001b01ff00a404b908f600800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "でも、大丈夫のはず！\u0000\n何かあれば携帯で弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "23002300d1001b0108000000e400f200dc00da00180139048308dd00f7003602ff06fa0001000a00f800d500e600f500a404b908db00c403fa00f9001a012201ef001c01d50008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "……あれ？　さっきから胸騒ぎと一緒に、\u0000\nどうして携帯が気になるんだろう？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "d900e700d300f000120122010100a404b908ee0b1b01f5001a01170109000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe16000400c1ff64011000ebfe000065ff1b001700f0ff3100dc001701e600ffff7a07e7001c01f200f500230023000a00d900e700d300f0001201220121017a07e7001c01f200f500e200f700da00f90008000a00",
+            "warnings": 24
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "おじいちゃん、携帯忘れてるよ！\u0000\n　\u0000\n　？．モ￣　―きよし信じろって……\u0000\nおじいちゃんを信じろってことかな？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "f6001101d900e700d300f0001201220101000a00f800f200da00fa006c05f200f0001201f200ee00e6002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "でもおじいちゃん、\u0000\nどっかに行っちゃったし……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "1101e600da00e600f500520149012501ee00f00021016408e600fa000a006c05f200f500de001b01ee00fd00da00f90008000000ef00f200ee001801010c1101800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "もしかしてバディたちを捜しに\u0000\n行ってくれたのかな？　だったら僕も弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    }
+]

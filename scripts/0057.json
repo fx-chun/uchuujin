@@ -1,0 +1,886 @@
+[
+    {
+        "id": 0,
+        "internal": {
+            "speakerraw": "1208e207",
+            "textraw": "17011b00e6000100ba061e01f200ee001301f300da001801c203f200f500d300d300da001801f90002000a009803fa007f051e01f900da00f200ee001301f300fe000f0418061901ef001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "先生",
+        "speaker_translation": "",
+        "text": "よ―し、終わったやつから帰っていいからな。\u0000\n間に合わなかったやつは居残りだ―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 1,
+        "internal": {
+            "speakerraw": "1208e207",
+            "textraw": "d300de00ed001b0002000a0017011b00d300230023003b0141011b004a0109000a00",
+            "warnings": 0
+        },
+        "speaker": "先生",
+        "speaker_translation": "",
+        "text": "いくぞ―。\u0000\nよ―い……スタ―ト！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "290060016b013f017501f700fe00e800f9001e01f00001000a0000005106f7031d0d21010709d7001a01ee001001fa006c05d5001101fd002a000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "（マラソンとはすなわち、\u0000\n　持久力を鍛えるために行うもの）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "2900e600da00e60001003806fd009308f700d300d700ff0035013a016f0128012a000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "（しかし、私の足といえばコジロウ）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "2900e800f9001e01f0000100e200fd002506fa00fe00c502fd00760cd0081101470cd30009002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "（すなわち、この姿には何の問題も無い！）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300d900130108000a00c502da0001007e08f200f500dc00f500d3001a011701d500ef00db002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……おや？\u0000\n何か、走ってきているようだが……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d1001b01fe0023002300f9002201f7000100de04da00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "あれは……なんと、犬か！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "35013a016f012801",
+            "textraw": "09000a00",
+            "warnings": 0
+        },
+        "speaker": "コジロウ",
+        "speaker_translation": "",
+        "text": "！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 8,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0f01f200010035013a016f01280109000a00f800d500e600ee000100de0cf0002909e00035013a016f01280109000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "むっ、コジロウ！\u0000\nどうした、落ち着けコジロウ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "35013a016f01280109000a000d01e400da00ce03bd0c23002300d100fd00de04fa002f04d700f500d3001a01fd00da0009000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "コジロウ！\u0000\nまさか貴様……あの犬に怯えているのか！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300d3001301010035013a016f012801fd00c4035106f00011011e01da001a0102000a00d100fd00de04da0018019e075d07f9001801e5001a01c403970a23002300c502800bef0008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……いや、コジロウの気持ちもわかる。\u0000\nあの犬から尋常ならざる気配……何物だ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "0bff",
+            "textraw": "d9000100d900d300010041011b00340145014a01db00060ae1001a01ed0009000a00de042101330610011a012201ef0009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "お、おい、タ―ゲットが逃げるぞ！\u0000\n犬を止めるんだ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "0cff",
+            "textraw": "42016301ef000100470ced0c2101e400ea00e800dd00ee002201ef0009000a00d3072005db00e80cda00f900d30009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "ダメだ、無理をさせすぎたんだ！\u0000\n制御が利かない！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 13,
+        "internal": {
+            "speakerraw": "0bff",
+            "textraw": "e6000100620c0e01fa002b0af20096050f01ed00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "し、茂みに突っ込むぞ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "0cff",
+            "textraw": "de00ec00f200010033060d011b0109000a0033060d011b011b001b001b00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "くそっ、止まれ！\u0000\n止まれ―――！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "0bff54000cff",
+            "textraw": "33060d011801f900da00f200ee001b00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "＆",
+        "speaker_translation": "",
+        "text": "止まらなかった―！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "24016e01fe0023002300e400f200dc00fd006106f600fe00f900d300da0002000a00e200f000180107013805da00f200f500dc00f500d3001a011701d500ef00db002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "アレは……さっきの鹿ではないか。\u0000\nこちらへ向かってきているようだが……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "23002300090009000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "……！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "35013a016f012801",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "コジロウ",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "230023001301fe001901f90002000a0012088705fd001908d300f600fe00ba061e01f200f500d300f900da00f200ee00fd00da002300230002000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……やはりな。\u0000\n先刻の戦いでは終わっていなかったのか……。\u0000\n　？",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "35013a016f01280101003806fa009b02060dfe00470cc10cef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "コジロウ、私に遠慮は無用だ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 21,
+        "internal": {
+            "speakerraw": "35013a016f012801",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "コジロウ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speakerraw": "35013a016f012801",
+            "textraw": "23002300090009000a00",
+            "warnings": 0
+        },
+        "speaker": "コジロウ",
+        "speaker_translation": "",
+        "text": "……！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "090009000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0d01ee00da000501d300ee004a06fa00f900f200f500dc00d900f200ee0002000a001301fe0019013806fd00b0061902fa00fe00e200d500e600ee00e006d80c4a06db00800d800d0f0108000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "またかぶいた事になってきおった。\u0000\nやはり私の周囲にはこうした出来事が弌弌む？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d1001b01fe006106fd00940afa00d300ee00230023000a00d100fd005206fe00d300f300fd009803fa00130118010e04f200f500d3001701d500ef00db0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "あれは鹿の背にいた……\u0000\nあの時はいつの間にやら去っていようだが。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 26,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0d01d1000100e4001701d500f900a9054a06fe00170dda001c01d50002000a00fa0adb0911010d01ee009504dc004a06fa009806da001b011a018606f700d300d500e200f700ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "まあ、さような些事は良かろう。\u0000\n彼奴もまた傾き事に惹かれる者ということだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "e4001b001b00e4001b001b001b00fe001b001b001b001b0018011b001b001b001b001b000900090009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "さ――さ―――は――――ら―――――！！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0f010100ec00fd00e607fe00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "む、その声は！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "fb00d400f200090008000a00f70cdc020e01e400f700fe001e01da001a01db0023002300c5020805fa0033040a0adb0008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "ぬぅっ！？\u0000\n立花みさとはわかるが……何故に教頭が？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "f800d500d300d5004a06f900fd00ef002300230008000a00fdff7fff040002ff01ff",
+            "warnings": 4
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "どういう事なのだ……？\u0000\n．",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "ec00d500da0023002300510a9907f70011010f07610b21014b090e01fa00d80cee00da0009000a0098ff0000eefe02000400effe090097ff",
+            "warnings": 4
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "そうか……二人とも勝負を挑みに来たか！\u0000\n　。．！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "35013a016f012801090000006c05de00ed00090009000a003806db00af0821019a061a010100ce03bd0cfe003c081d0df6007e081a01db00d300d300090009000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "コジロウ！　行くぞ！！\u0000\n私が舵を取る、貴様は全力で走るがいい！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "35013a016f012801",
+            "textraw": "090009000a00",
+            "warnings": 0
+        },
+        "speaker": "コジロウ",
+        "speaker_translation": "",
+        "text": "！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "510126016a011b000900000035013a016f011b002801090009000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "ハイヨ―！　コジロ―ウ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "fe0001009408d300f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "は、速いっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "6601010066013001f900fd00fa0023002300090008000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "ヤ、ヤギなのに……！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "04078b040900000035013a016f0128012101ee00ef00fd0066013001f700660b1a01f900da001b0109000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "諸君！　コジロウをただのヤギと侮るなかれ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "35013a016f012801fe00f105f004ce025b090f09f600d1001a013806fd00f001d30309000a00f9001b01ff006106fa00f900f800610be000fe00ea002201090009000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "コジロウは笹原家長男である私の愛騎！\u0000\nなれば鹿になど負けはせん！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "fe00fe00fe00fe00fe00f20009000000ec001b01f600fe000100e4001801ff00ef00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "はははははっ！　それでは、さらばだ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "230023000d010100610be000ee0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffe6001000ebfe000065ff11000800f0ff2b00f105f004ffff23002300ec00d500da0002000a001908fd00470c1f02350ce40021010c08dc00fa00d80cee00fd00ef00f90002000a0098ff0000effe0700eefe1100040097ff",
+            "warnings": 27
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "……ま、負けた。\u0000\n　，　？し￣　？笹原……そうか。\u0000\n戦の無意味さを説きに来たのだな。\u0000\n　；．",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300f9001a010a01f8000100ec00d500e5041b01ff000a00d100fd00510a9907fd00240b3406fd009d047208fa0011017f05c009db00d300de0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……なるほど、そう見れば\u0000\nあの二人の必死の形相にも合点がいく。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "1701e6000100e200e200fe004f086009fa0033060d011a01f700e6001701d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "よし、ここは素直に止まるとしよう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "f105f004230109000000d1002201ee00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "笹原ァ！　あんた弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "e8000d012201f9000100f70cdc020e01e400f70002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "すまんな、立花みさと。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "d7002300230008000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "え……？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "6106f700fd001908d300db00470c1f02350cf600d1001a01f7000a000c08dc00fa00d80cee00fd00f600d1001c01d50008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "鹿との戦いが無意味であると\u0000\n説きに来たのであろう？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0d01f200ee00de00ec00fd006e091901ef0002000a002d098805010078038706e8001a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "まったくその通りだ。\u0000\n忠告、感謝する。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "f00001002d02d500230023002d02d500e000f80002000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "ち、違う……違うけど。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "24010100240175014101db000a0ac202e100ee00da00180101000a0099055a0afe002d0175015b017501e600f500d100e1001a012201ef00da00180102000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "ア、アンタが頭下げたから、\u0000\n今日はカンベンしてあげるんだから。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "ec00d500da0002000a0023002300e600da00e6000100c5020805f70cdc020e01e400f700db00e200e200fa0008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "そうか。\u0000\n……しかし、何故立花みさとがここに？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "ee00e600da0007072606fe00b40833029d03fd00aa064604f600d100f200ee00f7000a00cd03b702e600f500d3001a01fd00ef00db0002000a0098ff0000effe0800eefe0300040097ff",
+            "warnings": 4
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "たしか女子は体育館の授業であったと\u0000\n記憶しているのだが。\u0000\n　？，．",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "f200200020002000200009000900090009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "っ〜〜〜〜！！！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "ee000100ee000d01ee000d01240175014101fd002506db000a00e504d700ee00ef00e000f9002201ef00da0018010900090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffe6001000ebfe000065ff1f000800f0ff3900f105f004ffff23002300f7001901ee00f500c403fa00e8001a01240bc70c1101470cd300da0002000a009905fe00e200fd001908fd006c05d30b2101e5042d0ae000fc00ff0002000a00",
+            "warnings": 22
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "た、たまたまアンタの姿が\u0000\n見えただけなんだから！！！\u0000\n　，　？し￣　？笹原……とりたて気にする必要も無いか。\u0000\n今はこの戦の行方を見届けねば。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "35013a016f0128010100610be0001a01f900170102000a00e2001b01db009906f700e600f500e006d80c1a01930c3602fd00510c2f0def0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "コジロウ、負けるなよ。\u0000\nこれが主として出来る唯一の命令だ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "35013a016f012801",
+            "textraw": "23002300090009000a00",
+            "warnings": 0
+        },
+        "speaker": "コジロウ",
+        "speaker_translation": "",
+        "text": "……！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "f0001601f2000100f105f00409000a0024017501410133060d012201f900e400d300170109000000e400e400fe0018011b001b001b00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "ちょっ、笹原！\u0000\nアンタ止まんなさいよ！　ささはら―――！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "1701de001301f200ee00ed0035013a016f01280102000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "よくやったぞコジロウ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "210afa00bd051f05fd000406cd06b006fe004f08dc071801e600da00f200ee00ed0002000a00170111011301d100ec00e200f6003b0153011b004a012101da00e0001a01f700fe00f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "特に最後の三十周は素晴らしかったぞ。\u0000\nよもやあそこでスパ―トをかけるとはな。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "e2001b01f600d100fd00610611019e0910011a01e200f700ef001c01d50002000a00e400f5000100aa0646041101ba061e01f200ee00e200f700ef00010033046e06fa00730c1a01da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "これであの鹿も諦めることだろう。\u0000\nさて、授業も終わったことだ、教室に戻るか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0f0108000a00f70cdc020e01e400f7000100f800d500e600ee00fd00ef0008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "む？\u0000\n立花みさと、どうしたのだ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d9001301010033040a0a110102000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "おや、教頭も。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "2300230004010f0101001301fe00190199079803fd009308f600fe000a0035013a016f012801f7006106fa00fe00f300d300f5006c05e000f900da00f200ee00da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……ふむ、やはり人間の足では\u0000\nコジロウと鹿にはついて行けなかったか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "800d800de600da00e6000100510a9907f70011017406fa00aa034709f200f500d300ee0002000a003806fe00e504f500d300ee00ed0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "弌弌しかし、二人とも実に頑張っていた。\u0000\n私は見ていたぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "510a9907f70011011501f200de001901f9030f01db00d300d30002000a00ec001b01f600fe000100e300dc00e10022011701d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "二人ともゆっくり休むがいい。\u0000\nそれでは、ごきげんよう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "230023002300230002000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    }
+]

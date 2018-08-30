@@ -1,0 +1,886 @@
+[
+    {
+        "id": 0,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "e200e2002d0157012901fa00f900f200ee002201ef001b0002000a0007011b000100e000f200e200d5002c01390165016e01e7001201f900d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "ここカフェになったんだ―。\u0000\nへ―、けっこうオシャレじゃない。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 1,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d3001801f200e6001201d3000d01ea001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "いらっしゃいませ―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d1001b0101004a04a20808000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "あれ、玉村？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d70008000000d10001005b09800cf004e400220108000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "え？　あ、長野原さん？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "b3037604ef00fc001b0002004a04a20801000a00e200e200f600520126014a01e600f500ee002201ef001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "奇遇だね―。玉村、\u0000\nここでバイトしてたんだ―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d700d70001000a01f7002201f8001c0c5a0a1301f200f5000d01e800170102000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "ええ、ほとんど毎日やってますよ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "ec00d500f9002201ef000200d10001001e01ee00e6002d01590143011b005001fd004a011b006d01fa000a0024011b00640175014b0139016f01450159015c0a1b01f500fc001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "そうなんだ。あ、わたしカプチ―ノのト―ルに\u0000\nア―モンドシロップ入れてね―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "fe001b00d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "は―い。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 8,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d900ba08ee00ea00d300ee00e6000d01e600ee001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "お待たせいたしました―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d1001901db00f7001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "ありがと―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "230023000a01f7002201f8001c0c5a0af200f500fa04f200f500d300ee00e000f80001000a00e2002201f90052069803da001801520126014a01e600f500f500f5081602cd0854074f0bf900fd0008000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "……ほとんど毎日って言っていたけど、\u0000\nこんな時間からバイトしてて単位大丈夫なの？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d700d7000100ec00e200fe0002000a00ec001b01fa0099055a0afe00210aa20bf9002201f600e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "ええ、そこは。\u0000\nそれに今日は特別なんです。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "100cf609fe003602fc046e0cfa00d100f200ee002201f600e800e000f80001000a001208e207fd00d4097f05f600f9036e05fa00f900f200f0001201f200ee002201f60002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "本当は一限目にあったんですけど、\u0000\n先生の都合で休講になっちゃったんで。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 13,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "fe00f200090008000a00ec00d500ef000100380611013c03530507016c05da00fc00ff00f90018012201fd00ef0009000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "はっ！？\u0000\nそうだ、私も学校へ行かねばならんのだ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "f900fd00fa000100f900eb000d01f200ee001901f7000a002d0157012901f600de00f3001c01d300f600d300ee00fd00ef001c01d50008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "なのに、なぜまったりと\u0000\nカフェでくつろいでいたのだろう？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "3806fd00e207cc09ee00f000db00ba08f200f500d3001a0109000a00e800df00fa003c03530507016c05da00f900e0001b01ff001b001b001b001b00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "私の生徒たちが待っている！\u0000\nすぐに学校へ行かなければ――――！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "09ff",
+            "textraw": "42016301f600e80009000000d30720054c0b790a09000a00e200f0001801fd002c065a062101a706e0004d0be0000d01ea00220109000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "ダメです！　制御不能！\u0000\nこちらの指示を受け付けません！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "08ff",
+            "textraw": "d700d700d3000100bc02fa00cb081e011b0109000a00e200d5001301f200f500e0061d0d21015307e100f5002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "ええい、俺に代われ！\u0000\nこうやって出力を上げて……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "07ff",
+            "textraw": "13010100130110011c0109000a00470c2709e8001a01f700610bdf02db00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "や、やめろ！\u0000\n無茶すると負荷が弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "07ff540009ff",
+            "textraw": "d100d100d100d1001b001b001b00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "＆",
+        "speaker_translation": "",
+        "text": "ああああ―――！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d1000100ec00d500f9002201ef0002003806110199055a0afe00510afc046e0cfa00d1001a01fd0002000a00f9036e05ef00f200ee001801170dda00f200ee00fd00fa00200002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "あ、そうなんだ。私も今日は二限目にあるの。\u0000\n休講だったら良かったのに〜。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 21,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d1001b000100ec00d500f9002201ef0002000a00510afc046e0cfa00e0061a01800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "あ―、そうなんだ。\u0000\n二限目に出る弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "800d800dd7000100510afc04090008000a00ef00f200ee00180101001101d5006c05da00f900d300f7000d01e900d3002201e700120108000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "弌弌え、二限！？\u0000\nだったら、もう行かないとまずいんじゃ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d100190112010100100cf609ef000200d100fe00fe00fe00fe0002000a00230023000401d4000100180b350ce600d300fc001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "ありゃ、本当だ。あはははは。\u0000\n……ふぅ、美味しいね―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "de00f3001c01d300f6001a015a077f05e7001201f900d300f600e800170109000a0098ff0000effe030097fffdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe05000600070067ffffffc1ff69011000ebfe000065ff04001800f0ff19000e01d9002406ffff23002300d70008000a00",
+            "warnings": 20
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "くつろいでる場合じゃないですよ！\u0000\n　，．\u0000\n哀　・：；ョ￣　．〆みお姉……え？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 26,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "ec00d500ef0017010900000038060100f900fa00de00f3001c01d300f6001a01fd0009000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "そうだよ！　私、なにくつろいでるの！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "ec00d50001006908de00cd083c03fa00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "そう、早く大学に弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "6908de00f900fd00f0001201220121016408e400f900d300f70009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "早くなのちゃんを捜さないと！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "800d800dd700d700f20008000a00cd083c03e7001201f900de00f50023002300f900fd00f0001201220108000000f200f500f30808000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "弌弌ええっ？\u0000\n大学じゃなくて……なのちゃん？　って誰？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "e7001201d100fc0001004a04a20801003806d300de00170109000a00f900fd00f000120122010100ba08f200f500f500fc0009000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "じゃあね、玉村、私いくよ！\u0000\nなのちゃん、待っててね！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d1000100fe000100fe00d3002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "あ、は、はい……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "23002300ef000100cd083c03fe0008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffedffc1ffffff1000c1ff86011000ebfe000065ff0d001d00f0ff22004a04a208ffff230023000d010100f600110101005b09800cf004e40022011801e600d300da00f90002000a00ec001b011701190101001f05a80b4d0be0001f05a80b4d0be00002000a00",
+            "warnings": 27
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "……だ、大学は？\u0000\n　，　？￣￣　玉村……ま、でも、長野原さんらしいかな。\u0000\nそれより、後片付け後片付け。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "23002300d1001801010035011b0054011b0011010d01ef001806f200f5001a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "……あら、コ―ヒ―もまだ残ってる。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "5b09800cf004e40022010100e800e300de00fe03d300f600d300ee00da00180102000a00f900fa00ea000100d900d805530b0d01f6001a09d300f500d300de00df001801d300ef00e600800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "長野原さん、すごく急いでいたから。\u0000\nなにせ、お財布まで置いていくぐらいだし弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "800d800dd900d805530b090008000a00fdffedfffcfffcffedffc1ffffff100066ff12000000daffc1ff69011000ebfe000065ff12001800f0ff27000e01d9002406ffffe30010012201e300100122010100ee0b1b01f500ee0017011b0002000a00",
+            "warnings": 18
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "弌弌お財布！？\u0000\n￣　ョ￣　みお姉ごめんごめん、忘れてたよ―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "5b09800cf004e400220109000a00170dda00f200ee001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "長野原さん！\u0000\n良かった―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "ea00f200da00de00da0c2201ef0035011b0054011b0001000a003c086c0b45022201f600f900da00f200ee001701fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "せっかく頼んだコ―ヒ―、\u0000\n全部飲んでなかったよね。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "e300de00e300de00230023000401d50002000a00e300f000ec00d500e4000d0109000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "ごくごく……ふう。\u0000\nごちそうさま！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "ec001b01e700120101009905d909e200ec005201260152011b00260109000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "それじゃ、今度こそバイバ―イ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d700d7001b001b00f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "ええ――っ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "23002300f00016010100f0001601f200f7000d01f200f50001005b09800cf004e400220109000a00f200f50001001101d500d300f900d30009000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "……ちょ、ちょっとまって、長野原さん！\u0000\nって、もういない！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "23002300d900d805530b23002300f800d500e6001701d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "……お財布……どうしよう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d7001b0008000a00d1001b000100d50022010100ec00d500fa04d700ff00ec00d500ef00fc0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "え―？\u0000\nあ―、うん、そう言えばそうだね。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "f900fa00de0cf0002909d300f5001a012201f600e800da0009000a00fe03d300f6006c05da00f900d300f70009000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "なに落ち着いてるんですか！\u0000\n急いで行かないと！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d50022010100ec00d500ef00e000f800230023000a004a05f500ee00f200f5001906d30bf900d300f600e600160102000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "うん、そうだけど……\u0000\n慌てたって仕方ないでしょ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d1000100ec00d500ef000100e2001b0102000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "あ、そうだ、これ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "f9002201f600e800da0008000000310145012f011b0008000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "なんですか？　クッキ―？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d500220101003806db00e405f200ee00fd0002000a00170dda00f200ee001801f903a20452069803fa00f600110175070801f50002000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "うん、私が作ったの。\u0000\n良かったら休憩時間にでも食べて。\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "ec00d500f600e800da000200d1001901db00f700d500e300e500d3000d01e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "そうですか。ありがとうございます。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "ec001b01e700120101003806fe006c05de00fc0002000a005201260152011b00260102000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "それじゃ、私は行くね。\u0000\nバイバ―イ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d1000100fe00d30002000a00d1001901db00f700d500e300e500d3000d01e600ee001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "あ、はい。\u0000\nありがとうございました―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "0d01ef00520126014a012a09ef00e000f80023002300ea00f200da00de00ef00da00180101000a00310145012f011b0001009300f300de001801d300f9001801d300d300da00f90008000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "まだバイト中だけど……せっかくだから、\u0000\nクッキ―、唖つくらいならいいかな？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "1101df002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "もぐ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "60013c011b001b001b001b001b001b001b00090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff6a011000ebfe000065ff26001800f0ff3b000e01d9002406ffff950bc403950bc40302003602f902de001801d300f9032201ef00f200f5000a00f800d500f200f500e200f700f900d300f200f50002000a0098ff0000effe0a0097ff",
+            "warnings": 26
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "マズ―――――――！？\u0000\n　，　？ヨ￣　みお姉平気平気。一回くらい休んだって\u0000\nどうってことないって。\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "fe000100fe00d000230023005b09800cf004e4002201db00ec001b01f600d300d300f900180101000a00d300d300f600e800e000f8002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "は、はぁ……長野原さんがそれでいいなら、\u0000\nいいですけど……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "0707d707f20329000707d707f20393002a00",
+            "textraw": "e8000e010d01ea001b0022010100b9094102e4001b00220102000a0020085e0ccc080100f0001601f200f700d900da00e600d3002201f600e800e000f8001b0009000a00",
+            "warnings": 0
+        },
+        "speaker": "女性客（女性客唖）",
+        "speaker_translation": "",
+        "text": "すみませ―ん、店員さ―ん。\u0000\n洗面台、ちょっとおかしいんですけど―！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d100f2000100fe001b00d3000100ee00ef00d3000d0109000a005b09800cf004e40022010100f0001601f200f7006c05f200f500dc000d01e800fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "あっ、は―い、ただいま！\u0000\n長野原さん、ちょっと行ってきますね。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d50022010100aa034709f200f500200002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "うん、頑張って〜。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d10001000d01ee00d900f203e40022010100d80cee000e01ee00d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "あ、またお客さん、来たみたい。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "0707d707f20329000707d707f20394002a00",
+            "textraw": "d1001801080000006e013a010100f3081101d300f900d3001e01fc0008000a00",
+            "warnings": 0
+        },
+        "speaker": "女性客（女性客娃）",
+        "speaker_translation": "",
+        "text": "あら？　レジ、誰もいないわね？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d100f2000100fe001b00d3000100e30031098e0bfe00f9002201f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "あっ、は―い、ご注文はなんですか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "0707d707f20329000707d707f20394002a00",
+            "textraw": "d7001b00f200f7000100e7001201d1006f011b006d0133011b002f01f700230023000a0045020e01800bfe00c502fa00e6001701d500da00e600180108000a00",
+            "warnings": 0
+        },
+        "speaker": "女性客（女性客娃）",
+        "speaker_translation": "",
+        "text": "え―っと、じゃあロ―ルケ―キと……\u0000\n飲み物は何にしようかしら？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "2f0165016b0163016d0160012f0124011b004a01fe000100d300da00db00f600e60016011b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "キャラメルマキア―トは、いかがでしょ―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "0707d707f20329000707d707f20394002a00",
+            "textraw": "e7001201d1000100ec001b01f600d900ac03d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "女性客（女性客娃）",
+        "speaker_translation": "",
+        "text": "じゃあ、それでお願い。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "fe00d300fe001b00d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "はいは―い。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    }
+]

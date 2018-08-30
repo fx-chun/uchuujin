@@ -1,0 +1,964 @@
+[
+    {
+        "id": 0,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "de00ec001b0009000000ea00f200da00de00cd086004e006e600f5009f0af200ee00fd00fa000a00d9009b061901fd003405d2023c083b08f900d300e7001201220109000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "くそ―！　せっかく大金出して買ったのに\u0000\nお守りの効果全然ないじゃん！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 1,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d100fd00d900ff00d100e40022010100f800e200fa00d3001a01090008000a00e504f300e000e006e600f500d9006004ac0be600f50011011801d50009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "あのおばあさん、どこにいる！？\u0000\n見つけ出してお金返してもらう！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "de00f2000100f700fe00fa04d7000a000d01ef00e200fd00ab0b1901fa00d3001a01da00f800d500da002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "くっ、とは言え\u0000\nまだこの辺りにいるかどうか……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f9061001f500e504ee009907ef00da0018010a00e200fd001d03fd009907e7001201f900d300ef001c01d500e6002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "初めて見た人だから\u0000\nこの街の人じゃないだろうし……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f700fa00da00de00f908e600f9021a01e600da00f900d30002000a000e08b608fa00e504f300e000f50013011a0109000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "とにかく探し回るしかない。\u0000\n絶対に見つけてやる！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d100f200090008000000e504f300e000ee00090009000a00e400f200dc00fd00d900ff00d100e4002201ef0009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "あっ！？　見つけた！！\u0000\nさっきのおばあさんだ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "1e01f2000100e8000e010d01ea00220109000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "わっ、すみません！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 8,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f6001101ec001b01f800e200e7001201f900d3002201f60009000a00ba08f5001b0009000000d900ff00d100e4001b00220109000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "でもそれどこじゃないんで！\u0000\n待て―！　おばあさ―ん！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "0fff",
+            "textraw": "d900d30001002401750148014c01fd00420163011b003a016307bc082101560908011c0109000a009905fd004507be04f600870aa108e600ee00da001101e6001b01220109000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "おい、アンテナのダメ―ジ状態を調べろ！\u0000\n今の衝撃で破損したかもしれん！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "0dff",
+            "textraw": "090df80209000000870aa1086e015b016d013203630a09000a002401750148014c01800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "了解！　破損レベル確認！\u0000\nアンテナ弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "0dff",
+            "textraw": "2401750148014c0123002300240128014a01f600e80002000a00f207e800dd000d011b00e80009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "アンテナ……アウトです。\u0000\n脆すぎま―す！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "0fff",
+            "textraw": "1301f20000011901da001b001b001b001b00f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "やっぱりか――――っ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 13,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f0001601f200f700d900ff00d100e400220109000a00f800d500d300d500e200f700090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "ちょっとおばあさん！\u0000\nどういうこと！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "fe00d30008000000d100f2000100e400f200dc00fd00f7013c0dfd002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "はい？　あっ、さっきの悪霊の……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "ec001b01e70012010d011a01f6003806db00f7013c0d0e01ee00d300e7001201220109000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "それじゃまるで私が悪霊みたいじゃん！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "c5022101dc09f200f500d3001a012201f600e80008000a00f7013c0dfe000c073c0de4001b01ee00f600e600160108000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "何を怒っているんです？\u0000\n悪霊は除霊されたでしょ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "3c083b08ef00170109000a003c08de001101f200f500e2001b01f2000c01f200f00011013405d202f900d300170109000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "全然だよ！\u0000\n全くもってこれっぽっちも効果ないよ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "04010f012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "ふむ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "d5001e01f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "うわっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f9000100c5020900080000000201f200de001901e600ee00d00002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "な、何！？　びっくりしたぁ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 21,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "d100f900ee00fa00f300d300f500d300ee00f7013c0d01000a00f800d50013011801100cd7072101f704e600ee001701d500f600e800fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "あなたについていた悪霊、\u0000\nどうやら本性を現したようですね。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "0701f20008000000100cd70708000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "へっ？　本性？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "0d0122010d01f700aa0de4001b010d01e600ee000200e400f200dc000d01f600fe000a009706d300f7013c0dfd00820719012101e600f500d300ee001701d500f600e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "まんまと佶されました。さっきまでは\u0000\n弱い悪霊の振りをしていたようです。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d700d700f200090008000000f8000100f800d500e8001a01fd00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "ええっ！？　ど、どうするの！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "e200d500f900f200ee0018013806db001209f200f500d3001a019c060e09fe009300f30002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "こうなったら私が知っている手段は唖つ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 26,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "e200fd007a05c702f900d9009b06190121010a009407fa00f300e0001a01e600da00d10019010d01ea00220102000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "この高価なお守りを\u0000\n身につけるしかありません。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "090008000a0098ff0000effe060097fffdff7fff040002ff01ff05003200",
+            "warnings": 8
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　：．・",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "1101d500d300d3001701d9009b061901fe0009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "もういいよお守りは！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "d300d3002201f600e800da0008000000e400f200dc00fd00f700fe000a003405d202110111090e091101c007980afd00d9009b061901f600e800170108000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "いいんですか？　さっきのとは\u0000\n効果も値段も数倍のお守りですよ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "e800e800e8000100c007980a090008000a00d1001b01170119010d01ef007a05de00f9001a01fd00090008000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "すすす、数倍！？\u0000\nあれよりまだ高くなるの！？\u0000\n　？",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "0c073c0df700fe00ec00d500d300d5001101fd00f600e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "除霊とはそういうものです。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "ec001b01f6000100f800d500e6000d01e80008000a00f7013c0dfe00100cd7072101f704e6000d01e600ee00170108000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "それで、どうします？\u0000\n悪霊は本性を現しましたよ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d500f20023002300f6000100f600110101001101d500d9006004fe002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "うっ……で、でも、もうお金は……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "d300de001801d10019010d01e80008000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "いくらあります？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d70008000000970013088702230023000a00f600110111090e09db00c007980aef00f700970013088702e70012012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "え？　愛千円……\u0000\nでも値段が数倍だと愛千円じゃ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "e7001201d10037011b0055013b01f600970013088702f60002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "じゃあサ―ビスで愛千円で。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "100cf6090900080000009f0ad500090000009f0ad3000d01e80009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "本当！？　買う！　買います！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "fe00d30002000d01d300f800d10019011b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "はい。まいどあり―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "23002300e2001b01f600100cf609fa000c073c0ddb00f600dc001a012201f600e8001701fc0008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "……これで本当に除霊ができるんですよね？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "fe00d300020023002300d10001001101d5003405d202db0002000a00f7013c0ddb006a04e6002201f600d3000d01e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "はい。……あ、もう効果が。\u0000\n悪霊が苦しんでいます。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "0a010100100cf609090008000a00e800e1001b0009000000e200fd00d9009b061901e800e1001b0009000a0098ff0000effe090097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "ほ、本当！？\u0000\nすげ―！　このお守りすげ―！\u0000\n　！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "cd084a06fa00e600f500de00ef00e400d30002000a00d100f900ee00fd00940721019b061a01800bf600e800da00180102000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "大事にしてください。\u0000\nあなたの身を守る物ですから。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fe00d30009000000d1001901db00f700d5000100d900ff00d100e400220109000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "はい！　ありがとう、おばあさん！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "5701450102000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00c9ffffff1000eefe0e000400c1ff47001000ebfe000065ff16000200f0ff2e001501f200e200ffff0d01ee00ec00d5001301f200f500d603800b2101a00a1a01c40308000a00",
+            "warnings": 26
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "フッ。\u0000\n　？￣．￣　。ゆっこまたそうやって偽物を売る気？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "d603800be7001201f900d300f600e8000200100c800bf600e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "偽物じゃないです。本物です。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f60011010100e200f200f000fd00d9009b061901fe003405d202f900da00f200ee00e60002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "でも、こっちのお守りは効果なかったし。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "f7013c0ddb002d04d3002201f600e8000200ef00da001801e200ec000a009400f300fd00d9009b061901fd001d0d21017f051e01ea001a01fd00f600e80002000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "悪霊が強いんです。だからこそ\u0000\n娃つのお守りの力を合わせるのです。\u0000\n　；",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2900d700f20008000000c502ec001b010200f0001601f200f7002d0145013501260126012a000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（えっ？　何それ。ちょっとカッコイイ）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "f800d500e8001a012201f600e80008000000e200f200f00021019f0a1e01f900d300f7000a00ec00fd00d9009b061901fe003405d202d10019010d01ea002201170108000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "どうするんです？　こっちを買わないと\u0000\nそのお守りは効果ありませんよ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2300230011090e095306ce0802000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "……値段次第。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "b703f20bfe0008000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "希望は？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "4101420102000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "タダ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "9300300c870202000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "唖万円。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "95001308870202000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "阿千円。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "99001308870202000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "姶千円。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "1501f200e2005400260141013501",
+            "textraw": "97001308870202000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ＆イタコ",
+        "speaker_translation": "",
+        "text": "愛千円。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "9f0af200ee0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "買った。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "0d01d300f800d10019011b0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c9ffffff1000c1ff44001000ebfe000065ff27000200f0ff3f001501f200e200fffff0001601f200f700ba08f200f5000200ec001101ec001101bd05f906fa009f0af200ee00d9009b061901db000a003405d202f900da00f200ee00fd00fe00ec00f200f000fd00ff07600af600e600160108000a00",
+            "warnings": 23
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "まいどあり―。\u0000\n　？￣￣￣　。ゆっこちょっと待って。そもそも最初に買ったお守りが\u0000\n効果なかったのはそっちの責任でしょ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "f600fe00d900790d02011101cf04fc00f500e200fd00d9009b061901fd0011090e0921010a009700130887020d01f600c202e1000d01e6001601d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "ではお詫びも兼ねてこのお守りの値段を\u0000\n愛千円まで下げましょう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "970013088702da002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "愛千円か……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2900f104e600d30011090e09ef00e000f80023002300f600110101000a000000f7013c0ddb00100cd7072101f704e600ee0099050100da0c1b011a01fd00fe00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（厳しい値段だけど……でも、\u0000\n　悪霊が本性を現した今、頼れるのは……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "230023009f0af200ee001801f7013c0ddb000c073c0de4001b011a012201f600e800fc0008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "……買ったら悪霊が除霊されるんですね？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "1101f0001c0122010200380621017a07e700f500de00ef00e400d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "もちろん。私を信じてください。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "29007a07e7001b01fc001b00230023000a000000ef00e000f80001007a07e7001a01e600da00230023002a000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（信じれね―……\u0000\n　だけど、信じるしか……）\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "23002300ec001b01e7001201d10001009f0ad3000d01e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "……それじゃあ、買います。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "fe00d30002000d01d300f800d100190102000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "はい。まいどあり。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d100fd0001009905d909e200ec00e200fd00d9009b061901f6002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "あの、今度こそこのお守りで……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "ec001b01f600fe0001003806fe003806c10cdb00d1001a01fd00f600e2001b01f60002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "それでは、私は私用があるのでこれで。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d100f2002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "あっ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 75,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    }
+]

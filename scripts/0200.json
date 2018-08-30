@@ -1,0 +1,951 @@
+[
+    {
+        "id": 0,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d1001b00d100010054016001ef00f900d10002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "あ―あ、ヒマだなあ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 1,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "ad0c8c09db00470cd300f700dc00fa00fc04f200f50001000a000e01e400f700110157012901f200f000120122011101b2086e0cf9002201ef0011012201f9001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "予定が無いときに限って、\u0000\nみさともフェっちゃんも駄目なんだもんな―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "23002300d1001b0108000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "……あれ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d100ec00e200fa00d3001a01fd00fe002a09730a6007e7001201220109000a00d500ec00090008000000f9002201f600d600090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "あそこにいるのは中之条じゃん！\u0000\nうそ！？　なんでぇ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "23002300f200f5000100ec00d500da0002000a007406ce02db00cd08770bb602ef00f200ee001701fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "……って、そうか。\u0000\n実家が大福屋だったよね。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "f900fa00da009a05f200f5001a010e01ee00d30002000a006505d7004a06e600f50023002300f800d500e600ee002201ef001c0108000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "なにか困ってるみたい。\u0000\n考え事して……どうしたんだろ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d5002000220123002300f800d500e6001701d500da00f900230023000a00d100f70036029907230023006908de00cb08840cf908e400f900d300f70002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "う〜ん……どうしようかな……\u0000\nあと一人……早く代役探さないと。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d1000100d100fd0023002300f800d500e600ee00fd0008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "あ、あの……どうしたの？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 8,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d1001b01080000003203da00d100f900ee00fe002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "あれ？　確かあなたは……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d50022010100c502d909da00f702f200f5001a01f7002b06d500e000f8000a00230023003403d700f500f500de001b01ee002201ef0008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "うん、何度か会ってると思うけど\u0000\n……覚えててくれたんだ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "fe00d3000200d1000100ec00d500d300d700ff0001000a0033046e06f6000005ff001b01f5000100f900eb00da004104da001b01ee00e200f70011012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "はい。あ、そういえば、\u0000\n教室で呼ばれて、なぜか驚かれたことも……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "22011b000100d1001b01fe00f0001601f200f700ed0ca30cdb00d100f200f50002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "ん―、あれはちょっと理由があって。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "2900d100fd00f700dc000100640154012d017501f900da00f200ee00da0018012a000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "（あのとき、モヒカンなかったから）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 13,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "ec001b01170119010100f800d500e600ee00fd0008000a00c502da006505d7004a06e600f500d300ee001701d500ef00f200ee00e000f80008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "それより、どうしたの？\u0000\n何か考え事していたようだったけど？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d10001007406fe00f0001601f200f7009a05f200ee00e200f700db00d100f200f5002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "あ、実はちょっと困ったことがあって……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "800d800df200f5000100ec00d500ef0009000000990554016001f600e800da00090008000a004d0bdc007f05f200f50011011801d7000d01ea002201da00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "弌弌って、そうだ！　今ヒマですか！？\u0000\n付き合ってもらえませんか！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "aa00a300bd00bd00bd00bd00bd00bd0009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "宛葦伊伊伊伊伊伊！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "2900e2001b01f200f5003501310118011b01ee0009000800000049011b004a01fd00a60cd300090008000a000000f500d300d500da000100ec001b01e600da00f900d300e70012012201090008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "（これってコクられた！？　デ―トの誘い！？\u0000\n　ていうか、それしかないじゃん！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "b2086e0cf600e800da0008000a00d504f9001801d300d3002201f600e800e000f8002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "駄目ですか？\u0000\n嫌ならいいんですけど……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "110101001101f0001c01220126012a013b0109000000f800e200090008000a00dc02070632058802090008000000ec001b01f700110115027905b30bbf021e08090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "も、もちろんイエス！　どこ！？\u0000\n花山公園！？　それとも伊香保温泉！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d300d7000100ec002201f9009b02de00e7001201f900de00f500800d800de200e200f600e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "いえ、そんな遠くじゃなくて弌弌ここです。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 21,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "e2000100e200e200f200f500230023001407b9091d0308000a00cd0841052d0157012901f200f500e200f70008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "こ、ここって……商店街？\u0000\n大工カフェってこと？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "e7001201f900de00f5000100d500f000fd00ce02f600e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "じゃなくて、うちの家です。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "b400a0009c00a300bd00bd00bd00bd00bd00bd00bd00bd00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "安握葵葦伊伊伊伊伊伊伊伊！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "f0001601f200090008000000ec001b01fe006908d300090000006908e800dd0009000a00d300f300f6001101d300d300e000f800090000001101d500f0001601f200f7001208fa0009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "ちょっ！？　それは早い！　早すぎ！\u0000\nいつでもいいけど！　もうちょっと先に！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "ef00f200ee0018019905e800df00d900ac03d300e6000d01e80009000a00e7001201f900d300f7005b0be4002201fa00dc0918011b011a012201f600e80009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "だったら今すぐお願いします！\u0000\nじゃないと父さんに怒られるんです！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 26,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "f70001005b0be400220108000000dc0918011b011a01f200f50023002300c502f60008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "と、父さん？　怒られるって……何で？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "cd08770b570129012401f600e80002000a00e2001b01090bf200f500de00ef00e400d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "大福フェアです。\u0000\nこれ被ってください。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "e2000100e2001b01f200f500230023003203da00cd08770bde00220108000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "こ、これって……確か大福くん？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "ec00d500f600e8000100d500f000fd00b909fd0060013b01350145014a01f600e80002009905f902fe000a00cd08770b97049109210113011a01e200f700fa00f900f200f5000d01e600f5002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "そうです、うちの店のマスコットです。今回は\u0000\n大福兄弟をやることになってまして……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "520126014a01cb08fe00f00012012201f7007d0bd3000d01e80009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "バイト代はちゃんと払います！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "23002300520126014a0108000a00f9002201ef000100520126014a01da001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "……バイト？\u0000\nなんだ、バイトか―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "2900d500f000fd00270dfa001101cd08770bb602e4002201d1001a01e60001000a0000001d07e6003808fa00cd0841052d0157012901f600dc00ee00da001801230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "（うちの隣にも大福屋さんあるし、\u0000\n　少し前に大工カフェできたから……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "2900f900fa00da00f7001508c109db00cd08a70bf900fd00fe001e01da001a01e000f80001000a000000fe00d00023002300520126014a01fd00a60cd300ef00f200ee002201ef00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "（なにかと宣伝が大変なのはわかるけど、\u0000\n　はぁ……バイトの誘いだったんだ……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d900ac03d300e6000d01e800090000003602ff06fa00cd08770b97049109210109000a00d100f900ee00e600da00d300f900d3002201f600e80009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "お願いします！　一緒に大福兄弟を！\u0000\nあなたしかいないんです！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "2900d100f900ee00e600da000100d300f900d300f20009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "（あなたしか、いないっ！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "a200aa00c400c400c400c400c400c400c400c400c400c400c400c400c4009c00a700090009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "旭宛威威威威威威威威威威威威威葵圧！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "230023001301f2000001190101000a00cd08770b97049109f9002201f500470ced0cf600e8001701fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "……やっぱり、\u0000\n大福兄弟なんて無理ですよね。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d1001b00230023000a00d500d50022010100a20bfa00d300d30017010200f8000100f800d500ea0054016001ef00e600fc0009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "あ―……\u0000\nううん、別にいいよ。ど、どうせヒマだしね！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "2900f200f500d300d500da000100e2001b01f200f5004301650175013b0109000a00000097049109f200f500e200f700fe00510a9907f200dc001901090008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "（っていうか、これってチャンス！\u0000\n　兄弟ってことは二人っきり！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "29000401d900d900d900d900d900d900d900d900d900d900d900d900d900090009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "（ふおおおおおおおおおおおおお！！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "23002300d1001b0108000000cd0854074f0bf600e800da0008000a00f9002201da00e800e300de00ab03db000008d3002201f600e800e000f8002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "……あれ？　大丈夫ですか？\u0000\nなんかすごく顔が赤いんですけど……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "ef000100cd0854074f0b090000003c083b082c01450133011b0009000a00ec001b01e7001201230610011701f200da0009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "だ、大丈夫！　全然オッケ―！\u0000\nそれじゃ始めよっか！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "1e01da0019010d01e600ee0002000a00ec001b01e70012010100e200fd00cd08770bde0022012101800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "わかりました。\u0000\nそれじゃ、この大福くんを弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "d900d900010097049109fe00e504f300da00f200ee001701d500ef00f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "おお、兄弟は見つかったようだな。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "510a99072404010099055a0afe0017011c01e600de00da0c0f01ed0002000a00cd08770bfd00170de40021010e012201f900fa0012091801ea00f5001301f200f500de001b0109000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "二人共、今日はよろしく頼むぞ。\u0000\n大福の良さをみんなに知らせてやってくれ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "1e01da00f200f5001a01f200f50002000a00db002201ff001a01da001801e40002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "わかってるって。\u0000\nがんばるからさ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "38061101f600e800090000003602e207d804510c130119010d01e80009000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "私もです！　一生懸命やります！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "df00fe00d100f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "ぐはあっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "f9000100c50221012300230008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "な、何を……？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "ec00d500ef00170109000a005b0be40022010100c502e8001a012201ef001701090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "そうだよ！\u0000\n父さん、何するんだよ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "e1000401d100f200090008000a00ef000100ef00da001801c502f600ab021a012201ef001701090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "げふあっ！？\u0000\nだ、だから何で殴るんだよ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "cd08770bdb00e600120108011a01f90009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "大福がしゃべるな！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d30013010100f6001101230023000a00e600120108011801f900d300f7001508c109fa00f9001801f900d300e60008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "いや、でも……\u0000\nしゃべらないと宣伝にならないし？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "c502080122011101fa041e01ea001a01f90009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "何べんも言わせるな！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d500d50023002300f8000100f800d500e6000d01e80008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "うう……ど、どうします？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "e400e800db00fa0023002300e30010012201470ced0c02000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "さすがに……ごめん無理。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d300d7000100010c1101230023000a0023002300fe00d30001005b0be40022010100cd08770bde00220102000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "いえ、僕も……\u0000\n……はい、父さん、大福くん。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "d9000100d900d3000100510a99072404090008000000f800e200fa006c05de0009000a00cd08770b2101f00c04081a01f30011011901da00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "お、おい、二人共！？　どこに行く！\u0000\n大福を裏切るつもりか！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "230023006c05f200f500e6000d01f200ee00da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "……行ってしまったか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "1906d30bdb00f900d30001005d06820bf6001301f200f5000e011a01da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "仕方がない、自分でやってみるか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "e600da00e600010097049109210136029907f6000100da002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "しかし、兄弟を一人で、か……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "9704910923002300ec00d500d300d700ff00f8070100420175013601fa00d300ee00f90002000a003203da0001001301f3001801fe002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "兄弟……そういえば昔、ダンゴにいたな。\u0000\n確か、やつらは……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "23002300d506fc00f5000e011a01da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "……重ねてみるか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "cd08770bde002201fd000a0afd005307fa00cd08770bde002201db00230023000a005307db00d9009704e4002201f600e6001601d500da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "大福くんの頭の上に大福くんが……\u0000\n上がお兄さんでしょうか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "0401180104011801e600f5001a01230023000a00d1000100d9009704e4002201de0cf000ee0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "ふらふらしてる……\u0000\nあ、お兄さん落ちた。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "23002300b70b0d011a01f600e6001601d500da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "……捕まるでしょうか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "23002300b70b0d01f200ee00170102000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "……捕まったよ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "230023000a012201f700ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "……ほんとだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d900790d0201f200f5001e01e000e7001201f900d3002201f600e800e000f800230023000a0045020e01800b0100d900e3001801ea00f50011011801d7000d01ea002201da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "お詫びってわけじゃないんですけど……\u0000\n飲み物、おごらせてもらえませんか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "d50022010100d1001901db00f700d50002000a00cd0841052d0157012901f60011016c05f200f5000e011a0108000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "うん、ありがとう。\u0000\n大工カフェでも行ってみる？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "290023002300d1001b0108000000e2001b01f200f50049011b004a0108002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "（……あれ？　これってデ―ト？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    }
+]

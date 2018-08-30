@@ -1,12 +1,15 @@
 # Contributing Guidelines
 
 ## Getting Started
-
-### Suggested Workflow
-- Fork & clone this repo! 
+- Fork & clone this repo!
+- Choose a piece of content to translate.
+- Start an issue for that piece of content to let others know you're working on it.
+  - Scripts: title your issue as `script: ####`
+  - CGs: title your issue as `cg: ####`
 - Translate content.
 - Commit your changes to your fork & push.
 - Open a pull request on this repo
+  - Make sure to reference your issue!
   - PRs should be for individual units of content. One PR should be for one
     script/CG/etc.
 

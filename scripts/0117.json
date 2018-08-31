@@ -2,8 +2,10 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "93009500980001009300950099000100930095009a002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2144,
+            "text_len": 30,
+            "text_offset": 2152,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -15,8 +17,10 @@
     {
         "id": 1,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "c502f700da00de0cf700e400e90033046e060d01f6006c05e000ec00d50023002300f200f70002000a0023002300d1001b0108000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2204,
+            "text_len": 54,
+            "text_offset": 2212,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -28,8 +32,10 @@
     {
         "id": 2,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "3805e200d500da001801d80c1a01fd00f200f5009a033705e400220108000a00100c270a2201f6001a01da001801ab03fe00e504d700f900d300e000f80023002300a508820b02000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2288,
+            "text_len": 74,
+            "text_offset": 2296,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -41,8 +47,10 @@
     {
         "id": 3,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "e8000e010d01ea001b00220101009a033705e4001b00220102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2392,
+            "text_len": 28,
+            "text_offset": 2400,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -54,8 +62,10 @@
     {
         "id": 4,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "23002300d1000100ef053002de0022010200f800d500110102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2460,
+            "text_len": 28,
+            "text_offset": 2466,
             "warnings": 0
         },
         "speaker": "関口",
@@ -67,8 +77,10 @@
     {
         "id": 5,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "e2002201fa00f000fe000200b80bdc00f900db0018010a00100c270a2201f6001a019907db000f041a01da0018010201f200de001901e6000d01e600ee0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2516,
+            "text_len": 66,
+            "text_offset": 2524,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -80,8 +92,10 @@
     {
         "id": 6,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "0a012201f700fa00d300f3001101100c270a2201f6001a012201f600e800fc0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2612,
+            "text_len": 36,
+            "text_offset": 2620,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -93,8 +107,10 @@
     {
         "id": 7,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "380611016c0157014801250175013201e600f900db0018010a00b80bd300f500de001a019907db00d3001a01da0018014104dc000d01e600ee0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2678,
+            "text_len": 62,
+            "text_offset": 2684,
             "warnings": 0
         },
         "speaker": "関口",
@@ -106,8 +122,10 @@
     {
         "id": 8,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "0a012201f700fa00d300f30011015e011b006d01c306f200f5001a012201f600e800fc0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2768,
+            "text_len": 40,
+            "text_offset": 2774,
             "warnings": 0
         },
         "speaker": "関口",
@@ -119,8 +137,10 @@
     {
         "id": 9,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "1101f0001c012201f600e800170102000a0019022505370145012d011b000100cd083d05dc00f600e800da00180102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2836,
+            "text_len": 50,
+            "text_offset": 2844,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -132,8 +152,10 @@
     {
         "id": 10,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "f9001a010a01f80002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2916,
+            "text_len": 12,
+            "text_offset": 2922,
             "warnings": 0
         },
         "speaker": "関口",
@@ -145,8 +167,10 @@
     {
         "id": 11,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "f600110101001d07e600fe0038082101e504ee000a01d500db00d300d300f600e800170102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2970,
+            "text_len": 40,
+            "text_offset": 2976,
             "warnings": 0
         },
         "speaker": "関口",
@@ -158,8 +182,10 @@
     {
         "id": 12,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "d70008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3038,
+            "text_len": 6,
+            "text_offset": 3046,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -171,8 +197,10 @@
     {
         "id": 13,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "0a01180101009308ef0402000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3076,
+            "text_len": 14,
+            "text_offset": 3082,
             "warnings": 0
         },
         "speaker": "関口",
@@ -184,8 +212,10 @@
     {
         "id": 14,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "090008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3126,
+            "text_len": 6,
+            "text_offset": 3134,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -197,8 +227,10 @@
     {
         "id": 15,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "0d01e400da002c016e010100050a0e01da00e000f500ee00090008000a0023002300f200f500e200fd00690a0100c502f600060ae100f900d3002201ef001c01d50008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3172,
+            "text_len": 70,
+            "text_offset": 3180,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -210,8 +242,10 @@
     {
         "id": 16,
         "internal": {
-            "speakerraw": "0bff",
-            "textraw": "de00ec00f2000100e200d300f30009000a002401750148014c01db0008081b01f0000d01f200ee00ef001c0109000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3328,
+            "text_len": 48,
+            "text_offset": 3332,
             "warnings": 0
         },
         "speaker": "",
@@ -223,8 +257,10 @@
     {
         "id": 17,
         "internal": {
-            "speakerraw": "0bff",
-            "textraw": "52016c012401f600690afe00950bc403ef00db000100300c3602fd00e200f700db00d100f200ee0018010a00f800d500e8001a012201ef00170109000000f700f200f0001001f50013011a01090009000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3404,
+            "text_len": 82,
+            "text_offset": 3408,
             "warnings": 0
         },
         "speaker": "",
@@ -236,8 +272,10 @@
     {
         "id": 18,
         "internal": {
-            "speakerraw": "0cff",
-            "textraw": "23002300e2001b01da00180108000000f800d5001301f200f50008000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3514,
+            "text_len": 30,
+            "text_offset": 3518,
             "warnings": 0
         },
         "speaker": "",
@@ -249,8 +287,10 @@
     {
         "id": 19,
         "internal": {
-            "speakerraw": "0bff",
-            "textraw": "f800d5001301f200f500f5000100ec0019011201d900380801000a00990501002401750148014c01db00fb021b01ee002201ef00da001801800d800dd1001b0108000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3570,
+            "text_len": 68,
+            "text_offset": 3574,
             "warnings": 0
         },
         "speaker": "",
@@ -262,8 +302,10 @@
     {
         "id": 20,
         "internal": {
-            "speakerraw": "0bff",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3688,
+            "text_len": 12,
+            "text_offset": 3692,
             "warnings": 0
         },
         "speaker": "",
@@ -275,8 +317,10 @@
     {
         "id": 21,
         "internal": {
-            "speakerraw": "0bff",
-            "textraw": "13011a01ea00fc00d6002300230002000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3720,
+            "text_len": 18,
+            "text_offset": 3724,
             "warnings": 0
         },
         "speaker": "",
@@ -288,8 +332,10 @@
     {
         "id": 22,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3838,
+            "text_len": 12,
+            "text_offset": 3846,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -301,8 +347,10 @@
     {
         "id": 23,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3886,
+            "text_len": 12,
+            "text_offset": 3892,
             "warnings": 0
         },
         "speaker": "関口",
@@ -314,21 +362,25 @@
     {
         "id": 24,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "2900d1001b012300230008000000f7026f0dba061e01f200ee0008002a000a0098ff0000effe020097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 3938,
+            "text_len": 32,
+            "text_offset": 3946,
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "（あれ……？　会話終わった？）\u0000\n　。",
+        "text": "（あれ……？　会話終わった？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 25,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "2900ec00d500d300d700ff0001000a000000d300f3001101fe009a033705e4002201f700c50221016f0de600f500ee00f200e00008002a000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4018,
+            "text_len": 58,
+            "text_offset": 4026,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -340,8 +392,10 @@
     {
         "id": 26,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "290023002300ec00d500da0009000a000000d300f3001101fe009803fa006c0b5b09db000f041a012201ef0009002a000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4110,
+            "text_len": 50,
+            "text_offset": 4118,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -353,8 +407,10 @@
     {
         "id": 27,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "2900f6000100f0044202db001e01da00f200ee00fa06f600f800d500e6001701d50002000a000000f101f605e600f500d900d300f500c50211016f0de400f900d300fd001101a70bef00e6002a000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4194,
+            "text_len": 80,
+            "text_offset": 4202,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -366,8 +422,10 @@
     {
         "id": 28,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "2900e200e200fe003602f00a1e0a1f02f9003a01650175016d01f6000f07610b09000a000000f7001901d100d700e900e400f200dc00fd006f0d2101f80b18010d01ea00f500230023002a000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4344,
+            "text_len": 78,
+            "text_offset": 4352,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -379,8 +437,10 @@
     {
         "id": 29,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "ec000100ec00d5000900000019022505370145012d011b00db00cd083d05dc00ef00da0018010a00d300f300ef00f200f500db032101e006e800f006110b1101e006d80cf5001a012201f600e800170102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4456,
+            "text_len": 84,
+            "text_offset": 4464,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -392,8 +452,10 @@
     {
         "id": 30,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "fe00d00002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4570,
+            "text_len": 8,
+            "text_offset": 4576,
             "warnings": 0
         },
         "speaker": "関口",
@@ -405,8 +467,10 @@
     {
         "id": 31,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "310dd700ff00e200d5001301f200f5005e011b006d0121017a05de005a0bda00ea00f5002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4606,
+            "text_len": 44,
+            "text_offset": 4614,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -418,8 +482,10 @@
     {
         "id": 32,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "e200e200f6002505fa0709000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4680,
+            "text_len": 14,
+            "text_offset": 4688,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -431,8 +497,10 @@
     {
         "id": 33,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d70008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4724,
+            "text_len": 6,
+            "text_offset": 4730,
             "warnings": 0
         },
         "speaker": "関口",
@@ -444,8 +512,10 @@
     {
         "id": 34,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "ec00e600f5002505fa07f7007a05e4002101d1001e01ea00f50009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4758,
+            "text_len": 30,
+            "text_offset": 4766,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -457,8 +527,10 @@
     {
         "id": 35,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d100fd0001000d01e400da00f700fe002b06d3000d01e800e000f8000a00e2002201f900fa06f600390167011b004a01f9002201f500e600ee0018012300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4818,
+            "text_len": 68,
+            "text_offset": 4824,
             "warnings": 0
         },
         "speaker": "関口",
@@ -470,8 +542,10 @@
     {
         "id": 36,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "390167011b001b001b001b004a01090009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4924,
+            "text_len": 20,
+            "text_offset": 4932,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -483,21 +557,25 @@
     {
         "id": 37,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d10002000a0098ff0000effe0a0097ff",
-            "warnings": 3
+            "speaker_len": 4,
+            "speaker_offset": 4980,
+            "text_len": 6,
+            "text_offset": 4986,
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "あ。\u0000\n　\u0000\n",
+        "text": "あ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 38,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "2505fa071101c306f200ee001701d500fa00e504ea00da00e000f5000a007406fe005e011b006d01e600da00c3061801f900d30009000000e2001b01db00240bfa05fd00800d800d0a00",
+            "speaker_len": 6,
+            "speaker_offset": 5024,
+            "text_len": 74,
+            "text_offset": 5032,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -509,8 +587,10 @@
     {
         "id": 39,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "d1002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5164,
+            "text_len": 10,
+            "text_offset": 5172,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -522,8 +602,10 @@
     {
         "id": 40,
         "internal": {
-            "speakerraw": "510bb2021208e207",
-            "textraw": "d1000100000859071208e207cd0854074f0bf600e800da00090008000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5214,
+            "text_len": 30,
+            "text_offset": 5224,
             "warnings": 0
         },
         "speaker": "富岡先生",
@@ -535,8 +617,10 @@
     {
         "id": 41,
         "internal": {
-            "speakerraw": "510bb2021208e207",
-            "textraw": "42016301ef000100ae0a6e0ca90ad300f5001a012300230002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5274,
+            "text_len": 28,
+            "text_offset": 5284,
             "warnings": 0
         },
         "speaker": "富岡先生",
@@ -548,8 +632,10 @@
     {
         "id": 42,
         "internal": {
-            "speakerraw": "510bb2021208e207",
-            "textraw": "f308ef0009000000e2002201f900fa06f6005e011b006d012101c306f200ee00fd00fe00090009000a00e400f500fe0001001e01e500f700000859071208e20721014808f200ee00f90009000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5336,
+            "text_len": 78,
+            "text_offset": 5346,
             "warnings": 0
         },
         "speaker": "富岡先生",
@@ -561,21 +647,25 @@
     {
         "id": 43,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "f8000100f800d500e6001701d50001001e01e500f700e7001201f900d300fd00fa00230023000a00d100fd009a033705e400220101003602ff06fa002705f8022101800d800d0f04f900d300090008000a0098ff0000effe030097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 5446,
+            "text_len": 82,
+            "text_offset": 5454,
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "ど、どうしよう、わざとじゃないのに……\u0000\nあの関口さん、一緒に誤解を弌弌居ない！？\u0000\n　，",
+        "text": "ど、どうしよう、わざとじゃないのに……\u0000\nあの関口さん、一緒に誤解を弌弌居ない！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 44,
         "internal": {
-            "speakerraw": "510bb2021208e207",
-            "textraw": "d100f2000100e20a9907fe00ec00e200fd00d9003808da00090008000a00f0001601f200f700d80cd30009000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5654,
+            "text_len": 46,
+            "text_offset": 5664,
             "warnings": 0
         },
         "speaker": "富岡先生",
@@ -587,8 +677,10 @@
     {
         "id": 45,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "23002300fe00d30002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5726,
+            "text_len": 12,
+            "text_offset": 5734,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -600,8 +692,10 @@
     {
         "id": 46,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "2900d1000100ec00d500ef0009002a000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5802,
+            "text_len": 18,
+            "text_offset": 5810,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -613,8 +707,10 @@
     {
         "id": 47,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "d100fd0001009a033705e400220102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5860,
+            "text_len": 18,
+            "text_offset": 5868,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -626,8 +722,10 @@
     {
         "id": 48,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "f9002201f600e800da0008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5908,
+            "text_len": 14,
+            "text_offset": 5914,
             "warnings": 0
         },
         "speaker": "関口",
@@ -639,8 +737,10 @@
     {
         "id": 49,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "170dda00f200ee001801ec00fd00100c01000a00f0001601f200f700270a0d01ea00f500750cf200f5001101d300d300f600e800da0008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5950,
+            "text_len": 58,
+            "text_offset": 5958,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -652,8 +752,10 @@
     {
         "id": 50,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d300d300f600e800170102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6038,
+            "text_len": 14,
+            "text_offset": 6044,
             "warnings": 0
         },
         "speaker": "関口",
@@ -665,8 +767,10 @@
     {
         "id": 51,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "d1001901db00f700d50002000a00ec001b01e70012010100cb081e011901fa005e011b006d01f800d500ed0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6080,
+            "text_len": 48,
+            "text_offset": 6088,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -678,8 +782,10 @@
     {
         "id": 52,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d70008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6158,
+            "text_len": 6,
+            "text_offset": 6164,
             "warnings": 0
         },
         "speaker": "関口",
@@ -691,8 +797,10 @@
     {
         "id": 53,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "2c016e01ef00e0008c061901f500ee0018014c0b3205950bf600e600160108000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6192,
+            "text_len": 34,
+            "text_offset": 6200,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -704,8 +812,10 @@
     {
         "id": 54,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d300d70001003806fe00a20bfa002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6256,
+            "text_len": 22,
+            "text_offset": 6262,
             "warnings": 0
         },
         "speaker": "関口",
@@ -717,8 +827,10 @@
     {
         "id": 55,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "1c06d300e800dd00f5005e016f015e016f01f600e800e000f80001000a00f9061001f5009f0af200ee005e011b006d01f9002201f6001604e600f500de00ef00e400d300fc0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6306,
+            "text_len": 74,
+            "text_offset": 6314,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -730,21 +842,25 @@
     {
         "id": 56,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "090008000a0098ff0000effe080097ff",
-            "warnings": 3
+            "speaker_len": 4,
+            "speaker_offset": 6414,
+            "text_len": 6,
+            "text_offset": 6420,
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "！？\u0000\n　？",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 57,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "ec002201f900cd084a06f9001101fd0001003806db001c06d5001e01e000fa00fe0002000a00ec001101ec0011012300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6464,
+            "text_len": 54,
+            "text_offset": 6470,
             "warnings": 0
         },
         "speaker": "関口",
@@ -756,8 +872,10 @@
     {
         "id": 58,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "d300d70001001c06f200f500de00ef00e400d30009000a000f01e6001c011c06f200f500cf0ce600d3002201f600e80002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6546,
+            "text_len": 52,
+            "text_offset": 6554,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -769,8 +887,10 @@
     {
         "id": 59,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "9a033705e4002201fe00cd080408f90019022505370145012d011b006c0bfd000a002b099803f600e800da001801090009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6632,
+            "text_len": 52,
+            "text_offset": 6640,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -782,8 +902,10 @@
     {
         "id": 60,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "2900ec00d500ef0001006f0de600fa00de00d300ef00f9002201f5006c06370df90002000a0000002b099803f9002201ef00da0018011101f200f7009207e600de00e600f900d300f70009002a000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6718,
+            "text_len": 80,
+            "text_offset": 6726,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -795,8 +917,10 @@
     {
         "id": 61,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "090008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6832,
+            "text_len": 6,
+            "text_offset": 6838,
             "warnings": 0
         },
         "speaker": "関口",
@@ -808,8 +932,10 @@
     {
         "id": 62,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6870,
+            "text_len": 12,
+            "text_offset": 6876,
             "warnings": 0
         },
         "speaker": "関口",
@@ -821,8 +947,10 @@
     {
         "id": 63,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d1001901db00f700d500e300e500d3000d01e80002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6992,
+            "text_len": 24,
+            "text_offset": 6998,
             "warnings": 0
         },
         "speaker": "関口",
@@ -834,8 +962,10 @@
     {
         "id": 64,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "2900ec00d500ef00010019022505370145012d011b00fa003b04350c21015106f200f50011011801d5000a000000d300d3004301650175013b01e7001201f900d300da0009002a000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7074,
+            "text_len": 74,
+            "text_offset": 7082,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -847,8 +977,10 @@
     {
         "id": 65,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "290017011b00e6000100ec00d500f700c4040d011b01ff00ec00fd00550d2808f6002a000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7192,
+            "text_len": 38,
+            "text_offset": 7200,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -860,8 +992,10 @@
     {
         "id": 66,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "d30013011b0001002b061e01e900590dc202f6006c0157014801250175013201e8001a01df001801d3000a0019022505370145012d011b00f200f500100cf609fa005e0cae0ad3002201f600e800170102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7260,
+            "text_len": 84,
+            "text_offset": 7268,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -873,8 +1007,10 @@
     {
         "id": 67,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "3c035305fa0019022505370145012d011b006c0bdb00d100f200ee00fd00db00b403e600de00f50001000a00bd055f04fe00210afa0048017501390169017501d100db00f200f5001a012201f600e8001701fc0009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7374,
+            "text_len": 88,
+            "text_offset": 7382,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -886,8 +1022,10 @@
     {
         "id": 68,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "fe00d0002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 7492,
+            "text_len": 12,
+            "text_offset": 7498,
             "warnings": 0
         },
         "speaker": "関口",
@@ -899,8 +1037,10 @@
     {
         "id": 69,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "ec000100ec001b01fa0059016f016c011b0032011101e30719015307db00f200f500f50001000a002c016c0175015601450131012304db03fa00f9001a01da001101e6001b01f900d300f600e800e60009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7532,
+            "text_len": 84,
+            "text_offset": 7540,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -912,8 +1052,10 @@
     {
         "id": 70,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "ec00d500f9002201f600e800da0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 7646,
+            "text_len": 18,
+            "text_offset": 7652,
             "warnings": 0
         },
         "speaker": "関口",
@@ -925,8 +1067,10 @@
     {
         "id": 71,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7700,
+            "text_len": 12,
+            "text_offset": 7708,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -938,21 +1082,25 @@
     {
         "id": 72,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "2900d1000100d1001b01200008000a000000c502da006c0124013101390169017501b20ad3002201ef00e000f80008002a000a0098ff0000effe020097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 7756,
+            "text_len": 52,
+            "text_offset": 7764,
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "（あ、あれ〜？\u0000\n　何かリアクション薄いんだけど？）\u0000\n　。",
+        "text": "（あ、あれ〜？\u0000\n　何かリアクション薄いんだけど？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 73,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "29001701e6000100e200d500f900f200ee001801f508e10960095c0afa0009002a000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7852,
+            "text_len": 36,
+            "text_offset": 7860,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -964,8 +1112,10 @@
     {
         "id": 74,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "d100fd00230023001101e600da00e600f5009a033705e4002201f200f50001000a0019022505370145012d011b00d10022010d0119013b04350cf900d3002201f600e800da0008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7918,
+            "text_len": 74,
+            "text_offset": 7926,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -977,8 +1127,10 @@
     {
         "id": 75,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "470cd300f600e800fc0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 8022,
+            "text_len": 14,
+            "text_offset": 8028,
             "warnings": 0
         },
         "speaker": "関口",
@@ -990,21 +1142,25 @@
     {
         "id": 76,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "230023002300230002000a0098ff0000effe030097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 8078,
+            "text_len": 12,
+            "text_offset": 8086,
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 77,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "ec001c01ec001c01aa064604f900fd00f6006c05dc000d01e800fc0002000a000d01ee006c0b6e06f60002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 8134,
+            "text_len": 46,
+            "text_offset": 8140,
             "warnings": 0
         },
         "speaker": "関口",
@@ -1016,8 +1172,10 @@
     {
         "id": 78,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 8212,
+            "text_len": 12,
+            "text_offset": 8220,
             "warnings": 0
         },
         "speaker": "桜井誠",
@@ -1029,8 +1187,10 @@
     {
         "id": 79,
         "internal": {
-            "speakerraw": "ef053002e907",
-            "textraw": "d500f000fd006c0b2300230042016301da00110102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 8336,
+            "text_len": 24,
+            "text_offset": 8344,
             "warnings": 0
         },
         "speaker": "桜井誠",

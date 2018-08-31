@@ -2,8 +2,10 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "ea00f200da00de00fd00d80a4b017501f900fd00fa0036029907da001b0002000a00c502ef00da00f3000d012201f900d300f9001b0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2138,
+            "text_len": 58,
+            "text_offset": 2146,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -15,8 +17,10 @@
     {
         "id": 1,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "c502da005e0cae0ad300e200f700f6001101f900d300da00f900d00002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2220,
+            "text_len": 32,
+            "text_offset": 2228,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -28,21 +32,25 @@
     {
         "id": 2,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "a509f40b1b001b001b001b00090009000a0098ff0000effe060097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 2284,
+            "text_len": 18,
+            "text_offset": 2292,
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "泥棒――――！！\u0000\n　：",
+        "text": "泥棒――――！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 3,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d700f2000100a509f40b090008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2346,
+            "text_len": 16,
+            "text_offset": 2354,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -54,8 +62,10 @@
     {
         "id": 4,
         "internal": {
-            "speakerraw": "a509f40b",
-            "textraw": "fe00d0000100fe00d0000100e600f300e200d300f90009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2490,
+            "text_len": 26,
+            "text_offset": 2496,
             "warnings": 0
         },
         "speaker": "泥棒",
@@ -67,21 +77,25 @@
     {
         "id": 5,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "ba08f000f900e4001b00d300090009000a0098ff0000effe040097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 2548,
+            "text_len": 18,
+            "text_offset": 2556,
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "待ちなさ―い！！\u0000\n　．",
+        "text": "待ちなさ―い！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 6,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "2900d500d900d900d900390167011b006d01d400d500090009002a000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2604,
+            "text_len": 30,
+            "text_offset": 2612,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -93,8 +107,10 @@
     {
         "id": 7,
         "internal": {
-            "speakerraw": "a509f40b",
-            "textraw": "fe00d0000100fe00d00009000000f800e00001008b06160cef0009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2754,
+            "text_len": 30,
+            "text_offset": 2760,
             "warnings": 0
         },
         "speaker": "泥棒",
@@ -106,8 +122,10 @@
     {
         "id": 8,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "ec00e200fd00d100f900ee0009000a00ec00d300f300a509f40b170109000000b70b0d01d700f50009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2806,
+            "text_len": 44,
+            "text_offset": 2814,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -119,8 +137,10 @@
     {
         "id": 9,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d700f2000900080000001e0101003806db00090008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2880,
+            "text_len": 24,
+            "text_offset": 2888,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -132,8 +152,10 @@
     {
         "id": 10,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "2c0101002c01450133011b000100600aea00f50009000a00f5001301d100d1001b001b000900090000001501f200e20041011b00450131016d0109000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2944,
+            "text_len": 62,
+            "text_offset": 2952,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -145,8 +167,10 @@
     {
         "id": 11,
         "internal": {
-            "speakerraw": "a509f40b",
-            "textraw": "f609ee001a01da00170109000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3062,
+            "text_len": 14,
+            "text_offset": 3068,
             "warnings": 0
         },
         "speaker": "泥棒",
@@ -158,8 +182,10 @@
     {
         "id": 12,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "da001e01e600ee00800d800d090008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3098,
+            "text_len": 18,
+            "text_offset": 3106,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -171,8 +197,10 @@
     {
         "id": 13,
         "internal": {
-            "speakerraw": "53055b091208e207",
-            "textraw": "090008000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3152,
+            "text_len": 6,
+            "text_offset": 3162,
             "warnings": 0
         },
         "speaker": "校長先生",
@@ -184,8 +212,10 @@
     {
         "id": 14,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "f200f50053055b091208e2071b001b00f200090008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3188,
+            "text_len": 24,
+            "text_offset": 3196,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -197,8 +227,10 @@
     {
         "id": 15,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "fe00fe0001004c011b0026013b014101450131016d0102000a002c01450137017501ad07dc000e0b2201ef00eb0002000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3364,
+            "text_len": 50,
+            "text_offset": 3368,
             "warnings": 0
         },
         "speaker": "",
@@ -210,8 +242,10 @@
     {
         "id": 16,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "9a0c5b09f900e200f700fa04f200f500f900d300f6004301290145013101e6001c01f200f50009000a009300820b93003b0bfd001d091b01db00510cfa009a031e011a012201ef00ed0009000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3442,
+            "text_len": 78,
+            "text_offset": 3446,
             "warnings": 0
         },
         "speaker": "",
@@ -223,8 +257,10 @@
     {
         "id": 17,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "2401750148014c01870aa108e600ee0018010100e800df00b504c90b560c1a01f200f50002000a00f60011010100560cf200f500f900d300ef001c0108000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3546,
+            "text_len": 64,
+            "text_offset": 3550,
             "warnings": 0
         },
         "speaker": "",
@@ -236,8 +272,10 @@
     {
         "id": 18,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "0d01d1000100ec00d500ef00e000f800e4002300230002000a006c0afd00ee001001fa0056090801f500d900e200d500eb0008000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3636,
+            "text_len": 54,
+            "text_offset": 3640,
             "warnings": 0
         },
         "speaker": "",
@@ -249,8 +287,10 @@
     {
         "id": 19,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "8007970ad707ef00f900d00002000a0023002300d1001b0108000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3716,
+            "text_len": 28,
+            "text_offset": 3720,
             "warnings": 0
         },
         "speaker": "",
@@ -262,8 +302,10 @@
     {
         "id": 20,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "0a011801230023000a001301f20000011901e200d500f900f200ee00e7001201f900d300da0002000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3794,
+            "text_len": 42,
+            "text_offset": 3798,
             "warnings": 0
         },
         "speaker": "",
@@ -275,8 +317,10 @@
     {
         "id": 21,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "23002300e8000d01220102000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3856,
+            "text_len": 14,
+            "text_offset": 3860,
             "warnings": 0
         },
         "speaker": "",
@@ -288,8 +332,10 @@
     {
         "id": 22,
         "internal": {
-            "speakerraw": "07ff540008ff",
-            "textraw": "d500d9001e01d100d100d100d100d100d100090009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3894,
+            "text_len": 24,
+            "text_offset": 3902,
             "warnings": 0
         },
         "speaker": "＆",
@@ -301,8 +347,10 @@
     {
         "id": 23,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "1d07e600f6001101930833061001e600ee001801d300d300da00180109000a001f05fe003806fa00600aea00f50009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4016,
+            "text_len": 50,
+            "text_offset": 4024,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -314,8 +362,10 @@
     {
         "id": 24,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "2c0101002c01450133011b0009000a00ec00d500d300d500e200f700f9001801230023003d0126016601450109000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4096,
+            "text_len": 48,
+            "text_offset": 4104,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -327,8 +377,10 @@
     {
         "id": 25,
         "internal": {
-            "speakerraw": "a509f40b",
-            "textraw": "d500d900f200090008000000af03f900d300ef001c0109000a002d01520175012101ea09e1001a0166014601db00d1001a01da0009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4186,
+            "text_len": 56,
+            "text_offset": 4192,
             "warnings": 0
         },
         "speaker": "泥棒",
@@ -340,21 +392,25 @@
     {
         "id": 26,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "9905ef00090000007204200018012000d7001b00090009000a0098ff0000effe080097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 4384,
+            "text_len": 26,
+            "text_offset": 4392,
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "今だ！　喰〜ら〜え―！！\u0000\n　？",
+        "text": "今だ！　喰〜ら〜え―！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 27,
         "internal": {
-            "speakerraw": "a509f40b",
-            "textraw": "dd001201d100d100d100090009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4596,
+            "text_len": 16,
+            "text_offset": 4602,
             "warnings": 0
         },
         "speaker": "泥棒",
@@ -366,21 +422,25 @@
     {
         "id": 28,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "b70b0d01d700ee001e010900000093036c0ae600f900e400d30009000a0098ff0000effe090097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 4662,
+            "text_len": 30,
+            "text_offset": 4670,
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "捕まえたわ！　観念しなさい！\u0000\n　！",
+        "text": "捕まえたわ！　観念しなさい！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 29,
         "internal": {
-            "speakerraw": "a509f40b",
-            "textraw": "f0000100f000de00e6001601d5002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4732,
+            "text_len": 22,
+            "text_offset": 4738,
             "warnings": 0
         },
         "speaker": "泥棒",
@@ -392,8 +452,10 @@
     {
         "id": 30,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d900d9001b00230023002d0145013501260126012300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4790,
+            "text_len": 28,
+            "text_offset": 4798,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -405,8 +467,10 @@
     {
         "id": 31,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "d900f4061901e4001b0022010100a509f40bb70b0d01d7000d01e600ee0002000a00d100f70017011c01e600de00d900ac03d300e6000d011b00e80002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4930,
+            "text_len": 64,
+            "text_offset": 4938,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -418,8 +482,10 @@
     {
         "id": 32,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "d1000100d100f900ee000100d1001901db00f700d50002000a00d900da00e100f600470c4a06fa00b70b0d01d70018011b01ee001e0102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5122,
+            "text_len": 58,
+            "text_offset": 5130,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -431,8 +497,10 @@
     {
         "id": 33,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d3000100d300d700d300d70002003806fe00a20bfa00c502110102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5210,
+            "text_len": 30,
+            "text_offset": 5218,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -444,8 +512,10 @@
     {
         "id": 34,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "ec002201f900e200f700f900d3001e0102000a00d100f900ee00db00c0042101e405f200f500de001b01ee00d900da00e100170102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5270,
+            "text_len": 56,
+            "text_offset": 5278,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -457,8 +527,10 @@
     {
         "id": 35,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d7000100d7000701070107012300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5356,
+            "text_len": 20,
+            "text_offset": 5364,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -470,8 +542,10 @@
     {
         "id": 36,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "cd0854074f0b08000000550bde00f900da00f200ee0008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5406,
+            "text_len": 26,
+            "text_offset": 5414,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -483,8 +557,10 @@
     {
         "id": 37,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d1001b000100ec002201f900e200f7006505d7001a013808fa000a00820d850dfa009407b408db000e0ad300ee000100f700fa04d500da0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5492,
+            "text_len": 60,
+            "text_offset": 5500,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -496,8 +572,10 @@
     {
         "id": 38,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "07011b000100e800e300d300e7001201f900d30002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5582,
+            "text_len": 24,
+            "text_offset": 5590,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -509,8 +587,10 @@
     {
         "id": 39,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d300d700d300d7000100d9002406e40022011101e800e300d300f600e800170102000a0058092d01450135011701da00f200ee00f600e80009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5636,
+            "text_len": 60,
+            "text_offset": 5644,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -522,8 +602,10 @@
     {
         "id": 40,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "d100fe00fe000100df0b1001f5001101c5021101e006f900d3001e01170102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5726,
+            "text_len": 34,
+            "text_offset": 5734,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -535,8 +617,10 @@
     {
         "id": 41,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "130101005d0175014a01f600e800f200f5000200d100e200db001b01f0001201d500f900d00002000a00ec00fd002d04e400fd00050bc904fe00f9002201f600e800da0008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5790,
+            "text_len": 72,
+            "text_offset": 5798,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -548,8 +632,10 @@
     {
         "id": 42,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "ec000100ec00d500fc00d6002300230038060100d104190a6c0bef00da0018010a00800b550be700e600f900d300f700da00ec002201f9001101fd00ef00f7002b06d5001e01170108000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5892,
+            "text_len": 76,
+            "text_offset": 5900,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -561,8 +647,10 @@
     {
         "id": 43,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d104190a6c0bf600e800da001b0002003806110113011c01d500da00f9001b0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 5998,
+            "text_len": 36,
+            "text_offset": 6006,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -574,8 +662,10 @@
     {
         "id": 44,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "5d0175014a0108000000e7001201d100800d800d0a00",
+            "speaker_len": 6,
+            "speaker_offset": 6064,
+            "text_len": 22,
+            "text_offset": 6072,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -587,21 +677,25 @@
     {
         "id": 45,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "f6001101b4081d0df900d300da001801d104190afe0063011b0075014b011b00ef001b0009000a00f9002201f0001201f200f5008e000a0098ff0000effe010097ff",
-            "warnings": 4
+            "speaker_len": 6,
+            "speaker_offset": 6126,
+            "text_len": 56,
+            "text_offset": 6134,
+            "warnings": 1
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "でも体力ないから剣道はメ―ンド―だ―！\u0000\nなんちゃって\u0000\n　、",
+        "text": "でも体力ないから剣道はメ―ンド―だ―！\u0000\nなんちゃって\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 46,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6232,
+            "text_len": 12,
+            "text_offset": 6240,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -613,21 +707,25 @@
     {
         "id": 47,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "220108000a0098ff0000effe040097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 6284,
+            "text_len": 6,
+            "text_offset": 6292,
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "ん？\u0000\n　．",
+        "text": "ん？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 48,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "42016301ef00f200ee00090008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6422,
+            "text_len": 16,
+            "text_offset": 6430,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -639,8 +737,10 @@
     {
         "id": 49,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d1001b0023002300cd0854074f0b02000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6500,
+            "text_len": 18,
+            "text_offset": 6508,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -652,8 +752,10 @@
     {
         "id": 50,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "ec00f200da0002000707fd002606f900fd00fa002d04d300fd00fc0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6548,
+            "text_len": 32,
+            "text_offset": 6556,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -665,8 +767,10 @@
     {
         "id": 51,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d3001301d0000100ec002201f900e200f7002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6610,
+            "text_len": 26,
+            "text_offset": 6618,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -678,8 +782,10 @@
     {
         "id": 52,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "e400f500f70002001f05fe00d900f4061901e4002201fa00600aea001a01f700e600f50002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6666,
+            "text_len": 40,
+            "text_offset": 6674,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -691,21 +797,25 @@
     {
         "id": 53,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "1701d300e6001601f200f70002000a0098ff0000effe060097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 6742,
+            "text_len": 16,
+            "text_offset": 6750,
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "よいしょっと。\u0000\n　：",
+        "text": "よいしょっと。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 54,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6888,
+            "text_len": 12,
+            "text_offset": 6896,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -717,8 +827,10 @@
     {
         "id": 55,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "e7001201d100fc0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 6924,
+            "text_len": 12,
+            "text_offset": 6932,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -730,8 +842,10 @@
     {
         "id": 56,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7064,
+            "text_len": 12,
+            "text_offset": 7072,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -743,8 +857,10 @@
     {
         "id": 57,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d100fd00090b1901800b550bd6001b0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7188,
+            "text_len": 20,
+            "text_offset": 7196,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -756,8 +872,10 @@
     {
         "id": 58,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d100fe00fe000100f0001601f200f700ef00e00002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7270,
+            "text_len": 24,
+            "text_offset": 7278,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -769,8 +887,10 @@
     {
         "id": 59,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "e30010012201fc000100d300dc00f9001901470c2709f900e200f700fa04f200f50002000a00f60011010507da00f200ee001e0102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7324,
+            "text_len": 56,
+            "text_offset": 7332,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -782,8 +902,10 @@
     {
         "id": 60,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "d900da00e100f60035014501430121011c061e01f900de00f500c7052201ef00da00180102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7492,
+            "text_len": 40,
+            "text_offset": 7500,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -795,21 +917,25 @@
     {
         "id": 61,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "090008000a0098ff0000effe060097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 7560,
+            "text_len": 6,
+            "text_offset": 7568,
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "！？\u0000\n　：",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 62,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "220108000000f800d500da00e600ee00fd0008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7698,
+            "text_len": 22,
+            "text_offset": 7706,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -821,8 +947,10 @@
     {
         "id": 63,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d300d300d3000100d300d70009000000c502f6001101d10019010d01ea00220109000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7750,
+            "text_len": 36,
+            "text_offset": 7758,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -834,8 +962,10 @@
     {
         "id": 64,
         "internal": {
-            "speakerraw": "0e01e400f700",
-            "textraw": "ec00d50008000000f9001801d300d300e000f80002000a00e7001201d10001003806fe00e2001b01f60002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7816,
+            "text_len": 46,
+            "text_offset": 7824,
             "warnings": 0
         },
         "speaker": "みさと",
@@ -847,8 +977,10 @@
     {
         "id": 65,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "fe00d30009000000d900020b1b01bd0cf600e600ee0009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7892,
+            "text_len": 26,
+            "text_offset": 7900,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -860,8 +992,10 @@
     {
         "id": 66,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7962,
+            "text_len": 12,
+            "text_offset": 7970,
             "warnings": 0
         },
         "speaker": "ゆっこ",
@@ -873,13 +1007,15 @@
     {
         "id": 67,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "e60001003406fb00da00f7002b06f200ee002300230002000a0098ff0000effe070097ff",
-            "warnings": 3
+            "speaker_len": 6,
+            "speaker_offset": 8090,
+            "text_len": 26,
+            "text_offset": 8098,
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "し、死ぬかと思った……。\u0000\n　；",
+        "text": "し、死ぬかと思った……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

@@ -2,8 +2,10 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d5001b00f200e8000100d900fe0017011b0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2146,
+            "text_len": 22,
+            "text_offset": 2152,
             "warnings": 0
         },
         "speaker": "田中",
@@ -15,8 +17,10 @@
     {
         "id": 1,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "d9000100d900d900f20009000000f0001601d500f800d300d3004a013501d80cee0009000a00",
+            "speaker_len": 22,
+            "speaker_offset": 2190,
+            "text_len": 38,
+            "text_offset": 2214,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -28,8 +32,10 @@
     {
         "id": 2,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "c4092a09f2000100f0001601f200f700e200f200f000d80cf500de001b0109000a00",
+            "speaker_len": 22,
+            "speaker_offset": 2268,
+            "text_len": 34,
+            "text_offset": 2292,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -41,8 +47,10 @@
     {
         "id": 3,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d900d900f200090008000000f9000100c502ef001701d9003808180109000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2342,
+            "text_len": 32,
+            "text_offset": 2348,
             "warnings": 0
         },
         "speaker": "田中",
@@ -54,8 +62,10 @@
     {
         "id": 4,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "7406fe00e400010099055a0a24016e01db00d1001a011801e600d3002201ef00170102000a00",
+            "speaker_len": 22,
+            "speaker_offset": 2486,
+            "text_len": 38,
+            "text_offset": 2510,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -67,8 +77,10 @@
     {
         "id": 5,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "24016e010800000023002300d100d10001005106f000800bdb04b005da0009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2570,
+            "text_len": 34,
+            "text_offset": 2576,
             "warnings": 0
         },
         "speaker": "田中",
@@ -80,8 +92,10 @@
     {
         "id": 6,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "ec00fd006e09190109000a00ef00da001801d300f3001101fd00660146010100da0c0f01eb00090008000a00",
+            "speaker_len": 22,
+            "speaker_offset": 2626,
+            "text_len": 44,
+            "text_offset": 2650,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -93,21 +107,25 @@
     {
         "id": 7,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "0d01da00ea00f700e000f20009000a0098ff0000effe080097ff",
-            "warnings": 3
+            "speaker_len": 4,
+            "speaker_offset": 2716,
+            "text_len": 16,
+            "text_offset": 2722,
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "まかせとけっ！\u0000\n　？",
+        "text": "まかせとけっ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 8,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "2201e70012010100f8002201f8002201ed031001f500de00da001801f9001b0002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 2862,
+            "text_len": 36,
+            "text_offset": 2886,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -119,8 +137,10 @@
     {
         "id": 9,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d100d30017011b0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2938,
+            "text_len": 12,
+            "text_offset": 2944,
             "warnings": 0
         },
         "speaker": "田中",
@@ -132,8 +152,10 @@
     {
         "id": 10,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "d7001b00f200f700010035016e01110166015201d3001701f90002000a00d100f70035016e01110142016301ef00e60023002300d5001e01f200010035016e011101ef0009000a00",
+            "speaker_len": 22,
+            "speaker_offset": 2978,
+            "text_len": 72,
+            "text_offset": 3002,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -145,8 +167,10 @@
     {
         "id": 11,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d900d300d900d3000100da00f9001901a508de00fc00d60008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3096,
+            "text_len": 28,
+            "text_offset": 3102,
             "warnings": 0
         },
         "speaker": "田中",
@@ -158,8 +182,10 @@
     {
         "id": 12,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "cd0854074f0bef00f200f50001005c0a1a01ef001c0108000a00",
+            "speaker_len": 22,
+            "speaker_offset": 3146,
+            "text_len": 26,
+            "text_offset": 3170,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -171,8 +197,10 @@
     {
         "id": 13,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "35016e01110166015201d3001701f900d00002000a00d1000100e200fd004f01350111015c0a1b01f700de00da0002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 3218,
+            "text_len": 50,
+            "text_offset": 3242,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -184,8 +212,10 @@
     {
         "id": 14,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "f00016010100ba08f5001701090000004f0135019a039404fc001b00ef001c01090008000a0023002300f200f5000100f9002201fd00c102ef0008000000d900d900d900f200090008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3420,
+            "text_len": 76,
+            "text_offset": 3426,
             "warnings": 0
         },
         "speaker": "田中",
@@ -197,8 +227,10 @@
     {
         "id": 15,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "d500d900d900f200090008000a00c502ef00f2000100f800e200da001801fd003a016501610175013201ef00090008000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3580,
+            "text_len": 50,
+            "text_offset": 3584,
             "warnings": 0
         },
         "speaker": "",
@@ -210,8 +242,10 @@
     {
         "id": 16,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "23002300240157016f01fd002a09da001801ef0009000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3658,
+            "text_len": 24,
+            "text_offset": 3662,
             "warnings": 0
         },
         "speaker": "",
@@ -223,8 +257,10 @@
     {
         "id": 17,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "f800d500d300d5004a06ef000100980bfd00ec0b1603c509840ae70012016e023f04fe00230023000a000d0101000d01e400da000100d100fd00240157016f01fa00fe00800d800d090008000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3708,
+            "text_len": 78,
+            "text_offset": 3712,
             "warnings": 0
         },
         "speaker": "",
@@ -236,8 +272,10 @@
     {
         "id": 18,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "ef001001ef000100fc040a03ef00f20009000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3812,
+            "text_len": 20,
+            "text_offset": 3816,
             "warnings": 0
         },
         "speaker": "",
@@ -249,8 +287,10 @@
     {
         "id": 19,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "d5001e01d100d100d100d100d100d10009000a00",
+            "speaker_len": 2,
+            "speaker_offset": 3882,
+            "text_len": 20,
+            "text_offset": 3886,
             "warnings": 0
         },
         "speaker": "",
@@ -262,8 +302,10 @@
     {
         "id": 20,
         "internal": {
-            "speakerraw": "1208e207",
-            "textraw": "17011b00e60001005106f000800bdb04b0052101fe00e70010011a01ed001b0002000a003c0841022d0152017501fd002a0994072101e006ea001b0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4096,
+            "text_len": 64,
+            "text_offset": 4102,
             "warnings": 0
         },
         "speaker": "先生",
@@ -275,8 +317,10 @@
     {
         "id": 21,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "dc00ee00dc00ee0002000a004a063808fa001e01da00f200f500f5000507da00f200ee00f90002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 4270,
+            "text_len": 42,
+            "text_offset": 4294,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -288,8 +332,10 @@
     {
         "id": 22,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "c4092a090100cd0854074f0bef001701f90008000a00",
+            "speaker_len": 22,
+            "speaker_offset": 4352,
+            "text_len": 22,
+            "text_offset": 4376,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -301,8 +347,10 @@
     {
         "id": 23,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "5201450143016c01ef00f200f50001000d01da00ea00f700e000170109000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4420,
+            "text_len": 32,
+            "text_offset": 4426,
             "warnings": 0
         },
         "speaker": "田中",
@@ -314,8 +362,10 @@
     {
         "id": 24,
         "internal": {
-            "speakerraw": "1208e207",
-            "textraw": "ec001b01e700120136029907e900f3004301290145013101e600f500de00da001801f9001b0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4478,
+            "text_len": 42,
+            "text_offset": 4484,
             "warnings": 0
         },
         "speaker": "先生",
@@ -327,8 +377,10 @@
     {
         "id": 25,
         "internal": {
-            "speakerraw": "1208e207",
-            "textraw": "17011b00e60001002d02d90a800bfe005106f200f500dc00f500f900d3001701d500ef00f90002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4646,
+            "text_len": 42,
+            "text_offset": 4652,
             "warnings": 0
         },
         "speaker": "先生",
@@ -340,8 +392,10 @@
     {
         "id": 26,
         "internal": {
-            "speakerraw": "1208e207",
-            "textraw": "ec001b01e7001201d1005306fd00aa064604db0023060d011a010d01f6000a00cd089907e600de00ba08f200f5001a011701d500fa001b0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4714,
+            "text_len": 60,
+            "text_offset": 4720,
             "warnings": 0
         },
         "speaker": "先生",
@@ -353,8 +407,10 @@
     {
         "id": 27,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "2c01450133011b0001009905f902110113011901e800e300e600ee00f90009000a00",
+            "speaker_len": 22,
+            "speaker_offset": 4894,
+            "text_len": 34,
+            "text_offset": 4918,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -366,8 +422,10 @@
     {
         "id": 28,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "370175012f0167011b00c4092a090200d300f30011010507da001a01170102000a00",
+            "speaker_len": 22,
+            "speaker_offset": 4970,
+            "text_len": 34,
+            "text_offset": 4994,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -379,8 +437,10 @@
     {
         "id": 29,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "fe00fe00f2000100d300d300f200f5004a06170102000a002c016e01ee00f000970ce708ef001c0108000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5050,
+            "text_len": 44,
+            "text_offset": 5056,
             "warnings": 0
         },
         "speaker": "田中",
@@ -392,21 +452,25 @@
     {
         "id": 30,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d1000100f6001101360299079300920092008702f90009000a0098ff0000effe0b0097ff",
-            "warnings": 4
+            "speaker_len": 4,
+            "speaker_offset": 5122,
+            "text_len": 26,
+            "text_offset": 5128,
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "あ、でも一人１００円な！\u0000\n　",
+        "text": "あ、でも一人１００円な！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 31,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "e6001601d500db00fc001b00f9001b0002000a00d7001b00f200f7000100d805530bfe0023002300240157016f01fd002a09ef0002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 5210,
+            "text_len": 56,
+            "text_offset": 5234,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -418,8 +482,10 @@
     {
         "id": 32,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "d7001b00f200f70023002300d1001b0108000a006601520145010100c502da004402f200da00da00f200ee00ed0002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 5394,
+            "text_len": 50,
+            "text_offset": 5418,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -431,8 +497,10 @@
     {
         "id": 33,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d900d300d900d300010060013a01da00170109000a00cb0afd00650cce0ae000f900d3001701d500fa00da0c0f01eb001b0008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5494,
+            "text_len": 54,
+            "text_offset": 5500,
             "warnings": 0
         },
         "speaker": "田中",
@@ -444,8 +512,10 @@
     {
         "id": 34,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "1e01da00f200f5001a01f200f50002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 5570,
+            "text_len": 18,
+            "text_offset": 5594,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -457,8 +527,10 @@
     {
         "id": 35,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "d7001b00f200f70023002300170dde001e01da002201fc001b00f90002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 5628,
+            "text_len": 32,
+            "text_offset": 5652,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -470,8 +542,10 @@
     {
         "id": 36,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d10022010d01ab035f04f400e000f5001a01f700fb03d30096050d011b011a01ed001b0008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5700,
+            "text_len": 40,
+            "text_offset": 5706,
             "warnings": 0
         },
         "speaker": "田中",
@@ -483,8 +557,10 @@
     {
         "id": 37,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "fe00f200fe00f200fe00f2000100ec002201f9001e01e000800d800d090008000a00",
+            "speaker_len": 22,
+            "speaker_offset": 5762,
+            "text_len": 34,
+            "text_offset": 5786,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -496,21 +572,25 @@
     {
         "id": 38,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "090008000a0098ff0000effe040097ff",
-            "warnings": 3
+            "speaker_len": 4,
+            "speaker_offset": 5962,
+            "text_len": 6,
+            "text_offset": 5968,
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "！？\u0000\n　．",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 39,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "d9000100d900d30009000000cd0854074f0bda00090008000a00",
+            "speaker_len": 22,
+            "speaker_offset": 6004,
+            "text_len": 26,
+            "text_offset": 6028,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -522,8 +602,10 @@
     {
         "id": 40,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "4402f2004709f200f50013011b0109000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6074,
+            "text_len": 18,
+            "text_offset": 6080,
             "warnings": 0
         },
         "speaker": "田中",
@@ -535,8 +617,10 @@
     {
         "id": 41,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "d9000100d900d500090000001701d300e6001601d90023002300f200090009000a00",
+            "speaker_len": 22,
+            "speaker_offset": 6114,
+            "text_len": 34,
+            "text_offset": 6138,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -548,8 +632,10 @@
     {
         "id": 42,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "230023000501fe00f200090009000a00",
+            "speaker_len": 22,
+            "speaker_offset": 6280,
+            "text_len": 16,
+            "text_offset": 6304,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -561,8 +647,10 @@
     {
         "id": 43,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "cd0854074f0bda0008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6348,
+            "text_len": 12,
+            "text_offset": 6354,
             "warnings": 0
         },
         "speaker": "田中",
@@ -574,8 +662,10 @@
     {
         "id": 44,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "d1000100d100d1002300230002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 6382,
+            "text_len": 16,
+            "text_offset": 6406,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -587,8 +677,10 @@
     {
         "id": 45,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "f200ee00de000100d900f800da00e800f9001701f9001b0002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 6438,
+            "text_len": 28,
+            "text_offset": 6462,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -600,8 +692,10 @@
     {
         "id": 46,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "230023001e010100f701d30002000a002c016e01f0001601f200f700b30bce046e066c05f200f500de001a011e0102000a00",
+            "speaker_len": 22,
+            "speaker_offset": 6510,
+            "text_len": 50,
+            "text_offset": 6534,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -613,21 +707,25 @@
     {
         "id": 47,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "090008000a0098ff0000effe060097ff",
-            "warnings": 3
+            "speaker_len": 4,
+            "speaker_offset": 6616,
+            "text_len": 6,
+            "text_offset": 6622,
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "！？\u0000\n　：",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 48,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "d9000100d900d300f2000100cd0854074f0bda00090008000a00",
+            "speaker_len": 22,
+            "speaker_offset": 6658,
+            "text_len": 26,
+            "text_offset": 6682,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -639,8 +737,10 @@
     {
         "id": 49,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "23002300e30010012201c4092a0901009905d909da001801d9003808fd000a0a8c061901f900d30002000a00ec001b01e70012012300230002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 6724,
+            "text_len": 60,
+            "text_offset": 6748,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -652,8 +752,10 @@
     {
         "id": 50,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "f00016010100f800d500d300d5004a06090008000a002c0160012a010100f900fa00e504ee002201ef001701090009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6834,
+            "text_len": 50,
+            "text_offset": 6840,
             "warnings": 0
         },
         "speaker": "田中",
@@ -665,8 +767,10 @@
     {
         "id": 51,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "2300230036016301750102000a00",
+            "speaker_len": 22,
+            "speaker_offset": 6906,
+            "text_len": 14,
+            "text_offset": 6930,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -678,21 +782,25 @@
     {
         "id": 52,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d700f2000100ba08f500f200f50009000000d900d3000100d9001b001b001b001b00d300090009000a0098ff0000effe060097ff",
-            "warnings": 3
+            "speaker_len": 4,
+            "speaker_offset": 7058,
+            "text_len": 42,
+            "text_offset": 7064,
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "えっ、待てって！　おい、お――――い！！\u0000\n　：",
+        "text": "えっ、待てって！　おい、お――――い！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 53,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "e6001601d500db00fc00d700f9001b0002000a000d010100d300f3001101ae0be80cfa001c061e01ea00f50011011801f200f5001a01e600f90002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 7158,
+            "text_len": 62,
+            "text_offset": 7182,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -704,8 +812,10 @@
     {
         "id": 54,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "f3001b00da0001003808da001801ec001b01f2000c01d300f200f5002b06f200f500ee00e000f80001000a000d01e8000d01e8003501260175016f0145012d011b00f2000c01de00f900f200f500dc00ee00f90002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 7260,
+            "text_len": 88,
+            "text_offset": 7284,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -717,8 +827,10 @@
     {
         "id": 55,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "1c0cd909c4092a096f0145012d011b002101e300e80cc10cd300ee00ef00dc000a00d1001901db00f700d500e300e500d3000d011b00e800f200f500da0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 7394,
+            "text_len": 66,
+            "text_offset": 7400,
             "warnings": 0
         },
         "speaker": "田中",
@@ -730,21 +842,25 @@
     {
         "id": 56,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "71015101510151015101510109000a0098ff0000effe010097ff",
-            "warnings": 3
+            "speaker_len": 22,
+            "speaker_offset": 7482,
+            "text_len": 16,
+            "text_offset": 7506,
+            "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
         "speaker_translation": "",
-        "text": "ワハハハハハ！\u0000\n　、",
+        "text": "ワハハハハハ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 57,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "d300d300fc001b000100ec001b0109000000c4092a0960013a01bd057a0509000a00",
+            "speaker_len": 22,
+            "speaker_offset": 7548,
+            "text_len": 34,
+            "text_offset": 7572,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -756,8 +872,10 @@
     {
         "id": 58,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "17011b00e60001009905fd004c0126013b015e013301fd00e300db06d703fa000a009300920087026b09c902e600f50013011a01170102000a00",
+            "speaker_len": 22,
+            "speaker_offset": 7622,
+            "text_len": 58,
+            "text_offset": 7646,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -769,21 +887,25 @@
     {
         "id": 59,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d9000100370175012f0167011b0002000a00f200f5002c016e01fd000a0afa005c0a1b01f500f800d500e8002201ef00170109000a0098ff0000effe010097ff",
-            "warnings": 3
+            "speaker_len": 4,
+            "speaker_offset": 7816,
+            "text_len": 54,
+            "text_offset": 7822,
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "お、サンキュ―。\u0000\nってオレの頭に入れてどうすんだよ！\u0000\n　、",
+        "text": "お、サンキュ―。\u0000\nってオレの頭に入れてどうすんだよ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 60,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "d100f2000100f701d300f701d30009000a00f300d30031013d01f600800d800d0a00",
+            "speaker_len": 22,
+            "speaker_offset": 7902,
+            "text_len": 34,
+            "text_offset": 7926,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -795,21 +917,25 @@
     {
         "id": 61,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "d700d700d700d700d700d700f200090008000a0098ff0000effe060097ff",
-            "warnings": 3
+            "speaker_len": 22,
+            "speaker_offset": 8082,
+            "text_len": 20,
+            "text_offset": 8106,
+            "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
         "speaker_translation": "",
-        "text": "ええええええっ！？\u0000\n　：",
+        "text": "ええええええっ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 62,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "3501010035011b006b01db00e006ee00090008000a00e600da00110101002f0175012f017501fa00320dd700f5001a01ed0035016e0109000a00",
+            "speaker_len": 22,
+            "speaker_offset": 8160,
+            "text_len": 58,
+            "text_offset": 8184,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -821,8 +947,10 @@
     {
         "id": 63,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "23002300f9000100f9000100f9002201f500e200f200ee0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 8264,
+            "text_len": 28,
+            "text_offset": 8270,
             "warnings": 0
         },
         "speaker": "田中",
@@ -834,8 +962,10 @@
     {
         "id": 64,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "0d01e400da006f0145012d011b00e7001201f900de00f5000a005d06e80ac103ef00f200ee00f9002201f5002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 8320,
+            "text_len": 52,
+            "text_offset": 8326,
             "warnings": 0
         },
         "speaker": "田中",
@@ -847,8 +977,10 @@
     {
         "id": 65,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "d9000100d900d300c4092a0902000a00f9002201f500fa04f200f500d300d300da001e01da002201fc00d700e000f8002300230002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 8394,
+            "text_len": 56,
+            "text_offset": 8418,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -860,8 +992,10 @@
     {
         "id": 66,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d207de00fc00090008000a00e2001b01fe00cd081101d500e000fd00ad0c7803ef00eb0009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 8500,
+            "text_len": 40,
+            "text_offset": 8506,
             "warnings": 0
         },
         "speaker": "田中",
@@ -873,8 +1007,10 @@
     {
         "id": 67,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "2300230051015101450101002c0160012a011801e600d300eb0002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 8568,
+            "text_len": 30,
+            "text_offset": 8592,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -886,8 +1022,10 @@
     {
         "id": 68,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "51015101510151015101450109000a00",
+            "speaker_len": 22,
+            "speaker_offset": 8726,
+            "text_len": 16,
+            "text_offset": 8750,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -899,21 +1037,25 @@
     {
         "id": 69,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "2401510151015101510151015101010024015101510151015101450109000a0098ff0000effe060097ff",
-            "warnings": 3
+            "speaker_len": 4,
+            "speaker_offset": 8782,
+            "text_len": 32,
+            "text_offset": 8788,
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "アハハハハハハ、アハハハハッ！\u0000\n　：",
+        "text": "アハハハハハハ、アハハハハッ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 70,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "f9001b002201f500f9000200570710095707100902000a00",
+            "speaker_len": 4,
+            "speaker_offset": 8878,
+            "text_len": 24,
+            "text_offset": 8884,
             "warnings": 0
         },
         "speaker": "田中",
@@ -925,8 +1067,10 @@
     {
         "id": 71,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "9905e006e800da001801f0001601f200f700ba08f200f500f500de001b01170102000a00d7001b00f200f7000100f7001901d100d700e90034011b006201da001801ef00f90002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 8930,
+            "text_len": 74,
+            "text_offset": 8936,
             "warnings": 0
         },
         "speaker": "田中",
@@ -938,8 +1082,10 @@
     {
         "id": 72,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "1701d300e60016011b00f20009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 9118,
+            "text_len": 16,
+            "text_offset": 9124,
             "warnings": 0
         },
         "speaker": "田中",
@@ -951,8 +1097,10 @@
     {
         "id": 73,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "23002300f900d100010035016e0102000a00",
+            "speaker_len": 22,
+            "speaker_offset": 9244,
+            "text_len": 18,
+            "text_offset": 9268,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
@@ -964,8 +1112,10 @@
     {
         "id": 74,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "d100d10001002c016e01db005c0a1b01ee00fd00f200f50001000a0034011b006201c103fd00fe00e900f9002201ef00e000f80002000a00",
+            "speaker_len": 22,
+            "speaker_offset": 9302,
+            "text_len": 56,
+            "text_offset": 9326,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -977,21 +1127,25 @@
     {
         "id": 75,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "f800d500e504f50011012d016d014101ef001701f90002000a0098ff0000effe060097ff",
-            "warnings": 3
+            "speaker_len": 22,
+            "speaker_offset": 9398,
+            "text_len": 26,
+            "text_offset": 9422,
+            "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
         "speaker_translation": "",
-        "text": "どう見てもカルタだよな。\u0000\n　：",
+        "text": "どう見てもカルタだよな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 76,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d1001b0108000000d900f200da00e6001b00f90002000a00e200f200f000ef00f200e000230023001701f200f70002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 9562,
+            "text_len": 50,
+            "text_offset": 9568,
             "warnings": 0
         },
         "speaker": "田中",
@@ -1003,21 +1157,25 @@
     {
         "id": 77,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
-            "textraw": "4f013a0108000a0098ff0000effe060097ff",
-            "warnings": 3
+            "speaker_len": 22,
+            "speaker_offset": 9722,
+            "text_len": 8,
+            "text_offset": 9746,
+            "warnings": 0
         },
         "speaker": "男子生徒（男子生徒１）",
         "speaker_translation": "",
-        "text": "ネジ？\u0000\n　：",
+        "text": "ネジ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 78,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d1001b0108000000e7001201d10035016e01da0008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 9792,
+            "text_len": 24,
+            "text_offset": 9798,
             "warnings": 0
         },
         "speaker": "田中",
@@ -1029,8 +1187,10 @@
     {
         "id": 79,
         "internal": {
-            "speakerraw": "0f092606e207cc0929000f092606e207cc0994002a00",
-            "textraw": "d900d300d900d3000100fc054306e006e600f500f800d500e8002201ef00170102000a00",
+            "speaker_len": 22,
+            "speaker_offset": 9838,
+            "text_len": 36,
+            "text_offset": 9862,
             "warnings": 0
         },
         "speaker": "男子生徒（男子生徒２）",
@@ -1042,8 +1202,10 @@
     {
         "id": 80,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d100f2001b011b0008000a00e3001001220101001101d500f0001601d300ba08f200f500800d800d0a00",
+            "speaker_len": 4,
+            "speaker_offset": 9920,
+            "text_len": 42,
+            "text_offset": 9926,
             "warnings": 0
         },
         "speaker": "田中",
@@ -1055,8 +1217,10 @@
     {
         "id": 81,
         "internal": {
-            "speakerraw": "1208e207",
-            "textraw": "d30013011b000100e8000d012201e8000d01220102000a008d05d300fd000100ee0b1b01ee000e01ee00d300f6002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 9994,
+            "text_len": 54,
+            "text_offset": 10000,
             "warnings": 0
         },
         "speaker": "先生",
@@ -1068,8 +1232,10 @@
     {
         "id": 82,
         "internal": {
-            "speakerraw": "c4092a09",
-            "textraw": "d1002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 10076,
+            "text_len": 10,
+            "text_offset": 10082,
             "warnings": 0
         },
         "speaker": "田中",
@@ -1081,8 +1247,10 @@
     {
         "id": 83,
         "internal": {
-            "speakerraw": "1208e207",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 10116,
+            "text_len": 12,
+            "text_offset": 10122,
             "warnings": 0
         },
         "speaker": "先生",
@@ -1094,13 +1262,15 @@
     {
         "id": 84,
         "internal": {
-            "speakerraw": "1208e207",
-            "textraw": "c4092a091b000100ec001b015106f200f500720741026e060d01f600d80c1a011701d500fa001b0002000a0098ff0000effe030097ff",
-            "warnings": 3
+            "speaker_len": 4,
+            "speaker_offset": 10242,
+            "text_len": 44,
+            "text_offset": 10248,
+            "warnings": 0
         },
         "speaker": "先生",
         "speaker_translation": "",
-        "text": "田中―、それ持って職員室まで来るように―。\u0000\n　，",
+        "text": "田中―、それ持って職員室まで来るように―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

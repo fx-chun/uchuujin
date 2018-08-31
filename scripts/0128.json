@@ -2,8 +2,10 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "9a05f200ee0023002300f700d300d500170119010100e6000d01f200ee00fd00d50002000a00e200e200fe00f800e200f9002201e70012011c01d50008000a00",
+            "speaker_len": 14,
+            "speaker_offset": 2138,
+            "text_len": 64,
+            "text_offset": 2154,
             "warnings": 0
         },
         "speaker": "ジェントルマン",
@@ -15,8 +17,10 @@
     {
         "id": 1,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "f800d500130118013c035305fd001701d500e7001201db0001000a00dc001701e600fd001c073c035305f600fe00f900e400ec00d500e70012012300230002000a00",
+            "speaker_len": 14,
+            "speaker_offset": 2240,
+            "text_len": 66,
+            "text_offset": 2256,
             "warnings": 0
         },
         "speaker": "ジェントルマン",
@@ -28,8 +32,10 @@
     {
         "id": 2,
         "internal": {
-            "speakerraw": "f900fd00",
-            "textraw": "d100fd0001001101e600da00e600f5002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2354,
+            "text_len": 24,
+            "text_offset": 2360,
             "warnings": 0
         },
         "speaker": "なの",
@@ -41,8 +47,10 @@
     {
         "id": 3,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "220108000000d90013010100d9005c07e400220101000d01ee00f702d3000d01e600ee00f90002000a00",
+            "speaker_len": 14,
+            "speaker_offset": 2406,
+            "text_len": 42,
+            "text_offset": 2422,
             "warnings": 0
         },
         "speaker": "ジェントルマン",
@@ -54,8 +62,10 @@
     {
         "id": 4,
         "internal": {
-            "speakerraw": "f900fd00",
-            "textraw": "fe000100fe00d30009000a00e200fd003808fe00d900ce076f0dfa00f90019010d01e600ee0009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2486,
+            "text_len": 42,
+            "text_offset": 2492,
             "warnings": 0
         },
         "speaker": "なの",
@@ -67,8 +77,10 @@
     {
         "id": 5,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "f900d000fa0001008e072206f700e600f5000a00f6093b08fd00e200f7002101e600ee000d01f600e700120102000a00",
+            "speaker_len": 14,
+            "speaker_offset": 2556,
+            "text_len": 48,
+            "text_offset": 2572,
             "warnings": 0
         },
         "speaker": "ジェントルマン",
@@ -80,8 +92,10 @@
     {
         "id": 6,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "ec001b0117011901d9005c07e400220101000a00e200e200fe003602b408f800e200f9002201e70012011c01d500da0008000a00",
+            "speaker_len": 14,
+            "speaker_offset": 2642,
+            "text_len": 52,
+            "text_offset": 2658,
             "warnings": 0
         },
         "speaker": "ジェントルマン",
@@ -93,8 +107,10 @@
     {
         "id": 7,
         "internal": {
-            "speakerraw": "f900fd00",
-            "textraw": "fe00d30008000000e200e200fe0052068c097a055305f600e800e000f8002300230008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2732,
+            "text_len": 38,
+            "text_offset": 2738,
             "warnings": 0
         },
         "speaker": "なの",
@@ -106,8 +122,10 @@
     {
         "id": 8,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "d30013010100f0001601f200f700540cd30096052201f600e6000d01f200f500fd00d50002000a00e00637050d01f6001002400ae600f50011011801d7002201e70012011c01d500da0008000a00",
+            "speaker_len": 14,
+            "speaker_offset": 2798,
+            "text_len": 78,
+            "text_offset": 2814,
             "warnings": 0
         },
         "speaker": "ジェントルマン",
@@ -119,21 +137,25 @@
     {
         "id": 9,
         "internal": {
-            "speakerraw": "f900fd00",
-            "textraw": "d100f2000100ec00d500ef00f200ee002201f600e800da0002000a00e7001201d1000100e200f0001801fa00f800d500ed0002000a0098ff00001aff04000000a00000003c0016ffffff97ffe0063705fe00e200f200f000f600800d800d0a00",
-            "warnings": 6
+            "speaker_len": 4,
+            "speaker_offset": 2914,
+            "text_len": 54,
+            "text_offset": 2920,
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "あっ、そうだったんですか。\u0000\nじゃあ、こちらにどうぞ。\u0000\n　．　Ｄ　出口はこっちで弌弌\u0000\n",
+        "text": "あっ、そうだったんですか。\u0000\nじゃあ、こちらにどうぞ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 10,
         "internal": {
-            "speakerraw": "f900fd00",
-            "textraw": "1e011b001b001b00090008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3078,
+            "text_len": 14,
+            "text_offset": 3084,
             "warnings": 0
         },
         "speaker": "なの",
@@ -145,21 +167,25 @@
     {
         "id": 11,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "090008000a0098ff0000effe030097ff",
-            "warnings": 3
+            "speaker_len": 14,
+            "speaker_offset": 3124,
+            "text_len": 6,
+            "text_offset": 3140,
+            "warnings": 0
         },
         "speaker": "ジェントルマン",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 12,
         "internal": {
-            "speakerraw": "f900fd00",
-            "textraw": "d500d500230023000a00f9002201f600e2002201f900f700e2001c01fa00de0cf700e600c604db002300230008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3260,
+            "text_len": 48,
+            "text_offset": 3266,
             "warnings": 0
         },
         "speaker": "なの",
@@ -171,21 +197,25 @@
     {
         "id": 13,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "1701e60009000000ec096802f900fd00b70b3103e4051908d807330509000a0098ff01001aff04000000680000003c0016ffffff97ff1f05fe00f902550d390169011b004a018b04f600c4030e08e400ea00f500800d800d0a00",
-            "warnings": 7
+            "speaker_len": 8,
+            "speaker_offset": 3436,
+            "text_len": 32,
+            "text_offset": 3446,
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "よし！　東雲なの捕獲作戦成功！\u0000\n、．　　後は回路ショ―ト君で気絶させて弌弌\u0000\n",
+        "text": "よし！　東雲なの捕獲作戦成功！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 14,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "d5001e011b00f200090008000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3592,
+            "text_len": 14,
+            "text_offset": 3602,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -197,21 +227,25 @@
     {
         "id": 15,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "090008000a0098ff0000effe030097ff",
-            "warnings": 3
+            "speaker_len": 14,
+            "speaker_offset": 3636,
+            "text_len": 6,
+            "text_offset": 3652,
+            "warnings": 0
         },
         "speaker": "ジェントルマン",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 16,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "e6000100e6000d01f200ee002300230009000a00b30beb04f600d300de00f300da007d04f200f500ee002201ef00f200ee002300230009000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3772,
+            "text_len": 58,
+            "text_offset": 3782,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -223,8 +257,10 @@
     {
         "id": 17,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "23002300230023002300230023002300090008000a00",
+            "speaker_len": 14,
+            "speaker_offset": 3948,
+            "text_len": 22,
+            "text_offset": 3964,
             "warnings": 0
         },
         "speaker": "ジェントルマン",
@@ -236,8 +272,10 @@
     {
         "id": 18,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "9905d909fe00e200f200f000fd00d9005c07e40022010d01f600de0cf700e600c604fa00230023000a003602b4080100e200fd003c035305fe00f800d500f900f200f7001a012201e700120102000a00",
+            "speaker_len": 14,
+            "speaker_offset": 4008,
+            "text_len": 80,
+            "text_offset": 4024,
             "warnings": 0
         },
         "speaker": "ジェントルマン",
@@ -249,8 +287,10 @@
     {
         "id": 19,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "23002300d300d30013010100ec001b011701190111010507e000210100050201fa00d300da00fc00ff0002000a00e7001201db000100c2029c06fa000e0ae000ff00de0cf000f500e6000d01d5002300230002000a00",
+            "speaker_len": 14,
+            "speaker_offset": 4126,
+            "text_len": 86,
+            "text_offset": 4142,
             "warnings": 0
         },
         "speaker": "ジェントルマン",
@@ -262,8 +302,10 @@
     {
         "id": 20,
         "internal": {
-            "speakerraw": "520149012501",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4316,
+            "text_len": 12,
+            "text_offset": 4324,
             "warnings": 0
         },
         "speaker": "バディ",
@@ -275,8 +317,10 @@
     {
         "id": 21,
         "internal": {
-            "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "d900d9002300230052014901250109000a000507e000fa00d80cf500de001b01ee00fd00da0008000a00",
+            "speaker_len": 14,
+            "speaker_offset": 4358,
+            "text_len": 42,
+            "text_offset": 4374,
             "warnings": 0
         },
         "speaker": "ジェントルマン",
@@ -288,8 +332,10 @@
     {
         "id": 272,
         "internal": {
-            "speakerraw": "0a0016ff",
-            "textraw": "edffc0ff0400ffff100066ff7c000000e8fe0200c1ff81011000ebfe000064ffffff1b00f0ff16003a01290175014a016d0160017501ffff090008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4460,
+            "text_len": 62,
+            "text_offset": 4466,
             "warnings": 14
         },
         "speaker": "\u0000\n",

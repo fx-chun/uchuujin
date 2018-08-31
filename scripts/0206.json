@@ -2,8 +2,10 @@
     {
         "id": 1,
         "internal": {
-            "speakerraw": "0cff",
-            "textraw": "23002300d3000100d300da00db00f600e6001601d500da0008000a00",
+            "speaker_len": 2,
+            "speaker_offset": 2244,
+            "text_len": 28,
+            "text_offset": 2248,
             "warnings": 0
         },
         "speaker": "",
@@ -15,8 +17,10 @@
     {
         "id": 2,
         "internal": {
-            "speakerraw": "3b0141011b006b01290b",
-            "textraw": "23002300230023002300230002000a00",
+            "speaker_len": 10,
+            "speaker_offset": 2302,
+            "text_len": 16,
+            "text_offset": 2314,
             "warnings": 0
         },
         "speaker": "スタ―ラ姫",
@@ -28,8 +32,10 @@
     {
         "id": 3,
         "internal": {
-            "speakerraw": "3b0141011b006b01290b",
-            "textraw": "5b09d300f90002000a00",
+            "speaker_len": 10,
+            "speaker_offset": 2346,
+            "text_len": 10,
+            "text_offset": 2358,
             "warnings": 0
         },
         "speaker": "スタ―ラ姫",

@@ -22,6 +22,8 @@ magic2  = None
 text    = None
 magic3  = None
 
+lastdialog = -1
+
 def resetVars():
     global rawread
     global magic1
@@ -131,7 +133,11 @@ while True:
             resetVars()
     elif magic1 and not magic2:
         if dialog < 0:
-            dialog = lbs
+            if lbs > lastdialog:
+                dialog = lbs
+                lastdialog = lbs
+            else:
+                resetVars()
         elif bs[0] == 0xff and bs[1] == 0xff and len(speaker) > 0:
             magic2 = True
         elif bs[0] == 0xff and bs[1] == 0xff:
@@ -146,6 +152,8 @@ while True:
             speaker.append(lbs)
     elif magic1 and magic2 and not magic3:
         if bs[0] == 0xfb and bs[1] == 0xff:
+            magic3 = True;
+        elif bs[0] == 0xfd and bs[1] == 0xff:
             magic3 = True;
         elif bs[0] == 0xfe and bs[1] == 0xff:
             text.append( ord('\n') )

@@ -155,6 +155,8 @@ while True:
             magic3 = True;
         elif bs[0] == 0xfd and bs[1] == 0xff:
             magic3 = True;
+        elif bs[0] == 0x98 and bs[1] == 0xff:
+            magic3 = True;
         elif bs[0] == 0xfe and bs[1] == 0xff:
             text.append( ord('\n') )
         else:

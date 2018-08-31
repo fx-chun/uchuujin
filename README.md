@@ -12,8 +12,8 @@ Contents
 ===
 
 uchuujin
-├── cgs (original CGs that need translating)
-├── cgs_translated (translated CGs) 
+├── cgs (original CGs & textures that need translating)
+├── cgs_translated (translated CGs & textures) 
 ├── scripts (original & translated text)
 └── src (tools to extract content)
 ```

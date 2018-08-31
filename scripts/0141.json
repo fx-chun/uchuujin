@@ -55,12 +55,25 @@
         "id": 4,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "e200e200fe009102bc046c0bfd006c0b6e0607016c05de00fd00fa00240be9006e091a01190a02000a00e200e200fa001309db0c210119064103e000f500d900e000ff002300230002000a00fdffedfffcff66ff46000000daff66ff1c0000001aff0300000000fe00001e0016fffffffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff02000000f9ff080066ff2a000000ebfe0100adffffff64ffffff0400f0ff05000e01e400f700ffff2900d1000100d80cee001e01fc0023002300f105f004010034032105e600f900e400d30009002a000a00",
-            "warnings": 55
+            "textraw": "e200e200fe009102bc046c0bfd006c0b6e0607016c05de00fd00fa00240be9006e091a01190a02000a00e200e200fa001309db0c210119064103e000f500d900e000ff002300230002000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "ここは演劇部の部室へ行くのに必ず通る道。\u0000\nここに地雷を仕掛けておけば……。\u0000\n　　，　　／、　？　，、　　ば\u0000\nば　。　？）　、．・みさと（あ、来たわね……笹原、覚悟しなさい！）\u0000\n",
+        "text": "ここは演劇部の部室へ行くのに必ず通る道。\u0000\nここに地雷を仕掛けておけば……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "2900d1000100d80cee001e01fc0023002300f105f004010034032105e600f900e400d30009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "（あ、来たわね……笹原、覚悟しなさい！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -328,12 +341,38 @@
         "id": 26,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "230023002300230002000a00fdffedfffcff66ff30000000edffc1ffffff1000afff03000000c1ff15011000ebfe0000adffffff64ffffff0c00f0ff1b007a05e0051208e207ffff230023002300230002000a00fdffedfffcff66ff30000000edffc1ffffff1000c1ff89001000ebfe0000adffffff64ffffff0400f0ff1c000e01e400f700ffff230023002300230002000a0098ff0000effe030097ff",
-            "warnings": 37
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "…………。\u0000\n｝　￣，　ゆ￣　―高崎先生…………。\u0000\n｝　￣￣　．みさと…………。\u0000\n　，",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -419,12 +458,25 @@
         "id": 35,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "090008000a0098ff0000effe030097fffdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe05000600070067ff0f00eefe10000400c1ff11011000ebfe000065ff09000b00f0ff2400ef0530021208e207ffffd1000100d100fd00200023002300f70cdc02e4002201230023000a00e2000100e2001b01fe003602b40808000a00",
-            "warnings": 23
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，．４　・：；￣．も￣　！桜井先生あ、あの〜……立花さん……\u0000\nこ、これは一体？\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d1000100d100fd00200023002300f70cdc02e4002201230023000a00e2000100e2001b01fe003602b40808000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "あ、あの〜……立花さん……\u0000\nこ、これは一体？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +614,51 @@
         "id": 47,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "800d800dda001801d80c1a01f7002b06f200f500d300ee002201f600e800db002300230002000a0098ff0000effe0a0097fffdffedfffcff66ff220000001aff0400000000fe00001e0016ffffffe8fe0200c1ff84001000ebfe000065ff15000400f0ff30000e01e400f700ffffd100f20001002d02d3000d01e800f20009000a00ef0530021208e20701000d010100ba08f200f500de00ef00e400d300f200090009000a00fdffedfffcff66ff220000001aff0300000000fe00001e0016fffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff080066ff59000000daffeffe0600eefe03000400faff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9f01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff0f011000ebfe0000adffffff65ff16000b00f0ff3100ef0530021208e207ffff230023002300230002000a00fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc0ff0300ffff100066ff2a0000001fff0400000000020000c0ff0400e600ff001aff04000000680000003c0016ffffffc1ffe6001000ebfe000065ff17000800f0ff3200f105f004ffffd900130108000000ec00e200fa00d3001a01fd00fe00f70cdc020e01e400f700da0008000a00e2002201f900f700e2001c01f600c5022101e600f500d3001a0102000a00",
-            "warnings": 135
+            "textraw": "800d800dda001801d80c1a01f7002b06f200f500d300ee002201f600e800db002300230002000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "弌弌から来ると思っていたんですが……。\u0000\n　\u0000\n　．　　／。￣　．｝みさとあっ、違いますっ！\u0000\n桜井先生、ま、待ってくださいっ！！\u0000\n　，　　／？　，、　　圧ば\u0000\nば　？　：，．、　？　，、　　ば\u0000\nば￣　。　？む￣　桜井先生…………。\u0000\n，、　め\u0000\n｝　，￣）　．　斡　．しば．　　し￣　？笹原おや？　そこにいるのは立花みさとか？\u0000\nこんなところで何をしている。\u0000\n",
+        "text": "弌弌から来ると思っていたんですが……。\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "d100f20001002d02d3000d01e800f20009000a00ef0530021208e20701000d010100ba08f200f500de00ef00e400d300f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "あっ、違いますっ！\u0000\n桜井先生、ま、待ってくださいっ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d900130108000000ec00e200fa00d3001a01fd00fe00f70cdc020e01e400f700da0008000a00e2002201f900f700e2001c01f600c5022101e600f500d3001a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "おや？　そこにいるのは立花みさとか？\u0000\nこんなところで何をしている。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +666,38 @@
         "id": 51,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "230023001d09d300230023001e01170102000a00fdffedfffcff1aff0300000078ff10010a0016ffffff66ff30000000edffc0ff0300ffff1000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff19000800f0ff3400f105f004ffff23002300fe00f50008000a0098ff0000effe0b0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff08011000ebfe000065ff1a000b00f0ff3500ef0530021208e207fffff7000100f700fa00da00de006908de00b30bce046e060701230023000a00f70cdc02e400220101009c06c109f200f50009000a00",
-            "warnings": 71
+            "textraw": "230023001d09d300230023001e01170102000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "……遅い……わよ。\u0000\n，　め\u0000\n｝　，￣？　　，、　　悪ば\u0000\nば　？　〆？笹原……はて？\u0000\n　　？べ￣　桜井先生と、とにかく早く保健室へ……\u0000\n立花さん、手伝って！\u0000\n",
+        "text": "……遅い……わよ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300fe00f50008000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……はて？\u0000\n　",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "f7000100f700fa00da00de006908de00b30bce046e060701230023000a00f70cdc02e400220101009c06c109f200f50009000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "と、とにかく早く保健室へ……\u0000\n立花さん、手伝って！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -822,12 +939,25 @@
         "id": 72,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "230023002300230002000a0098ff0000b8ffeffe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff89001000ebfe000065ff2e000400f0ff49000e01e400f700ffffd7002000f200f70023002300ec00fd0001000a006f0dea00ff005b09de00f9001a012201f600e800e000f8002300230002000a00",
-            "warnings": 25
+            "textraw": "230023002300230002000a0098ff0000b8ffeffe030097ff",
+            "warnings": 4
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？￣￣　．みさとえ〜っと……その、\u0000\n話せば長くなるんですけど……。\u0000\n",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "d7002000f200f70023002300ec00fd0001000a006f0dea00ff005b09de00f9001a012201f600e800e000f8002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "え〜っと……その、\u0000\n話せば長くなるんですけど……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1114,6 +1244,19 @@
         "speaker": "みさと",
         "speaker_translation": "",
         "text": "別に、あんたをはめてやろうと思って\u0000\n私が地雷埋めたわけじゃないんだからっ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 96,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

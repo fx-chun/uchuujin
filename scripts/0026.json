@@ -302,12 +302,25 @@
         "id": 23,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "230023003701450153016c011e01da001801220102000a002a013b014801f9002201f5003b04350cf900d300da001801f90002000a00fdffedfffcffedffc1ffffff100066ff1c000000daffc1ff00001000ebfe000064ffffff0000f0ff1800f900fd00ffff6c06370de6000d011b00e80002000a001208e207010045060f0d5106f200f500dc000d01e600ee0017011b0002000a00",
-            "warnings": 16
+            "textraw": "230023003701450153016c011e01da001801220102000a002a013b014801f9002201f5003b04350cf900d300da001801f90002000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "……サッパリわからん。\u0000\nエステなんて興味ないからな。\u0000\n￣　　￣　　なの失礼しま―す。\u0000\n先生、資料持ってきましたよ―。\u0000\n",
+        "text": "……サッパリわからん。\u0000\nエステなんて興味ないからな。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "6c06370de6000d011b00e80002000a001208e207010045060f0d5106f200f500dc000d01e600ee0017011b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "失礼しま―す。\u0000\n先生、資料持ってきましたよ―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +653,12 @@
         "id": 50,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "e400010074071801ea001c012300230008000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "e400010074071801ea001c012300230008000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "さ、触らせろ……？\u0000\n．・",
+        "text": "さ、触らせろ……？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -822,12 +835,25 @@
         "id": 64,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "da0c0f01da001801230023000a009905fd00e200f700fe00fa04d30004011801e400f900d300f600de001b0117012300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe0a000400c1ffc5001000ebfe000065ff13000600f0ff41002a09a2081208e207ffffec001b01ef00e00038061101240b3406ef00f700d300d500e200f700ef0002000a00c30afd0033012401fe009905da001801f60011011d09d300de001801d300ef00da001801f90002000a00",
-            "warnings": 24
+            "textraw": "da0c0f01da001801230023000a009905fd00e200f700fe00fa04d30004011801e400f900d300f600de001b0117012300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "頼むから……\u0000\n今のことは言いふらさないでくれよ……。\u0000\n　，　？￣\u0000\n．ｏ￣　：中村先生それだけ私も必死だということだ。\u0000\n肌のケアは今からでも遅いくらいだからな。\u0000\n",
+        "text": "頼むから……\u0000\n今のことは言いふらさないでくれよ……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "ec001b01ef00e00038061101240b3406ef00f700d300d500e200f700ef0002000a00c30afd0033012401fe009905da001801f60011011d09d300de001801d300ef00da001801f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "それだけ私も必死だということだ。\u0000\n肌のケアは今からでも遅いくらいだからな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -978,12 +1004,25 @@
         "id": 77,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "99055a0afd00fa06fe00230023004402dc00b80ce100ef0009000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ffc5001000ebfe000065ff20000600f0ff4e002a09a2081208e207ffff23002300d30013010100e8000d0122010200e2002201f900e200f7002101da0c10011a019907fe000a00a408fa00d300f900de00f500f900230023001d07e6003507f200f500e6000d01f200ee0002000a00",
-            "warnings": 22
+            "textraw": "99055a0afd00fa06fe00230023004402dc00b80ce100ef0009000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "今日の所は……引き揚げだ！\u0000\n　\u0000\n　？￣ｏ￣　〜：中村先生……いや、すまん。こんなことを頼める人は\u0000\n他にいなくてな……少し焦ってしまった。\u0000\n",
+        "text": "今日の所は……引き揚げだ！\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 78,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "23002300d30013010100e8000d0122010200e2002201f900e200f7002101da0c10011a019907fe000a00a408fa00d300f900de00f500f900230023001d07e6003507f200f500e6000d01f200ee0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "……いや、すまん。こんなことを頼める人は\u0000\n他にいなくてな……少し焦ってしまった。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1166,6 +1205,19 @@
         "speaker": "中村先生",
         "speaker_translation": "",
         "text": "あっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 93,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "6001450137011b003a01e600ee00ef00e000f60001000a00c50211015609080118011b01f900da00f200ee00090009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "マッサ―ジしただけで、\u0000\n何も調べられなかった！！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

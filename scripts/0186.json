@@ -146,12 +146,25 @@
         "id": 11,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "6c0ce707db00230023000a00e200fd00780334030100d100fd005206f7000f0ae7002300230002000a00fdffedfffcff66ff70000000c0ff030050021000daffe8fe0200c1ffda001000ebfe000065ff0c000700f0ff0c00170c2b02ffff090008000a00",
-            "warnings": 15
+            "textraw": "6c0ce707db00230023000a00e200fd00780334030100d100fd005206f7000f0ae7002300230002000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "木製が……\u0000\nこの感覚、あの時と同じ……。\u0000\n　，烏￣。か￣　；麻衣！？\u0000\n",
+        "text": "木製が……\u0000\nこの感覚、あの時と同じ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },

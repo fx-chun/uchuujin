@@ -237,12 +237,25 @@
         "id": 18,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "d100f2000100d100f200ee000200e200fd005e01410175012101800d800d0a00fdffedfffcff67ffffff66ff03000000dafff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff8d000000daffbeff0300ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff110071ff000063ffffff90ffffffedfff9ff0800effe0700e8fe0200ebfe000064ffffff0000f0ff1300f900fd00fffff0001601f200090008000a00f9002201f500640150012101190696052201f6001a012201f600e800da00090008000a00",
-            "warnings": 47
+            "textraw": "d100f2000100d100f200ee000200e200fd005e01410175012101800d800d0a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "あっ、あった。このボタンを弌弌\u0000\n，　？　，、　　，ば\u0000\nば　？；。　　なのちょっ！？\u0000\nなんてモノを仕込んでるんですか！？\u0000\n",
+        "text": "あっ、あった。このボタンを弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "f0001601f200090008000a00f9002201f500640150012101190696052201f6001a012201f600e800da00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "ちょっ！？\u0000\nなんてモノを仕込んでるんですか！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -328,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "2900d700d700d7001b001b000900090008002a000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700eefe10000400e8fe0200c1ff03001000ebfe000065ff04000000f0ff1b00f900fd00ffff3806fe003206e7001201f900de00f5000a00e200fd00bc0afd002e01620148011b005901210104081901ee00d3002201f600e80009000a0098ff0000effe020097ff",
-            "warnings": 19
+            "textraw": "2900d700d700d7001b001b000900090008002a000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "（えええ――！！？）\u0000\n．４　\u0000\n・：；￣．。，￣　．　―なの私は枝じゃなくて\u0000\nこの箱のガムテ―プを切りたいんです！\u0000\n　。",
+        "text": "（えええ――！！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "3806fe003206e7001201f900de00f5000a00e200fd00bc0afd002e01620148011b005901210104081901ee00d3002201f600e80009000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "私は枝じゃなくて\u0000\nこの箱のガムテ―プを切りたいんです！\u0000\n　。",
         "text_translation": "",
         "type": "dialog"
     },
@@ -458,12 +484,25 @@
         "id": 37,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "f900fd001b001b0009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ff00001000ebfe0100adffffff65ff0f000000f0ff2600f900fd00ffff2900d1000100fe00da00ea000100f0001601f200f700dc09f200f5001a01230023000a000000c103d5042101a108fc00ee0018016009e600f50011011801d700f900d300e600230023002a000a00",
-            "warnings": 23
+            "textraw": "f900fd001b001b0009000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "なの――！\u0000\n　？　￣、　なの（あ、はかせ、ちょっと怒ってる……\u0000\n　機嫌を損ねたら直してもらえないし……）\u0000\n",
+        "text": "なの――！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "2900d1000100fe00da00ea000100f0001601f200f700dc09f200f5001a01230023000a000000c103d5042101a108fc00ee0018016009e600f50011011801d700f900d300e600230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（あ、はかせ、ちょっと怒ってる……\u0000\n　機嫌を損ねたら直してもらえないし……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -666,12 +705,25 @@
         "id": 54,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "3c08f500db00230023001d09e800dd00ee002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff02001000ebfe000065ff20000000f0ff3700f900fd00ffff6009e600f500de00ef00e400d3001701fe00da00ea00200002000a00",
-            "warnings": 21
+            "textraw": "3c08f500db00230023001d09e800dd00ee002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "全てが……遅すぎた……。\u0000\n　，　？。￣　〜　なの直してくださいよはかせ〜。\u0000\n",
+        "text": "全てが……遅すぎた……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "6009e600f500de00ef00e400d3001701fe00da00ea00200002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "直してくださいよはかせ〜。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "23002300e7001201d10001006009e80002000a00fdffedfffcff67ffffff66ff03000000daff66ff7600000067ff0b00c1ff05001000ebfe000065ff26000000f0ff3d00f900fd00ffff3c08de00230023001f05f600f00012012201f7006009e600f500de00ef00e400d300170102000a00",
-            "warnings": 18
+            "textraw": "23002300e7001201d10001006009e80002000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "……じゃあ、直す。\u0000\n，　　・￣　　なの全く……後でちゃんと直してくださいよ。\u0000\n",
+        "text": "……じゃあ、直す。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "3c08de00230023001f05f600f00012012201f7006009e600f500de00ef00e400d300170102000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "全く……後でちゃんと直してくださいよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -815,6 +880,19 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "……腐ってます。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "2300230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "……………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

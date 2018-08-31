@@ -367,12 +367,12 @@
         "id": 28,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "d100fd0002000a00ef00f200ee001801c502fd00ee001001fa004b0dbc06e600f500ee002201f600e800da0008000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "d100fd0002000a00ef00f200ee001801c502fd00ee001001fa004b0dbc06e600f500ee002201f600e800da0008000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "あの。\u0000\nだったら何のために練習してたんですか？\u0000\n．　４・",
+        "text": "あの。\u0000\nだったら何のために練習してたんですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "35011b0054011b0001000d01ef00d80cf500f900d300fd00fa0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffec001000ebfe000065ff12000900f0ff2c00cd084105ffffec00190112014d0bdc007f05d300ef00da001801fa00c4040d01f200f5001a01ef001c0108000a000501f200f0001201e0004b0dbc06f700da0010012201f800de00e400d300e600e40002000a00",
-            "warnings": 22
+            "textraw": "35011b0054011b0001000d01ef00d80cf500f900d300fd00fa0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "コ―ヒ―、まだ来てないのに。\u0000\n　，　？そ￣　！大工そりゃ付き合いだからに決まってるだろ？\u0000\nぶっちゃけ練習とかめんどくさいしさ。\u0000\n",
+        "text": "コ―ヒ―、まだ来てないのに。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "ec00190112014d0bdc007f05d300ef00da001801fa00c4040d01f200f5001a01ef001c0108000a000501f200f0001201e0004b0dbc06f700da0010012201f800de00e400d300e600e40002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "そりゃ付き合いだからに決まってるだろ？\u0000\nぶっちゃけ練習とかめんどくさいしさ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -822,12 +835,25 @@
         "id": 64,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "23002300fe000100fe00d30002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffeb001000ebfe000065ff27000900f0ff4100cd084105ffffec0019011201c4040d01f200f5001a01ef001c0108000a00",
-            "warnings": 22
+            "textraw": "23002300fe000100fe00d30002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "……は、はい。\u0000\n　，　？ぜ￣　！大工そりゃ決まってるだろ？\u0000\n",
+        "text": "……は、はい。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "ec0019011201c4040d01f200f5001a01ef001c0108000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "そりゃ決まってるだろ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1088,6 +1114,19 @@
         "speaker": "関口",
         "speaker_translation": "",
         "text": "（みんなのためなのを認めるのが\u0000\n　恥ずかしいんだ……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 86,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "290023002300c4034d0bd300f500f900d30057016c01e6001701d5002a000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "（……気付いてないフリしよう）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

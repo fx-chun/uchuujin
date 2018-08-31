@@ -354,12 +354,12 @@
         "id": 27,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "2300230023002300090009000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "2300230023002300090009000a00",
+            "warnings": 0
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "…………！！\u0000\n．・",
+        "text": "…………！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "29003806fe00cd08770bfd008c07f200f50098032d02d700ee00e7001201f900d300da00090009002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1fff7001000ebfe0100adffffff65ff16000a00f0ff2a002a09730a6007ffff2900da0001000f07f200ee002300230009000a000000e2001b01f600010cfe00d900600421017d0b1e01f900de00f5001101230023002a000a00",
-            "warnings": 23
+            "textraw": "29003806fe00cd08770bfd008c07f200f50098032d02d700ee00e7001201f900d300da00090009002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "（私は大福の神って間違えたじゃないか！！）\u0000\n　，　？と￣、\u0000\n）中之条（か、勝った……！\u0000\n　これで僕はお金を払わなくても……）\u0000\n",
+        "text": "（私は大福の神って間違えたじゃないか！！）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900da0001000f07f200ee002300230009000a000000e2001b01f600010cfe00d900600421017d0b1e01f900de00f5001101230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（か、勝った……！\u0000\n　これで僕はお金を払わなくても……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +731,25 @@
         "id": 56,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "f9002201f6003b0125011b00460158016f013201f9002201f5000a001301f200f5001a012201ef0023002300090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1fffb001000ebfe0100adffffff65ff25000a00f0ff39002a09730a6007ffff2900e400d1000100f800d500de001a0108002a000a00",
-            "warnings": 24
+            "textraw": "f9002201f6003b0125011b00460158016f013201f9002201f5000a001301f200f5001a012201ef0023002300090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "なんでスィ―ツブログなんて\u0000\nやってるんだ……！！\u0000\n　，　？ぬ￣、\u0000\n中之条（さあ、どうくる？）\u0000\n",
+        "text": "なんでスィ―ツブログなんて\u0000\nやってるんだ……！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900e400d1000100f800d500de001a0108002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（さあ、どうくる？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -854,6 +880,19 @@
         "speaker": "中之条",
         "speaker_translation": "",
         "text": "…………！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "f9002201f0001201f200f500e7001201f900d300170123002300090009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "なんちゃってじゃないよ……！！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

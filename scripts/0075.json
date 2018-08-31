@@ -94,12 +94,25 @@
         "id": 7,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "d1000100d1001e011e01f20009000000f800d500e6001701f20001000d01ee00090008000a00fdffedfffcfffcffedffc1ffffff100066ff50000000daffe8fe0200ebfe000064ffffff1400f0ff08000c022a09ffffdc001201f20001002d0152017501db00090009000a00",
-            "warnings": 17
+            "textraw": "d1000100d1001e011e01f20009000000f800d500e6001701f20001000d01ee00090008000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "あ、あわわっ！　どうしよっ、また！？\u0000\n￣　。　？安中きゃっ、カバンが！！\u0000\n",
+        "text": "あ、あわわっ！　どうしよっ、また！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 8,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "dc001201f20001002d0152017501db00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "きゃっ、カバンが！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -107,12 +120,25 @@
         "id": 9,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "f800d500e6001701d50009000a00e400f200dc001701190159061d0ddb00d207d3002201f600e800e000f80009000a00fdffedfffcffedffc1ffffff100066ff500000001fff0300000000020000c1ff250110001aff0300000000fe00000a00e8fe0200ebfe000064ffffff0d00f0ff0a00db05100ce4002201ffffdf00d900d900d900d9001b001b00f200090008000a00",
-            "warnings": 19
+            "textraw": "f800d500e6001701d50009000a00e400f200dc001701190159061d0ddb00d207d3002201f600e800e000f80009000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "どうしよう！\u0000\nさっきより磁力が凄いんですけど！\u0000\n￣　，　斡　ィ￣，　　\u0000\n。　\u0000\n阪本さんぐおおおお――っ！？\u0000\n",
+        "text": "どうしよう！\u0000\nさっきより磁力が凄いんですけど！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "db05100ce4002201",
+            "textraw": "df00d900d900d900d9001b001b00f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "阪本さん",
+        "speaker_translation": "",
+        "text": "ぐおおおお――っ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -315,12 +341,12 @@
         "id": 26,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "0507e000f500de001b011b0009000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "0507e000f500de001b011b0009000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "助けてくれ―！\u0000\n．　４・",
+        "text": "助けてくれ―！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "2900d700d7001b001b001b00f2000900090008002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffa900ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff160071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff1a001400f0ff2f000c022a09ffff1208e2070100cd0854074f0bf600e800da00090008000a00",
-            "warnings": 54
+            "textraw": "2900d700d7001b001b001b00f2000900090008002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "（ええ―――っ！！？）\u0000\n　，　？？　，、　　Ｍば\u0000\nば　？。　｛安中先生、大丈夫ですか！？\u0000\n",
+        "text": "（ええ―――っ！！？）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "1208e2070100cd0854074f0bf600e800da00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "先生、大丈夫ですか！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -757,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "2300230042016301ef00e2001901120102000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe09000400c1ff59011000ebfe000065ff29001400f0ff3e000c022a09ffffd100f2000100d700f200f7000100f800d500e60017012300230002000a00",
-            "warnings": 20
+            "textraw": "2300230042016301ef00e2001901120102000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "……ダメだこりゃ。\u0000\n　？！．プ￣　（安中あっ、えっと、どうしよ……。\u0000\n",
+        "text": "……ダメだこりゃ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "d100f2000100d700f200f7000100f800d500e60017012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "あっ、えっと、どうしよ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +848,25 @@
         "id": 65,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "e2001b0121011c06d700ff00230023001208e207010099050507e0000d01e800fc0009000a00fdffedfffcff67ffffff66ff03000000daffedffc1ffffff1000edfffcff66ff7900000019ffffffff00ff0080000a0016ffffff19ffffffff00ff00ff000a0016ffffffb3ff0300e8fe0200ebfe000065ff2d000c00f0ff42007a05e0051208e207fffffb00d900d900d900d900d900f200090008000a0098ff0000effe020097ff",
-            "warnings": 35
+            "textraw": "e2001b0121011c06d700ff00230023001208e207010099050507e0000d01e800fc0009000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "これを使えば……先生、今助けますね！\u0000\n，　￣　ばば\u0000\nばばば\u0000\n，。　高崎先生ぬおおおおおっ！？\u0000\n　。",
+        "text": "これを使えば……先生、今助けますね！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "fb00d900d900d900d900d900f200090008000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "ぬおおおおおっ！？\u0000\n　。",
         "text_translation": "",
         "type": "dialog"
     },
@@ -887,12 +952,38 @@
         "id": 73,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "ee0001000507da00f200ee00da00180123002300d300d30001001701fc0008000a0098ff0000effe030097fffdffedfffcff1aff03000000680000003c0016ffffffc1ff57011000adff0400ebfe0000aeff0400800065ff35001400f0ff4a000c022a09ffff230023002300230002000a00",
-            "warnings": 22
+            "textraw": "ee0001000507da00f200ee00da00180123002300d300d30001001701fc0008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "た、助かったから……いい、よね？\u0000\n　，，　　フ￣．　．安中…………。\u0000\n",
+        "text": "た、助かったから……いい、よね？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 75,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "2900060ae1001701d500f20009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "（逃げようっ！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

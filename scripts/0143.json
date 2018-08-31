@@ -588,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "230023002300230002000a0098ff0000effe0a0097fffdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe050006000700edffc1ffffff1000c1ff67001000ebfe0000adffffff65ff05000300f0ff2e000e01d900ffff230023002300230002000a00",
-            "warnings": 25
+            "textraw": "230023002300230002000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　\u0000\n．４　・：；￣￣　・，みお…………。\u0000\n",
+        "text": "…………。\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -757,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "d50023002300d500d5002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffe8fe0200c0ff030062001000ebfe000065ff13000300f0ff3c000e01d900ffff63012e014f010100d300d300e70012012201090009000a00",
-            "warnings": 26
+            "textraw": "d50023002300d500d5002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "う……うう……。\u0000\n　，　？。，￣　，みおメガネ、いいじゃん！！\u0000\n",
+        "text": "う……うう……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "63012e014f010100d300d300e70012012201090009000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "メガネ、いいじゃん！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1121,12 +1147,25 @@
         "id": 88,
         "internal": {
             "speakerraw": "0e01d9002406",
-            "textraw": "e200fd000f07610b01004402dc00820be00009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c0ff040069011000ebfe000065ff30001800f0ff59000e01d9002406ffff0d01d1000d01d100010063012e014f01f60011019102bc046c0bf60011010a00f9002201f6001101d300d3001701200002000a00",
-            "warnings": 23
+            "textraw": "e200fd000f07610b01004402dc00820be00009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みお姉",
         "speaker_translation": "",
-        "text": "この勝負、引き分け！\u0000\n　，　？￣．ョ￣　｝みお姉まあまあ、メガネでも演劇部でも\u0000\nなんでもいいよ〜。\u0000\n",
+        "text": "この勝負、引き分け！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 89,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "0d01d1000d01d100010063012e014f01f60011019102bc046c0bf60011010a00f9002201f6001101d300d3001701200002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "まあまあ、メガネでも演劇部でも\u0000\nなんでもいいよ〜。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1465,6 +1504,19 @@
         "speaker": "みさと",
         "speaker_translation": "",
         "text": "美味しいから、まずくて苦くて吐きそうだ\u0000\nなんてこと全然ありませんからねっ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 116,
+        "internal": {
+            "speakerraw": "1501f200e20054000e01d900",
+            "textraw": "23002300d500220102000a001301f20000011901010060013c0126011701fc0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ＆みお",
+        "speaker_translation": "",
+        "text": "……うん。\u0000\nやっぱり、マズイよね。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

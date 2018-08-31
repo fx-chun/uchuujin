@@ -146,12 +146,25 @@
         "id": 11,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "d700d700010099050d01e400fa00ec00e200fa00090009000a00fdffedfffcff67ffffffedffc1ffffff1000fcff66ff7f000000c1ff25011000daffc1ff25011000ebfe0100adffffff64ffffff0d00f0ff0c00db05100ce4002201ffff2900230023000f0108002a000a00",
-            "warnings": 23
+            "textraw": "d700d700010099050d01e400fa00ec00e200fa00090009000a00",
+            "warnings": 0
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "ええ、今まさにそこに！！\u0000\n￣　ィ￣ィ￣、阪本さん（……む？）\u0000\n",
+        "text": "ええ、今まさにそこに！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "db05100ce4002201",
+            "textraw": "2900230023000f0108002a000a00",
+            "warnings": 0
+        },
+        "speaker": "阪本さん",
+        "speaker_translation": "",
+        "text": "（……む？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -211,12 +224,25 @@
         "id": 17,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "9905e800df00fa00d807900ae600f500130119010d01e6001601d50009000a002f012a012a012a012a012a01090009000a00fdffedfffcfffcffbcffabd11000c1ff2501100066ff38000000e8fe0200c1ff2f011000ebfe000064ffffff0d00f0ff1200db05100ce4002201ffffd500d900d900f200090008000000d1000501fc00d6001b00f20009000a00f900fa00ea09e100ee000100e200fd005201520124011b001b004501090009000a00",
-            "warnings": 18
+            "textraw": "9905e800df00fa00d807900ae600f500130119010d01e6001601d50009000a002f012a012a012a012a012a01090009000a00",
+            "warnings": 0
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "今すぐに成敗してやりましょう！\u0000\nキエエエエエ！！\u0000\n￣ィ￣　。キ￣　阪本さんうおおっ！？　あぶねぇ―っ！\u0000\nなに投げた、このババア――ッ！！\u0000\n",
+        "text": "今すぐに成敗してやりましょう！\u0000\nキエエエエエ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "db05100ce4002201",
+            "textraw": "d500d900d900f200090008000000d1000501fc00d6001b00f20009000a00f900fa00ea09e100ee000100e200fd005201520124011b001b004501090009000a00",
+            "warnings": 0
+        },
+        "speaker": "阪本さん",
+        "speaker_translation": "",
+        "text": "うおおっ！？　あぶねぇ―っ！\u0000\nなに投げた、このババア――ッ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -393,12 +419,25 @@
         "id": 32,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "970013088702fa00f90019010d01e80002000a0098ff0000effe0a0097fffdff7fff040002ff01ff000032000f00cefff1ff960000fffffe05000600070067ff1100eefe05000400e8fe0200c1ff1a011000ebfe000065ff06000c00f0ff21007a05e0051208e207ffff0401e500e0001a012201e7001201f900d300090009000a00",
-            "warnings": 24
+            "textraw": "970013088702fa00f90019010d01e80002000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "５千円になります。\u0000\n　\u0000\n．　４・：；・．。る￣　：高崎先生ふざけるんじゃない！！\u0000\n",
+        "text": "５千円になります。\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "0401e500e0001a012201e7001201f900d300090009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "ふざけるんじゃない！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -497,12 +536,38 @@
         "id": 41,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2900ec001b01f600e200ec0033042906fd00970302000a000000e207cc09fd00ee001001fa00aa034709f200ee00f9002a000a00fdffedfffcff1fff0300000000fe0000c0ff0300820110001aff0300000010ff00001e0016ffffffadff0300ebfe000065ff0f001c00f0ff2a00260141013501ffffd10001001f051c01fa00f7013c0ddb0002000a00fdffedfffcff1aff0300000000fe00001e0016ffffffe8fe020066ff7e000000c1ff17011000ebfe000065ff10000c00f0ff2b007a05e0051208e207ffff090008000a00",
-            "warnings": 35
+            "textraw": "2900ec001b01f600e200ec0033042906fd00970302000a000000e207cc09fd00ee001001fa00aa034709f200ee00f9002a000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（それでこそ教師の鑑。\u0000\n　生徒のために頑張ったな）\u0000\n，　　，￣，　　／，　）イタコあ、後ろに悪霊が。\u0000\n，　　／。　よ￣　￣高崎先生！？\u0000\n",
+        "text": "（それでこそ教師の鑑。\u0000\n　生徒のために頑張ったな）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "d10001001f051c01fa00f7013c0ddb0002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "あ、後ろに悪霊が。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -510,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2300230023002300e006f500d300e0001b00f200090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1300c1ff16011000ebfe000065ff12000c00f0ff2d007a05e0051208e207ffff230023001e01da0019010d01e600ee0002000a00970013088702d900e006e600e6000d01e6001601d50002000a00",
-            "warnings": 25
+            "textraw": "2300230023002300e006f500d300e0001b00f200090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "…………出ていけ―っ！！\u0000\n　，　？ょ￣　高崎先生……わかりました。\u0000\n５千円お出ししましょう。\u0000\n",
+        "text": "…………出ていけ―っ！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "230023001e01da0019010d01e600ee0002000a00970013088702d900e006e600e6000d01e6001601d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "……わかりました。\u0000\n５千円お出ししましょう。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -679,12 +757,25 @@
         "id": 58,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2900d700d7001b001b001b001b00f20009000900090008002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe10000400c1ff12011000ebfe000065ff20000c00f0ff3b007a05e0051208e207ffff23002300d100fd001b0002000a00",
-            "warnings": 24
+            "textraw": "2900d700d7001b001b001b001b00f20009000900090008002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（ええ――――っ！！！？）\u0000\n　，　？￣￣．ゃ￣　〜高崎先生……あの―。\u0000\n",
+        "text": "（ええ――――っ！！！？）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "23002300d100fd001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "……あの―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -854,6 +945,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "あっ！！\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "ba08f500f200090009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "待てっ！！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

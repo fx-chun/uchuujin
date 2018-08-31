@@ -315,12 +315,25 @@
         "id": 24,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "de00f3001c01d300f6001a015a077f05e7001201f900d300f600e800170109000a0098ff0000effe030097fffdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe05000600070067ffffffc1ff69011000ebfe000065ff04001800f0ff19000e01d9002406ffff23002300d70008000a00",
-            "warnings": 20
+            "textraw": "de00f3001c01d300f6001a015a077f05e7001201f900d300f600e800170109000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "くつろいでる場合じゃないですよ！\u0000\n　，．\u0000\n４　・：；ョ￣　．〆みお姉……え？\u0000\n",
+        "text": "くつろいでる場合じゃないですよ！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "23002300d70008000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "……え？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -419,12 +432,25 @@
         "id": 33,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "23002300ef000100cd083c03fe0008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffedffc1ffffff1000c1ff86011000ebfe000065ff0d001d00f0ff22004a04a208ffff230023000d010100f600110101005b09800cf004e40022011801e600d300da00f90002000a00ec001b011701190101001f05a80b4d0be0001f05a80b4d0be00002000a00",
-            "warnings": 27
+            "textraw": "23002300ef000100cd083c03fe0008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "……だ、大学は？\u0000\n　，　？￣￣　玉村……ま、でも、長野原さんらしいかな。\u0000\nそれより、後片付け後片付け。\u0000\n",
+        "text": "……だ、大学は？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "230023000d010100f600110101005b09800cf004e40022011801e600d300da00f90002000a00ec001b011701190101001f05a80b4d0be0001f05a80b4d0be00002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "……ま、でも、長野原さんらしいかな。\u0000\nそれより、後片付け後片付け。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -471,12 +497,25 @@
         "id": 38,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "800d800dd900d805530b090008000a00fdffedfffcfffcffedffc1ffffff100066ff12000000daffc1ff69011000ebfe000065ff12001800f0ff27000e01d9002406ffffe30010012201e300100122010100ee0b1b01f500ee0017011b0002000a00",
-            "warnings": 18
+            "textraw": "800d800dd900d805530b090008000a00",
+            "warnings": 0
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "弌弌お財布！？\u0000\n￣　ョ￣　みお姉ごめんごめん、忘れてたよ―。\u0000\n",
+        "text": "弌弌お財布！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "e30010012201e300100122010100ee0b1b01f500ee0017011b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "ごめんごめん、忘れてたよ―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +757,25 @@
         "id": 58,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "60013c011b001b001b001b001b001b001b00090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff6a011000ebfe000065ff26001800f0ff3b000e01d9002406ffff950bc403950bc40302003602f902de001801d300f9032201ef00f200f5000a00f800d500f200f500e200f700f900d300f200f50002000a0098ff0000effe0a0097ff",
-            "warnings": 26
+            "textraw": "60013c011b001b001b001b001b001b001b00090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "マズ―――――――！？\u0000\n　，　？ヨ￣　みお姉平気平気。一回くらい休んだって\u0000\nどうってことないって。\u0000\n　\u0000\n",
+        "text": "マズ―――――――！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "950bc403950bc40302003602f902de001801d300f9032201ef00f200f5000a00f800d500f200f500e200f700f900d300f200f50002000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "平気平気。一回くらい休んだって\u0000\nどうってことないって。\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -880,6 +932,19 @@
         "speaker": "玉村",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "2300230023002300d102f900fd0008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "…………暇なの？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -484,12 +484,12 @@
         "id": 37,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "230023002300230002000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．・",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +692,25 @@
         "id": 53,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "1701e60001006c05e000d300f200010035013a016f01280109000a00ec021801db003c0302017d060701090009000a00fdffedfffcfff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff45000000daffbcffff01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800f3ffebfe0000adffffff65ff13002c00f0ff36006b064a06ffff230023002300230002000a00",
-            "warnings": 45
+            "textraw": "1701e60001006c05e000d300f200010035013a016f01280109000a00ec021801db003c0302017d060701090009000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "よし、行けいっ、コジロウ！\u0000\n我らが学び舎へ！！\u0000\n？　，、　　圧ば\u0000\nば　？　執事…………。\u0000\n",
+        "text": "よし、行けいっ、コジロウ！\u0000\n我らが学び舎へ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "6b064a06",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "執事",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +718,25 @@
         "id": 55,
         "internal": {
             "speakerraw": "6b064a06",
-            "textraw": "230023002300230023002300dc0014010100ff03fe03880602000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffaf00ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff15000800f0ff3800f105f004ffff0f01d40023002300f9002201f7002504f10bf90002000a00",
-            "warnings": 53
+            "textraw": "230023002300230023002300dc0014010100ff03fe03880602000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "執事",
         "speaker_translation": "",
-        "text": "………………きゅ、救急車。\u0000\n　，　？￣．？　　，、　　Ｓば\u0000\nば　？　？笹原むぅ……なんと凶暴な。\u0000\n",
+        "text": "………………きゅ、救急車。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0f01d40023002300f9002201f7002504f10bf90002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "むぅ……なんと凶暴な。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -835,12 +861,25 @@
         "id": 66,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "f9001801ff000100c502db0061062101e200d500e400ea00f500d3001a01da00230023000a00ec001b01fe00e800f9001e01f00001009308ef04ef0002000a00fdffedfffcfffcfff5ff0800b5ff0100bcffb7011000c1ff8b011000f6ff0800ebfe000065ff20000800f0ff4300f105f004ffffe400f200dc0001006106fd009308ef04fa00dc02db00e504d700ee0002000a00d100d300f300fe00ec001b0121019b06f200f500d300ee00fd00ef0002000a0098ff0000effe0700eefe1100040097ff",
-            "warnings": 21
+            "textraw": "f9001801ff000100c502db0061062101e200d500e400ea00f500d3001a01da00230023000a00ec001b01fe00e800f9001e01f00001009308ef04ef0002000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "ならば、何が鹿をこうさせているか……\u0000\nそれはすなわち、足元だ。\u0000\n？、￣￣？　〜？笹原さっき、鹿の足元に花が見えた。\u0000\nあいつはそれを守っていたのだ。\u0000\n　；．",
+        "text": "ならば、何が鹿をこうさせているか……\u0000\nそれはすなわち、足元だ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "e400f200dc0001006106fd009308ef04fa00dc02db00e504d700ee0002000a00d100d300f300fe00ec001b0121019b06f200f500d300ee00fd00ef0002000a0098ff0000effe0700eefe1100040097ff",
+            "warnings": 5
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "さっき、鹿の足元に花が見えた。\u0000\nあいつはそれを守っていたのだ。\u0000\n　；．",
         "text_translation": "",
         "type": "dialog"
     },
@@ -848,12 +887,25 @@
         "id": 68,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "2900f700fe00fa04d70023002300d100fd006106010035013a016f012801f700fd000f07610bfa0011010a000000980b1800f9001801fb003b04350cdb00d100f200ee001701d500ef00db00f9002a000a00fdffedfffcfffcfff5ff0800b4ffbcfffe011000bcffb7011000c1ffe6001000f6ff0800ebfe000065ff22000800f0ff4500f105f004ffff800d800dd300e9001b01fa00ea00170101000a001908d3001701190113011a010801dc00db00d100f200ee00f700d300d500e200f700ef0002000a00",
-            "warnings": 18
+            "textraw": "2900f700fe00fa04d70023002300d100fd006106010035013a016f012801f700fd000f07610bfa0011010a000000980b1800f9001801fb003b04350cdb00d100f200ee001701d500ef00db00f9002a000a00",
+            "warnings": 1
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "（とは言え……あの鹿、コジロウとの勝負にも\u0000\n　並ならぬ興味があったようだがな）\u0000\n？梓￣￣し￣？　？笹原弌弌いずれにせよ、\u0000\n戦いよりやるべきがあったということだ。\u0000\n",
+        "text": "（とは言え……あの鹿、コジロウとの勝負にも\u0000\n　並ならぬ興味があったようだがな）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "800d800dd300e9001b01fa00ea00170101000a001908d3001701190113011a010801dc00db00d100f200ee00f700d300d500e200f700ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "弌弌いずれにせよ、\u0000\n戦いよりやるべきがあったということだ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -913,12 +965,25 @@
         "id": 74,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff28001e00f0ff4b006106ffff090009000a00",
-            "warnings": 53
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？？　　，、　　Ｚば\u0000\nば　？。　／鹿！！\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 75,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "090009000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1004,12 +1069,25 @@
         "id": 82,
         "internal": {
             "speakerraw": "35013a016f012801",
-            "textraw": "23002300090009000a0098ff0000effe090097fffdffedfffcfff8ff0800bcffb7011000f9ff0800c1ffe4001000ebfe0000adffffff65ff30000800f0ff5300f105f004ffff230023002300230002000a00",
-            "warnings": 18
+            "textraw": "23002300090009000a0098ff0000effe090097ff",
+            "warnings": 3
         },
         "speaker": "コジロウ",
         "speaker_translation": "",
-        "text": "……！！\u0000\n　！？￣？さ￣　｝？笹原…………。\u0000\n",
+        "text": "……！！\u0000\n　！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1049,6 +1127,19 @@
         "speaker": "コジロウ",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 87,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "e400f500010099055a0afd00aa064604fe00c502f600d100f200ee00da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "さて、今日の授業は何であったか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

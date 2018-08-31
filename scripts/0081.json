@@ -354,12 +354,12 @@
         "id": 27,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "e600da001101520126014a01cb08fe009300300c870209000a00f800d500ef00080000001301f200f5000e01f900d300da0008000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "e600da001101520126014a01cb08fe009300300c870209000a00f800d500ef00080000001301f200f5000e01f900d300da0008000a00",
+            "warnings": 0
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "しかもバイト代は１万円！\u0000\nどうだ？　やってみないか？\u0000\n．・",
+        "text": "しかもバイト代は１万円！\u0000\nどうだ？　やってみないか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -471,12 +471,25 @@
         "id": 36,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "2900d900da090e069f0af200f500c2031a01da001801ba08f200f500f500fc0009002a000a0098ff0000effe090097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff67011000ebfe000065ff15001700f0ff2500dc001701e600ffffd100fd000100010c01001c073c03e207ef00da0018010a00520126014a01fe00f600dc00f900d3002201f6002300230002000a00",
-            "warnings": 24
+            "textraw": "2900d900da090e069f0af200f500c2031a01da001801ba08f200f500f500fc0009002a000a0098ff0000effe090097ff",
+            "warnings": 3
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "（お土産買って帰るから待っててね！）\u0000\n　！　？￣ュ￣　きよしあの、僕、小学生だから\u0000\nバイトはできないんで……。\u0000\n",
+        "text": "（お土産買って帰るから待っててね！）\u0000\n　！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "d100fd000100010c01001c073c03e207ef00da0018010a00520126014a01fe00f600dc00f900d3002201f6002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "あの、僕、小学生だから\u0000\nバイトはできないんで……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -601,12 +614,25 @@
         "id": 47,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "2900d500d50001000e08b608fa0052016e011a011e01e000fa00fe00d300da00f900d300ed00090009002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe10000400c1ff67011000ebfe0100adffffff65ff20001700f0ff3000dc001701e600ffff2900d30001009300300c8702f200f500e800e300d3002300230009000a000000f6001101010cfe00d900e700d300f00012012201ee00f00021016408e400f900d300f7002a000a00",
-            "warnings": 25
+            "textraw": "2900d500d50001000e08b608fa0052016e011a011e01e000fa00fe00d300da00f900d300ed00090009002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "（うう、絶対にバレるわけにはいかないぞ！！）\u0000\n　，　？￣￣．ュ￣、〜｝きよし（い、１万円ってすごい……！\u0000\n　でも僕はおじいちゃんたちを捜さないと）\u0000\n",
+        "text": "（うう、絶対にバレるわけにはいかないぞ！！）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "2900d30001009300300c8702f200f500e800e300d3002300230009000a000000f6001101010cfe00d900e700d300f00012012201ee00f00021016408e400f900d300f7002a000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "（い、１万円ってすごい……！\u0000\n　でも僕はおじいちゃんたちを捜さないと）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -802,6 +828,19 @@
         "speaker": "きよし",
         "speaker_translation": "",
         "text": "バイトするから、教えてください……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "230023002300230002000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

@@ -95,11 +95,11 @@
         "internal": {
             "speakerraw": "9a033705",
             "textraw": "9b000100930092000100930093000100930094002300230002000a00",
-            "warnings": 1
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "、１０、１１、１２……。\u0000\n",
+        "text": "９、１０、１１、１２……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -263,12 +263,25 @@
         "id": 20,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "ec00d500f600e800da0008000a00800d800dd100f20001002d04de00c3061901e800dd002300230002000a00fdffedfffcfffcffbcffae01100066ff61000000daffe8fe0200ebfe000064ffffff0e00f0ff1500520149012501ffff2f0165017501090008000a00",
-            "warnings": 17
+            "textraw": "ec00d500f600e800da0008000a00800d800dd100f20001002d04de00c3061901e800dd002300230002000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "そうですか？\u0000\n弌弌あっ、強く蹴りすぎ……。\u0000\n￣　。　バディキャン！？\u0000\n",
+        "text": "そうですか？\u0000\n弌弌あっ、強く蹴りすぎ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 21,
+        "internal": {
+            "speakerraw": "520149012501",
+            "textraw": "2f0165017501090008000a00",
+            "warnings": 0
+        },
+        "speaker": "バディ",
+        "speaker_translation": "",
+        "text": "キャン！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -484,12 +497,25 @@
         "id": 38,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "090009000900090008000a0098ff0000effe080097fffdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700e8fe030067ff1800eefe09000400c1ff51011000ebfe0100adffffff65ff06001200f0ff27009a033705ffff29000e010100e50418011b01ee00090008002a000a00",
-            "warnings": 25
+            "textraw": "090009000900090008000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "！！！！？\u0000\n　？．４　\u0000\n・：；，！．ハ￣、：関口（み、見られた！？）\u0000\n",
+        "text": "！！！！？\u0000\n　？",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "29000e010100e50418011b01ee00090008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "（み、見られた！？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -510,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "db00fe00f200090008000a0098ff0000effe070097fffdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc0ff0300ffff1000e8fe0200c0ff04004d011000ebfe000065ff09001100f0ff2a00ef053002e907ffff6c0b5b09f2000100cd0854074f0bf600e800da006c0b5b09090008000a00",
-            "warnings": 20
+            "textraw": "db00fe00f200090008000a0098ff0000effe070097ff",
+            "warnings": 3
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "がはっ！？\u0000\n　；，、　め\u0000\n｝　，￣。．ニ￣　！）桜井誠部長っ、大丈夫ですか部長！？\u0000\n",
+        "text": "がはっ！？\u0000\n　；",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "6c0b5b09f2000100cd0854074f0bf600e800da006c0b5b09090008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "部長っ、大丈夫ですか部長！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +731,25 @@
         "id": 56,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200e8fe0200c1ff51011000ebfe000065ff18001200f0ff39009a033705fffff200f200f20009000900090009000a00",
-            "warnings": 23
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？。ハ￣　関口っっっ！！！！\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "f200f200f20009000900090009000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "っっっ！！！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +757,25 @@
         "id": 58,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "2201e1004501090009000a00fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc0ff0300ffff1000effe0600eefe03000400c0ff04004d011000ebfe000065ff1a001100f0ff3b00ef053002e907ffff050101006c0b5b09090008000a00",
-            "warnings": 20
+            "textraw": "2201e1004501090009000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "んげッ！！\u0000\n，、　め\u0000\n｝　，￣：，．．ニ￣　桜井誠ぶ、部長！？\u0000\n",
+        "text": "んげッ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "050101006c0b5b09090008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "ぶ、部長！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "e600f200da001901e600f500de00ef00e400d3006c0b5b0909000a00fdffedfffcff1fff0300000078ff1001c1ffed00ff001aff0300000078ff00003c0016ffffffe8fe0400c0ff0300ed001000ebfe000065ff1d000900f0ff3e00cd084105ffff51016b015d016f0154016e0151016e01200002000a00",
-            "warnings": 19
+            "textraw": "e600f200da001901e600f500de00ef00e400d3006c0b5b0909000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "しっかりしてください部長！\u0000\n，　めぞば，　　．，ぞ￣　！大工ハラホロヒレハレ〜。\u0000\n",
+        "text": "しっかりしてください部長！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "51016b015d016f0154016e0151016e01200002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "ハラホロヒレハレ〜。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -874,12 +952,25 @@
         "id": 73,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "290023002300c502ef00da001e01da001801f900d300e000f80001000a000000d1001901db00f700d5004f013a010200ec001b01f700ef053002de0022012a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c0ff040048011000ebfe000065ff29001100f0ff4a00ef053002e907ffff050101006c0b5b0909000a00fc0cfa07fa00ec001b01fe00f0001601f200f70049016c012d0139011b00db002300230002000a00",
-            "warnings": 20
+            "textraw": "290023002300c502ef00da001e01da001801f900d300e000f80001000a000000d1001901db00f700d5004f013a010200ec001b01f700ef053002de0022012a000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "（……何だかわからないけど、\u0000\n　ありがとうネジ。それと桜井くん）\u0000\n　？￣．テ￣　（桜井誠ぶ、部長！\u0000\n流石にそれはちょっとデリカシ―が……。\u0000\n",
+        "text": "（……何だかわからないけど、\u0000\n　ありがとうネジ。それと桜井くん）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "050101006c0b5b0909000a00fc0cfa07fa00ec001b01fe00f0001601f200f70049016c012d0139011b00db002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "ぶ、部長！\u0000\n流石にそれはちょっとデリカシ―が……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1088,6 +1179,19 @@
         "speaker": "桜井誠",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 91,
+        "internal": {
+            "speakerraw": "cd0841055400ef053002e907",
+            "textraw": "fe00d30002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "大工＆桜井誠",
+        "speaker_translation": "",
+        "text": "はい。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -406,12 +406,25 @@
         "id": 31,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "2900ec001b01ef00e000fe00230023000a000000ec001b01ef00e000fe00f9020c0be600f900e0001b01ff00090009002a000a00fdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe05000600070067ff1800e8fe0200c1ff03001000ebfe000065ff04000000f0ff2000f900fd00ffff0e0ada00f900d300f600de00ef00e400d30009000a0098ff0000effe030097ff",
-            "warnings": 21
+            "textraw": "2900ec001b01ef00e000fe00230023000a000000ec001b01ef00e000fe00f9020c0be600f900e0001b01ff00090009002a000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "（それだけは……\u0000\n　それだけは回避しなければ！！）\u0000\n．４　・：；。，￣　．　〜なの動かないでください！\u0000\n　，",
+        "text": "（それだけは……\u0000\n　それだけは回避しなければ！！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "0e0ada00f900d300f600de00ef00e400d30009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "動かないでください！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -627,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "2900d100d100d100d100d100d100090008002a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff03001000ebfe000065ff16000000f0ff3200f900fd00ffff9300920023002300d3001301010097003b0b09000a0097003b0bef00e000ba08f200f500de00ef00e400d30009000a00",
-            "warnings": 19
+            "textraw": "2900d100d100d100d100d100d100090008002a000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "（ああああああ！？）\u0000\n　？，￣　　なの１０……いや、５秒！\u0000\n５秒だけ待ってください！\u0000\n",
+        "text": "（ああああああ！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "9300920023002300d3001301010097003b0b09000a0097003b0bef00e000ba08f200f500de00ef00e400d30009000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "１０……いや、５秒！\u0000\n５秒だけ待ってください！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -848,12 +874,25 @@
         "id": 67,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "23002300fe00d30002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff01001000ebfe000065ff28000000f0ff4400f900fd00ffffd7000100d700f200f7000100e200fd00d606fe00d9001101f0001201f600e800da00180101000a00550bdb001801f900d300f600de00ef00e400d300fc0008000a00",
-            "warnings": 19
+            "textraw": "23002300fe00d30002000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "……はい。\u0000\n　？、￣　　なのえ、えっと、この銃はおもちゃですから、\u0000\n怖がらないでくださいね？\u0000\n",
+        "text": "……はい。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d7000100d700f200f7000100e200fd00d606fe00d9001101f0001201f600e800da00180101000a00550bdb001801f900d300f600de00ef00e400d300fc0008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "え、えっと、この銃はおもちゃですから、\u0000\n怖がらないでくださいね？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1062,6 +1101,19 @@
         "speaker": "教頭先生",
         "speaker_translation": "",
         "text": "……………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 85,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "2300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "……………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

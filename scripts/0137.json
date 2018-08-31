@@ -432,12 +432,25 @@
         "id": 33,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "090008000a0098ff0000effe060097fffdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe050006000700eefe15000400c1ff39001000ebfe0100adffffff65ff0a000200f0ff22001501f200e200ffff2900f80023002300f8001501e200f700090008002a000a00",
-            "warnings": 24
+            "textraw": "090008000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "！？\u0000\n　：．４　・：；．￣、\u0000\n。ゆっこ（ど……どゆこと！？）\u0000\n",
+        "text": "！？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2900f80023002300f8001501e200f700090008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（ど……どゆこと！？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +718,25 @@
         "id": 55,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "29001e01e0001e01da001001230023002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe1500040067ff1000c1ff43001000ebfe000065ff20000200f0ff38001501f200e200ffffd30013010100ef00da001801010019022505370145012d011b00fe000a00f800d500d300d500e200f7002101e8001a01fd00da00210112091901ee00d3002201f600e80002000a00",
-            "warnings": 25
+            "textraw": "29001e01e0001e01da001001230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "（わけわかめ……）\u0000\n　，　？．￣￣　〜。ゆっこいや、だから、囲碁サッカ―は\u0000\nどういうことをするのかを知りたいんです。\u0000\n",
+        "text": "（わけわかめ……）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d30013010100ef00da001801010019022505370145012d011b00fe000a00f800d500d300d500e200f7002101e8001a01fd00da00210112091901ee00d3002201f600e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "いや、だから、囲碁サッカ―は\u0000\nどういうことをするのかを知りたいんです。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -887,12 +913,25 @@
         "id": 70,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "2900a70bf9002304db03230023002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffe8fe0300c1ff42001000ebfe0100adffffff65ff2f000200f0ff47001501f200e200ffff2900c502f60011017306760ce6001c01f700fa04f200f500e200fd00ac0bfa09230023000a0000006c0b5b09db00ec002201f9002201e700120142016301e7001201220109002a000a00",
-            "warnings": 27
+            "textraw": "2900a70bf9002304db03230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "（変な競技……）\u0000\n　，　？，￣、｛。ゆっこ（何でも質問しろと言ってこの返答……\u0000\n　部長がそんなんじゃダメじゃん！）\u0000\n",
+        "text": "（変な競技……）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2900c502f60011017306760ce6001c01f700fa04f200f500e200fd00ac0bfa09230023000a0000006c0b5b09db00ec002201f9002201e700120142016301e7001201220109002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（何でも質問しろと言ってこの返答……\u0000\n　部長がそんなんじゃダメじゃん！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1049,6 +1088,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "…………？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 84,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2900d300130123002300a20bfa00ff02e600de00fe00f900d300da002a000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（いや……別に悔しくはないか）\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

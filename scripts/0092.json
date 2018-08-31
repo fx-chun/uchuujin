@@ -55,12 +55,25 @@
         "id": 4,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "0d01d100ec002201f9001e01e000f6000100380611016505d700f5000e010d01e600ee00200002000a00fdffedfffcffedffc1ffffff100067ffffff66ff7d000000c9ff7c021000ebfe000064ffffff0200f0ff05001501f200e200ffff370026013301630175011908c808680128013501640148016d0175013a0165011b003800090009000a00",
-            "warnings": 18
+            "textraw": "0d01d100ec002201f9001e01e000f6000100380611016505d700f5000e010d01e600ee00200002000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "まあそんなわけで、私も考えてみました〜。\u0000\n￣　鋭￣　。・ゆっこイケメン戦隊ユウコモテルンジャ―！！\u0000\n",
+        "text": "まあそんなわけで、私も考えてみました〜。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "370026013301630175011908c808680128013501640148016d0175013a0165011b003800090009000a00",
+            "warnings": 2
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "イケメン戦隊ユウコモテルンジャ―！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -302,12 +315,25 @@
         "id": 24,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "0a0118010a011801090000000e01d9001208e207fd006505d7001a012d0145013501170dd3000a00e300f609130954011b006f011b00f200f500fd0021016908de00e504ea00f500170109000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700c1ff65001000ebfe000065ff04000300f0ff19000e01d900ffff1301ef001701020038060100a20bfa003b04350cf900d300e60002000a00",
-            "warnings": 15
+            "textraw": "0a0118010a011801090000000e01d9001208e207fd006505d7001a012d0145013501170dd3000a00e300f609130954011b006f011b00f200f500fd0021016908de00e504ea00f500170109000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "ほらほら！　みお先生の考えるカッコ良い\u0000\nご当地ヒ―ロ―ってのを早く見せてよ！\u0000\n．４　\u0000\n・：；￣　．，〆みおやだよ。私、別に興味ないし。\u0000\n",
+        "text": "ほらほら！　みお先生の考えるカッコ良い\u0000\nご当地ヒ―ロ―ってのを早く見せてよ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "1301ef001701020038060100a20bfa003b04350cf900d300e60002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "やだよ。私、別に興味ないし。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "13011001f50009000900090009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff63001000ebfe000065ff18000300f0ff2d000e01d900ffff1101d50023002300e6001601d500db00f900d300f9002300230002000a00",
-            "warnings": 21
+            "textraw": "13011001f50009000900090009000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "やめて！！！！\u0000\n　？￣￣　，みおもう……しょうがないな……。\u0000\n",
+        "text": "やめて！！！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "1101d50023002300e6001601d500db00f900d300f9002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "もう……しょうがないな……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +822,25 @@
         "id": 63,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "52010100520101005201010052012d0166016f011b000900090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff63001000ebfe000065ff2b000300f0ff40000e01d900ffffec000100ec002201f900e200f700fe03fa00fa041e011b01f5001101230023000a00f900fa00390be000ff00d300d300fd0017012300230002000a00",
-            "warnings": 24
+            "textraw": "52010100520101005201010052012d0166016f011b000900090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "バ、バ、バ、バカヤロ―！！！\u0000\n　，　？￣￣　，みおそ、そんなこと急に言われても……\u0000\nなに描けばいいのよ……。\u0000\n",
+        "text": "バ、バ、バ、バカヤロ―！！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "ec000100ec002201f900e200f700fe03fa00fa041e011b01f5001101230023000a00f900fa00390be000ff00d300d300fd0017012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "そ、そんなこと急に言われても……\u0000\nなに描けばいいのよ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -932,6 +984,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "どう？　って言われても……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 76,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "3806fd002300230050011b004a01230023000a00ec00e20001005306fd0048013b014a01e90a19022300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "私の……ノ―ト……\u0000\nそこ、次のテスト範囲……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

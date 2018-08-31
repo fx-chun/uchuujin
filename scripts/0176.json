@@ -497,12 +497,25 @@
         "id": 38,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "d100f20001001e01da00f200ee0009000a0026061f04fd00bd0c26062101e504fa00d80cee002201f600e600160109000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1000c0ff030076011000ebfe000065ff06001a00f0ff270057012901f200f00012012201ffff8e072206ef00f200ee00180101000a0026061f04f200f500fa04d50017011901fe009f08e7001201f900d300fd0008000a0098ff0000eefe11000400effe070097ff",
-            "warnings": 23
+            "textraw": "d100f20001001e01da00f200ee0009000a0026061f04fd00bd0c26062101e504fa00d80cee002201f600e600160109000a00",
+            "warnings": 0
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "あっ、わかった！\u0000\n子供の様子を見に来たんでしょ！\u0000\n．４　・：；￣，ヴ￣　：フェっちゃん紳士だったら、\u0000\n子供って言うよりは孫じゃないの？\u0000\n　．；",
+        "text": "あっ、わかった！\u0000\n子供の様子を見に来たんでしょ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "8e072206ef00f200ee00180101000a0026061f04f200f500fa04d50017011901fe009f08e7001201f900d300fd0008000a0098ff0000eefe11000400effe070097ff",
+            "warnings": 5
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "紳士だったら、\u0000\n子供って言うよりは孫じゃないの？\u0000\n　．；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -757,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "280129015e0139011b00540057012901f200f00012012201",
-            "textraw": "a40899076c05d703ef001b001b001b00090008000a00fdffedfffcfffcffedffc8ff7f01f80010001aff03000000680000003c001aff04000000440100003c0016ffffffedffc1ffffff1000edffc8ff700178011000adff0a00ebfe0000aeff03008000aeff0400800065ff1b001900f0ff3c00280129015e0139011b00540057012901f200f00012012201ffff2300230023002300230023002300230002000a00",
-            "warnings": 29
+            "textraw": "a40899076c05d703ef001b001b001b00090008000a00",
+            "warnings": 0
         },
         "speaker": "ウェボシ―＆フェっちゃん",
         "speaker_translation": "",
-        "text": "他人行儀だ―――！？\u0000\nど￣，　　．　ヂ　￣ヮヶ￣\u0000\n　，．―〆ウェボシ―＆フェっちゃん……………………。\u0000\n",
+        "text": "他人行儀だ―――！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "280129015e0139011b00540057012901f200f00012012201",
+            "textraw": "2300230023002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―＆フェっちゃん",
+        "speaker_translation": "",
+        "text": "……………………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "57012901f200f00012012201",
-            "textraw": "ef001701fc0009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc0ff03007e011000ebfe000065ff1e001b00f0ff3f003a01290175014a016d0160017501ffffd300130101007406fe00540cf200f500e6000d01d3000d01e600f500f90002000a00c4034d0bd300ee001801e2002201f900f700e2001c01fa00d300ee002201e7001201170102000a00",
-            "warnings": 19
+            "textraw": "ef001701fc0009000a00",
+            "warnings": 0
         },
         "speaker": "フェっちゃん",
         "speaker_translation": "",
-        "text": "だよね！\u0000\n　？，￣　／―ジェントルマンいや、実は迷ってしまいましてな。\u0000\n気付いたらこんなところにいたんじゃよ。\u0000\n",
+        "text": "だよね！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "d300130101007406fe00540cf200f500e6000d01d3000d01e600f500f90002000a00c4034d0bd300ee001801e2002201f900f700e2001c01fa00d300ee002201e7001201170102000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "いや、実は迷ってしまいましてな。\u0000\n気付いたらこんなところにいたんじゃよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -991,12 +1030,25 @@
         "id": 79,
         "internal": {
             "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "2900520149012501fe003602b408f800e200fa00d3001a01fd00da00fd00d500230023002a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c0ff030075011000ebfe000065ff2f001a00f0ff500057012901f200f00012012201ffff26061f04f200f500230023008e072206fd006b0a3e0d21016505d700ee0018010a003806ee00f000f7000f0ae700de001801d300f9001e01e000f900d300e7001201220102000a00",
-            "warnings": 20
+            "textraw": "2900520149012501fe003602b408f800e200fa00d3001a01fd00da00fd00d500230023002a000a00",
+            "warnings": 0
         },
         "speaker": "ジェントルマン",
         "speaker_translation": "",
-        "text": "（バディは一体どこにいるのかのう……）\u0000\n　？￣，ン￣　｛フェっちゃん子供って……紳士の年齢を考えたら\u0000\n私たちと同じくらいなわけないじゃん。\u0000\n",
+        "text": "（バディは一体どこにいるのかのう……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 80,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "26061f04f200f500230023008e072206fd006b0a3e0d21016505d700ee0018010a003806ee00f000f7000f0ae700de001801d300f9001e01e000f900d300e7001201220102000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "子供って……紳士の年齢を考えたら\u0000\n私たちと同じくらいなわけないじゃん。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1140,6 +1192,19 @@
         "speaker": "ジェントルマン",
         "speaker_translation": "",
         "text": "……………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 92,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "23002300170dd300b709c403e7001201fd0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "……良い天気じゃの。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

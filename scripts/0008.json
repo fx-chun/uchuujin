@@ -354,12 +354,12 @@
         "id": 27,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "d700f200080000005b02090008000a00d900600401005d06e80ac103fa0045020d011b01ee00090008000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "d700f200080000005b02090008000a00d900600401005d06e80ac103fa0045020d011b01ee00090008000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "えっ？　嘘！？\u0000\nお金、自販機に飲まれた！？\u0000\n．",
+        "text": "えっ？　嘘！？\u0000\nお金、自販機に飲まれた！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "520149012501",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff3b001000ebfe000065ff15000200f0ff2c001501f200e200fffffe00d000d00023002300f300d300f500f900d300fd0011010a00e200e2000d01f600d80c1a01f7003e07d700f500de001a01fc0002000a00",
-            "warnings": 20
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "バディ",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？￣　。ゆっこはぁぁ……ついてないのも\u0000\nここまで来ると笑えてくるね。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fe00d000d00023002300f300d300f500f900d300fd0011010a00e200e2000d01f600d80c1a01f7003e07d700f500de001a01fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "はぁぁ……ついてないのも\u0000\nここまで来ると笑えてくるね。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "520149012501",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe06000400c1ff3c001000ebfe000065ff1d000200f0ff34001501f200e200fffffe00d000230023000a0099055a0afe00f9002201f500f300d300f500f900d300fd0008000a00",
-            "warnings": 24
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "バディ",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？：．￣　。ゆっこはぁ……\u0000\n今日はなんてついてないの？\u0000\n",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fe00d000230023000a0099055a0afe00f9002201f500f300d300f500f900d300fd0008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "はぁ……\u0000\n今日はなんてついてないの？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -679,12 +705,25 @@
         "id": 54,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "1101d50099055a0afe004f086009fa00c2031c01d50002000a00e2001b01140253070d07370521014505e100f900d300ee001001fa002300230002000a00fdffedfffcff1aff0300000000fe00001e0016ffffffedffc1ffffff1000c1ff30011000ebfe0000adffffff65ff20000e00f0ff3700520149012501ffff230023002300230002000a00",
-            "warnings": 19
+            "textraw": "1101d50099055a0afe004f086009fa00c2031c01d50002000a00e2001b01140253070d07370521014505e100f900d300ee001001fa002300230002000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "もう今日は素直に帰ろう。\u0000\nこれ以上傷口を広げないために……。\u0000\n，　　／￣ギ￣　〜バディ…………。\u0000\n",
+        "text": "もう今日は素直に帰ろう。\u0000\nこれ以上傷口を広げないために……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "520149012501",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "バディ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -711,6 +750,19 @@
         "speaker": "田中",
         "speaker_translation": "",
         "text": "あれ？　お金入ってるぞ？\u0000\nもしかして買えたりする？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "d9001b0001006b0145012f011b008e000a00f308ef00da0012091801f900d300e000f800370175012f0167011b0002000a0098ff0000effe0b0097ff",
+            "warnings": 5
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "お―、ラッキ―\u0000\n誰だか知らないけどサンキュ―。\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

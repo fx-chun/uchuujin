@@ -380,12 +380,12 @@
         "id": 29,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "290023002300d1001b0108000000f6001101e2001b01f6006c06900ae600ee0018010a000000d100fd00de04fd00ad0cfa04fe00100c800bf700d300d500e200f700fa00230023002a000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "290023002300d1001b0108000000f6001101e2001b01f6006c06900ae600ee0018010a000000d100fd00de04fd00ad0cfa04fe00100c800bf700d300d500e200f700fa00230023002a000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "（……あれ？　でもこれで失敗したら\u0000\n　あの犬の予言は本物ということに……）\u0000\n．・",
+        "text": "（……あれ？　でもこれで失敗したら\u0000\n　あの犬の予言は本物ということに……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -601,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff3b001000ebfe0100adffffff65ff17000200f0ff2f001501f200e200ffff29002300230042016301ef000200e200e200f6003b015b01f200ee0018010a0000003806fe005d067a072101f900de00e600f500e6000d01d500230023002a000a0098ff0000effe0a0097ff",
-            "warnings": 27
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？￣、。｛ゆっこ（……ダメだ。ここでスベったら\u0000\n　私は自信をなくしてしまう……）\u0000\n　\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "29002300230042016301ef000200e200e200f6003b015b01f200ee0018010a0000003806fe005d067a072101f900de00e600f500e6000d01d500230023002a000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（……ダメだ。ここでスベったら\u0000\n　私は自信をなくしてしまう……）\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +718,25 @@
         "id": 55,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "c4092a09fd0066016f011b001b000900090009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ff3d001000ebfe0100adffffff65ff20000200f0ff38001501f200e200ffff2900de00f20009000000e200e200fe00b708d7001a01fd0017011501f200e20009000a0000003e07d30021019a061901fa00d300de00fd00fe009e0910011a01fd00170109002a000a0098ff0000effe0a0097ff",
-            "warnings": 25
+            "textraw": "c4092a09fd0066016f011b001b000900090009000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "田中のヤロ――！！！\u0000\n　？￣．￣、〜。ゆっこ（くっ！　ここは耐えるのよゆっこ！\u0000\n　笑いを取りにいくのは諦めるのよ！）\u0000\n　\u0000\n",
+        "text": "田中のヤロ――！！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2900de00f20009000000e200e200fe00b708d7001a01fd0017011501f200e20009000a0000003e07d30021019a061901fa00d300de00fd00fe009e0910011a01fd00170109002a000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（くっ！　ここは耐えるのよゆっこ！\u0000\n　笑いを取りにいくのは諦めるのよ！）\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -854,6 +880,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2900f3000d012201fc001b00230023002a000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（つまんね―……）\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

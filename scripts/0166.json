@@ -55,12 +55,25 @@
         "id": 4,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "2900c403fa00e600f5001a01f200f5006502ef00e600230023000a000000d10022010d011901e504f900d3001701d500fa00e6001701d5002a000a00fdffedfffcff67ffffffedffc1ffffff100066ff5f000000c1ff47021000e8fe0200ebfe000064ffffff0000f0ff0500f900fd00fffffe00d500d100f200090008000a00",
-            "warnings": 17
+            "textraw": "2900c403fa00e600f5001a01f200f5006502ef00e600230023000a000000d10022010d011901e504f900d3001701d500fa00e6001701d5002a000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "（気にしてるって噂だし……\u0000\n　あんまり見ないようにしよう）\u0000\n￣　胤￣。　　・なのはうあっ！？\u0000\n",
+        "text": "（気にしてるって噂だし……\u0000\n　あんまり見ないようにしよう）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "fe00d500d100f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "はうあっ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -354,12 +367,25 @@
         "id": 28,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "2900c403f400d300ee000e01ee00d300230023002a000a0098ff0000effe030097fffdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff93d1ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff120071ff000063ffffff90ffffffedfff9ff0800eefe0d000400edffc8ff02004e011000ebfe000065ff05001200f0ff1d009a033705ffffd100fd0001003806fe00c5021101e504f5000d01ea002201170102000a0098ff0000effe070097ff",
-            "warnings": 59
+            "textraw": "2900c403f400d300ee000e01ee00d300230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "（気づいたみたい……）\u0000\n　，．　４・：；？　，、　　ば\u0000\nば　？．。ヌ￣　・関口あの、私は何も見てませんよ。\u0000\n　；",
+        "text": "（気づいたみたい……）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "d100fd0001003806fe00c5021101e504f5000d01ea002201170102000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "あの、私は何も見てませんよ。\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "230023001301f20000011901e504f5001a011b00090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff93d1ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff120071ff000063ffffff90ffffffedfff9ff0800e8fe0400c1ff03001000ebfe000065ff17000000f0ff2f00f900fd00ffffd5001e01f2000100d5001e011e011e011e01f200090009000a00",
-            "warnings": 55
+            "textraw": "230023001301f20000011901e504f5001a011b00090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "……やっぱり見てる―！！\u0000\n　，　？？　，、　　ば\u0000\nば　？．，￣　　｛なのうわっ、うわわわわっ！！\u0000\n",
+        "text": "……やっぱり見てる―！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d5001e01f2000100d5001e011e011e011e01f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "うわっ、うわわわわっ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +757,25 @@
         "id": 58,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "6c0b5b0901006f011b006d0133011b002f013d05dc00da00f90008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff93d1ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfff9ff0800e8fe0400c1ff02001000ebfe000065ff23000000f0ff3b00f900fd00ffffd1001e010100d1001e011e011e011e01f200090009000a00",
-            "warnings": 51
+            "textraw": "6c0b5b0901006f011b006d0133011b002f013d05dc00da00f90008000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "部長、ロ―ルケ―キ好きかな？\u0000\n　？？　，、　　ば\u0000\nば￣　？．。￣　…　なのあわ、あわわわわっ！！\u0000\n",
+        "text": "部長、ロ―ルケ―キ好きかな？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d1001e010100d1001e011e011e011e01f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "あわ、あわわわわっ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -867,6 +919,19 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "も―、今度こそはかせに\u0000\n何とかしてもらわないと。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "23002300e504f900da00f200ee00e200f700fa00e600f500d100e1001701d50002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "……見なかったことにしてあげよう。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -367,12 +367,25 @@
         "id": 28,
         "internal": {
             "speakerraw": "57012901f200f00012012201",
-            "textraw": "f00016010100f0001601f200f700090008000a00fdffedfffcff1fff0300000000fe0000c0ff03004401ff001aff0300000078ff00003c0016ffffffebfe000064ffffff1100f0ff1d00ef053002e907fffffe00d30008000a00",
-            "warnings": 18
+            "textraw": "f00016010100f0001601f200f700090008000a00",
+            "warnings": 0
         },
         "speaker": "フェっちゃん",
         "speaker_translation": "",
-        "text": "ちょ、ちょっと！？\u0000\n，　　，ヂば，　　　桜井誠はい？\u0000\n",
+        "text": "ちょ、ちょっと！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "fe00d30008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "はい？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -874,12 +887,25 @@
         "id": 68,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "6c05de00fd00da00f800d500da00f200f5008f0bd300f5002201fd00170102000a00d100fd0026060100c403fa00f9001a012201f600e600160108000a00fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe050006000700c1ff7a011000ebfe000065ff05001a00f0ff450057012901f200f00012012201ffff220123002300e000f800010013011001f700de0002000a0098ff0000effe0a0097ff",
-            "warnings": 20
+            "textraw": "6c05de00fd00da00f800d500da00f200f5008f0bd300f5002201fd00170102000a00d100fd0026060100c403fa00f9001a012201f600e600160108000a00",
+            "warnings": 0
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "行くのかどうかって聞いてんのよ。\u0000\nあの子、気になるんでしょ？\u0000\n．　\u0000\n４・：；￣　・フェっちゃんん……けど、やめとく。\u0000\n　\u0000\n",
+        "text": "行くのかどうかって聞いてんのよ。\u0000\nあの子、気になるんでしょ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "220123002300e000f800010013011001f700de0002000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "ん……けど、やめとく。\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1056,12 +1082,25 @@
         "id": 83,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "2900230023000e01e400f700fd00d30bdb000101f800d300ef001c012a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff7b011000ebfe000065ff14001a00f0ff540057012901f200f00012012201ffffec000100ec001b01fe00ec00d500ef00e000f800230023000a00f7060807f200f500fd00db00d1001a01170108000a00",
-            "warnings": 24
+            "textraw": "2900230023000e01e400f700fd00d30bdb000101f800d300ef001c012a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "（……みさとの方がひどいだろ）\u0000\n　，　？￣￣　＆フェっちゃんそ、それはそうだけど……\u0000\n順序ってのがあるよ？\u0000\n",
+        "text": "（……みさとの方がひどいだろ）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 84,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "ec000100ec001b01fe00ec00d500ef00e000f800230023000a00f7060807f200f500fd00db00d1001a01170108000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "そ、それはそうだけど……\u0000\n順序ってのがあるよ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1173,12 +1212,25 @@
         "id": 93,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "23002300ef00da0018010100ec001b0111010e01e400f700ef00e000ef00f200f500ff0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff79011000ebfe000065ff1e001a00f0ff5e0057012901f200f00012012201ffffc403fa00fe00f9001a01e000f8002300230002000a000501f300da00f200ee00da001801c403fa00f900f200ee00ef00e00008000a0098ff0000effe0a0097ff",
-            "warnings": 27
+            "textraw": "23002300ef00da0018010100ec001b0111010e01e400f700ef00e000ef00f200f500ff0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "……だから、それもみさとだけだってば。\u0000\n　，　？￣￣　／フェっちゃん気にはなるけど……。\u0000\nぶつかったから気になっただけ？\u0000\n　\u0000\n",
+        "text": "……だから、それもみさとだけだってば。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 94,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "c403fa00fe00f9001a01e000f8002300230002000a000501f300da00f200ee00da001801c403fa00f900f200ee00ef00e00008000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "気にはなるけど……。\u0000\nぶつかったから気になっただけ？\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1309,6 +1361,19 @@
         "speaker": "フェっちゃん",
         "speaker_translation": "",
         "text": "ウェボシ―の意地悪―！\u0000\n話はちゃんと聞かないとだめなんだから―っ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 105,
+        "internal": {
+            "speakerraw": "0e01e400f7005400280129015e0139011b00",
+            "textraw": "d9003808db00fa04d500f900f20009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "みさと＆ウェボシ―",
+        "speaker_translation": "",
+        "text": "お前が言うなっ！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

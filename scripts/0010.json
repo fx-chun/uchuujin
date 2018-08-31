@@ -406,12 +406,12 @@
         "id": 31,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "090008000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "！？\u0000\n．",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "2900d9009b0619010100d603800bf300da000d01e4001b01ee001b0009002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe16000400c0ff0400ca001000ebfe000065ff18000700f0ff3300170c2b02ffff1501f200e200fe00f800fd00ab0bfa006c05dc00ee00d30008000a00",
-            "warnings": 25
+            "textraw": "2900d9009b0619010100d603800bf300da000d01e4001b01ee001b0009002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "（お守り、偽物つかまされた―！）\u0000\n　，　？￣．．ｔ￣　；麻衣ゆっこはどの辺に行きたい？\u0000\n",
+        "text": "（お守り、偽物つかまされた―！）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "1501f200e200fe00f800fd00ab0bfa006c05dc00ee00d30008000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "ゆっこはどの辺に行きたい？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "d100f200090000001501f200e20009000000f800e2006c05de00fd00090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c0ff0400ca001000ebfe000065ff23000700f0ff3e00170c2b02fffff700e2001c01f60001000a00e400f200dc00fd00360145015d01f200f500c50208000a00",
-            "warnings": 22
+            "textraw": "d100f200090000001501f200e20009000000f800e2006c05de00fd00090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "あっ！　ゆっこ！　どこ行くの！？\u0000\n　，　？￣．ｔ￣　…；麻衣ところで、\u0000\nさっきのゴッホって何？\u0000\n",
+        "text": "あっ！　ゆっこ！　どこ行くの！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "f700e2001c01f60001000a00e400f200dc00fd00360145015d01f200f500c50208000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "ところで、\u0000\nさっきのゴッホって何？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -835,12 +861,25 @@
         "id": 66,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "360145015d01fd001503fe00360145015d0136015d01450109000000f200f500fc0009000a0098ff0000effe010097fffdffedfffcfffcffedffc1ffffff100067ffffff66ff81000000edffc8ff5f00ca001000adff0a00ebfe0000aeff03008000aeff0400800065ff28000300f0ff43000e01d9005400170c2b02ffff230023002300230002000a00",
-            "warnings": 28
+            "textraw": "360145015d01fd001503fe00360145015d0136015d01450109000000f200f500fc0009000a0098ff0000effe010097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "ゴッホの咳はゴッホゴホッ！　ってね！\u0000\n　、￣　ｔ￣\u0000\n　，．，みお＆麻衣…………。\u0000\n",
+        "text": "ゴッホの咳はゴッホゴホッ！　ってね！\u0000\n　、",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "0e01d9005400170c2b02",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお＆麻衣",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -854,6 +893,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "230023002300230002000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

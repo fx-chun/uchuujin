@@ -445,12 +445,25 @@
         "id": 34,
         "internal": {
             "speakerraw": "1e06f702",
-            "textraw": "800d800dec001b01f600fe00c90a350be6000d01e80009000a00100c6b0ad909fd00950cb8064c07fe00e200fd00d30bf600e80009000a00fdffedfffcff66ff88000000c1ff3a011000f4ff3c00dafff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe020066ff7c000000ebfe000065ff23002200f0ff2300920bc808ee00f000ffff0900090009000900090009000900090008000a00",
-            "warnings": 49
+            "textraw": "800d800dec001b01f600fe00c90a350be6000d01e80009000a00100c6b0ad909fd00950cb8064c07fe00e200fd00d30bf600e80009000a00",
+            "warnings": 0
         },
         "speaker": "司会",
         "speaker_translation": "",
-        "text": "弌弌それでは発表します！\u0000\n本年度の優秀賞はこの方です！\u0000\n　ジ￣？　，、　　鯵ば\u0000\nば　？。　　……兵隊たち！！！！！！！！？\u0000\n",
+        "text": "弌弌それでは発表します！\u0000\n本年度の優秀賞はこの方です！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "920bc808ee00f000",
+            "textraw": "0900090009000900090009000900090008000a00",
+            "warnings": 0
+        },
+        "speaker": "兵隊たち",
+        "speaker_translation": "",
+        "text": "！！！！！！！！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -458,12 +471,25 @@
         "id": 36,
         "internal": {
             "speakerraw": "1e06f702",
-            "textraw": "800d800dec001b01f600fe00c90a350be6000d01e80009000a00100c6b0ad909fd00950cb8064c07fe00e200fd00d30bf600e80009000a00fdffedfffcff66ff88000000c1ff3a011000f4ff3c00dafffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffb01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff0e0071ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0400c1ff07021000ebfe000065ff25002800f0ff25000dfffffff8000100f800d500d300d500e200f700ef0008000a00f9002201f600290bbd0cdb00950cb8064c07f9002201ef00090008000a00",
-            "warnings": 53
+            "textraw": "800d800dec001b01f600fe00c90a350be6000d01e80009000a00100c6b0ad909fd00950cb8064c07fe00e200fd00d30bf600e80009000a00",
+            "warnings": 0
         },
         "speaker": "司会",
         "speaker_translation": "",
-        "text": "弌弌それでは発表します！\u0000\n本年度の優秀賞はこの方です！\u0000\n　ジ￣，　？　，、　　葦ば\u0000\nば　．　？．綾￣　ど、どういうことだ？\u0000\nなんで姫様が優秀賞なんだ！？\u0000\n",
+        "text": "弌弌それでは発表します！\u0000\n本年度の優秀賞はこの方です！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "0dff",
+            "textraw": "f8000100f800d500d300d500e200f700ef0008000a00f9002201f600290bbd0cdb00950cb8064c07f9002201ef00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "ど、どういうことだ？\u0000\nなんで姫様が優秀賞なんだ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +757,25 @@
         "id": 58,
         "internal": {
             "speakerraw": "0eff",
-            "textraw": "bc02ee00f000f600bd051f05fa00e600f500de001b01d700d700d700d700d700d700d700d70009000a00fdffedfffcfffcffbeffcf00100066ff0a000000f4ff1e00f3fff5ff0800bcfffd011000f6ff0800f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff07000000daffbeffdf00ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff11000000dafffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200c1ff42001000ebfe000065ff3b000200f0ff3b001501f200e200fffffd001e01f200090008000a00",
-            "warnings": 88
+            "textraw": "bc02ee00f000f600bd051f05fa00e600f500de001b01d700d700d700d700d700d700d700d70009000a00",
+            "warnings": 0
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "俺たちで最後にしてくれええええええええ！\u0000\nｙ￣\u0000\n　／？鯵￣？？　　，、　；　ぐば\u0000\nば　？　，　？　，、　　ば\u0000\nば　．　？。￣　。ゆっこのわっ！？\u0000\n",
+        "text": "俺たちで最後にしてくれええええええええ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fd001e01f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "のわっ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -861,12 +900,25 @@
         "id": 69,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "23002300230023002300230002000a00fdffedfffcff67ffffff66ffeb000000daffc1ff40001000ebfe000065ff46000200f0ff46001501f200e200ffffd70008000a00",
-            "warnings": 15
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "………………。\u0000\nぜ　￣　。ゆっこえ？\u0000\n",
+        "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d70008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "え？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },

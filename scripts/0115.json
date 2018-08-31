@@ -159,12 +159,25 @@
         "id": 12,
         "internal": {
             "speakerraw": "520149012501",
-            "textraw": "230023002300230002000a00fdffedfffcfffcffc1ff31011000f4ff1e0066ff7c000000e8fe0200ebfe000064ffffff0200f0ff0d001501f200e200ffff090008000a00",
-            "warnings": 15
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "バディ",
         "speaker_translation": "",
-        "text": "…………。\u0000\nク￣／　。　。ゆっこ！？\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 13,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -380,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "d700f20008000a0098ff0000effe060097fffdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe05000600070067ff1000eefe16000400c1ff07011000ebfe000065ff07000b00f0ff1f00ef0530021208e207ffff3a0bc403f700da00ef00f200ee0018010a001906d30bf900d300f7002b06d3000d01e800e000f8002300230002000a00",
-            "warnings": 22
+            "textraw": "d700f20008000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "えっ？\u0000\n　：．４　\u0000\n・：；￣．へ￣　；桜井先生病気とかだったら\u0000\n仕方ないと思いますけど……。\u0000\n",
+        "text": "えっ？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "3a0bc403f700da00ef00f200ee0018010a001906d30bf900d300f7002b06d3000d01e800e000f8002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "病気とかだったら\u0000\n仕方ないと思いますけど……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -458,12 +484,25 @@
         "id": 37,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "230023002300230008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff08011000ebfe000065ff0e000b00f0ff2600ef0530021208e207ffffec000100ec00d500f600e800fc0023002300c109fd09b904fd00bc06d3004a06f60001000a00d906d008e8001a0152069803db00f900d300f700da002300230002000a00",
-            "warnings": 21
+            "textraw": "230023002300230008000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "…………？\u0000\n　？￣べ￣　桜井先生そ、そうですね……伝統芸の習い事で、\u0000\n宿題する時間がないとか……。\u0000\n",
+        "text": "…………？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "ec000100ec00d500f600e800fc0023002300c109fd09b904fd00bc06d3004a06f60001000a00d906d008e8001a0152069803db00f900d300f700da002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "そ、そうですね……伝統芸の習い事で、\u0000\n宿題する時間がないとか……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +679,25 @@
         "id": 52,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "23002300e30010012201f900e400d30002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe16000400c1ff0b011000ebfe0100adffffff65ff1d000b00f0ff3500ef0530021208e207ffff2900ec001b012101fa04f200ee0018015b022101f300da001b01f0001201d500c403db00230023000a000000d100f2000100f6001101e207cc092101df03d500f9002201f500230023002a000a00",
-            "warnings": 25
+            "textraw": "23002300e30010012201f900e400d30002000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "……ごめんなさい。\u0000\n　？￣．ぼ￣、桜井先生（それを言ったら嘘をつかれちゃう気が……\u0000\n　あっ、でも生徒を疑うなんて……）\u0000\n",
+        "text": "……ごめんなさい。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "2900ec001b012101fa04f200ee0018015b022101f300da001b01f0001201d500c403db00230023000a000000d100f2000100f6001101e207cc092101df03d500f9002201f500230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "（それを言ったら嘘をつかれちゃう気が……\u0000\n　あっ、でも生徒を疑うなんて……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -906,6 +958,19 @@
         "speaker": "桜井先生",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "1501f200e2005400ef0530021208e207",
+            "textraw": "2900f800d500d300d500e200f700ef001c01d50008002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ＆桜井先生",
+        "speaker_translation": "",
+        "text": "（どういうことだろう？）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

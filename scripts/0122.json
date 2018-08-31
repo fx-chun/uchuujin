@@ -419,12 +419,25 @@
         "id": 32,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "290004010401040101001309190af900e200f700ef00db0001000a000000e200d5001301f200f5007a07da0c2101fb070e01d506fc001b01ff00dc00f200f700230023002a000a00fdffedfffcff66ff16000000daff66ff0e000000c1ff5b011000ebfe000064ffffff1500f0ff210033040a0a1208e207ffff220108000a0099050100c502da00fc0afa0032040d01f200ee001701d500f90002000d010100d300d300da0002000a00",
-            "warnings": 16
+            "textraw": "290004010401040101001309190af900e200f700ef00db0001000a000000e200d5001301f200f5007a07da0c2101fb070e01d506fc001b01ff00dc00f200f700230023002a000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "（ふふふ、地道なことだが、\u0000\n　こうやって信頼を積み重ねればきっと……）\u0000\n　　ベ￣　教頭先生ん？\u0000\n今、何か扉に挟まったような。ま、いいか。\u0000\n",
+        "text": "（ふふふ、地道なことだが、\u0000\n　こうやって信頼を積み重ねればきっと……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "220108000a0099050100c502da00fc0afa0032040d01f200ee001701d500f90002000d010100d300d300da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "ん？\u0000\n今、何か扉に挟まったような。ま、いいか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "2900d90001003d0578037407ef00f9000200ef00f200ee001801e200e200fe00800d800d2a000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700c1ff5c011000ebfe000065ff06001500f0ff340033040a0a1208e207ffffd3001301d000010099055a0afd007d0cd100ee001901f800d500f600e80008000a00510a990723002300d3001301ef0530021208e207f6001101a60cf200f50008000a00",
-            "warnings": 16
+            "textraw": "2900d90001003d0578037407ef00f9000200ef00f200ee001801e200e200fe00800d800d2a000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "（お、好感触だな。だったらここは弌弌）\u0000\n．４　\u0000\n・：；ペ￣　：教頭先生いやぁ、今日の夜あたりどうです？\u0000\n二人……いや桜井先生でも誘って？\u0000\n",
+        "text": "（お、好感触だな。だったらここは弌弌）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "d3001301d000010099055a0afd007d0cd100ee001901f800d500f600e80008000a00510a990723002300d3001301ef0530021208e207f6001101a60cf200f50008000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "いやぁ、今日の夜あたりどうです？\u0000\n二人……いや桜井先生でも誘って？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -848,12 +874,25 @@
         "id": 67,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "23002300d1001901db00f700d500e300e500d3000d01e600ee0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff5c011000ebfe000065ff16001500f0ff440033040a0a1208e207ffffec002201f900e200f700fa041e01f900d300f600de00ef00e400d30002000a000f0ae70072075a07fd002b099803e7001201f900d300f600e800da0002000a0098ff0000effe070097ff",
-            "warnings": 26
+            "textraw": "23002300d1001901db00f700d500e300e500d3000d01e600ee0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "……ありがとうございました。\u0000\n　，　？ペ￣　教頭先生そんなこと言わないでください。\u0000\n同じ職場の仲間じゃないですか。\u0000\n　；",
+        "text": "……ありがとうございました。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "ec002201f900e200f700fa041e01f900d300f600de00ef00e400d30002000a000f0ae70072075a07fd002b099803e7001201f900d300f600e800da0002000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "そんなこと言わないでください。\u0000\n同じ職場の仲間じゃないですか。\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -991,12 +1030,25 @@
         "id": 79,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "23002300fe00d30002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff5c011000ebfe000065ff22001500f0ff500033040a0a1208e207ffff9907fd005307fa00f70cf3008606f700e600f500f6093b08ef00170102000a00",
-            "warnings": 23
+            "textraw": "23002300fe00d30002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "……はい。\u0000\n　，　？ペ￣　教頭先生人の上に立つ者として当然だよ。\u0000\n",
+        "text": "……はい。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 80,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "9907fd005307fa00f70cf3008606f700e600f500f6093b08ef00170102000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "人の上に立つ者として当然だよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1205,6 +1257,19 @@
         "speaker": "みお",
         "speaker_translation": "",
         "text": "忘れるくらいだからどうでも良いんじゃない？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 97,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "ec001b011101ec00f200da0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "それもそっか。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

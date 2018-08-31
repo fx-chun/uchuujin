@@ -341,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "0dff54000fff",
-            "textraw": "d700f200090008000a00fdffedfffcfffcffedffc1ffffff100066ff00000000c1ff7402100067ff1800ebfe0000adffffff65ff0b001000f0ff1b003b0141011b006b01290bffff230023002300230002000a00",
-            "warnings": 18
+            "textraw": "d700f200090008000a00",
+            "warnings": 0
         },
         "speaker": "＆",
         "speaker_translation": "",
-        "text": "えっ！？\u0000\n￣　　洩￣　￣―スタ―ラ姫…………。\u0000\n",
+        "text": "えっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "3b0141011b006b01290b",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "スタ―ラ姫",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -458,12 +471,12 @@
         "id": 36,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "2900010cfd00e404fa009c06db00090008002a000a0098ff0000effe040097fffdff7fff040002ff01ff05003200",
-            "warnings": 8
+            "textraw": "2900010cfd00e404fa009c06db00090008002a000a0098ff0000effe040097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "（僕の肩に手が！？）\u0000\n　．．・",
+        "text": "（僕の肩に手が！？）\u0000\n　．",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "080008000800080008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe03000400e8fe020066ff7c000000c1ff00011000ebfe000065ff15000a00f0ff2d002a09730a6007ffffd5001e01d100d100090008000a00",
-            "warnings": 26
+            "textraw": "080008000800080008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "？？？？？\u0000\n　，　？，．。　ぱ￣　\u0000\n中之条うわああ！？\u0000\n",
+        "text": "？？？？？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d5001e01d100d100090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "うわああ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +679,25 @@
         "id": 52,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe0300040066ff8a000000afff03000100c1ff00011000ebfe0000adffffff65ff1d000a00f0ff35002a09730a6007ffff230023002300230002000a00",
-            "warnings": 28
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？，．　，、ぱ￣　\u0000\n中之条…………。\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -763,6 +802,19 @@
         "speaker": "田中",
         "speaker_translation": "",
         "text": "中之条、気絶してま―す。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

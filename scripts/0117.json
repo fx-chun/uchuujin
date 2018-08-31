@@ -354,12 +354,25 @@
         "id": 27,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "2900f6000100f0044202db001e01da00f200ee00fa06f600f800d500e6001701d50002000a000000f101f605e600f500d900d300f500c50211016f0de400f900d300fd001101a70bef00e6002a000a00fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe050006000700eefe10000400c1ff49011000ebfe0100adffffff65ff06001100f0ff1c00ef053002e907ffff2900e200e200fe003602f00a1e0a1f02f9003a01650175016d01f6000f07610b09000a000000f7001901d100d700e900e400f200dc00fd006f0d2101f80b18010d01ea00f500230023002a000a00",
-            "warnings": 19
+            "textraw": "2900f6000100f0044202db001e01da00f200ee00fa06f600f800d500e6001701d50002000a000000f101f605e600f500d900d300f500c50211016f0de400f900d300fd001101a70bef00e6002a000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "（で、原因がわかった所でどうしよう。\u0000\n　挨拶しておいて何も話さないのも変だし）\u0000\n．　\u0000\n４・：；￣．デ￣、：桜井誠（ここは一番得意なジャンルで勝負！\u0000\n　とりあえずさっきの話を膨らませて……）\u0000\n",
+        "text": "（で、原因がわかった所でどうしよう。\u0000\n　挨拶しておいて何も話さないのも変だし）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "2900e200e200fe003602f00a1e0a1f02f9003a01650175016d01f6000f07610b09000a000000f7001901d100d700e900e400f200dc00fd006f0d2101f80b18010d01ea00f500230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（ここは一番得意なジャンルで勝負！\u0000\n　とりあえずさっきの話を膨らませて……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "23002300fe00d30002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ff45011000ebfe0100adffffff65ff18001100f0ff2e00ef053002e907ffff2900d1000100ec00d500ef0009002a000a00",
-            "warnings": 24
+            "textraw": "23002300fe00d30002000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "……はい。\u0000\n　？ッ￣、桜井誠（あ、そうだ！）\u0000\n",
+        "text": "……はい。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "2900d1000100ec00d500ef0009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（あ、そうだ！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +822,25 @@
         "id": 63,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "d1001901db00f700d500e300e500d3000d01e80002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff4c011000ebfe0100adffffff65ff2a001100f0ff4000ef053002e907ffff2900ec00d500ef00010019022505370145012d011b00fa003b04350c21015106f200f50011011801d5000a000000d300d3004301650175013b01e7001201f900d300da0009002a000a00",
-            "warnings": 21
+            "textraw": "d1001901db00f700d500e300e500d3000d01e80002000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "ありがとうございます。\u0000\n　？ナ￣、）桜井誠（そうだ、囲碁サッカ―に興味を持ってもらう\u0000\n　いいチャンスじゃないか！）\u0000\n",
+        "text": "ありがとうございます。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "2900ec00d500ef00010019022505370145012d011b00fa003b04350c21015106f200f50011011801d5000a000000d300d3004301650175013b01e7001201f900d300da0009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（そうだ、囲碁サッカ―に興味を持ってもらう\u0000\n　いいチャンスじゃないか！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -984,6 +1023,19 @@
         "speaker": "桜井誠",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 79,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "d500f000fd006c0b2300230042016301da00110102000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "うちの部……ダメかも。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

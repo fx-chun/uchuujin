@@ -562,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "2900e2001b01fe000100e2001b01fe00f9002201f700230023002a000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700c1ffe8001000ebfe0100adffffff65ff10000800f0ff2c00f105f004ffff2900f9002201f700da000501d300ee003b015f011b004601da0009002a000a00",
-            "warnings": 18
+            "textraw": "2900e2001b01fe000100e2001b01fe00f9002201f700230023002a000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "（これは、これはなんと……）\u0000\n．４　・：；す￣、￣？笹原（なんとかぶいたスポ―ツか！）\u0000\n",
+        "text": "（これは、これはなんと……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "2900f9002201f700da000501d300ee003b015f011b004601da0009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "（なんとかぶいたスポ―ツか！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -757,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "2900230023001e0101001e01e0001e01da002201fc001b00f200090009002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffe1001000ebfe0100adffffff65ff20000800f0ff3c00f105f004ffff2900f9002201f7008d0cfd02f9003b015f011b004601ef001c01d500da0009002a000a00",
-            "warnings": 23
+            "textraw": "2900230023001e0101001e01e0001e01da002201fc001b00f200090009002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "（……わ、わけわかんね―っ！！）\u0000\n　，　？げ￣、〜？笹原（なんと愉快なスポ―ツだろうか！）\u0000\n",
+        "text": "（……わ、わけわかんね―っ！！）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "2900f9002201f7008d0cfd02f9003b015f011b004601ef001c01d500da0009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "（なんと愉快なスポ―ツだろうか！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -926,12 +952,25 @@
         "id": 73,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "19022505370145012d011b006c0b01001101d500d1001a012201ef00e000f800f900d00002000a00e600da0011012406f00012012201fd00500c3808e006f500ee00e6002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc3d1ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff0a0071ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff45011000ebfe000065ff2e001100f0ff4a00ef053002e907ffff23002300e2002201f9007803e700f60002000a00f800d500f600e800080000005e0cae0ada00f200ee00f600e800da0008000a00",
-            "warnings": 57
+            "textraw": "19022505370145012d011b006c0b01001101d500d1001a012201ef00e000f800f900d00002000a00e600da0011012406f00012012201fd00500c3808e006f500ee00e6002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "囲碁サッカ―部、もうあるんだけどなぁ。\u0000\nしかも姉ちゃんの名前出てたし……。\u0000\n　，　？、　？　，、　　ば\u0000\nば\u0000\n　。　？ッ￣　桜井誠……こんな感じで。\u0000\nどうです？　面白かったですか？\u0000\n",
+        "text": "囲碁サッカ―部、もうあるんだけどなぁ。\u0000\nしかも姉ちゃんの名前出てたし……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "23002300e2002201f9007803e700f60002000a00f800d500f600e800080000005e0cae0ada00f200ee00f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "……こんな感じで。\u0000\nどうです？　面白かったですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1127,6 +1166,19 @@
         "speaker": "笹原",
         "speaker_translation": "",
         "text": "うむ、傑作だ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 90,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

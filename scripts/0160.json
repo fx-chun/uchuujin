@@ -445,12 +445,25 @@
         "id": 34,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "090008000a0098ff0000effe060097fffdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff0c00c1ffe6001000ebfe000065ff02000800f0ff2300f105f004ffffd30013010100ee00ef00fd003c03e207f600d1001a0102000a003e09d909360265046d0af200f500d300ee00f700e2001c01f600f90002000a00",
-            "warnings": 20
+            "textraw": "090008000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "！？\u0000\n　：．４　・：；し￣　。？…笹原いや、ただの学生である。\u0000\n丁度一句捻っていたところでな。\u0000\n",
+        "text": "！？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d30013010100ee00ef00fd003c03e207f600d1001a0102000a003e09d909360265046d0af200f500d300ee00f700e2001c01f600f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "いや、ただの学生である。\u0000\n丁度一句捻っていたところでな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +705,25 @@
         "id": 54,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "23002300e800e300d3000101f700ef0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffeefe05000400e8fe020066ff7f000000c1ffe8001000ebfe000065ff16000800f0ff3700f105f004ffff99072101d300dc00f90019014c0b7f0786060005ff001e011901f700fe00230023000a00470c370df600d1001c01d500db00090009000a00",
-            "warnings": 25
+            "textraw": "23002300e800e300d3000101f700ef0002000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "……すごいひとだ。\u0000\n　？・．。　す￣　？笹原人をいきなり不審者呼ばわりとは……\u0000\n無礼であろうが！！\u0000\n",
+        "text": "……すごいひとだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "99072101d300dc00f90019014c0b7f0786060005ff001e011901f700fe00230023000a00470c370df600d1001c01d500db00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "人をいきなり不審者呼ばわりとは……\u0000\n無礼であろうが！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -913,12 +939,25 @@
         "id": 72,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ffe1001000ebfe000065ff28000800f0ff4900f105f004fffffb00da00e600d9001a0102000a00",
-            "warnings": 24
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？げ￣　？笹原ぬかしおる。\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "fb00da00e600d9001a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "ぬかしおる。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1088,6 +1127,19 @@
         "speaker": "はかせ",
         "speaker_translation": "",
         "text": "……あっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 87,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "f900fd001b0009000000f900fd00f900fd00f20009000a00c502da00d3000d01e800e300d3009907db00f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "なの―！　なのなのっ！\u0000\n何かいますごい人がっ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

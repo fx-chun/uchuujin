@@ -55,12 +55,25 @@
         "id": 4,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "fe00d3000100fe00da00ea0002000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff0a00fcfff9ff0800e8fe0200c1ff30001000ebfe000065ff05000100f0ff0500fe00da00ea00ffffe600160101000f07610bf300d300ee002201ef00da00180101000a00fe001301de000100d100f200f000d300f200f5001b0009000a00",
-            "warnings": 17
+            "textraw": "fe00d3000100fe00da00ea0002000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "はい、はかせ。\u0000\n？￣ば\u0000\n？。｝￣　・、・はかせしょ、勝負ついたんだから、\u0000\nはやく、あっちいって―！\u0000\n",
+        "text": "はい、はかせ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "e600160101000f07610bf300d300ee002201ef00da00180101000a00fe001301de000100d100f200f000d300f200f5001b0009000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "しょ、勝負ついたんだから、\u0000\nはやく、あっちいって―！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -94,12 +107,51 @@
         "id": 8,
         "internal": {
             "speakerraw": "520149012501",
-            "textraw": "09000a00fdffedfffcff67ff1800c1ff300110001aff04000000f0ff00003c0016ffffffc1ff31011000f4ff3c00f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff09000100f0ff0900fe00da00ea00ffffd70008000000d5001e011e011e011e011b001b0009000a00c502f600b503f200f500de001a01fd001b001b00090008000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff1500fcfff9ff0800e8fe0200c1ff3e001000ebfe000065ff0a000200f0ff0a001501f200e200ffff130101001301f200ee0023002300f300d300fa000100f300d300fa000a00170c2b02f00012012201fa000f07f500ee001b0009000a00fdffedfffcffb7ff1000f5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1ff0a00ff00c8ff3e001201ff0090ff120190ffffff67ffffff71ff000063ffffffb6ffedfff6ff0800c1ff12011000ebfe000065ff0b000c00f0ff0b007a05e0051208e207ffff230023007208e2070100590dc202fa00f70cf200f5001c0102000a00",
-            "warnings": 113
+            "textraw": "09000a00",
+            "warnings": 0
         },
         "speaker": "バディ",
         "speaker_translation": "",
-        "text": "！\u0000\nギ￣．　　ク￣？　　，、　　ば\u0000\nば　？。　！、！はかせえ？　うわわわわ――！\u0000\n何で寄ってくるの――！？\u0000\n？￣ば？。￣　\u0000\n。\u0000\nゆっこや、やった……ついに、ついに\u0000\n麻衣ちゃんに勝てた―！\u0000\n￣？　，、　　ば\u0000\nばゃばゃ　？ゃ￣　高崎先生……相生、廊下に立ってろ。\u0000\n",
+        "text": "！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "d70008000000d5001e011e011e011e011b001b0009000a00c502f600b503f200f500de001a01fd001b001b00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "え？　うわわわわ――！\u0000\n何で寄ってくるの――！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "130101001301f200ee0023002300f300d300fa000100f300d300fa000a00170c2b02f00012012201fa000f07f500ee001b0009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "や、やった……ついに、ついに\u0000\n麻衣ちゃんに勝てた―！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "230023007208e2070100590dc202fa00f70cf200f5001c0102000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "……相生、廊下に立ってろ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -120,12 +172,25 @@
         "id": 13,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "5701570102000a00fdfff7ff0800fcffffffc1ffffff1000bcffcf01ff0067ff0900fcfff9ff0800c8ff6f0069011000ebfe000065ff0e000300f0ff0e000e01d900ffffec001b01e700120101000a00ec00fd003a0165016201fe000d01ee009905d909f600d300d3001701fc0002000a00",
-            "warnings": 19
+            "textraw": "5701570102000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "フフ。\u0000\n？￣ば！？ョ￣　，みおそれじゃ、\u0000\nそのジャムはまた今度でいいよね。\u0000\n",
+        "text": "フフ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "ec001b01e700120101000a00ec00fd003a0165016201fe000d01ee009905d909f600d300d3001701fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "それじゃ、\u0000\nそのジャムはまた今度でいいよね。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -159,12 +224,25 @@
         "id": 17,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "dd001201d100d100d100d100d1001b001b0009000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff0b00fcfff9ff0800c1ffe0001000ebfe000065ff12000800f0ff1200f105f004ffffe400e800db00f70cdc020e01e400f70002000a00e5044a06f600d100f200ee0009000a00",
-            "warnings": 19
+            "textraw": "dd001201d100d100d100d100d1001b001b0009000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "ぎゃあああああ――！\u0000\n？￣ば？け￣　？笹原さすが立花みさと。\u0000\n見事であった！\u0000\n",
+        "text": "ぎゃあああああ――！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "e400e800db00f70cdc020e01e400f70002000a00e5044a06f600d100f200ee0009000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "さすが立花みさと。\u0000\n見事であった！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -237,12 +315,25 @@
         "id": 24,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "090008000a00fdfff7ff0800fcffffffc1ffffff1000bcffab01ff0067ff0700fcfff9ff0800e8fe0200c1ffab001000ebfe000065ff19000500f0ff190053055b091208e207fffffe00f200090008000a00",
-            "warnings": 17
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "！？\u0000\n？￣ば；？。Ｏ￣　〆・〆校長先生はっ！？\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "fe00f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "はっ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -276,12 +367,25 @@
         "id": 28,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "0d011a01f600990511016e0cfd003808fa000a006106db00d3001a011701d500f9002300230002000a00fdffedfffcff67ffffff66ff43000000c1ffffff1000daff67ff0f00e8fe0200c1ff8c011000ebfe000065ff1d001e00f0ff1d006106ffff57011b00450109000a00",
-            "warnings": 21
+            "textraw": "0d011a01f600990511016e0cfd003808fa000a006106db00d3001a011701d500f9002300230002000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "まるで今も目の前に\u0000\n鹿がいるような……。\u0000\n　￣。￣　／鹿フ―ッ！\u0000\n",
+        "text": "まるで今も目の前に\u0000\n鹿がいるような……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "57011b00450109000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "フ―ッ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -289,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "090008000a00fdfff7ff0800fcffffffc1ffffff1000bcffab01ff0067ff1000fcfff9ff0800c1ff05001000ebfe000065ff1f000000f0ff1f00f900fd00ffffd100fd0023002300100cf609fa004f013a0121010a009a06f200f50011011801d7001a012201f600e800da0008000a00",
-            "warnings": 18
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "！？\u0000\n？￣ば￣？・￣　　なのあの……本当にネジを\u0000\n取ってもらえるんですか？\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d100fd0023002300100cf609fa004f013a0121010a009a06f200f50011011801d7001a012201f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "あの……本当にネジを\u0000\n取ってもらえるんですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -302,12 +419,25 @@
         "id": 32,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "29009a061901d30bf9002201f500120918012201db0001000a000000f9002201f700da00f9001a01ef001c01d5002a000a00fdffedfffcff1aff03000000100000003c0016ffffffc1ffc0001000adff0500ebfe000065ff21000600f0ff21002a09a2081208e207ffffe400d10001004402f20047091a01ed0002000a00",
-            "warnings": 15
+            "textraw": "29009a061901d30bf9002201f500120918012201db0001000a000000f9002201f700da00f9001a01ef001c01d5002a000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "（取り方なんて知らんが、\u0000\n　なんとかなるだろう）\u0000\n，　￣　ｊ￣・　：中村先生さあ、引っ張るぞ。\u0000\n",
+        "text": "（取り方なんて知らんが、\u0000\n　なんとかなるだろう）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "e400d10001004402f20047091a01ed0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "さあ、引っ張るぞ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -367,12 +497,25 @@
         "id": 38,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "d10019010d01ea002201f20009000a00fdfff7ff0800fcffffffc1ffffff1000bcffc301ff0067ff1300fcfff9ff0800c1ff8e011000ebfe000065ff27001f00f0ff270035013a016f012801ffff630129011b000a00",
-            "warnings": 21
+            "textraw": "d10019010d01ea002201f20009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "ありませんっ！\u0000\n？￣ば？￣　コジロウメェ―\u0000\n",
+        "text": "ありませんっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "35013a016f012801",
+            "textraw": "630129011b000a00",
+            "warnings": 0
+        },
+        "speaker": "コジロウ",
+        "speaker_translation": "",
+        "text": "メェ―\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -419,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "290023002300f7026f0df600dc00f5001a01090008002a000a00fdfff7ff0800fcffffffc1ffffff1000bcffb401ff0067ff0b00fcfff9ff0800c1ff77011000ebfe000065ff2c001a00f0ff2c0057012901f200f00012012201ffff570129011b004501610be000f0001201f200ee001b0002000a00",
-            "warnings": 20
+            "textraw": "290023002300f7026f0df600dc00f5001a01090008002a000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "（……会話できてる！？）\u0000\n？￣ば？ヵ￣　フェっちゃんフェ―ッ負けちゃった―。\u0000\n",
+        "text": "（……会話できてる！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "570129011b004501610be000f0001201f200ee001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "フェ―ッ負けちゃった―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +679,25 @@
         "id": 52,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "230023002300230002000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff0900fcfff9ff0800c1ffef001000ebfe000065ff35000900f0ff3500cd084105ffff0f07610b2a090100e200fd00690adb00e60012010801f200f500d300ee001701d500f9000a00c403db00e8001a012201ef001701f9001b0002000a00",
-            "warnings": 18
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "…………。\u0000\n？￣ば！？だ￣　！大工勝負中、この猫がしゃべっていたような\u0000\n気がするんだよな―。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "0f07610b2a090100e200fd00690adb00e60012010801f200f500d300ee001701d500f9000a00c403db00e8001a012201ef001701f9001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "勝負中、この猫がしゃべっていたような\u0000\n気がするんだよな―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -627,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "cd0841055400db05100ce4002201",
-            "textraw": "23002300d10002000a00fdfff7ff0800fcffffffc1ffffff1000bcffb401ff0067ff0a00fcfff9ff0800c1ff85011000ebfe000065ff3e001c00f0ff3e00260141013501ffff0f07610bfa00fe00610be000ee00db00230023000a002005cb08fe007d0bf200f50011011801d3000d01e800170102000a00",
-            "warnings": 20
+            "textraw": "23002300d10002000a00",
+            "warnings": 0
         },
         "speaker": "大工＆阪本さん",
         "speaker_translation": "",
-        "text": "……あ。\u0000\n？￣ば\u0000\n？￣　イタコ勝負には負けたが……\u0000\n御代は払ってもらいますよ。\u0000\n",
+        "text": "……あ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "0f07610bfa00fe00610be000ee00db00230023000a002005cb08fe007d0bf200f50011011801d3000d01e800170102000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "勝負には負けたが……\u0000\n御代は払ってもらいますよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -757,12 +939,25 @@
         "id": 72,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "fe00da00f200ee00f90001003105b8061b001b00f20009000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff0b00fcfff9ff0800c1ff08011000ebfe000065ff49000b00f0ff4900ef0530021208e207ffffef00da00180160013501f0001201220102005e011b006d01c3061901f900db0018010a00b80bd300ee001801af03f900d300170109000a00",
-            "warnings": 20
+            "textraw": "fe00da00f200ee00f90001003105b8061b001b00f20009000a00",
+            "warnings": 0
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "はかったな、光秀――っ！\u0000\n？￣ば？べ￣　桜井先生だからマコちゃん。ボ―ル蹴りながら\u0000\n歩いたら危ないよ！\u0000\n",
+        "text": "はかったな、光秀――っ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "ef00da00180160013501f0001201220102005e011b006d01c3061901f900db0018010a00b80bd300ee001801af03f900d300170109000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "だからマコちゃん。ボ―ル蹴りながら\u0000\n歩いたら危ないよ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -858,15 +1053,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 81,
         "internal": {
-            "speakerraw": "1e0016ff",
-            "textraw": "c1ff19011000adff0500ebfe000065ff51000c00f0ff51007a05e0051208e207ffff17010100f700d500f20009000000230023000401d50002000a00f800d500ef00ef0530028b040200d100f700ef0530021208e2071101800d800d0a00",
-            "warnings": 9
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "17010100f700d500f20009000000230023000401d50002000a00f800d500ef00ef0530028b040200d100f700ef0530021208e2071101800d800d0a00",
+            "warnings": 0
         },
-        "speaker": "／",
+        "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "り￣・　高崎先生よ、とうっ！　……ふう。\u0000\nどうだ桜井君。あと桜井先生も弌弌\u0000\n",
+        "text": "よ、とうっ！　……ふう。\u0000\nどうだ桜井君。あと桜井先生も弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -874,12 +1069,25 @@
         "id": 82,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "f200f5000100d300f900d30009000a00fdfff7ff0800fcffffffc1ffffff1000bcff9301ff0067ff1000fcfff9ff0800c1ff16011000ebfe0100adffffff65ff53000c00f0ff53007a05e0051208e207ffff2900de0cf0002909e000090000005d063b08fa0002000a000000d100de000d01f6005d063b08fa00a60cd5002201ef00230023002a000a00",
-            "warnings": 21
+            "textraw": "f200f5000100d300f900d30009000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "って、いない！\u0000\n？￣ば￣？ょ￣、高崎先生（落ち着け！　自然に。\u0000\n　あくまで自然に誘うんだ……）\u0000\n",
+        "text": "って、いない！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900de0cf0002909e000090000005d063b08fa0002000a000000d100de000d01f6005d063b08fa00a60cd5002201ef00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（落ち着け！　自然に。\u0000\n　あくまで自然に誘うんだ……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -913,12 +1121,25 @@
         "id": 86,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "d7000100d700f200f7000100ec001b01e700120101000a003304450c6e06fa00730cf200f5000d01e800fc0002000a00fdffedfffcff1aff0300000000fe00003c0016ffffffc0ff0300ffff10001fff0300000000fe0000c0ff0300a800ff001aff0300000078ff00003c0016ffffff67ffffffafff04000000e8fe0200c1ff19011000ebfe000065ff57000c00f0ff57007a05e0051208e207ffffd1000100d100fd00090000009905ef0a01000a0045020e01fa00f6001101d300dc000d01ea002201da0009000a00",
-            "warnings": 30
+            "textraw": "d7000100d700f200f7000100ec001b01e700120101000a003304450c6e06fa00730cf200f5000d01e800fc0002000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "え、えっと、それじゃ、\u0000\n教務室に戻ってますね。\u0000\n，　　，￣，　　，Ｌば，　　．　。り￣　高崎先生あ、あの！　今晩、\u0000\n飲みにでもいきませんか！\u0000\n",
+        "text": "え、えっと、それじゃ、\u0000\n教務室に戻ってますね。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 87,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "d1000100d100fd00090000009905ef0a01000a0045020e01fa00f6001101d300dc000d01ea002201da0009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "あ、あの！　今晩、\u0000\n飲みにでもいきませんか！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -939,12 +1160,25 @@
         "id": 89,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "23002300d70008000a00d100f2001b011b001b0008000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff0b00fcfff9ff0800c1ff660010001aff0300000000fe00003c0016ffffffedffc1ffffff1000c1ff25011000ebfe000065ff5a000d00f0ff5a00db05100ce4002201ffff220101009905fd00fe004e0cfd00970ce708da0008000a00f0001601f200f700f300d300f5006c05f200f5000e011a01da0002000a00",
-            "warnings": 30
+            "textraw": "23002300d70008000a00d100f2001b011b001b0008000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "……え？\u0000\nあっれ――？\u0000\n？￣ば？￣，　　￣ィ￣　阪本さんん、今のは娘の友達か？\u0000\nちょっとついて行ってみるか。\u0000\n",
+        "text": "……え？\u0000\nあっれ――？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 90,
+        "internal": {
+            "speakerraw": "db05100ce4002201",
+            "textraw": "220101009905fd00fe004e0cfd00970ce708da0008000a00f0001601f200f700f300d300f5006c05f200f5000e011a01da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "阪本さん",
+        "speaker_translation": "",
+        "text": "ん、今のは娘の友達か？\u0000\nちょっとついて行ってみるか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1043,12 +1277,38 @@
         "id": 98,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "93001b0ca508d30009000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff0d00fcfff9ff0800c1ff30011000ebfe0000adffffff65ff63000e00f0ff6300520149012501ffff23002300230023002300230002000a00fdffedfffcff1aff03000000000200003c0016ffffffc0ff0300ffff10001fff0300000078ff00001fff04000000680000001fff05000000f0ff00001fff02000000f0ff0000e8fe0200c1ff67011000ebfe000065ff64001700f0ff6400dc001701e600ffff0d010100610be000ee00090008000a00de04fa00610be000ee00fd0009000a00",
-            "warnings": 48
+            "textraw": "93001b0ca508d30009000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "１枚多い！\u0000\n？￣ば？ギ￣　バディ………………。\u0000\n，　斡　，￣，　　．　　・　　。　　。ュ￣　きよしま、負けた！？\u0000\n犬に負けたの！\u0000\n",
+        "text": "１枚多い！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 99,
+        "internal": {
+            "speakerraw": "520149012501",
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "バディ",
+        "speaker_translation": "",
+        "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 100,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "0d010100610be000ee00090008000a00de04fa00610be000ee00fd0009000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "ま、負けた！？\u0000\n犬に負けたの！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1082,12 +1342,38 @@
         "id": 103,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "d1001b0101005201490125010200730cf200f500dc00f500de001b01ee00fd0008000a00fdffedfffcff67ffffffc1ff300110001aff04000000f0ff0000140016ffffffc1ff31011000f4ff1e00f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff140071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff68001700f0ff6800dc001701e600ffff090008000a00fdfff7ff0800fcffffffc1ffffff1000bcffba01ff0067ff1000fcfff9ff0800c1ff62011000ebfe000065ff69001600f0ff69002a09730a6007e4002201ffffe400d1000100d9005c07e4002201090000000f07610bfd001f05fa0001000a00d900d300e600d300cd08770bfe00d300da00db00da00f90002000a00",
-            "warnings": 73
+            "textraw": "d1001b0101005201490125010200730cf200f500dc00f500de001b01ee00fd0008000a00",
+            "warnings": 0
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "あれ、バディ。戻ってきてくれたの？\u0000\nギ￣．　　ク￣／？　，、　　ば\u0000\nば　？。　きよし！？\u0000\n？￣ば￣？ム￣　中之条さんさあ、お嬢さん！　勝負の後に、\u0000\nおいしい大福はいかがかな。\u0000\n",
+        "text": "あれ、バディ。戻ってきてくれたの？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 104,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 105,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "e400d1000100d9005c07e4002201090000000f07610bfd001f05fa0001000a00d900d300e600d300cd08770bfe00d300da00db00da00f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "さあ、お嬢さん！　勝負の後に、\u0000\nおいしい大福はいかがかな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1238,12 +1524,25 @@
         "id": 117,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "23002300d7001801d300e200f700fa00f900f200f5001a01090008000a00fdfff7ff0800fcffffffc1ffffff1000bcffae01ff0067ff0900fcfff9ff0800c1ff44011000ebfe000065ff76001100f0ff7600ef053002e907ffff6c0b5b09db00f800e200fa00d3001a01da000a00120919010d01ea002201da0008000a00",
-            "warnings": 19
+            "textraw": "23002300d7001801d300e200f700fa00f900f200f5001a01090008000a00",
+            "warnings": 0
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "……えらいことになってる！？\u0000\n？￣ば！？ヂ￣　桜井誠部長がどこにいるか\u0000\n知りませんか？\u0000\n",
+        "text": "……えらいことになってる！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 118,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "6c0b5b09db00f800e200fa00d3001a01da000a00120919010d01ea002201da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "部長がどこにいるか\u0000\n知りませんか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1290,12 +1589,25 @@
         "id": 122,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "d100010012091801f900e0001b01ff00d300d3002201f600e80002000a00a4082101f908e600f5000e010d01e800da00180102000a00fdffedfffcff66ff1c0000001aff0400000000fe0000140016ffffffdaff67ffffffc1ff50011000ebfe000065ff7b001200f0ff7b009a033705ffff230023006c05f200f0001201d3000d01e600ee00170102000a009905d909fe00c502f9002201f600e800da0008000a00",
-            "warnings": 21
+            "textraw": "d100010012091801f900e0001b01ff00d300d3002201f600e80002000a00a4082101f908e600f5000e010d01e800da00180102000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "あ、知らなければいいんです。\u0000\n他を探してみますから。\u0000\n　．　　ノ￣　関口……行っちゃいましたよ。\u0000\n今度は何なんですか？\u0000\n",
+        "text": "あ、知らなければいいんです。\u0000\n他を探してみますから。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 123,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "230023006c05f200f0001201d3000d01e600ee00170102000a009905d909fe00c502f9002201f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "……行っちゃいましたよ。\u0000\n今度は何なんですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1329,12 +1641,25 @@
         "id": 126,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00fdfff7ff0800fcffffffc1ffffff1000bcffae01ff0067ff0b00fcfff9ff0800c1ffeb001000ebfe000065ff7f000900f0ff7f00cd084105fffff900d10001009a03370502000a00bc02fe00c5022101e8001b01ff00d300d300fd0008000a00",
-            "warnings": 19
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "…………。\u0000\n？￣ば？ぜ￣　！大工なあ、関口。\u0000\n俺は何をすればいいの？\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 127,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "f900d10001009a03370502000a00bc02fe00c5022101e8001b01ff00d300d300fd0008000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "なあ、関口。\u0000\n俺は何をすればいいの？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1433,12 +1758,25 @@
         "id": 135,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "d700f20008000a00fdfff7ff0800fcffffffc1ffffff1000bcffab01ff0067ff0d00fcfff9ff0800c1ff5b011000ebfe000065ff88001500f0ff880033040a0a1208e207fffff9002201f700d300d500e200f700ef0001000a00e207cc09fa000806900af700fe002300230002000a00",
-            "warnings": 20
+            "textraw": "d700f20008000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "えっ？\u0000\n？￣ば？ベ￣　教頭先生なんということだ、\u0000\n生徒に惨敗とは……。\u0000\n",
+        "text": "えっ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 136,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "f9002201f700d300d500e200f700ef0001000a00e207cc09fa000806900af700fe002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "なんということだ、\u0000\n生徒に惨敗とは……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1550,12 +1888,25 @@
         "id": 145,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "33040a0afd00b805e8001801af03d500d30009000a00fdfff7ff0800fcffffffc1ffffff1000bcff9301ff0067ff0a00fcfff9ff0800e8fe0200c1ff56011000ebfe000065ff92001400f0ff92000c022a09ffff1208e20709000a00",
-            "warnings": 18
+            "textraw": "33040a0afd00b805e8001801af03d500d30009000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "教頭の座すら危うい！\u0000\n？￣ば\u0000\n？。ピ￣　００安中先生！\u0000\n",
+        "text": "教頭の座すら危うい！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 146,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "1208e20709000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "先生！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1628,12 +1979,38 @@
         "id": 152,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "e70016010100070726067a05e207f700d9004d0bdc007f05d300e600f500d3001a01f9002201f5000a000e08b608fa00050b3b0cfa00e6000d01e800da00180109000a00fdffedfffcff66ff1c0000001aff0400000000fe00000f0016ffffffdafff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff99000c00f0ff99007a05e0051208e207ffff2705f802ef0009000a000d0101000d01f200f500de001b0101000c022a09f20009000a00fdfff7ff0800fcffffffc1ffffff1000bcffab01ff0067ff1500fcfff9ff0800c1ff5c011000ebfe000065ff9a001500f0ff9a0033040a0a1208e207ffff04010401010053055b091208e20702000a00e2001b01f6003806db0053055b09f600e800fc0002000a00",
-            "warnings": 67
+            "textraw": "e70016010100070726067a05e207f700d9004d0bdc007f05d300e600f500d3001a01f9002201f5000a000e08b608fa00050b3b0cfa00e6000d01e800da00180109000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "じょ、女子高生とお付き合いしているなんて\u0000\n絶対に秘密にしますから！\u0000\n　．　　？　，、　　悪ば\u0000\nば　？。　７７高崎先生誤解だ！\u0000\nま、まってくれ、安中っ！\u0000\n？￣ば？ペ￣　８８教頭先生ふふ、校長先生。\u0000\nこれで私が校長ですね。\u0000\n",
+        "text": "じょ、女子高生とお付き合いしているなんて\u0000\n絶対に秘密にしますから！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 153,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2705f802ef0009000a000d0101000d01f200f500de001b0101000c022a09f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "誤解だ！\u0000\nま、まってくれ、安中っ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 154,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "04010401010053055b091208e20702000a00e2001b01f6003806db0053055b09f600e800fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "ふふ、校長先生。\u0000\nこれで私が校長ですね。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1706,12 +2083,25 @@
         "id": 160,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "e6000d01f200ee001b001b00f20009000a00fdfff7ff0800fcffffffc1ffffff1000bcffba01ff0067ff1500fcfff9ff0800e8fe0200c1ff60011000ebfe000065ffa1001600f0ffa1002a09730a6007e4002201ffff1301f200ee00ed0009000a00e2001b01f600cd08770bfd000f07e80cef0009000a00",
-            "warnings": 19
+            "textraw": "e6000d01f200ee001b001b00f20009000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "しまった――っ！\u0000\n？￣ば？。マ￣　ＥＥ中之条さんやったぞ！\u0000\nこれで大福の勝利だ！\u0000\n",
+        "text": "しまった――っ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 161,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "1301f200ee00ed0009000a00e2001b01f600cd08770bfd000f07e80cef0009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "やったぞ！\u0000\nこれで大福の勝利だ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1823,12 +2213,25 @@
         "id": 170,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "2900d700d7001b001b001b001b00f200090008002a000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff0b00fcfff9ff0800c1ff67011000ebfe000065ffab001700f0ffab00dc001701e600ffff1301f200f700e504f300e000ee00170101000a00d900e700d300f0001201220109000a00",
-            "warnings": 18
+            "textraw": "2900d700d7001b001b001b001b00f200090008002a000a00",
+            "warnings": 0
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "（ええ――――っ！？）\u0000\n？￣ば？ュ￣　ＯＯきよしやっと見つけたよ、\u0000\nおじいちゃん！\u0000\n",
+        "text": "（ええ――――っ！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 171,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "1301f200f700e504f300e000ee00170101000a00d900e700d300f0001201220109000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "やっと見つけたよ、\u0000\nおじいちゃん！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1940,12 +2343,25 @@
         "id": 180,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "60011b003a0165017501ef00170109000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff0900fcfff9ff0800c1ff69011000ebfe000065ffb5001800f0ffb5000e01d9002406ffffec001b01e700120174071801ea00f500fc001b0002000a00",
-            "warnings": 17
+            "textraw": "60011b003a0165017501ef00170109000a00",
+            "warnings": 0
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "マ―ジャンだよ！\u0000\n？￣ば！？ョ￣　ＹＹみお姉それじゃ触らせてね―。\u0000\n",
+        "text": "マ―ジャンだよ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 181,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "ec001b01e700120174071801ea00f500fc001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "それじゃ触らせてね―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1953,12 +2369,25 @@
         "id": 182,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "f8000100f8001b00ed0002000a00fdffedfffcff1aff04000000f0ff00003c0016ffffffe8fe0200c1ff6a011000adff0500ebfe000065ffb7001800f0ffb7000e01d9002406ffffd5001e011b000100e800e300d3000a091d0d09000a00e2001b01f800d500f900f200f5001a01fd00090008000a0098ff000066ffa90000001aff0400000078ff00000a0016ffffff1aff04000000f0ff00000f0016ffffff66ffa90000001aff0400000078ff00000a0016ffffff1aff04000000f0ff00000f0016ffffff97ff",
-            "warnings": 38
+            "textraw": "f8000100f8001b00ed0002000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "ど、ど―ぞ。\u0000\n．　　。ヨ￣・　ａａみお姉うわ―、すごい弾力！\u0000\nこれどうなってるの！？\u0000\n　Ｍ　．　　\u0000\n．　　Ｍ　．　　\u0000\n．　　",
+        "text": "ど、ど―ぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 183,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "d5001e011b000100e800e300d3000a091d0d09000a00e2001b01f800d500f900f200f5001a01fd00090008000a0098ff000066ffa90000001aff0400000078ff00000a0016ffffff1aff04000000f0ff00000f0016ffffff66ffa90000001aff0400000078ff00000a0016ffffff1aff04000000f0ff00000f0016ffffff97ff",
+            "warnings": 22
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "うわ―、すごい弾力！\u0000\nこれどうなってるの！？\u0000\n　Ｍ　．　　\u0000\n．　　Ｍ　．　　\u0000\n．　　",
         "text_translation": "",
         "type": "dialog"
     },
@@ -2018,12 +2447,25 @@
         "id": 188,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "d700d700d700d7001b001b001b001b00f200090008000a00fdfff7ff0800fcffffffc1ffffff1000bcffa201ff0067ff0b00fcfff9ff0800c1ff76011000ebfe0100adffffff65ffbd001a00f0ffbd0057012901f200f00012012201ffff2900d9001b00280129015e0139011b00db000f07f200ee0017012a000a00",
-            "warnings": 20
+            "textraw": "d700d700d700d7001b001b001b001b00f200090008000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "ええええ――――っ！？\u0000\n？￣ば？ヴ￣、ｇｇフェっちゃん（お―ウェボシ―が勝ったよ）\u0000\n",
+        "text": "ええええ――――っ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 189,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "2900d9001b00280129015e0139011b00db000f07f200ee0017012a000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "（お―ウェボシ―が勝ったよ）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -2135,12 +2577,25 @@
         "id": 198,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "f0001601f200f7005e032201f600ee00e000f800230023000a00f9002201f600fe03fa00df0b100118011b01ee002201ef001c01d50008000a00fdfff7ff0800fcffffffc1ffffff1000bcff8701ff0067ff0900fcfff9ff0800c1ff75011000ebfe000065ffc7001a00f0ffc70057012901f200f00012012201ffffec001b01e7001201c2031c01f200da001b0002000a00",
-            "warnings": 17
+            "textraw": "f0001601f200f7005e032201f600ee00e000f800230023000a00f9002201f600fe03fa00df0b100118011b01ee002201ef001c01d50008000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "ちょっと噛んでたけど……\u0000\nなんで急に褒められたんだろう？\u0000\n？￣ば！？ン￣　ｑｑフェっちゃんそれじゃ帰ろっか―。\u0000\n",
+        "text": "ちょっと噛んでたけど……\u0000\nなんで急に褒められたんだろう？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 199,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "ec001b01e7001201c2031c01f200da001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "それじゃ帰ろっか―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -2226,12 +2681,25 @@
         "id": 206,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "230023000d010100d300f200da0002000a00fdfff7ff0800fcffffffc1ffffff1000bcffba01ff0067ff0800fcfff9ff0800c1ff7e011000ebfe000065ffcf001b00f0ffcf003a01290175014a016d0160017501ffffd9000d01f000f900e400d3000100d9005c07e400220109000a00",
-            "warnings": 17
+            "textraw": "230023000d010100d300f200da0002000a00",
+            "warnings": 0
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "……ま、いっか。\u0000\n？￣ば？？￣　ｙ―ｙジェントルマンおまちなさい、お嬢さん！\u0000\n",
+        "text": "……ま、いっか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 207,
+        "internal": {
+            "speakerraw": "3a01290175014a016d0160017501",
+            "textraw": "d9000d01f000f900e400d3000100d9005c07e400220109000a00",
+            "warnings": 0
+        },
+        "speaker": "ジェントルマン",
+        "speaker_translation": "",
+        "text": "おまちなさい、お嬢さん！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -2304,12 +2772,25 @@
         "id": 213,
         "internal": {
             "speakerraw": "3a01290175014a016d0160017501",
-            "textraw": "f600fe0001001e01ee00e600fe00e2001b01f60002000a00e300dc00e10022011701d50002000a00fdffedfffcff1aff0400000000fe00003c0016fffffffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff56011000ebfe000065ffd6001400f0ffd6000c022a09ffff1e01e5001e01e5003a06c408fa005c0a1b01f500de001b01ee002201ef001b0002000a00f60011010100c5022101de0cf700e600ee002201ef00f200e00008000a00",
-            "warnings": 49
+            "textraw": "f600fe0001001e01ee00e600fe00e2001b01f60002000a00e300dc00e10022011701d50002000a00",
+            "warnings": 0
         },
         "speaker": "ジェントルマン",
         "speaker_translation": "",
-        "text": "では、わたしはこれで。\u0000\nごきげんよう。\u0000\n．　　、　？　，、　　ば\u0000\nば　。　？ピ￣　ぇぇ安中わざわざ紙袋に入れてくれたんだ―。\u0000\nでも、何を落としたんだっけ？\u0000\n",
+        "text": "では、わたしはこれで。\u0000\nごきげんよう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 214,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "1e01e5001e01e5003a06c408fa005c0a1b01f500de001b01ee002201ef001b0002000a00f60011010100c5022101de0cf700e600ee002201ef00f200e00008000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "わざわざ紙袋に入れてくれたんだ―。\u0000\nでも、何を落としたんだっけ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -2330,12 +2811,25 @@
         "id": 216,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "2d02d50009000a00fdfff7ff0800fcffffffc1ffffff1000bcff8701ff0067ff0700fcfff9ff0800c1ff82011000ebfe000065ffd9001c00f0ffd900260141013501ffffce030707010052068c097a055305fd001208e207f600e800f90008000a00",
-            "warnings": 18
+            "textraw": "2d02d50009000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "違う！\u0000\n？￣ば；？￣　おおイタコ貴女、時定高校の先生ですな？\u0000\n",
+        "text": "違う！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 217,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "ce030707010052068c097a055305fd001208e207f600e800f90008000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "貴女、時定高校の先生ですな？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -2460,12 +2954,25 @@
         "id": 227,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "2300230024016e0108000a00fdfff7ff0800fcffffffc1ffffff1000bcffc001ff0067ff0a00fcfff9ff0800c1ff86011000ebfe000065ffe4001d00f0ffe4004a04a208ffffd9000d01ee00ea00d300ee00e6000d01e600ee001b0002000a00",
-            "warnings": 18
+            "textraw": "2300230024016e0108000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "……アレ？\u0000\n？￣ば\u0000\n？￣　ささ玉村おまたせいたしました―。\u0000\n",
+        "text": "……アレ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 228,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d9000d01ee00ea00d300ee00e6000d01e600ee001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "おまたせいたしました―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -2577,12 +3084,25 @@
         "id": 237,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "2300230031098e0be600e800dd00ee0002000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff1400fcfff9ff0800e8fe0200c1ff96011000ebfe0000adff030065ffee002000f0ffee00920bc808ffff23002300f9002201f500e200f200ee0009000a00e200e2000d01f600dc00f5000100610be000f500e6000d01f200ee0009000a00",
-            "warnings": 20
+            "textraw": "2300230031098e0be600e800dd00ee0002000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "……注文しすぎた。\u0000\n？￣ば？。￣　，た〜た兵隊……なんてこった！\u0000\nここまできて、負けてしまった！\u0000\n",
+        "text": "……注文しすぎた。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 238,
+        "internal": {
+            "speakerraw": "920bc808",
+            "textraw": "23002300f9002201f500e200f200ee0009000a00e200e2000d01f600dc00f5000100610be000f500e6000d01f200ee0009000a00",
+            "warnings": 0
+        },
+        "speaker": "兵隊",
+        "speaker_translation": "",
+        "text": "……なんてこった！\u0000\nここまできて、負けてしまった！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -2850,12 +3370,25 @@
         "id": 260,
         "internal": {
             "speakerraw": "920bc808",
-            "textraw": "3406fa00ee00d30009000a00fdfff7ff0800fcffffffc1ffffff1000bcffb101ff0067ff0900fcfff9ff0800c1ff8e011000ebfe000065ff05011f00f0ff050135013a016f012801ffff630129011b000a00",
-            "warnings": 18
+            "textraw": "3406fa00ee00d30009000a00",
+            "warnings": 0
         },
         "speaker": "兵隊",
         "speaker_translation": "",
-        "text": "死にたい！\u0000\n？￣ば！？￣　ぶぶコジロウメェ―\u0000\n",
+        "text": "死にたい！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 261,
+        "internal": {
+            "speakerraw": "35013a016f012801",
+            "textraw": "630129011b000a00",
+            "warnings": 0
+        },
+        "speaker": "コジロウ",
+        "speaker_translation": "",
+        "text": "メェ―\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -2973,6 +3506,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 271,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f600dc001a0109000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "できる！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

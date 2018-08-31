@@ -367,12 +367,12 @@
         "id": 28,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "090008000a0098ff0000effe030097fffdff7fff040002ff01ff05003200",
-            "warnings": 8
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，．・",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +549,25 @@
         "id": 42,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "1701e60009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0e00eefe0d000400c1ff5e011000ebfe000065ff12001600f0ff2b002a09730a6007e4002201ffff6c024604ec0b160308000000c502fd00e200f700da00f90008000a00",
-            "warnings": 27
+            "textraw": "1701e60009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "よし！\u0000\n　，　？．ボ￣　中之条さん営業妨害？　何のことかな？\u0000\n",
+        "text": "よし！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "6c024604ec0b160308000000c502fd00e200f700da00f90008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "営業妨害？　何のことかな？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "23002300ec0019011201ec00d500f600e800170102000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00c1ff60011000ebfe000065ff21001600f0ff3a002a09730a6007e4002201fffffe00f200fe00f200fe0001006c024604ec0b1603f9002201f5000a00e8001a01fe00e900470cd300e7001201f900d300da0002000a00",
-            "warnings": 22
+            "textraw": "23002300ec0019011201ec00d500f600e800170102000a00",
+            "warnings": 0
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "……そりゃそうですよ。\u0000\n　？マ￣　中之条さんはっはっは、営業妨害なんて\u0000\nするはず無いじゃないか。\u0000\n",
+        "text": "……そりゃそうですよ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "fe00f200fe00f200fe0001006c024604ec0b1603f9002201f5000a00e8001a01fe00e900470cd300e7001201f900d300da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "はっはっは、営業妨害なんて\u0000\nするはず無いじゃないか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -780,15 +806,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 62,
         "internal": {
-            "speakerraw": "1e0016ff",
-            "textraw": "c1ff5e011000ebfe000065ff25001600f0ff3e002a09730a6007e4002201ffffe4000100e200f200f0000701d80cf900e400d30002000a009905da001801cd08770bfd00400d1f06fa00f300d300f5000e01f200f0001901f70002000a00",
-            "warnings": 8
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "e4000100e200f200f0000701d80cf900e400d30002000a009905da001801cd08770bfd00400d1f06fa00f300d300f5000e01f200f0001901f70002000a00",
+            "warnings": 0
         },
-        "speaker": "／",
+        "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "ボ￣　中之条さんさ、こっちへ来なさい。\u0000\n今から大福の歴史についてみっちりと。\u0000\n",
+        "text": "さ、こっちへ来なさい。\u0000\n今から大福の歴史についてみっちりと。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -893,6 +919,19 @@
         "speaker": "警察",
         "speaker_translation": "",
         "text": "詳しい話は署で聞こう。\u0000\nほら、さっさと来るんだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "2900f9000100c5020805e200d500f9001a01230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "（な、何故こうなる……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

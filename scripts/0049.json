@@ -549,12 +549,12 @@
         "id": 42,
         "internal": {
             "speakerraw": "0e01d9002406",
-            "textraw": "220108000000f800d500e600ee00fd0008000a00c502da00a408fa0075070801ee00d300800bdb00d1001a01fd0008000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "220108000000f800d500e600ee00fd0008000a00c502da00a408fa0075070801ee00d300800bdb00d1001a01fd0008000a00",
+            "warnings": 0
         },
         "speaker": "みお姉",
         "speaker_translation": "",
-        "text": "ん？　どうしたの？\u0000\n何か他に食べたい物があるの？\u0000\n．　４・",
+        "text": "ん？　どうしたの？\u0000\n何か他に食べたい物があるの？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -666,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "2900a60c0303e4001b01f0001201d500090009002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff2e001000ebfe000065ff0e000100f0ff3400fe00da00ea00ffffd700f200f700fc000100fe00da00ea000100f900fd00fa0012091801f900d3009907fa000a00f300d300f500d300f200f000120142016301f200f500fa041e011b01f5001a01da0018012300230002000a00",
-            "warnings": 23
+            "textraw": "2900a60c0303e4001b01f0001201d500090009002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "（誘拐されちゃう！！）\u0000\n　，　？￣　、はかせえっとね、はかせ、なのに知らない人に\u0000\nついていっちゃダメって言われてるから……。\u0000\n",
+        "text": "（誘拐されちゃう！！）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "d700f200f700fc000100fe00da00ea000100f900fd00fa0012091801f900d3009907fa000a00f300d300f500d300f200f000120142016301f200f500fa041e011b01f5001a01da0018012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "えっとね、はかせ、なのに知らない人に\u0000\nついていっちゃダメって言われてるから……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "6c05e2001b001b00090009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff2d001000ebfe0100adffffff65ff19000100f0ff3f00fe00da00ea00ffff2900f300d300f500d300f200ee001801f900fd00fa00dc0918011b01f0001201d500da0018010a0000000b091801f900d300f7002a000a00",
-            "warnings": 21
+            "textraw": "6c05e2001b001b00090009000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "行こ――！！\u0000\n　？￣、〆、はかせ（ついていったらなのに怒られちゃうから\u0000\n　断らないと）\u0000\n",
+        "text": "行こ――！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "2900f300d300f500d300f200ee001801f900fd00fa00dc0918011b01f0001201d500da0018010a0000000b091801f900d300f7002a000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "（ついていったらなのに怒られちゃうから\u0000\n　断らないと）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -893,6 +919,19 @@
         "speaker": "はかせ",
         "speaker_translation": "",
         "text": "そっか！　じゃあ行こ―！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "2900d1001b011b00090008002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "（あれ―！？）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

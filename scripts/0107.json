@@ -367,12 +367,25 @@
         "id": 28,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "29000a010100100cf609fa00c5021101470cd300fd00da00090008002a000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700eefe15000400c1ff17011000ebfe0100adffffff65ff06000c00f0ff1d007a05e0051208e207ffff2900d3001301e600da00e6000100c5021101470cd300fd00fa000a0000000c022a09db002c016e01210100050201330610011a01da00090008002a000a00",
-            "warnings": 20
+            "textraw": "29000a010100100cf609fa00c5021101470cd300fd00da00090008002a000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（ほ、本当に何も無いのか！？）\u0000\n．４　\u0000\n・：；．よ￣、：高崎先生（いやしかし、何も無いのに\u0000\n　安中がオレを呼び止めるか！？）\u0000\n",
+        "text": "（ほ、本当に何も無いのか！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900d3001301e600da00e6000100c5021101470cd300fd00fa000a0000000c022a09db002c016e01210100050201330610011a01da00090008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（いやしかし、何も無いのに\u0000\n　安中がオレを呼び止めるか！？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "f0001601f200f700ba08f500090009000a00d1000100d900d300090000000c022a09090000000c022a091b00f200090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe15000400e8fe0200c1ff1a011000ebfe000065ff16000c00f0ff2d007a05e0051208e207ffff0a010100100cf609fa00c5021101470cd3002201ef00f900090008000a00",
-            "warnings": 26
+            "textraw": "f0001601f200f700ba08f500090009000a00d1000100d900d300090000000c022a09090000000c022a091b00f200090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "ちょっと待て！！\u0000\nあ、おい！　安中！　安中―っ！？\u0000\n　，　？．。る￣　高崎先生ほ、本当に何も無いんだな！？\u0000\n",
+        "text": "ちょっと待て！！\u0000\nあ、おい！　安中！　安中―っ！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "0a010100100cf609fa00c5021101470cd3002201ef00f900090008000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "ほ、本当に何も無いんだな！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -744,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "0f01e6001c01ac09f609fa00fa04f200ee00da0018010a002a09730a6007de002201fa008907e600870cf900d3002201f600e800e000f8002300230002000a0098ff0000effe0b0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe15000400c1ff18011000ebfe000065ff25000c00f0ff3c007a05e0051208e207ffffec000100ec00d500da002300230002000a00",
-            "warnings": 26
+            "textraw": "0f01e6001c01ac09f609fa00fa04f200ee00da0018010a002a09730a6007de002201fa008907e600870cf900d3002201f600e800e000f8002300230002000a0098ff0000effe0b0097ff",
+            "warnings": 4
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "むしろ適当に言ったから\u0000\n中之条くんに申し訳ないんですけど……。\u0000\n　　？．ら￣　高崎先生そ、そうか……。\u0000\n",
+        "text": "むしろ適当に言ったから\u0000\n中之条くんに申し訳ないんですけど……。\u0000\n　",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "ec000100ec00d500da002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "そ、そうか……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -888,11 +927,11 @@
         "internal": {
             "speakerraw": "0c022a09",
             "textraw": "d700f200f700010098009b005c011b003a01fd002300230002000a00",
-            "warnings": 1
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "えっと、６ペ―ジの……。\u0000\n",
+        "text": "えっと、６９ペ―ジの……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -958,6 +997,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "……………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 77,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900d500d900d900d900d800d800d800f2000900090009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（うおおおぉぉぉっ！！！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

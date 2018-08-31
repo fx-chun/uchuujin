@@ -16,12 +16,38 @@
         "id": 1,
         "internal": {
             "speakerraw": "96009400f00a",
-            "textraw": "ec001b01f600fe00130905049907ee00f000fd009907c403fa009a031e011a0101000a006d011b006d01fd000c08520c2101e400ea00f50011011801d500ed0002000a00fdff71ff05005fff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1f01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff02002300f0ff020096009400f00affff130905049907ee00f000fd009907c403fa009a031e011a016d011b006d01f6000a00a408fa000c08520c21018f0bdc00ee00d300e200f700fe00d1001a01da0008000a00fdff73ff05007fff0200beff18011000ebfe000065ff03002300f0ff030096009400f00affff14023808fa000c08520ce600ee006e0919010100a700a400b100a0002a09ad04fa001701f200f5000a00630126017501130905049907fd009907c403db00240145015901e8001a0102000a00",
-            "warnings": 46
+            "textraw": "ec001b01f600fe00130905049907ee00f000fd009907c403fa009a031e011a0101000a006d011b006d01fd000c08520c2101e400ea00f50011011801d500ed0002000a00",
+            "warnings": 0
         },
         "speaker": "４２番",
         "speaker_translation": "",
-        "text": "それでは地球人たちの人気に関わる、\u0000\nル―ルの説明をさせてもらうぞ。\u0000\n・，　？　　，、　　ゐば\u0000\nば　？　。…。４２番地球人たちの人気に関わるル―ルで\u0000\n他に説明を聞きたいことはあるか？\u0000\n・。ら￣　，…，４２番以前に説明した通り、ＫＨＵＤ中継によって\u0000\nメイン地球人の人気がアップする。\u0000\n",
+        "text": "それでは地球人たちの人気に関わる、\u0000\nル―ルの説明をさせてもらうぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "96009400f00a",
+            "textraw": "130905049907ee00f000fd009907c403fa009a031e011a016d011b006d01f6000a00a408fa000c08520c21018f0bdc00ee00d300e200f700fe00d1001a01da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "４２番",
+        "speaker_translation": "",
+        "text": "地球人たちの人気に関わるル―ルで\u0000\n他に説明を聞きたいことはあるか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "96009400f00a",
+            "textraw": "14023808fa000c08520ce600ee006e0919010100a700a400b100a0002a09ad04fa001701f200f5000a00630126017501130905049907fd009907c403db00240145015901e8001a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "４２番",
+        "speaker_translation": "",
+        "text": "以前に説明した通り、ＫＨＵＤ中継によって\u0000\nメイン地球人の人気がアップする。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -230,6 +256,19 @@
         "speaker": "４２番",
         "speaker_translation": "",
         "text": "最後の説明だったんだが……まあいい。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "96009400f00a",
+            "textraw": "e2001b01f6001101d500c109d7001a01e200f700fe00470cd300fe00e900ef0002000a003c081d0df600d300d300f00a50082101e405f200f500de001b01090009000a00",
+            "warnings": 0
+        },
+        "speaker": "４２番",
+        "speaker_translation": "",
+        "text": "これでもう伝えることは無いはずだ。\u0000\n全力でいい番組を作ってくれ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

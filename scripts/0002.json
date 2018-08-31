@@ -393,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "230023002300230009000a00fdffedfffcff66ff8f000000c9ff6e021000dafff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1900ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800f4ff1e00beff1a001000f4ff1e00beff1b001000f4ff1e00beff1c001000f4ff1e00f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00f0ff00c1ff0a00ff00c1ff0400ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800c1ff04001000ebfe0100adffffff64ffffff0000f0ff1f00f900fd00ffff29004a011b003b014a01db007f06e006e4001b01ee00090008002a000a0098ff0000effe010097ff",
-            "warnings": 91
+            "textraw": "230023002300230009000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "…………！\u0000\n　影￣？　　，、　　〆ば\u0000\nば　？／￣／―￣／￣／？　，、　　ば\u0000\nば．ば　？．￣、　なの（ト―ストが射出された！？）\u0000\n　、",
+        "text": "…………！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "29004a011b003b014a01db007f06e006e4001b01ee00090008002a000a0098ff0000effe010097ff",
+            "warnings": 3
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（ト―ストが射出された！？）\u0000\n　、",
         "text_translation": "",
         "type": "dialog"
     },
@@ -432,12 +445,12 @@
         "id": 34,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "f9000100f900fd00f0001201220101009905fd002300230002000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "f9000100f900fd00f0001201220101009905fd002300230002000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "な、なのちゃん、今の……。\u0000\n．",
+        "text": "な、なのちゃん、今の……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "230023001501f200e200fe0052012d01ef00f900d00002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe10000400e8fe0400c1ff0f001000ebfe000065ff16000000f0ff3400f900fd00ffffd7000100d700f200f70001004a011b003b014a010100f600e800e000f8002300230002000a00",
-            "warnings": 26
+            "textraw": "230023001501f200e200fe0052012d01ef00f900d00002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "……ゆっこはバカだなぁ。\u0000\n　，　？￣￣．．￣　　なのえ、えっと、ト―スト、ですけど……。\u0000\n",
+        "text": "……ゆっこはバカだなぁ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d7000100d700f200f70001004a011b003b014a010100f600e800e000f8002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "え、えっと、ト―スト、ですけど……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -900,12 +926,25 @@
         "id": 71,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "d5002201230023000a003602ce02fa003602b4080a01e600d300fc0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1100c1ff01001000ebfe000065ff2a000000f0ff4800f900fd00ffffd1000100d100fd00010038060100ec001c01ec001c01c20319010d01e800fc0002000a00",
-            "warnings": 20
+            "textraw": "d5002201230023000a003602ce02fa003602b4080a01e600d300fc0002000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "うん……\u0000\n一家に一体ほしいね。\u0000\n　？、￣　）　なのあ、あの、私、そろそろ帰りますね。\u0000\n",
+        "text": "うん……\u0000\n一家に一体ほしいね。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d1000100d100fd00010038060100ec001c01ec001c01c20319010d01e800fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "あ、あの、私、そろそろ帰りますね。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1075,6 +1114,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "なのちゃん、あれでも\u0000\nバレてないって、思ってるんだね。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 86,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "460c0100e504e400ea00f500d100e100f900170102000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "夢、見させてあげなよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

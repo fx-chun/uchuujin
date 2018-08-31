@@ -380,12 +380,12 @@
         "id": 29,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "ec00fd00ee001001fa00fe00f800d500e8001b01ff002300230002000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "ec00fd00ee001001fa00fe00f800d500e8001b01ff002300230002000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "そのためにはどうすれば……。\u0000\n．",
+        "text": "そのためにはどうすれば……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "ee0001007a05e0051208e207090008000a00ee00da00e400dc00ea002201ea001b001b001b001b001b00090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff16011000ebfe0100adffffff65ff16000c00f0ff2e007a05e0051208e207ffff2900d5001b000f0101001f021403fa004f0ae600d300f900230023002a000a00",
-            "warnings": 59
+            "textraw": "ee0001007a05e0051208e207090008000a00ee00da00e400dc00ea002201ea001b001b001b001b001b00090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "た、高崎先生！？\u0000\nたかさきせんせ―――――！！\u0000\n　，　？，　？　　，、　　ば\u0000\nば　．　？ょ￣、高崎先生（う―む、意外に難しいな……）\u0000\n",
+        "text": "た、高崎先生！？\u0000\nたかさきせんせ―――――！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900d5001b000f0101001f021403fa004f0ae600d300f900230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（う―む、意外に難しいな……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -822,12 +835,25 @@
         "id": 64,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "230023007208e207e40022010100e30010012201fc0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff18011000ebfe0100adffffff65ff29000c00f0ff41007a05e0051208e207ffff2900ba08f500170123002300ec00d5004f0ae600de006505d7001a01240bc70cfe000a000000470cd3002201e7001201f900d300da0008002a000a00",
-            "warnings": 58
+            "textraw": "230023007208e207e40022010100e30010012201fc0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "……相生さん、ごめんね。\u0000\n　，　？，　？　　，、　　ば\u0000\nば　．　？ら￣、（高崎先生（待てよ……そう難しく考える必要は\u0000\n　無いんじゃないか？）\u0000\n",
+        "text": "……相生さん、ごめんね。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900ba08f500170123002300ec00d5004f0ae600de006505d7001a01240bc70cfe000a000000470cd3002201e7001201f900d300da0008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（待てよ……そう難しく考える必要は\u0000\n　無いんじゃないか？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -887,12 +913,25 @@
         "id": 70,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "d1000100fe00d30002000a00d504f200f500f9002201f500d3000d01ea00220117012300230008000a00fdffedfffcff1fff03000000f0ff0000c1ff17011000e8fe0200c1ff1c011000ebfe000065ff2f000c00f0ff47007a05e0051208e207ffffd9001e01d000f200090008000a0098ff00001aff0300000078ff00000a0016ffffffeffe030097ff",
-            "warnings": 21
+            "textraw": "d1000100fe00d30002000a00d504f200f500f9002201f500d3000d01ea00220117012300230008000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "あ、はい。\u0000\n嫌ってなんていませんよ……？\u0000\n，　　よ￣。ろ￣　｛高崎先生おわぁっ！？\u0000\n　，　　\u0000\n，",
+        "text": "あ、はい。\u0000\n嫌ってなんていませんよ……？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "d9001e01d000f200090008000a0098ff00001aff0300000078ff00000a0016ffffffeffe030097ff",
+            "warnings": 7
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "おわぁっ！？\u0000\n　，　　\u0000\n，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1010,6 +1049,32 @@
         "speaker": "桜井先生",
         "speaker_translation": "",
         "text": "？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 82,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d700d700f2000100ee0001007a05e0051208e207f200090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "ええっ、た、高崎先生っ！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

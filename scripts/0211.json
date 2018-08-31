@@ -16,12 +16,38 @@
         "id": 2,
         "internal": {
             "speakerraw": "d900f300dc009500",
-            "textraw": "f600fe00010099051f05fd00f00a5008d307e405fa003805e000f50001000a00cf05da00d3006c0b820bfd000c08520c2101e400ea00f50011011801d500ed0002000a00fdff71ff03005fff04000100bcffdb011000ebfe000065ff02002000f0ff0300d900f300dc009500ffffa408fa008f0bdc00ee00d300e200f700fe00d1001a01da0008000a00fdff73ff03007fff0300f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1801ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff03002000f0ff0400d900f300dc009500ffff130905049907fa002d011b003f016d0121017f051e01ea001a01f70001000a00a700a400b100a000fd005e07c90bdb00350b5a06e4001b011a0102000a00",
-            "warnings": 47
+            "textraw": "f600fe00010099051f05fd00f00a5008d307e405fa003805e000f50001000a00cf05da00d3006c0b820bfd000c08520c2101e400ea00f50011011801d500ed0002000a00",
+            "warnings": 0
         },
         "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "では、今後の番組制作に向けて、\u0000\n細かい部分の説明をさせてもらうぞ。\u0000\n，．、￣　。〜，おつき３他に聞きたいことはあるか？\u0000\n，，？　　，、　　らば\u0000\nば　？　，〜．おつき３地球人にカ―ソルを合わせると、\u0000\nＫＨＵＤの情報が表示される。\u0000\n",
+        "text": "では、今後の番組制作に向けて、\u0000\n細かい部分の説明をさせてもらうぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "a408fa008f0bdc00ee00d300e200f700fe00d1001a01da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "他に聞きたいことはあるか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "130905049907fa002d011b003f016d0121017f051e01ea001a01f70001000a00a700a400b100a000fd005e07c90bdb00350b5a06e4001b011a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "地球人にカ―ソルを合わせると、\u0000\nＫＨＵＤの情報が表示される。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -42,12 +68,25 @@
         "id": 6,
         "internal": {
             "speakerraw": "d900f300dc009500",
-            "textraw": "5306fd009500f300fd002a09da00180132082201f600de001b0102000a00fdff5fff08000200ebfe000065ff06002000f0ff0700d900f300dc009500ffff130905049907fa004d0bde0060011b003101ef00db0001003c086c0bf6009500a1062e0d02000a00d300e9001b011101f00a50080701fd006e023f042101f704e600f500d3001a0102000a00",
-            "warnings": 6
+            "textraw": "5306fd009500f300fd002a09da00180132082201f600de001b0102000a00",
+            "warnings": 0
         },
         "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "次の３つの中から選んでくれ。\u0000\n？。　：〜；おつき３地球人に付くマ―クだが、全部で３種類。\u0000\nいずれも番組への影響を現している。\u0000\n",
+        "text": "次の３つの中から選んでくれ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "130905049907fa004d0bde0060011b003101ef00db0001003c086c0bf6009500a1062e0d02000a00d300e9001b011101f00a50080701fd006e023f042101f704e600f500d3001a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "地球人に付くマ―クだが、全部で３種類。\u0000\nいずれも番組への影響を現している。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -516,6 +555,19 @@
         "speaker": "おつき３",
         "speaker_translation": "",
         "text": "え？　そうか……。\u0000\n色と準備していたんだが……仕方ないな。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "ec001b01f600fe0001004402dc009908dc00aa034709f200f500de001b0109000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "それでは、引き続き頑張ってくれ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

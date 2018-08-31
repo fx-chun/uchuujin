@@ -484,12 +484,12 @@
         "id": 37,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "6106db00f0044202ef00e000fa000a00e200190112011101d500010039012d01ee00fc001b0009000000f200f500fc0009000a0098ff0000effe010097fffdff7fff040002ff01ff05003200",
-            "warnings": 8
+            "textraw": "6106db00f0044202ef00e000fa000a00e200190112011101d500010039012d01ee00fc001b0009000000f200f500fc0009000a0098ff0000effe010097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "鹿が原因だけに\u0000\nこりゃもう、シカたね―！　ってね！\u0000\n　、．・",
+        "text": "鹿が原因だけに\u0000\nこりゃもう、シカたね―！　ってね！\u0000\n　、",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff67001000ebfe000065ff13000300f0ff33000e01d900ffff1101d5000100f900fa00ec001b0102000a007208a70b1e011801e900de00f200ef001801f900d30002000a00",
-            "warnings": 20
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？￣　，みおもう、なにそれ。\u0000\n相変わらずくっだらない。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "1101d5000100f900fa00ec001b0102000a007208a70b1e011801e900de00f200ef001801f900d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "もう、なにそれ。\u0000\n相変わらずくっだらない。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -874,12 +887,25 @@
         "id": 68,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "d1001901db00f700d50002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff67001000ebfe000065ff25000300f0ff45000e01d900ffff23002300fe00d00002000a00",
-            "warnings": 20
+            "textraw": "d1001901db00f700d50002000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "ありがとう。\u0000\n　？￣　，みお……はぁ。\u0000\n",
+        "text": "ありがとう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "23002300fe00d00002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "……はぁ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1114,6 +1140,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "…………！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 88,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "1b001b001b001b00f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "――――っ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

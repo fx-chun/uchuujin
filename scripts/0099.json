@@ -341,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "04011b000f012300230002000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700c1fff2001000ebfe000065ff05000900f0ff1b00cd084105fffff9001a010a01f80001000a00ec001b01f600a408fa00fe00f8002201f9004a06fa0031091f02e8001a012201ef0008000a00",
-            "warnings": 14
+            "textraw": "04011b000f012300230002000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "ふ―む……。\u0000\n．４　\u0000\n・：；っ￣　・！―大工なるほど、\u0000\nそれで他にはどんな事に注意するんだ？\u0000\n",
+        "text": "ふ―む……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "f9001a010a01f80001000a00ec001b01f600a408fa00fe00f8002201f9004a06fa0031091f02e8001a012201ef0008000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "なるほど、\u0000\nそれで他にはどんな事に注意するんだ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "d700d7001b001b001b001b001b00f2000900090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1fff1001000ebfe000065ff14000900f0ff2a00cd084105fffff0001601f200f7002c016e0111011301f200f5000e01f500d300d300da00f90008000a00",
-            "warnings": 21
+            "textraw": "d700d7001b001b001b001b001b00f2000900090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "ええ―――――っ！！？\u0000\n　，　？ぢ￣　！）大工ちょっとオレもやってみていいかな？\u0000\n",
+        "text": "ええ―――――っ！！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "f0001601f200f7002c016e0111011301f200f5000e01f500d300d300da00f90008000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "ちょっとオレもやってみていいかな？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +731,25 @@
         "id": 56,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "e8000100e8000e010d01ea00220102000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffeb001000ebfe000065ff23000900f0ff3900cd084105fffff900d1000100ef053002de00220102000a00",
-            "warnings": 21
+            "textraw": "e8000100e8000e010d01ea00220102000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "す、すみません。\u0000\n　，　？ぜ￣　…！大工なあ、桜井くん。\u0000\n",
+        "text": "す、すみません。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "f900d1000100ef053002de00220102000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "なあ、桜井くん。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -880,6 +919,19 @@
         "speaker": "桜井誠",
         "speaker_translation": "",
         "text": "誰も聞いてなくてよかった……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "29002505fa07fe00170dde00f50001006c0152011b003901fe0042016301f900fd00da00230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "（碁石は良くて、リバ―シはダメなのか……）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

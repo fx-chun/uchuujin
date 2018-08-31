@@ -120,12 +120,25 @@
         "id": 9,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "2900fe00f2000900080000000e010100e50418011b01f500ee00f200090009000a00000020002000200020002000200020002000200020002000200020002000200020002000090009002a000a0098ff0000effe030097fffdffedfffcff67ff160066ff52000000f8ff080066ff77000000c1ffa0001000f9ff0800f4ff1e00e8fe0200c1ffe5001000ebfe000064ffffff0800f0ff0a00f105f004ffff090008000a0098ff0000effe060097ff",
-            "warnings": 26
+            "textraw": "2900fe00f2000900080000000e010100e50418011b01f500ee00f200090009000a00000020002000200020002000200020002000200020002000200020002000200020002000090009002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "（はっ！？　み、見られてたっ！！\u0000\n　〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜！！）\u0000\n　，　？　Ｄ￣？／。ざ￣　？\u0000\n笹原！？\u0000\n　：",
+        "text": "（はっ！？　み、見られてたっ！！\u0000\n　〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜！！）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "090008000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -198,12 +211,25 @@
         "id": 16,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "e400f5000100aa06460421019908e0001a01ed001b0002000a00fdffedfffcff66ff37000000daff66ff61000000dafffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff4e000000daffbcff9f01ff00c1ff0a00ff00c1ffbd00ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800b3ff0200c1ffbd001000ebfe0000adffffff64ffffff0500f0ff110053055b091208e207ffff230023002300230002000a0098ff0000b2ff97ff",
-            "warnings": 55
+            "textraw": "e400f5000100aa06460421019908e0001a01ed001b0002000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "さて、授業を続けるぞ―。\u0000\n　　，　？　　，、　　ば\u0000\nばｇば　．　？。ｇ￣　・校長先生…………。\u0000\n　",
+        "text": "さて、授業を続けるぞ―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "230023002300230002000a0098ff0000b2ff97ff",
+            "warnings": 3
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     },
@@ -367,12 +393,51 @@
         "id": 30,
         "internal": {
             "speakerraw": "57012901f200f00012012201",
-            "textraw": "1e011b000100f800d500e8001a012201ef001c011b0002000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700eefe09000400edffc1ffffff1000edffc8ffa0001a011000edfffcff66ff9e0000001aff040000009cff0000200016ffffffadff0300ebfe000065ff06000c00f0ff1f007a05e0051208e207ffffea08e100f700d300f200f5001a01ef001c0109000a00fdffedfffcff1aff040000006800000020001aff0300000044000000200016ffffffc1ffa0001000adff0400ebfe000065ff07000400f0ff20000e01e400f700ffff230023002300230009000a00fdffedfffcff1aff040000009cff000020001aff0300000078ff0000200016ffffffc1ff16011000adff0300ebfe000065ff08000c00f0ff21007a05e0051208e207ffffdf00f200230023000900000033042906fd00fa04d500e200f700db00230023000a008f0be0002201fd0023002300da0023002300f20009000a00",
-            "warnings": 62
+            "textraw": "1e011b000100f800d500e8001a012201ef001c011b0002000a00",
+            "warnings": 0
         },
         "speaker": "フェっちゃん",
         "speaker_translation": "",
-        "text": "わ―、どうするんだろ―。\u0000\n．４　・：；！．￣Ｄる￣Ｂ　．　　〜，　：高崎先生脱げといってるだろ！\u0000\n．　　〜，　　〜Ｄ￣．　；．〜みさと…………！\u0000\n．　　〜，　　〜ょ￣，　？高崎先生ぐっ……！　教師の言うことが……\u0000\n聞けんの……か……っ！\u0000\n",
+        "text": "わ―、どうするんだろ―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "ea08e100f700d300f200f5001a01ef001c0109000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "脱げといってるだろ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "230023002300230009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "…………！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "df00f200230023000900000033042906fd00fa04d500e200f700db00230023000a008f0be0002201fd0023002300da0023002300f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "ぐっ……！　教師の言うことが……\u0000\n聞けんの……か……っ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -601,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "23002300aa064604e600f500f500d300d300fd0008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffedffc8ffa00014011000ebfe000065ff1b000400f0ff34000e01e400f700ffff23002300e8000e010d01ea002201020099050100ea08dd000d01e80002000a00",
-            "warnings": 21
+            "textraw": "23002300aa064604e600f500f500d300d300fd0008000a00",
+            "warnings": 0
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "……授業してていいの？\u0000\n　？Ｄゅ￣　―．みさと……すみません。今、脱ぎます。\u0000\n",
+        "text": "……授業してていいの？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "23002300e8000e010d01ea002201020099050100ea08dd000d01e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "……すみません。今、脱ぎます。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +861,25 @@
         "id": 66,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "1e0101003806fe00f105f004fd00e200f700f9002201da0001000a00c502f70011012b06f200f500f900d3002201ef00da001801fc00200020002000f200090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0e00eefe15000400c1ff18011000ebfe0100adffffff65ff2a000c00f0ff43007a05e0051208e207ffff2900d90aa602db00f900d300230023000a000000f70cdc02fe00f800d500e600ee00f700fa04d5002201ef002300230008002a000a00",
-            "warnings": 28
+            "textraw": "1e0101003806fe00f105f004fd00e200f700f9002201da0001000a00c502f70011012b06f200f500f900d3002201ef00da001801fc00200020002000f200090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "わ、私は笹原のことなんか、\u0000\n何とも思ってないんだからね〜〜〜っ！！\u0000\n　，　？．ら￣、）高崎先生（反応がない……\u0000\n　立花はどうしたと言うんだ……？）\u0000\n",
+        "text": "わ、私は笹原のことなんか、\u0000\n何とも思ってないんだからね〜〜〜っ！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900d90aa602db00f900d300230023000a000000f70cdc02fe00f800d500e600ee00f700fa04d5002201ef002300230008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（反応がない……\u0000\n　立花はどうしたと言うんだ……？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -997,6 +1088,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "（誰も何も言わない……\u0000\n　やはりオレは幻覚を見てるのか……？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 84,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "e506fe000100d100e0000b01fd0002000a001301d5001301d500ae0ade00f90019011501de000706dd00fe00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "春は、あけぼの。\u0000\nやうやう白くなりゆく山ぎは弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

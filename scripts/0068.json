@@ -471,12 +471,12 @@
         "id": 36,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "29001301f200000119010100e2001b01f200f5002300230008002a000a0098ff0000effe080097fffdff7fff040002ff01ff0000960005003200",
-            "warnings": 8
+            "textraw": "29001301f200000119010100e2001b01f200f5002300230008002a000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "（やっぱり、これって……？）\u0000\n　？．　４・",
+        "text": "（やっぱり、これって……？）\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "2b06d30004081901e800dd000d01e600ee0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff50011000ebfe0100adffffff65ff13001200f0ff33009a033705ffff2900d300e000f900d30002000a000000ec002201f900e200f700f600d5001c01ee00d700f500ee001801230023002a000a00",
-            "warnings": 25
+            "textraw": "2b06d30004081901e800dd000d01e600ee0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "思い切りすぎました。\u0000\n　，　？ノ￣、関口（いけない。\u0000\n　そんなことでうろたえてたら……）\u0000\n",
+        "text": "思い切りすぎました。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "2900d300e000f900d30002000a000000ec002201f900e200f700f600d5001c01ee00d700f500ee001801230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "（いけない。\u0000\n　そんなことでうろたえてたら……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -926,12 +939,25 @@
         "id": 72,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "29000a01f200f700e600ee001701d500f90001000a000000ec00d500e7001201f900d3001701d500f900230023002a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe04000400c0ff030050011000ebfe0100adffffff65ff29001200f0ff49009a033705ffff2900f800d500e6001701d500230023002a000a00",
-            "warnings": 22
+            "textraw": "29000a01f200f700e600ee001701d500f90001000a000000ec00d500e7001201f900d3001701d500f900230023002a000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "（ほっとしたような、\u0000\n　そうじゃないような……）\u0000\n　？．．，ノ￣、（関口（どうしよう……）\u0000\n",
+        "text": "（ほっとしたような、\u0000\n　そうじゃないような……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "2900f800d500e6001701d500230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "（どうしよう……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1153,6 +1179,19 @@
         "speaker": "関口",
         "speaker_translation": "",
         "text": "あ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 91,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "23002300fe00d00002000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "……はぁ。\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

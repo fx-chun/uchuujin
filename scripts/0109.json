@@ -341,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "d1001b0108000000f900fd00f00012012201fe000d01ef00c203f200f500f900d300fd0008000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700eefe0a000400c1ff2f001000ebfe000065ff03000100f0ff1b00fe00da00ea00ffffd3000100d3001a01170109000a00f00012012201f7000100d500f000fa00d3001a01170109000a00",
-            "warnings": 15
+            "textraw": "d1001b0108000000f900fd00f00012012201fe000d01ef00c203f200f500f900d300fd0008000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "あれ？　なのちゃんはまだ帰ってないの？\u0000\n．４　\u0000\n・：；\u0000\n．｛￣　，、―はかせい、いるよ！\u0000\nちゃんと、うちにいるよ！\u0000\n",
+        "text": "あれ？　なのちゃんはまだ帰ってないの？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "d3000100d3001a01170109000a00f00012012201f7000100d500f000fa00d3001a01170109000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "い、いるよ！\u0000\nちゃんと、うちにいるよ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe0a000400c1ff33001000ebfe000065ff14000100f0ff2c00fe00da00ea00ffffd100fd00fc000100f900fd00fe00fc000100c203f200f500dc00f500ee002201ef00170108000a00f6001101fc0001009905fe00ac0ced0afd00f006110be600f5001a01da001801d300f900d300fd0002000a00",
-            "warnings": 21
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？\u0000\n．￣　、はかせあのね、なのはね、帰ってきてたんだよ？\u0000\nでもね、今は夕飯の準備してるからいないの。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "d100fd00fc000100f900fd00fe00fc000100c203f200f500dc00f500ee002201ef00170108000a00f6001101fc0001009905fe00ac0ced0afd00f006110be600f5001a01da001801d300f900d300fd0002000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "あのね、なのはね、帰ってきてたんだよ？\u0000\nでもね、今は夕飯の準備してるからいないの。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "ce0712099507d300ce07fd002a09fa00f900f200ee002201ef00f900d0002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff2f001000ebfe000065ff26000100f0ff3e00fe00da00ea00ffffd700f200f7000100d700f200f7002300230002000a00",
-            "warnings": 22
+            "textraw": "ce0712099507d300ce07fd002a09fa00f900f200ee002201ef00f900d0002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "世知辛い世の中になったんだなぁ……。\u0000\n　，　？｛￣　、はかせえっと、えっと……。\u0000\n",
+        "text": "世知辛い世の中になったんだなぁ……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "d700f200f7000100d700f200f7002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "えっと、えっと……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1036,6 +1075,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "あの……お腹痛いから帰っていい？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

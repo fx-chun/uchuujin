@@ -315,12 +315,12 @@
         "id": 24,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "d10001007a05e0051208e20702000a00d900fe001701d500e300e500d3000d01e80002000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "d10001007a05e0051208e20702000a00d900fe001701d500e300e500d3000d01e80002000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "あ、高崎先生。\u0000\nおはようございます。\u0000\n．",
+        "text": "あ、高崎先生。\u0000\nおはようございます。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +549,25 @@
         "id": 42,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2900100cf609fa000100f9002201f700e800db00e800db00e600d3004d09f9002201ef0002000a00000099055a0a93005a0a0100d300d300e200f700db00d1001901ec00d500ef00eb00090009002a000a0098ff0000effe090097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff19011000ebfe000065ff15000c00f0ff2b007a05e0051208e207ffffec00fd00010099055a0afe00d300d300b709c403f600e800fc0002000a0098ff0000effe0a0097ff",
-            "warnings": 26
+            "textraw": "2900100cf609fa000100f9002201f700e800db00e800db00e600d3004d09f9002201ef0002000a00000099055a0a93005a0a0100d300d300e200f700db00d1001901ec00d500ef00eb00090009002a000a0098ff0000effe090097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（本当に、なんとすがすがしい朝なんだ。\u0000\n　今日１日、いいことがありそうだぜ！！）\u0000\n　！　？り￣　高崎先生その、今日はいい天気ですね。\u0000\n　\u0000\n",
+        "text": "（本当に、なんとすがすがしい朝なんだ。\u0000\n　今日１日、いいことがありそうだぜ！！）\u0000\n　！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "ec00fd00010099055a0afe00d300d300b709c403f600e800fc0002000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "その、今日はいい天気ですね。\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "e403d008fa00e006d80c1a01ef001c01d500da0001000706d005a6090e0102000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff12011000ebfe000065ff29000c00f0ff3f007a05e0051208e207ffffec001c01ec001c014d09fd00f702e403db0023060d011901ec00d500f600e800fc0002000a00",
-            "warnings": 22
+            "textraw": "e403d008fa00e006d80c1a01ef001c01d500da0001000706d005a6090e0102000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "議題に出来るだろうか、山菜摘み。\u0000\n　，　？ゃ￣　（高崎先生そろそろ朝の会議が始まりそうですね。\u0000\n",
+        "text": "議題に出来るだろうか、山菜摘み。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "ec001c01ec001c014d09fd00f702e403db0023060d011901ec00d500f600e800fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "そろそろ朝の会議が始まりそうですね。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1049,6 +1075,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900d500d900d900d900d900d900d800d800d8001b001b001b001b000900090009002a000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（うおおおおおぉぉぉ――――！！！）\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

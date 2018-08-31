@@ -55,12 +55,25 @@
         "id": 4,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "290061060100ef001701fc000200f9002201f6003c035305fa00d3001a012201ef001c0108000a000000ec001b01fa00d100fd006e0c23002300e900f200f700dc09f200f5001a01fd0008002a000a00fdffedfffcfffcff1aff04000000f0ff00000a0016ffffffc1ff8c011000ebfe0000adffffff64ffffff1e00f0ff05006106ffff23002300230023002300230002000a00",
-            "warnings": 17
+            "textraw": "290061060100ef001701fc000200f9002201f6003c035305fa00d3001a012201ef001c0108000a000000ec001b01fa00d100fd006e0c23002300e900f200f700dc09f200f5001a01fd0008002a000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "（鹿、だよね。なんで学校にいるんだろ？\u0000\n　それにあの目……ずっと怒ってるの？）\u0000\n．　　\u0000\n￣　／・鹿………………。\u0000\n",
+        "text": "（鹿、だよね。なんで学校にいるんだろ？\u0000\n　それにあの目……ずっと怒ってるの？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "………………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -185,12 +198,25 @@
         "id": 15,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "d700f20008000000fe000100fe00d300f20009000a00fdffedfffcfffcffedffc1ffffff1000edffc8ff8c01ab001000c0ff03008c011000ebfe0000adffffff64ffffff1e00f0ff10006106ffff230023002300230002000a00",
-            "warnings": 19
+            "textraw": "d700f20008000000fe000100fe00d300f20009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "えっ？　は、はいっ！\u0000\n￣Ｏ￣，￣　／￣鹿…………。\u0000\n",
+        "text": "えっ？　は、はいっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -198,12 +224,25 @@
         "id": 17,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "d80cd3002300230009000a00fdffedfffcfffcfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffb600ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff42000000daffbcffff01100066ff31000000e8fe0200ebfe000064ffffff0500f0ff120053055b091208e207ffffdf000401d800f2000900090008000a00",
-            "warnings": 48
+            "textraw": "d80cd3002300230009000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "来い……！\u0000\n？　　，、　　Ｚば\u0000\nば　？　圧￣　。　・校長先生ぐふぉっ！！？\u0000\n",
+        "text": "来い……！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "df000401d800f2000900090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "ぐふぉっ！！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -302,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "e2000100e2001b01f800d500ed0009000a00d9000100180b350ce600d300f600e800170109000a0098ff0000effe070097fffdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700eefe04000400e8fe020066ff7c000000ebfe000065ff05001e00f0ff1b006106ffff090008000a00",
-            "warnings": 20
+            "textraw": "e2000100e2001b01f800d500ed0009000a00d9000100180b350ce600d300f600e800170109000a0098ff0000effe070097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "こ、これどうぞ！\u0000\nお、美味しいですよ！\u0000\n　；．\u0000\n４　・：；．．。　　・／―鹿！？\u0000\n",
+        "text": "こ、これどうぞ！\u0000\nお、美味しいですよ！\u0000\n　；",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -377,15 +429,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 33,
         "internal": {
-            "speakerraw": "3c0016ff",
-            "textraw": "c1ff07001000ebfe000065ff0b000000f0ff2100f900fd00ffffd1000100d100fd0023002300d900d300e600d300f600e800170108000a00",
-            "warnings": 7
+            "speakerraw": "f900fd00",
+            "textraw": "d1000100d100fd0023002300d900d300e600d300f600e800170108000a00",
+            "warnings": 0
         },
-        "speaker": "",
+        "speaker": "なの",
         "speaker_translation": "",
-        "text": "；￣　　なのあ、あの……おいしいですよ？\u0000\n",
+        "text": "あ、あの……おいしいですよ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -484,12 +536,25 @@
         "id": 42,
         "internal": {
             "speakerraw": "6106",
-            "textraw": "2300230023002300230023002300230002000a00fdffedfffcfffcff1aff04000000f0ff00000a0016ffffffc1ff8b011000ebfe000065ff15001e00f0ff2b006106ffff23002300530131016c0102000a00",
-            "warnings": 16
+            "textraw": "2300230023002300230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "鹿",
         "speaker_translation": "",
-        "text": "……………………。\u0000\n．　　\u0000\n￣　／鹿……パクリ。\u0000\n",
+        "text": "……………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "23002300530131016c0102000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "……パクリ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -497,12 +562,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "ee00010075070801ee0009000a006106e4002201db006f011b006d0133011b002f01210175070801f500de001b01ee001b0009000a0098ff0000effe080097fffdffedfffcfffcff1aff04000000680000000a0016ffffffc1ff07001000ebfe0100adffffff65ff17000000f0ff2d00f900fd00ffff2900e2001b01f6001604e600f500de001b011a01da00f90008000a00000023002300ee0005012201cd0854074f0bef001701fc0008002a000a00",
-            "warnings": 20
+            "textraw": "ee00010075070801ee0009000a006106e4002201db006f011b006d0133011b002f01210175070801f500de001b01ee001b0009000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "た、食べた！\u0000\n鹿さんがロ―ルケ―キを食べてくれた―！\u0000\n　？．　　\u0000\n；￣、　なの（これで許してくれるかな？\u0000\n　……たぶん大丈夫だよね？）\u0000\n",
+        "text": "た、食べた！\u0000\n鹿さんがロ―ルケ―キを食べてくれた―！\u0000\n　？",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "2900e2001b01f6001604e600f500de001b011a01da00f90008000a00000023002300ee0005012201cd0854074f0bef001701fc0008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（これで許してくれるかな？\u0000\n　……たぶん大丈夫だよね？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +718,25 @@
         "id": 56,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "d100010087037507f6006c03b10be600f500de00ef00e400d30002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000ebfe0000adffffff65ff23001e00f0ff39006106ffff23002300230023002300230002000a00",
-            "warnings": 23
+            "textraw": "d100010087037507f6006c03b10be600f500de00ef00e400d30002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "あ、甘食で勘弁してください。\u0000\n　，　？￣　…／鹿………………。\u0000\n",
+        "text": "あ、甘食で勘弁してください。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "………………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -666,12 +757,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "6106",
-            "textraw": "23002300230023002300230002000a00fdffedfffcfff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1ff0a00ff00c8ff05008b01ff0090ff8b0190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff440000001aff04000000000200001e0016ffffffedffc0ff0400ffff1000eefe03000400c1ff0b001000ebfe000065ff26000000f0ff3c00f900fd00ffffd1000100d1001b01f2000900080000006106e4002201f200090008000a00",
-            "warnings": 52
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "鹿",
         "speaker_translation": "",
-        "text": "………………。\u0000\n？　　，、　　ば\u0000\nば・ば　？　．　斡　／．￣，．￣　　なのあ、あれっ！？　鹿さんっ！？\u0000\n",
+        "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d1000100d1001b01f2000900080000006106e4002201f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "あ、あれっ！？　鹿さんっ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -750,6 +854,19 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "……………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "5306f200f500fa041e011b01f500110123002300f900d1002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "次って言われても……なあ……。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -286,15 +286,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 22,
         "internal": {
-            "speakerraw": "1e0016ff",
-            "textraw": "edffc1ffffff1000c1ff27001000ebfe0100adffffff64ffffff0000f0ff1600f900fd00ffff2900d100f20001006106db0053055b091208e207fa00c106d3004103da00f200ee00090009002a000a0098ff0000effe040097ff",
-            "warnings": 16
+            "speakerraw": "f900fd00",
+            "textraw": "2900d100f20001006106db0053055b091208e207fa00c106d3004103da00f200ee00090009002a000a0098ff0000effe040097ff",
+            "warnings": 3
         },
-        "speaker": "／",
+        "speaker": "なの",
         "speaker_translation": "",
-        "text": "￣￣、　なの（あっ、鹿が校長先生に襲い掛かった！！）\u0000\n　．",
+        "text": "（あっ、鹿が校長先生に襲い掛かった！！）\u0000\n　．",
         "text_translation": "",
         "type": "dialog"
     },
@@ -458,12 +458,25 @@
         "id": 35,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "2900e2000100e200fd0061060100380621014808f200f5001a01090008002a000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700c1ff27001000ebfe0100adffffff65ff05000000f0ff2400f900fd00ffff2900f800d500e600f5003806db0048081e011b01f50008000a000000d3000100d30013010100ec001b01170119011101800d800d2a000a00",
-            "warnings": 19
+            "textraw": "2900e2000100e200fd0061060100380621014808f200f5001a01090008002a000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "（こ、この鹿、私を狙ってる！？）\u0000\n．４　・：；￣、・　なの（どうして私が狙われて？\u0000\n　い、いや、それよりも弌弌）\u0000\n",
+        "text": "（こ、この鹿、私を狙ってる！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "2900f800d500e600f5003806db0048081e011b01f50008000a000000d3000100d30013010100ec001b01170119011101800d800d2a000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（どうして私が狙われて？\u0000\n　い、いや、それよりも弌弌）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -627,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "4c016e011b0041011b00d9002406e4002201",
-            "textraw": "e400d1000100510c2101da00e000ee000f07610bfd0052069803f600e80002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ff24001000ebfe0100adffffff65ff13000000f0ff3200f900fd00ffff2900d100f2000100ec00d500ef0001000a000000dc00f200f700cd08770bfd00090b1901800bdb00550bd3002201ef002a000a00",
-            "warnings": 24
+            "textraw": "e400d1000100510c2101da00e000ee000f07610bfd0052069803f600e80002000a00",
+            "warnings": 0
         },
         "speaker": "ナレ―タ―お姉さん",
         "speaker_translation": "",
-        "text": "さあ、命をかけた勝負の時間です。\u0000\n　？￣、　なの（あっ、そうだ、\u0000\n　きっと大福の被り物が怖いんだ）\u0000\n",
+        "text": "さあ、命をかけた勝負の時間です。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "2900d100f2000100ec00d500ef0001000a000000dc00f200f700cd08770bfd00090b1901800bdb00550bd3002201ef002a000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（あっ、そうだ、\u0000\n　きっと大福の被り物が怖いんだ）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -757,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "2300230023002300230002000a00fdffedfffcff66ff30000000edffc0ff0300ffff1000c1ff06001000ebfe0000adffffff65ff1e000000f0ff3d00f900fd00ffff2300230023002300230002000a00",
-            "warnings": 15
+            "textraw": "2300230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "……………。\u0000\n｝　，￣：￣　／　なの……………。\u0000\n",
+        "text": "……………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "2300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "……………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "6106",
-            "textraw": "2300230023002300230002000a00fdffedfffcff66ff44000000edffc1ffffff1000daffc1ff64011000ebfe000065ff20001700f0ff3f00dc001701e600ffffe8000e010d01ea001b0022010100e200fd00cd08770bd300de001801f600e800da0008000a00",
-            "warnings": 16
+            "textraw": "2300230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "鹿",
         "speaker_translation": "",
-        "text": "……………。\u0000\n　￣モ￣　〜きよしすみませ―ん、この大福いくらですか？\u0000\n",
+        "text": "……………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "e8000e010d01ea001b0022010100e200fd00cd08770bd300de001801f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "すみませ―ん、この大福いくらですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +848,25 @@
         "id": 65,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "470c0f0df600d300d300f600e80002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ff24001000ebfe000065ff23000000f0ff4200f900fd00ffffd1000100d100fd000100e8000e010d01ea00220102000a00ec00e200fd006106db00c106f200f500de001a012201f600e800e000f8002300230002000a00",
-            "warnings": 23
+            "textraw": "470c0f0df600d300d300f600e80002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "無料でいいです。\u0000\n　，　？￣．￣　…　なのあ、あの、すみません。\u0000\nそこの鹿が襲ってくるんですけど……。\u0000\n",
+        "text": "無料でいいです。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d1000100d100fd000100e8000e010d01ea00220102000a00ec00e200fd006106db00c106f200f500de001a012201f600e800e000f8002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "あ、あの、すみません。\u0000\nそこの鹿が襲ってくるんですけど……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -997,6 +1062,19 @@
         "speaker": "中之条さん",
         "speaker_translation": "",
         "text": "……駄目。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 82,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "090008000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

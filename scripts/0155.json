@@ -276,12 +276,25 @@
         "id": 21,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2900f800d500e8001a012201ef007a05e0053c03090009000a000000f800d5001301f200f500b608f806e8001a012201ef000100330433028606f700e600f50009002a000a00fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700c1ff1a011000ebfe000065ff0a000c00f0ff16007a05e0051208e207ffff2300230013011a01e600da00f900d30009000a0098ff0000effe080097ff",
-            "warnings": 20
+            "textraw": "2900f800d500e8001a012201ef007a05e0053c03090009000a000000f800d5001301f200f500b608f806e8001a012201ef000100330433028606f700e600f50009002a000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（どうするんだ高崎学！！\u0000\n　どうやって対処するんだ、教育者として！）\u0000\n．　４・：；る￣　\u0000\n高崎先生……やるしかない！\u0000\n　？",
+        "text": "（どうするんだ高崎学！！\u0000\n　どうやって対処するんだ、教育者として！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2300230013011a01e600da00f900d30009000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "……やるしかない！\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -328,12 +341,51 @@
         "id": 26,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "0d01ef000d01ef00f200090009000a0098ff0000effe080097fffdffedfffcff66ff240000001aff03000000680000001e001aff0400000078ff00001e0016ffffffc1ff1a011000ebfe0100adffffff65ff0f000c00f0ff1b007a05e0051208e207ffff290019022505370145012d011b00f6000709d700ee00f3031d0df6000a00000052014501310121019a06f200f500e6000d01d700ff0009002a000a0098ff0000effe090097fffdffedfffcff1aff04000000f0ff00000a0016ffffffedfffcff66ff42000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200c1ff17011000ebfe000065ff10000c00f0ff1c007a05e0051208e207ffffdf000401d400d400f20009000a00fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc0ff0400ffff1000e8fe0300ebfe0100adffffff65ff11000c00f0ff1d007a05e0051208e207ffff29001f051c019308f600c30618011b010d01e8001701fc001b00090009002a000a0098ff0000effe030097ff",
-            "warnings": 74
+            "textraw": "0d01ef000d01ef00f200090009000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "まだまだっ！！\u0000\n　？　，　　／．　　／る￣、―高崎先生（囲碁サッカ―で鍛えた脚力で\u0000\n　バックを取ってしまえば！）\u0000\n　！．　　\u0000\n　￣，．。よ￣　￣高崎先生ぐふぅぅっ！\u0000\n，、　め\u0000\n｝　．￣，、高崎先生（後ろ足で蹴られますよね―！！）\u0000\n　，",
+        "text": "まだまだっ！！\u0000\n　？",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "290019022505370145012d011b00f6000709d700ee00f3031d0df6000a00000052014501310121019a06f200f500e6000d01d700ff0009002a000a0098ff0000effe090097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（囲碁サッカ―で鍛えた脚力で\u0000\n　バックを取ってしまえば！）\u0000\n　！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "df000401d400d400f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "ぐふぅぅっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "29001f051c019308f600c30618011b010d01e8001701fc001b00090009002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（後ろ足で蹴られますよね―！！）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -419,12 +471,25 @@
         "id": 36,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2900bc02ee00f000fd001908d300fe00e200e200da001801ef00090009002a000a0098ff0000effe090097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1600c1ff14011000ebfe000065ff19000c00f0ff25007a05e0051208e207ffffec000100ec00d500ef0009000a00",
-            "warnings": 24
+            "textraw": "2900bc02ee00f000fd001908d300fe00e200e200da001801ef00090009002a000a0098ff0000effe090097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（俺たちの戦いはここからだ！！）\u0000\n　！　？ゅ￣　〆高崎先生そ、そうだ！\u0000\n",
+        "text": "（俺たちの戦いはここからだ！！）\u0000\n　！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "ec000100ec00d500ef0009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "そ、そうだ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2900f0001601f200f700ba08f500090009000a00000053055b091208e207fe00f900eb006106ea0022010801d3002101090008002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200eefe10000400c1ff16011000ebfe0100adffffff65ff26000c00f0ff32007a05e0051208e207ffff2900e600da00e60023002300320def07fa006505d7001a01f7000a0000006106fa0099079803fe000f07f5001a011101fd00f900fd00da0008002a000a00",
-            "warnings": 28
+            "textraw": "2900f0001601f200f700ba08f500090009000a00000053055b091208e207fe00f900eb006106ea0022010801d3002101090008002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（ちょっと待て！！\u0000\n　校長先生はなぜ鹿せんべいを！？）\u0000\n　，　？￣．ょ￣、高崎先生（しかし……冷静に考えると\u0000\n　鹿に人間は勝てるものなのか？）\u0000\n",
+        "text": "（ちょっと待て！！\u0000\n　校長先生はなぜ鹿せんべいを！？）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900e600da00e60023002300320def07fa006505d7001a01f7000a0000006106fa0099079803fe000f07f5001a011101fd00f900fd00da0008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（しかし……冷静に考えると\u0000\n　鹿に人間は勝てるものなのか？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "6106",
-            "textraw": "230023002300230002000a00fdffedfffcff67ffffff66ffb2000000daffeefe12000400c1ff18011000ebfe000065ff30000c00f0ff3c007a05e0051208e207ffff23002300d1000100e8000e010d01ea0022010100b30bce04fa06f600e800da0008000a0052068c097a055305f9002201f600e800db0002000a00",
-            "warnings": 16
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "鹿",
         "speaker_translation": "",
-        "text": "…………。\u0000\nＶ　．ら￣　｝高崎先生……あ、すみません、保健所ですか？\u0000\n時定高校なんですが。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "23002300d1000100e8000e010d01ea0022010100b30bce04fa06f600e800da0008000a0052068c097a055305f9002201f600e800db0002000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "……あ、すみません、保健所ですか？\u0000\n時定高校なんですが。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -737,6 +828,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "わかりました、すぐ来て頂けるんですね。\u0000\nはい、よろしくお願いします。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "0401d50002000a00e400f500f70001003a0167011b003b01f60011019f0ad300fa006c05de00da0002000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "ふう。\u0000\nさてと、ジュ―スでも買いに行くか。\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

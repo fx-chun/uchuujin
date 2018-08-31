@@ -117,15 +117,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 9,
         "internal": {
-            "speakerraw": "3c00c1ff8b011000ebfe0000adff",
-            "textraw": "64ffffff1e00f0ff09006106ffff23002300230023002300230002000a00",
-            "warnings": 4
+            "speakerraw": "6106",
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
         },
-        "speaker": "￣　",
+        "speaker": "鹿",
         "speaker_translation": "",
-        "text": "／！鹿………………。\u0000\n",
+        "text": "………………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -484,12 +484,25 @@
         "id": 37,
         "internal": {
             "speakerraw": "57012901f200f00012012201",
-            "textraw": "d100d1000100420163011b00090000001301f20000011901750708011a01c403ef00170109000a00e2002201f900f700dc00fe0023002300e2002201f900f700dc00fe00800d800d09000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1200e8fe0200c1ff77011000ebfe000065ff04001a00f0ff260057012901f200f00012012201ffffec001b0101006106570af600e800da00180109000a00",
-            "warnings": 20
+            "textraw": "d100d1000100420163011b00090000001301f20000011901750708011a01c403ef00170109000a00e2002201f900f700dc00fe0023002300e2002201f900f700dc00fe00800d800d09000a00",
+            "warnings": 0
         },
         "speaker": "フェっちゃん",
         "speaker_translation": "",
-        "text": "ああ、ダメ―！　やっぱり食べる気だよ！\u0000\nこんなときは……こんなときは弌弌！\u0000\n．４　・：；。ヵ￣　．フェっちゃんそれ、鹿肉ですから！\u0000\n",
+        "text": "ああ、ダメ―！　やっぱり食べる気だよ！\u0000\nこんなときは……こんなときは弌弌！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "ec001b0101006106570af600e800da00180109000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "それ、鹿肉ですから！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "6106",
-            "textraw": "23002300230023002300230002000a00fdffedfffcff66ff440000001aff04000000000200003c0016ffffff67ff1500c1ff76011000ebfe000065ff0a001a00f0ff2c0057012901f200f00012012201ffff170dda00f200ee00230023000a003806fd002d014601370175014b01230023000507da00f200ee002300230002000a0098ff0000effe070097ff",
-            "warnings": 21
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "鹿",
         "speaker_translation": "",
-        "text": "………………。\u0000\n　．　斡　ヴ￣　\u0000\nフェっちゃん良かった……\u0000\n私のカツサンド……助かった……。\u0000\n　；",
+        "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "170dda00f200ee00230023000a003806fd002d014601370175014b01230023000507da00f200ee002300230002000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "良かった……\u0000\n私のカツサンド……助かった……。\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -601,12 +627,25 @@
         "id": 48,
         "internal": {
             "speakerraw": "57012901f200f00012012201",
-            "textraw": "26012d01090008000a002300230026012d01fd002d01460108000a00fdffedfffcff67ff160066ff43000000e8fe02001fff0400000000020000c0ff04008c01ff001aff04000000680000003c0016ffffffebfe000065ff0f001e00f0ff31006106ffff230023002300230009000a0098ff0000effe060097ff",
-            "warnings": 25
+            "textraw": "26012d01090008000a002300230026012d01fd002d01460108000a00",
+            "warnings": 0
         },
         "speaker": "フェっちゃん",
         "speaker_translation": "",
-        "text": "イカ！？\u0000\n……イカのカツ？\u0000\n　。．　斡　．ば．　　　／鹿…………！\u0000\n　：",
+        "text": "イカ！？\u0000\n……イカのカツ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "230023002300230009000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "…………！\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +731,25 @@
         "id": 56,
         "internal": {
             "speakerraw": "57012901f200f00012012201",
-            "textraw": "57012a012901290129012901290129012901450109000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ff75011000ebfe000065ff17001a00f0ff390057012901f200f00012012201ffffd900780b01007304d300f5001a01fd0008000a002d014601370175014b0123002300d3001a0108000a00",
-            "warnings": 25
+            "textraw": "57012a012901290129012901290129012901450109000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "フェっちゃん",
         "speaker_translation": "",
-        "text": "フエェェェェェェェッ！\u0000\n　，　？ン￣　フェっちゃんお腹、空いてるの？\u0000\nカツサンド……いる？\u0000\n",
+        "text": "フエェェェェェェェッ！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "d900780b01007304d300f5001a01fd0008000a002d014601370175014b0123002300d3001a0108000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "お腹、空いてるの？\u0000\nカツサンド……いる？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +848,25 @@
         "id": 65,
         "internal": {
             "speakerraw": "6106",
-            "textraw": "2300230045010900090008000a00fdffedfffcff66ff30000000edffc0ff0400ffff1000eefe03000400e8fe0200c1ff78011000ebfe000065ff20001a00f0ff420057012901f200f00012012201ffff570129014501090008000a0098ff0000effe060097ff",
-            "warnings": 19
+            "textraw": "2300230045010900090008000a00",
+            "warnings": 0
         },
         "speaker": "鹿",
         "speaker_translation": "",
-        "text": "……ッ！！？\u0000\n｝　．￣，．。ヶ￣　〜フェっちゃんフェッ！？\u0000\n　：",
+        "text": "……ッ！！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "570129014501090008000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "フェッ！？\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1088,6 +1153,19 @@
         "speaker": "田中",
         "speaker_translation": "",
         "text": "…………………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 91,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "e3001001220101008f0bd300ee003806db00f701da00f200ee0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "ごめん、聞いた私が悪かった。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

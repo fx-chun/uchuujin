@@ -81,12 +81,25 @@
         "id": 6,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "1701e60002001f05fe00970087022101b90c1801e600f900db00180101000a00d100f900ee00fe00ef002201ef002201440cde00f9001a0123002300da0008000a00fdffedfffcff66ff1a000000daffc0ff0300f6001000ebfe000064ffffff0a00f0ff07002a09730a6007ffff6c06370de6000d011b00e80002000a00",
-            "warnings": 12
+            "textraw": "1701e60002001f05fe00970087022101b90c1801e600f900db00180101000a00d100f900ee00fe00ef002201ef002201440cde00f9001a0123002300da0008000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "よし。後は５円を揺らしながら、\u0000\nあなたはだんだん眠くなる……か？\u0000\n　，で￣　\u0000\n；中之条失礼しま―す。\u0000\n",
+        "text": "よし。後は５円を揺らしながら、\u0000\nあなたはだんだん眠くなる……か？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "6c06370de6000d011b00e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "失礼しま―す。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "23002300e800e300d300db000100b0030501fd00fe001f05ef00f90002000a000d01e900fe00e200fd00510a9907fd00cb0a2101c502f700da00e600f900d300f7002300230002000a00fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700c1ffc5001000ebfe000065ff07000600f0ff33002a09a2081208e207ffff0d01e900fe00e200d300f300da00180102000a00c4092a09fd00cb0adb00240157016f01fa00f9001b001a011b0002000a00",
-            "warnings": 15
+            "textraw": "23002300e800e300d300db000100b0030501fd00fe001f05ef00f90002000a000d01e900fe00e200fd00510a9907fd00cb0a2101c502f700da00e600f900d300f7002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "……すごいが、喜ぶのは後だな。\u0000\nまずはこの二人の髪を何とかしないと……。\u0000\n．\u0000\n４　・：；ｏ￣　；：中村先生まずはこいつから。\u0000\n田中の髪がアフロにな―る―。\u0000\n",
+        "text": "……すごいが、喜ぶのは後だな。\u0000\nまずはこの二人の髪を何とかしないと……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "0d01e900fe00e200d300f300da00180102000a00c4092a09fd00cb0adb00240157016f01fa00f9001b001a011b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "まずはこいつから。\u0000\n田中の髪がアフロにな―る―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -809,12 +835,25 @@
         "id": 64,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "230023002f016401f20002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffc2001000ebfe000065ff15000600f0ff41002a09a2081208e207ffff0d01d1000100730ce800fd00fe008c03f508ef0002000a00510a9907fd00cb0a9b04db00ef002201ef002201ef04fa00730cf200f500d300de001b0002000a00",
-            "warnings": 22
+            "textraw": "230023002f016401f20002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "……キモっ。\u0000\n　，　？ｌ￣　：中村先生まあ、戻すのは簡単だ。\u0000\n二人の髪型がだんだん元に戻っていく―。\u0000\n",
+        "text": "……キモっ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "0d01d1000100730ce800fd00fe008c03f508ef0002000a00510a9907fd00cb0a9b04db00ef002201ef002201ef04fa00730cf200f500d300de001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "まあ、戻すのは簡単だ。\u0000\n二人の髪型がだんだん元に戻っていく―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -939,12 +978,25 @@
         "id": 75,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "bb05440cdb00f802e000f900d3002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ffc2001000ebfe0000adffffff65ff20000600f0ff4c002a09a2081208e207ffff230023002300230002000a00",
-            "warnings": 24
+            "textraw": "bb05440cdb00f802e000f900d3002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "催眠が解けない……。\u0000\n　，　？￣．ｌ￣　〜：中村先生…………。\u0000\n",
+        "text": "催眠が解けない……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 76,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1023,6 +1075,19 @@
         "speaker": "中之条＆田中",
         "speaker_translation": "",
         "text": "……ｙｙＹ\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "2a09730a60075400c4092a09",
+            "textraw": "23002300cf00cf00b5000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条＆田中",
+        "speaker_translation": "",
+        "text": "……ｙｙＹ\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

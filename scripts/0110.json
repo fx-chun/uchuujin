@@ -289,12 +289,25 @@
         "id": 22,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700eefe02000400c1ff62001000ebfe000065ff05000300f0ff17000e01d900ffff170c2b02f00012012201010072041801d7001b0009000a00",
-            "warnings": 17
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．４　\u0000\n・：；。．￣　・，みお麻衣ちゃん、喰らえ―！\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "170c2b02f00012012201010072041801d7001b0009000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "麻衣ちゃん、喰らえ―！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -471,12 +484,25 @@
         "id": 37,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "de00d5000100d500d500d5002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff60001000ebfe000065ff14000300f0ff26000e01d900ffffd300de001701170c2b02f0001201220109000a00",
-            "warnings": 20
+            "textraw": "de00d5000100d500d500d5002300230002000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "くう、ううう……。\u0000\n　？￣　，みおいくよ麻衣ちゃん！\u0000\n",
+        "text": "くう、ううう……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "d300de001701170c2b02f0001201220109000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "いくよ麻衣ちゃん！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "56000900090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ffca001000ebfe000065ff22000700f0ff3400170c2b02ffffe70012010100130110011701d50002000a0098ff0000effe030097ff",
-            "warnings": 27
+            "textraw": "56000900090009000a0098ff0000effe030097ff",
+            "warnings": 4
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "！！！\u0000\n　，　？￣ｔ￣　；麻衣じゃ、やめよう。\u0000\n　，",
+        "text": "！！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "e70012010100130110011701d50002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "じゃ、やめよう。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -698,6 +737,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "みおちゃん、おっまたせ―！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2300230023002300d1001b0108000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "…………あれ？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

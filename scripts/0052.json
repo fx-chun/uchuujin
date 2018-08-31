@@ -406,12 +406,25 @@
         "id": 31,
         "internal": {
             "speakerraw": "3b0141011b006b01290b",
-            "textraw": "d900da090e062101ee0b1b011a01f900170102000a00fdffedfffcff66ff04000000daff1aff0300000078ff10010a0016ffffffedffc0ff0300ffff100066ff07000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1001ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0f002100f0ff200006ffffff6c05f200f500dc000d011b001b001b001b00e800090009000a00",
-            "warnings": 51
+            "textraw": "d900da090e062101ee0b1b011a01f900170102000a00",
+            "warnings": 0
         },
         "speaker": "スタ―ラ姫",
         "speaker_translation": "",
-        "text": "お土産を忘れるなよ。\u0000\n．　，　め\u0000\n，￣；　？　　，、　　めば\u0000\nば　？　〜行ってきま――――す！！\u0000\n",
+        "text": "お土産を忘れるなよ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "06ff",
+            "textraw": "6c05f200f500dc000d011b001b001b001b00e800090009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "行ってきま――――す！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +536,12 @@
         "id": 41,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "f9001b002201f0001201f200f50020002300230002000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "f9001b002201f0001201f200f50020002300230002000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "な―んちゃって〜……。\u0000\n．・",
+        "text": "な―んちゃって〜……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +731,25 @@
         "id": 56,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "d500220102000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe0f00040067ff1000c1ffd2001000ebfe0000adffffff65ff21000700f0ff3900170c2b02ffff230023002300230002000a00",
-            "warnings": 24
+            "textraw": "d500220102000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "うん。\u0000\n　？．￣ぃ￣　；麻衣…………。\u0000\n",
+        "text": "うん。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -900,12 +926,25 @@
         "id": 71,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "d3001a0102000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ffca001000ebfe000065ff30000700f0ff4800170c2b02ffff370c1d0ddb00470cd3001e01e000e7001201f900d30002000a001a0ae707fe001a0ae707f600170de400db00d1001a0102000a0098ff0000effe0700eefe1100040097ff",
-            "warnings": 24
+            "textraw": "d3001a0102000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "いる。\u0000\n　？￣ｔ￣　｝；麻衣魅力が無いわけじゃない。\u0000\n銅製は銅製で良さがある。\u0000\n　；．",
+        "text": "いる。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "370c1d0ddb00470cd3001e01e000e7001201f900d30002000a001a0ae707fe001a0ae707f600170de400db00d1001a0102000a0098ff0000effe0700eefe1100040097ff",
+            "warnings": 5
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "魅力が無いわけじゃない。\u0000\n銅製は銅製で良さがある。\u0000\n　；．",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1062,6 +1101,19 @@
         "speaker": "麻衣",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 85,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "230023006c071c01d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "……飾ろう。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

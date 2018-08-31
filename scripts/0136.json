@@ -367,12 +367,25 @@
         "id": 28,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "d700f200f70001003203da00460cf9001801e200fd001f05fd00b8090f03fe002300230002000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ffffffc1ff3f001000ebfe000065ff05000200f0ff1d001501f200e200ffffec00d500ef000200d900ff00d100e4002201fe006106fa00c1061e011b011a0109000a0098ff0000effe0800eefe0300040097ff",
-            "warnings": 23
+            "textraw": "d700f200f70001003203da00460cf9001801e200fd001f05fd00b8090f03fe002300230002000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "えっと、確か夢ならこの後の展開は……。\u0000\n．４　・：；￣　・。ゆっこそうだ。おばあさんは鹿に襲われる！\u0000\n　？，．",
+        "text": "えっと、確か夢ならこの後の展開は……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "ec00d500ef000200d900ff00d100e4002201fe006106fa00c1061e011b011a0109000a0098ff0000effe0800eefe0300040097ff",
+            "warnings": 4
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "そうだ。おばあさんは鹿に襲われる！\u0000\n　？，．",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "d100d100d100d100d100d100d10020002000f2000900090008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffeefe12000400c1ff43001000ebfe000065ff15000200f0ff2d001501f200e200ffff3203da000100d900ff00d100e4002201db0061062101f900ef001001f5000a0053055b0921010507e0001a012201ef00f200e00008000a0098ff0000effe080097ff",
-            "warnings": 27
+            "textraw": "d100d100d100d100d100d100d10020002000f2000900090008000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "あああああああ〜〜っ！！？\u0000\n　？．￣　。ゆっこ確か、おばあさんが鹿をなだめて\u0000\n校長を助けるんだっけ？\u0000\n　？",
+        "text": "あああああああ〜〜っ！！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "3203da000100d900ff00d100e4002201db0061062101f900ef001001f5000a0053055b0921010507e0001a012201ef00f200e00008000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "確か、おばあさんが鹿をなだめて\u0000\n校長を助けるんだっけ？\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "99055a0a0100460ce504f500f900d300130102000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff44001000ebfe0000adffffff65ff26000200f0ff3e001501f200e200ffff230023002300230002000a00",
-            "warnings": 25
+            "textraw": "99055a0a0100460ce504f500f900d300130102000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "今日、夢見てないや。\u0000\n　\u0000\n　？￣　。ゆっこ…………。\u0000\n",
+        "text": "今日、夢見てないや。\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -880,6 +919,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "む…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "440c1b01fc001b002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "眠れね―……。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

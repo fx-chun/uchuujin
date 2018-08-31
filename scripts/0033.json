@@ -601,12 +601,12 @@
         "id": 46,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "230023002300230002000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -822,12 +822,25 @@
         "id": 63,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1700eefe13000400c0ff0300eb001000ebfe000065ff1a000900f0ff4000cd084105ffff3203da00fa0001009a033705fd00fa04d500f700d9001901ef0002000a002c016e01ee00f000db0098032d02f200f500d300ee0002000a00",
-            "warnings": 23
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？．，ぜ￣　！大工確かに、関口の言うとおりだ。\u0000\nオレたちが間違っていた。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "3203da00fa0001009a033705fd00fa04d500f700d9001901ef0002000a002c016e01ee00f000db0098032d02f200f500d300ee0002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "確かに、関口の言うとおりだ。\u0000\nオレたちが間違っていた。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1056,12 +1069,25 @@
         "id": 82,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "23002300f800d500e6001701d50002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1100c1fff2001000ebfe000065ff2d000900f0ff5300cd084105ffff9a0337050100ec001b01fe00ec001b010100e2001b01fe00e2001b01f200f5001301f300ef0002000a00",
-            "warnings": 24
+            "textraw": "23002300f800d500e6001701d50002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "……どうしよう。\u0000\n　，　？っ￣　！大工関口、それはそれ、これはこれってやつだ。\u0000\n",
+        "text": "……どうしよう。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "9a0337050100ec001b01fe00ec001b010100e2001b01fe00e2001b01f200f5001301f300ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "関口、それはそれ、これはこれってやつだ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1296,6 +1322,19 @@
         "speaker": "大工",
         "speaker_translation": "",
         "text": "練習、しようか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 102,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "230023000401d40002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "……ふぅ。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

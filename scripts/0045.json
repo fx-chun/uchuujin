@@ -471,12 +471,12 @@
         "id": 36,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "f800d500e6000d01e80008000a00f9001a012201f600e800da0008000000f9001801f900d3002201f600e800da0008000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "f800d500e6000d01e80008000a00f9001a012201f600e800da0008000000f9001801f900d3002201f600e800da0008000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "どうします？\u0000\nなるんですか？　ならないんですか？\u0000\n．　４・",
+        "text": "どうします？\u0000\nなるんですか？　ならないんですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -614,12 +614,25 @@
         "id": 47,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "090008000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe16000400c1ff16011000ebfe000065ff0f000c00f0ff30007a05e0051208e207ffffdf0023002300df00d500d500d400d400f20002000a00",
-            "warnings": 24
+            "textraw": "090008000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "！？\u0000\n　\u0000\n　？．ょ￣　｝高崎先生ぐ……ぐううぅぅっ。\u0000\n",
+        "text": "！？\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "df0023002300df00d500d500d400d400f20002000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "ぐ……ぐううぅぅっ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "7a05e0051208e2075400ef053002e907",
-            "textraw": "09000900080008000a0098ff0000effe040097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe14000400c1ff16011000ebfe000065ff1c000c00f0ff3d007a05e0051208e207ffff23002300d30013010100d300d30002000a00",
-            "warnings": 25
+            "textraw": "09000900080008000a0098ff0000effe040097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生＆桜井誠",
         "speaker_translation": "",
-        "text": "！！？？\u0000\n　．　？．ょ￣　高崎先生……いや、いい。\u0000\n",
+        "text": "！！？？\u0000\n　．",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "23002300d30013010100d300d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "……いや、いい。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -919,6 +945,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "（遠回りでも正しい道を行く）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900ec001b01db0033042906f200f50011012201ef001c0108002a000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（それが教師ってもんだろ？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

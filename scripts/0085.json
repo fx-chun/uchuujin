@@ -354,12 +354,25 @@
         "id": 27,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "2900f800d500e6001701d50009000000f800d500e8001b01ff0008000a000000e2001b01fe0048013b014a01170119014f0ad008f600fe002300230009002a000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1fffa001000ebfe0100adffffff65ff06000a00f0ff1c002a09730a6007ffff2900f7000100f7002201f6001101f900d300800b21010e01f500e6000d01f200ee0009002a000a00",
-            "warnings": 50
+            "textraw": "2900f800d500e6001701d50009000000f800d500e8001b01ff0008000a000000e2001b01fe0048013b014a01170119014f0ad008f600fe002300230009002a000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "（どうしよう！　どうすれば？\u0000\n　これはテストより難題では……！）\u0000\n．４　\u0000\n・：；，　？　　，、　　鯵ば\u0000\nば　．　？に￣、：\u0000\n中之条（と、とんでもない物をみてしまった！）\u0000\n",
+        "text": "（どうしよう！　どうすれば？\u0000\n　これはテストより難題では……！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900f7000100f7002201f6001101f900d300800b21010e01f500e6000d01f200ee0009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（と、とんでもない物をみてしまった！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "48013b014a010100a706e0001701d500f200f70002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffebfe0100adffffff65ff27000000f0ff3d00f900fd00ffff2900d1000100ec00d500ef00010048013b014a0109000a0000001c0748013b014a01ef00da001801fe03db00f900d300f70052069803db00800d800d2a000a00",
-            "warnings": 23
+            "textraw": "48013b014a010100a706e0001701d500f200f70002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "テスト、受けようっと。\u0000\n　，　？、　なの（あ、そうだ、テスト！\u0000\n　小テストだから急がないと時間が弌弌）\u0000\n",
+        "text": "テスト、受けようっと。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "2900d1000100ec00d500ef00010048013b014a0109000a0000001c0748013b014a01ef00da001801fe03db00f900d300f70052069803db00800d800d2a000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（あ、そうだ、テスト！\u0000\n　小テストだから急がないと時間が弌弌）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1043,12 +1069,25 @@
         "id": 82,
         "internal": {
             "speakerraw": "4c016e011b0041011b00d9002406e4002201",
-            "textraw": "ec00fd001f0501004a065e07db00d70a520ce600f50001000a00d9000c083304fd0052069803db00f006110be4001b01ee00f700fa04d3000d01e80002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1ff0a00ff00c1ff0500ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff05001000ebfe0100adffffff65ff3d000000f0ff5300f900fd00ffff2900d1000100f6001101c2029c06fa008308df00f7000a0000000e012201f900fa004505db001a01c403db00e8001a01230023002a000a00",
-            "warnings": 54
+            "textraw": "ec00fd001f0501004a065e07db00d70a520ce600f50001000a00d9000c083304fd0052069803db00f006110be4001b01ee00f700fa04d3000d01e80002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ナレ―タ―お姉さん",
         "speaker_translation": "",
-        "text": "その後、事情が判明して、\u0000\nお説教の時間が準備されたと言います。\u0000\n　，　？？　　，、　　鯵ば\u0000\nば・ば　？・￣、　なの（あ、でも下手に騒ぐと\u0000\n　みんなに広がる気がする……）\u0000\n",
+        "text": "その後、事情が判明して、\u0000\nお説教の時間が準備されたと言います。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "2900d1000100f6001101c2029c06fa008308df00f7000a0000000e012201f900fa004505db001a01c403db00e8001a01230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（あ、でも下手に騒ぐと\u0000\n　みんなに広がる気がする……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1205,6 +1244,19 @@
         "speaker": "生徒たち",
         "speaker_translation": "",
         "text": "……………………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 96,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d1001b011b011b011b011b011b012000f20008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "あれれれれれれ〜っ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

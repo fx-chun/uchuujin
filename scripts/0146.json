@@ -393,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "230023002300230002000a00fdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe050006000700eefe04000400c1ffc5001000ebfe000065ff07000600f0ff1f002a09a2081208e207fffff105f00402009905fd00d9003808fe00b9094102ef0002000a00f203fa003805da00f200f500ec00fd0037055609f6006f0de800fd00fe0013011001f500d900e00002000a00",
-            "warnings": 17
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．４　・：；．．ｏ￣　；：中村先生笹原。今のお前は店員だ。\u0000\n客に向かってその口調で話すのはやめておけ。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "f105f00402009905fd00d9003808fe00b9094102ef0002000a00f203fa003805da00f200f500ec00fd0037055609f6006f0de800fd00fe0013011001f500d900e00002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "笹原。今のお前は店員だ。\u0000\n客に向かってその口調で話すのはやめておけ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "2300230033011b002f01fe0008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffbf001000ebfe000065ff14000600f0ff2c002a09a2081208e207ffffd1000100d100f7009300420b02005d01710126014a014301690135016e011b004a010a0064012d0157016b015c0143011b005001fa002a013b0159016e0145014a013901690145014a0102000a00",
-            "warnings": 22
+            "textraw": "2300230033011b002f01fe0008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "……ケ―キは？\u0000\n　，　？ｉ￣　：中村先生あ、あと１品。ホワイトチョコレ―ト\u0000\nモカフラペチ―ノにエスプレットショット。\u0000\n",
+        "text": "……ケ―キは？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "d1000100d100f7009300420b02005d01710126014a014301690135016e011b004a010a0064012d0157016b015c0143011b005001fa002a013b0159016e0145014a013901690145014a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "あ、あと１品。ホワイトチョコレ―ト\u0000\nモカフラペチ―ノにエスプレットショット。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -666,12 +692,25 @@
         "id": 53,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe04000400e8fe0300c1ffc6001000ebfe0100adffffff65ff1e000600f0ff36002a09a2081208e207ffff2900d500e500f200230023002a000a0098ff0000effe030097ff",
-            "warnings": 28
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？．．，ｐ￣、／：中村先生（うざっ……）\u0000\n　，",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900d500e500f200230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（うざっ……）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -802,6 +841,19 @@
         "speaker": "笹原",
         "speaker_translation": "",
         "text": "来たな。では客人よ、注文の品だ。\u0000\n受け取るが良い。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900d9003808230023000d0ae0001701230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（お前……働けよ……）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -68,12 +68,25 @@
         "id": 5,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "0f01d500f200090008000a00fdffedfffcff1aff0400000078ff00000a0016ffffffedffc1ffffff1000edfffcff66ff36000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200c1ff02001000ebfe000064ffffff0000f0ff0600f900fd00ffffdc001201f200090009000a00",
-            "warnings": 27
+            "textraw": "0f01d500f200090008000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "むうっ！？\u0000\n．　　\u0000\n￣　￣，．。。￣　　：なのきゃっ！！\u0000\n",
+        "text": "むうっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "dc001201f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "きゃっ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -172,12 +185,25 @@
         "id": 14,
         "internal": {
             "speakerraw": "0bff",
-            "textraw": "100cf609fa009c06f9002201f600e80009000a000a0118010100e200f200f000fa003805da00f200f5000e0b2201f600800d800d0a00fdffedfffcfffcff66ff38000000daffc1fffa011000ebfe000065ff07002700f0ff0f000cffffffd1000501fc00d6001b00f20009000a000a0afd005307010030016c0130016c013d011b005701ef00f200ee00ed00090008000a00",
-            "warnings": 15
+            "textraw": "100cf609fa009c06f9002201f600e80009000a000a0118010100e200f200f000fa003805da00f200f5000e0b2201f600800d800d0a00",
+            "warnings": 0
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "本当に手なんです！\u0000\nほら、こっちに向かって飛んで弌弌\u0000\n　旭￣　；あぶねぇ―っ！\u0000\n頭の上、ギリギリセ―フだったぞ！？\u0000\n",
+        "text": "本当に手なんです！\u0000\nほら、こっちに向かって飛んで弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "0cff",
+            "textraw": "d1000501fc00d6001b00f20009000a000a0afd005307010030016c0130016c013d011b005701ef00f200ee00ed00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "あぶねぇ―っ！\u0000\n頭の上、ギリギリセ―フだったぞ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -432,12 +458,25 @@
         "id": 35,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "d900d90001000d01ee00360265045a0bda002201ef00ed0002000a00fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe05000600070067ff1700c1ffe5001000ebfe000065ff0a000800f0ff2400f105f004ffffd3001301010036026504f600fe00f900d30009000a001101d5009300f30023002300d300130101000d01ef000d01ef005a0bda000501ed0002000a00",
-            "warnings": 17
+            "textraw": "d900d90001000d01ee00360265045a0bda002201ef00ed0002000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "おお、また一句浮かんだぞ。\u0000\n．　\u0000\n４・：；ざ￣　\u0000\n？笹原いや、一句ではない！\u0000\nもう１つ……いや、まだまだ浮かぶぞ。\u0000\n",
+        "text": "おお、また一句浮かんだぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d3001301010036026504f600fe00f900d30009000a001101d5009300f30023002300d300130101000d01ef000d01ef005a0bda000501ed0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "いや、一句ではない！\u0000\nもう１つ……いや、まだまだ浮かぶぞ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +627,25 @@
         "id": 48,
         "internal": {
             "speakerraw": "e60729000e01e400f7002a00",
-            "textraw": "e400e400fe001801d000d000d000d000d000f2000900090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0c00c1ffe6001000ebfe000065ff17000800f0ff3100f105f004ffff0b05730700000e060f01fe001c07ba0afd00000031060e01da00f9000a0098ff0000effe070097ff",
-            "warnings": 27
+            "textraw": "e400e400fe001801d000d000d000d000d000f2000900090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "声（みさと）",
         "speaker_translation": "",
-        "text": "ささはらぁぁぁぁぁっ！！！\u0000\n　，　？し￣　？笹原狐色　産むは小麦の　旨みかな\u0000\n　；",
+        "text": "ささはらぁぁぁぁぁっ！！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0b05730700000e060f01fe001c07ba0afd00000031060e01da00f9000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "狐色　産むは小麦の　旨みかな\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -744,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "23002300d1000100d1001901db00f700d500e300e500d3000d01e600ee0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0c00eefe16000400c1ffe6001000ebfe000065ff24000800f0ff3e00f105f004ffff680298031701190100003105af05e60096050f01000053025307db0019010a00",
-            "warnings": 23
+            "textraw": "23002300d1000100d1001901db00f700d500e300e500d3000d01e600ee0002000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "……あ、ありがとうございました。\u0000\n　？．し￣　？笹原雲間より　光差し込む　雨上がり\u0000\n",
+        "text": "……あ、ありがとうございました。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "680298031701190100003105af05e60096050f01000053025307db0019010a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "雲間より　光差し込む　雨上がり\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -919,6 +984,19 @@
         "speaker": "笹原",
         "speaker_translation": "",
         "text": "うむ、また縁があれば。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 76,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "23002300f6000100f60011019a039404f900d3001701fc0008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "……で、でも関係ないよね？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

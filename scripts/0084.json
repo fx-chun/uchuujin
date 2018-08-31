@@ -185,12 +185,25 @@
         "id": 14,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "fe00d300f200090009000a00fdffedfffcff66ff1f000000c0ff0300030010001fff0400000000020000c0ff04005f00ff001aff04000000680000001e0016ffffffc9ff6b021000f4ff1e00c9ffffff100066ff1f0000001aff0300000000fe00001e0016ffffffedffc1ffffff1000effe0700c1ff45001000ebfe000064ffffff0200f0ff0f001501f200e200ffffd900f20001004c0126013b012f0165014501430109000a00",
-            "warnings": 35
+            "textraw": "fe00d300f200090009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "はいっ！！\u0000\n　，，￣．　斡　．ば．　　／叡￣／￣　，　　／￣；￣　。ゆっこおっ、ナイスキャッチ！\u0000\n",
+        "text": "はいっ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d900f20001004c0126013b012f0165014501430109000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "おっ、ナイスキャッチ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -234,15 +247,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 19,
         "internal": {
-            "speakerraw": "1e0016ff",
-            "textraw": "edfffcff66ff36000000c1ffffff1000b3ff0300f4ff0400daffb2ffedffc1ffffff100067ff1000e8fe0400edffc8ff300102001000c1ff00001000ebfe000064ffffff0000f0ff1300f900fd00ffffd300ee00ee00ee00230023000a00f800d500e600f500e2002201f900f700e2001c01fa0071017501f00012012201db002300230002000a00",
-            "warnings": 24
+            "speakerraw": "f900fd00",
+            "textraw": "d300ee00ee00ee00230023000a00f800d500e600f500e2002201f900f700e2001c01fa0071017501f00012012201db002300230002000a00",
+            "warnings": 0
         },
-        "speaker": "／",
+        "speaker": "なの",
         "speaker_translation": "",
-        "text": "　￣，．￣￣．ギ。￣　￣　　なのいたたた……\u0000\nどうしてこんなところにワンちゃんが……。\u0000\n",
+        "text": "いたたた……\u0000\nどうしてこんなところにワンちゃんが……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "2900d100f2000900080000009c060900090009002a000a0098ff0000effe030097fffdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700c9ffffff1000c1ff02001000ebfe0100adffffff65ff07000000f0ff2c00f900fd00ffff29006908de00d100fd009c062101fe0010016009e400f900d300f7000a000000a80b9c06db00470cd30025062101a508de00fd009907fa00e50418011b011a0109002a000a00",
-            "warnings": 22
+            "textraw": "2900d100f2000900080000009c060900090009002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "（あっ！？　手！！！）\u0000\n　，．４　\u0000\n・：；￣。￣、；　なの（早くあの手をはめ直さないと\u0000\n　片手が無い姿を多くの人に見られる！）\u0000\n",
+        "text": "（あっ！？　手！！！）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "29006908de00d100fd009c062101fe0010016009e400f900d300f7000a000000a80b9c06db00470cd30025062101a508de00fd009907fa00e50418011b011a0109002a000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（早くあの手をはめ直さないと\u0000\n　片手が無い姿を多くの人に見られる！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "56000900090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc9ffffff1000c1ff03001000ebfe0100adffffff65ff15000000f0ff3a00f900fd00ffff29009c0621017208e207e4002201fa005106f200f500d300da001b01ee0009000a00000023002300d30013010100ec001b01170119011101760cd008fe00230023002a000a00",
-            "warnings": 29
+            "textraw": "56000900090009000a0098ff0000effe030097ff",
+            "warnings": 4
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "！！！\u0000\n　，　？￣，￣、　なの（手を相生さんに持っていかれた！\u0000\n　……いや、それよりも問題は……）\u0000\n",
+        "text": "！！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "29009c0621017208e207e4002201fa005106f200f500d300da001b01ee0009000a00000023002300d30013010100ec001b01170119011101760cd008fe00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（手を相生さんに持っていかれた！\u0000\n　……いや、それよりも問題は……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -991,12 +1030,25 @@
         "id": 79,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "090008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ffffff1000c1ff65001000ebfe000065ff2b000300f0ff50000e01d900fffff9000100f900fd00f0001201220123002300990501009c06db002300230002000a00",
-            "warnings": 22
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "！？\u0000\n　？￣￣　，みおな、なのちゃん……今、手が……。\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 80,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "f9000100f900fd00f0001201220123002300990501009c06db002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "な、なのちゃん……今、手が……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1105,15 +1157,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 89,
         "internal": {
-            "speakerraw": "0a0016ff",
-            "textraw": "e8fe0200c1ff03001000ebfe000065ff34000000f0ff5900f900fd00ffff0900090009000a0098ff00001aff0300000078ff00000a0016ffffff66ff7600000097ff",
-            "warnings": 16
+            "speakerraw": "f900fd00",
+            "textraw": "0900090009000a0098ff00001aff0300000078ff00000a0016ffffff66ff7600000097ff",
+            "warnings": 8
         },
-        "speaker": "\u0000\n",
+        "speaker": "なの",
         "speaker_translation": "",
-        "text": "。，￣　　なの！！！\u0000\n　，　　\u0000\n　",
+        "text": "！！！\u0000\n　，　　\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1179,6 +1231,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "体育祭、頑張ろうね……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 95,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "fe00d300f20002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "はいっ。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

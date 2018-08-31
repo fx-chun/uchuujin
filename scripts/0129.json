@@ -783,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "ef0530021208e20754007a05e0051208e207",
-            "textraw": "090008000a00fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe050006000700f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff15000000daffbcff9901ff00c1ff0a00ff00c0ff03008501ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe05000400e8fe0200c1ff85011000ebfe000065ff04001c00f0ff3d00260141013501ffffec00e200f900990709000a00",
-            "warnings": 51
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生＆高崎先生",
         "speaker_translation": "",
-        "text": "！？\u0000\n．　\u0000\n４・：；？　　，、　　ば\u0000\nば，ば　？・．。￣　．イタコそこな人！\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "ec00e200f900990709000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "そこな人！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -952,12 +965,25 @@
         "id": 74,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "2a09730a6007de002201fd0001000101d300d900ff00d100e4002201ef0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff15000000daffbcff9901ff00c1ff0a00ff00c0ff03008501ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe05000400e8fe0200c1ff85011000ebfe000065ff12001c00f0ff4b00260141013501ffffd100f200090008000000e200180109000000c5021301f200f7001a012201e700120109000a00060adb00e400f900d3001701d500fa00e50447091b01f700fa04f200ee00e70012011c01d50009000a00",
-            "warnings": 58
+            "textraw": "2a09730a6007de002201fd0001000101d300d900ff00d100e4002201ef0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "中之条くんの、ひいおばあさんだ。\u0000\n　，　？？　　，、　　ば\u0000\nば，ば　？・．。￣　イタコあっ！？　こら！　何やっとるんじゃ！\u0000\n逃がさないように見張れと言ったじゃろう！\u0000\n",
+        "text": "中之条くんの、ひいおばあさんだ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 75,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "d100f200090008000000e200180109000000c5021301f200f7001a012201e700120109000a00060adb00e400f900d3001701d500fa00e50447091b01f700fa04f200ee00e70012011c01d50009000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "あっ！？　こら！　何やっとるんじゃ！\u0000\n逃がさないように見張れと言ったじゃろう！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1147,12 +1173,25 @@
         "id": 90,
         "internal": {
             "speakerraw": "ef0530021208e20754007a05e0051208e207",
-            "textraw": "23002300ef04c403ef0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff15000000daffbcff9901ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000065ff22002b00f0ff5b00b504f505ffff6c06370de6000d011b00e8000200d10001000f04ee000f04ee0001000a000f04ee000f04ee0017010100d900ff00d100f000120122010200e200f200f000d900d300f60002000a00",
-            "warnings": 56
+            "textraw": "23002300ef04c403ef0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生＆高崎先生",
         "speaker_translation": "",
-        "text": "……元気だ。\u0000\n　，　？，　？　，、　　ば\u0000\nば￣　．　？　警察失礼しま―す。あ、居た居た、\u0000\n居た居たよ、おばあちゃん。こっちおいで。\u0000\n",
+        "text": "……元気だ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 91,
+        "internal": {
+            "speakerraw": "b504f505",
+            "textraw": "6c06370de6000d011b00e8000200d10001000f04ee000f04ee0001000a000f04ee000f04ee0017010100d900ff00d100f000120122010200e200f200f000d900d300f60002000a00",
+            "warnings": 0
+        },
+        "speaker": "警察",
+        "speaker_translation": "",
+        "text": "失礼しま―す。あ、居た居た、\u0000\n居た居たよ、おばあちゃん。こっちおいで。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1244,6 +1283,19 @@
         "speaker": "イタコ",
         "speaker_translation": "",
         "text": "ぐ、ぐうう……\u0000\n料金さえ、料金さえ徴収できれば……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 99,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "8307e600d30053013f0135017501230023009f0ad700ee00fd00fa002300230002000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "新しいパソコン……買えたのに……。\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

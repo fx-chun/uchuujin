@@ -783,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "f9002201f5000100ef001001f600e6001601d500da0008000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1800eefe0b000400e8fe0200c1ff5c011000ebfe000065ff05001500f0ff3d0033040a0a1208e207ffffd1001901090000000301160122018e000000fe00d1001901f600e80009000a00cd08d1001901f600e80009000a00",
-            "warnings": 23
+            "textraw": "f9002201f5000100ef001001f600e6001601d500da0008000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "なんて、だめでしょうか？\u0000\n．４　・：；．。ペ￣　・教頭先生あり！　ぴょん　はありです！\u0000\n大ありです！\u0000\n",
+        "text": "なんて、だめでしょうか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "d1001901090000000301160122018e000000fe00d1001901f600e80009000a00cd08d1001901f600e80009000a00",
+            "warnings": 1
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "あり！　ぴょん　はありです！\u0000\n大ありです！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -939,12 +952,25 @@
         "id": 73,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800eefe0b000400e8fe020066ff55000000ebfe000065ff12001500f0ff4a0033040a0a1208e207ffff3701260135011b0009000000df07fa00bd057a05fd00280137013001f0001201220109000a0098ff0000effe090097ff",
-            "warnings": 62
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？？　，、　　圧ば\u0000\nば　？．。　　教頭先生サイコ―！　正に最高のウサギちゃん！\u0000\n　！",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "3701260135011b0009000000df07fa00bd057a05fd00280137013001f0001201220109000a0098ff0000effe090097ff",
+            "warnings": 3
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "サイコ―！　正に最高のウサギちゃん！\u0000\n　！",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1212,12 +1238,25 @@
         "id": 95,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "23002300d500220102000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffeefe10000400e8fe0400c1ff5a011000ebfe000065ff28001500f0ff600033040a0a1208e207ffff23002300d10023002300d30013010100ec00fd002300230002000a00",
-            "warnings": 27
+            "textraw": "23002300d500220102000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "……うん。\u0000\n　，　？￣．．ヘ￣　教頭先生……あ……いや、その……。\u0000\n",
+        "text": "……うん。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 96,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "23002300d10023002300d30013010100ec00fd002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "……あ……いや、その……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1556,6 +1595,19 @@
         "speaker": "教頭先生",
         "speaker_translation": "",
         "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 123,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "3806fe000100c5022101e600fa00d80cee00fd00ef001c01d500da002300230002000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "私は、何をしに来たのだろうか……。\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

@@ -315,12 +315,12 @@
         "id": 24,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "090008000a0098ff0000effe030097fffdff7fff040002ff01ff",
-            "warnings": 7
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，．",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "db05100ce4002201",
-            "textraw": "23002300d100fd002e012f01010036029907f6001403fa00e006f500cd0854074f0bef001701f90008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffe8fe0200c1ff32001000ebfe000065ff14000100f0ff2a00fe00da00ea00ffff42013701de00f900d3001101220109000a00",
-            "warnings": 20
+            "textraw": "23002300d100fd002e012f01010036029907f6001403fa00e006f500cd0854074f0bef001701f90008000a00",
+            "warnings": 0
         },
         "speaker": "阪本さん",
         "speaker_translation": "",
-        "text": "……あのガキ、一人で外に出て大丈夫だよな？\u0000\n　？。￣　、）はかせダサくないもん！\u0000\n",
+        "text": "……あのガキ、一人で外に出て大丈夫だよな？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "42013701de00f900d3001101220109000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "ダサくないもん！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -744,12 +757,25 @@
         "id": 58,
         "internal": {
             "speakerraw": "db05100ce4002201",
-            "textraw": "23002300f800f200f000fa00f900f200f5001101bc02fa001603fe00f900d30002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff2b001000ebfe000065ff25000100f0ff3b00fe00da00ea00ffff06010601060102000a00ca02f001de00f900d3000100ef00f200f500020006010601060102000a00",
-            "warnings": 21
+            "textraw": "23002300f800f200f000fa00f900f200f5001101bc02fa001603fe00f900d30002000a00",
+            "warnings": 0
         },
         "speaker": "阪本さん",
         "speaker_translation": "",
-        "text": "……どっちになっても俺に害はない。\u0000\n　？￣￣　、はかせぷぷぷ。\u0000\n可愛くない、だって。ぷぷぷ。\u0000\n",
+        "text": "……どっちになっても俺に害はない。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "06010601060102000a00ca02f001de00f900d3000100ef00f200f500020006010601060102000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "ぷぷぷ。\u0000\n可愛くない、だって。ぷぷぷ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -854,6 +880,19 @@
         "speaker": "阪本さん",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "db05100ce4002201",
+            "textraw": "23002300d700f20008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "阪本さん",
+        "speaker_translation": "",
+        "text": "……えっ？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

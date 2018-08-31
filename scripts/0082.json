@@ -432,12 +432,12 @@
         "id": 33,
         "internal": {
             "speakerraw": "0e01d9002406",
-            "textraw": "d7000100ec00d500f900fd00090008000a00f000f200f0001201d300fd00fa00e800e300d300fc00200002000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "d7000100ec00d500f900fd00090008000a00f000f200f0001201d300fd00fa00e800e300d300fc00200002000a00",
+            "warnings": 0
         },
         "speaker": "みお姉",
         "speaker_translation": "",
-        "text": "え、そうなの！？\u0000\nちっちゃいのにすごいね〜。\u0000\n．　４・",
+        "text": "え、そうなの！？\u0000\nちっちゃいのにすごいね〜。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "60013c011b001b001b001b001b001b001b00090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff33001000ebfe000065ff15000100f0ff3200fe00da00ea00ffffa408fa00110173071800e405f200f5001a01170102000a00170dda00f200ee001801e504f500d300de0008000a00",
-            "warnings": 24
+            "textraw": "60013c011b001b001b001b001b001b001b00090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "マズ―――――――！？\u0000\n　，　？￣　、はかせ他にも色作ってるよ。\u0000\n良かったら見ていく？\u0000\n",
+        "text": "マズ―――――――！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "a408fa00110173071800e405f200f5001a01170102000a00170dda00f200ee001801e504f500d300de0008000a00",
+            "warnings": 1
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "他にも色作ってるよ。\u0000\n良かったら見ていく？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -913,12 +926,25 @@
         "id": 71,
         "internal": {
             "speakerraw": "0e01d9002406",
-            "textraw": "230023000d010100d300f200da0002000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff33001000ebfe000065ff2b000100f0ff4800fe00da00ea00fffff900fd00fe000100ee00ef00fd006f015e01e7001201f900d300170102000a0073071800ae0be80cf900c103790adb004d0bd300f5001a01fd0009000a00",
-            "warnings": 24
+            "textraw": "230023000d010100d300f200da0002000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "みお姉",
         "speaker_translation": "",
-        "text": "……ま、いっか。\u0000\n　\u0000\n　？￣　、はかせなのは、ただのロボじゃないよ。\u0000\n色便利な機能が付いてるの！\u0000\n",
+        "text": "……ま、いっか。\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "f900fd00fe000100ee00ef00fd006f015e01e7001201f900d300170102000a0073071800ae0be80cf900c103790adb004d0bd300f5001a01fd0009000a00",
+            "warnings": 1
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "なのは、ただのロボじゃないよ。\u0000\n色便利な機能が付いてるの！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1140,6 +1166,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 90,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2900ef011b0123002300f900fd00f00012012201230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（哀れ……なのちゃん……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

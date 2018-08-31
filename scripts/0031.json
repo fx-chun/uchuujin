@@ -406,12 +406,12 @@
         "id": 31,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "6c0b5b09010042067f05f600dc001a012201f600e800da0008000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "6c0b5b09010042067f05f600dc001a012201f600e800da0008000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "部長、試合できるんですか？\u0000\n．　４・",
+        "text": "部長、試合できるんですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "230023006c0b5b0901009905100cc403f600e600ee001701fc0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1fff1001000ebfe000065ff1a000900f0ff3200cd084105ffffa508820b62016c01ef00f900090000000d01d100ef053002de002201db000f041a012201ef00da00180101000a00f800d500f700f6001101f9001a01e40002000a00",
-            "warnings": 23
+            "textraw": "230023006c0b5b0901009905100cc403f600e600ee001701fc0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "……部長、今本気でしたよね。\u0000\n　，　？￣ぢ￣　！大工多分ムリだな！　まあ桜井くんが居るんだから、\u0000\nどうとでもなるさ。\u0000\n",
+        "text": "……部長、今本気でしたよね。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "a508820b62016c01ef00f900090000000d01d100ef053002de002201db000f041a012201ef00da00180101000a00f800d500f700f6001101f9001a01e40002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "多分ムリだな！　まあ桜井くんが居るんだから、\u0000\nどうとでもなるさ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -822,12 +835,25 @@
         "id": 64,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "23002300ec001101ec0011010100510a9907f6000809b4081908f200f500e006d80c1a01fd0008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffec001000ebfe000065ff29000900f0ff4100cd084105ffff9a03370502000a00",
-            "warnings": 21
+            "textraw": "23002300ec001101ec0011010100510a9907f6000809b4081908f200f500e006d80c1a01fd0008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "……そもそも、二人で団体戦って出来るの？\u0000\n　，　？そ￣　（！大工関口。\u0000\n",
+        "text": "……そもそも、二人で団体戦って出来るの？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "9a03370502000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "関口。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1023,6 +1049,19 @@
         "speaker": "関口",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "ec001b01fa00e600f50011014b0dbc0642067f05da00230023000a005e0cae0ade00f900f200f500dc001301db00f200ee00eb0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "それにしても練習試合か……\u0000\n面白くなってきやがったぜ。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

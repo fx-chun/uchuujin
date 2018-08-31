@@ -211,12 +211,25 @@
         "id": 16,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "d9000100d100ec00e200fd00f407db007304d300f500800d800d2201f200090008000a00fdffedfffcfffcff67ff120066ff2f0000001aff03000100000010010a0016ffffff66ff33000000daffedffc1ffffff1000e8fe0200ebfe000064ffffff0500f0ff110053055b091208e207ffffd5001e01d100f200090008000a00",
-            "warnings": 23
+            "textraw": "d9000100d100ec00e200fd00f407db007304d300f500800d800d2201f200090008000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "お、あそこの席が空いて弌弌んっ！？\u0000\n｛　，、　め\u0000\n　￣。　・校長先生うわあっ！？\u0000\n",
+        "text": "お、あそこの席が空いて弌弌んっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "d5001e01d100f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "うわあっ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -601,12 +614,25 @@
         "id": 47,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "800d800dde00f200090008000a00fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe05000600070067ff0e00c1ff88011000ebfe0100adffffff65ff0a001d00f0ff30004a04a208ffff2900e800f200da0019018f0c0b09e600f500ee00230023000a0000000d01e400da00e200fd0041012601610175013201f6005e030f01f9002201f500230023002a000a00",
-            "warnings": 20
+            "textraw": "800d800dde00f200090008000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "弌弌くっ！？\u0000\n．\u0000\n４　・：；￣、\u0000\n｝玉村（すっかり油断してた……\u0000\n　まさかこのタイミングで噛むなんて……）\u0000\n",
+        "text": "弌弌くっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "2900e800f200da0019018f0c0b09e600f500ee00230023000a0000000d01e400da00e200fd0041012601610175013201f6005e030f01f9002201f500230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "（すっかり油断してた……\u0000\n　まさかこのタイミングで噛むなんて……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -744,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "1501f200e20054004a04a208",
-            "textraw": "290023002300c4092a09fd0066016f011b00090009002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff88011000ebfe0100adffffff65ff16001d00f0ff3c004a04a208ffff2900dc000100c4030d01e900d30023002300b9094102f700e600f50001000a000000e200e200fe00f800d500ac0be800fd00db005b013b014a01f900fd0008002a000a00",
-            "warnings": 26
+            "textraw": "290023002300c4092a09fd0066016f011b00090009002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ＆玉村",
         "speaker_translation": "",
-        "text": "（……田中のヤロ―！！）\u0000\n　，　？￣、玉村（き、気まずい……店員として、\u0000\n　ここはどう返すのがベストなの？）\u0000\n",
+        "text": "（……田中のヤロ―！！）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "2900dc000100c4030d01e900d30023002300b9094102f700e600f50001000a000000e200e200fe00f800d500ac0be800fd00db005b013b014a01f900fd0008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "（き、気まずい……店員として、\u0000\n　ここはどう返すのがベストなの？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -900,12 +939,25 @@
         "id": 72,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "290023002300f8001b01db000100f8001b0108002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe16000400c1ff88011000ebfe0100adffffff65ff23001d00f0ff49004a04a208ffff2900370126013c012101f00012012201f700fa04d700ee00820b01000a000000e200fd007304c403db00f3001801d300230023002a000a00",
-            "warnings": 27
+            "textraw": "290023002300f8001b01db000100f8001b0108002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "（……どれが、どれ？）\u0000\n　，　？．￣、…玉村（サイズをちゃんと言えた分、\u0000\n　この空気がつらい……）\u0000\n",
+        "text": "（……どれが、どれ？）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "2900370126013c012101f00012012201f700fa04d700ee00820b01000a000000e200fd007304c403db00f3001801d300230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "（サイズをちゃんと言えた分、\u0000\n　この空気がつらい……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1062,6 +1114,19 @@
         "speaker": "ゆっこ＆玉村",
         "speaker_translation": "",
         "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 86,
+        "internal": {
+            "speakerraw": "1501f200e20054004a04a208",
+            "textraw": "290023002300c502db000100df07f802ef00f200ee00f200e00008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ＆玉村",
+        "speaker_translation": "",
+        "text": "（……何が、正解だったっけ？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

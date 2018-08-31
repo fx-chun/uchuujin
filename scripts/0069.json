@@ -341,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "d10001006c0b5b0902000a00ec00fd00690a01000a0afd005307fa00800d800d0a00fdffedfffcfffcff66ff0e000000daffc1ff50011000ebfe000064ffffff1200f0ff1b009a033705ffff800d800dc502da00d1001a010e01ee00d300f600e800170102000a00",
-            "warnings": 14
+            "textraw": "d10001006c0b5b0902000a00ec00fd00690a01000a0afd005307fa00800d800d0a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "あ、部長。\u0000\nその猫、頭の上に弌弌\u0000\n　ノ￣　―関口弌弌何かあるみたいですよ。\u0000\n",
+        "text": "あ、部長。\u0000\nその猫、頭の上に弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "800d800dc502da00d1001a010e01ee00d300f600e800170102000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "弌弌何かあるみたいですよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +536,12 @@
         "id": 41,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "9a0337051b0001009905da001801d403e300f200e20013011c01d500eb0009000a002c016e01db00410145014301e600ee00da001801d9003808db00d403f900090009000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "9a0337051b0001009905da001801d403e300f200e20013011c01d500eb0009000a002c016e01db00410145014301e600ee00da001801d9003808db00d403f900090009000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "関口―、今から鬼ごっこやろうぜ！\u0000\nオレがタッチしたからお前が鬼な！！\u0000\n．　４・",
+        "text": "関口―、今から鬼ごっこやろうぜ！\u0000\nオレがタッチしたからお前が鬼な！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +718,25 @@
         "id": 55,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "2900f9000100c502db00d900dc00ee00fd0023002300090008002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe04000400ebfe000065ff10001200f0ff38009a033705ffff800d800dfe00d00002000a00",
-            "warnings": 22
+            "textraw": "2900f9000100c502db00d900dc00ee00fd0023002300090008002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "（な、何がおきたの……！？）\u0000\n　，　？．．　￣関口弌弌はぁ。\u0000\n",
+        "text": "（な、何がおきたの……！？）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "800d800dfe00d00002000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "弌弌はぁ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -900,12 +926,25 @@
         "id": 71,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "d300de001801f9002201f6001101470ced0c2300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8701ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfff9ff0800c1ff50011000ebfe000065ff20001200f0ff48009a033705ffff6c0b5b0902000a00",
-            "warnings": 54
+            "textraw": "d300de001801f9002201f6001101470ced0c2300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "いくらなんでも無理……。\u0000\n　，　？？　，、　　ば\u0000\nば￣　？ノ￣　〜関口部長。\u0000\n",
+        "text": "いくらなんでも無理……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "6c0b5b0902000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "部長。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1062,6 +1101,19 @@
         "speaker": "大工",
         "speaker_translation": "",
         "text": "あ、ああ。\u0000\nとりあえず何とか戻るよ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 85,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "04010401f20002000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "ふふっ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

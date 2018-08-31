@@ -419,12 +419,38 @@
         "id": 32,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "3806fd00d30bdb0053079c06f600e8001701fc00090008000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700edffc1ffffff100067ff1800e8fe0200c1ff1a011000ebfe000065ff07000c00f0ff21007a05e0051208e207ffffec00d500d300d500760cd008e7001201f900d300ef001c01d50009000a00fdffedfffcffc1ff3b001000edfffcff66ff3e000000c1ffffff1000b3ff0300f4ff0400daffb2ffc1ff66001000edfffcff66ff3e000000c1ffffff1000b3ff0300f4ff0400daffb2ffeefe05000400e8fe0200c1ff1a011000ebfe000065ff08000c00f0ff22007a05e0051208e207ffff7208e20701005b09800cf00409000a00aa0646042a09fa00de0c0107dc00e600f500d300d300f7002b06f200f5001a01fd00da00090008000a00",
-            "warnings": 58
+            "textraw": "3806fd00d30bdb0053079c06f600e8001701fc00090008000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "私の方が上手ですよね！？\u0000\n．４　\u0000\n・：；￣。る￣　；高崎先生そういう問題じゃないだろう！\u0000\n￣　￣，．￣　￣，．・．。る￣　？高崎先生相生、長野原！\u0000\n授業中に落書きしていいと思ってるのか！？\u0000\n",
+        "text": "私の方が上手ですよね！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "ec00d500d300d500760cd008e7001201f900d300ef001c01d50009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "そういう問題じゃないだろう！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "7208e20701005b09800cf00409000a00aa0646042a09fa00de0c0107dc00e600f500d300d300f7002b06f200f5001a01fd00da00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "相生、長野原！\u0000\n授業中に落書きしていいと思ってるのか！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +614,25 @@
         "id": 47,
         "internal": {
             "speakerraw": "1501f200e20054000e01d900",
-            "textraw": "fe002000200020002000d30002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ff18011000ebfe0100adffffff65ff16000c00f0ff30007a05e0051208e207ffff29000d01d100010053079c06d300c2029c06f600fa04d700ff005b09800cf004fd00d30bef00db0001000a0000007208e207fd000c03fa001101fe04d707db00d1001a012a000a00",
-            "warnings": 25
+            "textraw": "fe002000200020002000d30002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ＆みお",
         "speaker_translation": "",
-        "text": "は〜〜〜〜い。\u0000\n　，　？￣．ら￣、｝高崎先生（まあ、上手い下手で言えば長野原の方だが、\u0000\n　相生の絵にも個性がある）\u0000\n",
+        "text": "は〜〜〜〜い。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "29000d01d100010053079c06d300c2029c06f600fa04d700ff005b09800cf004fd00d30bef00db0001000a0000007208e207fd000c03fa001101fe04d707db00d1001a012a000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（まあ、上手い下手で言えば長野原の方だが、\u0000\n　相生の絵にも個性がある）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +822,25 @@
         "id": 63,
         "internal": {
             "speakerraw": "1501f200e20054000e01d900",
-            "textraw": "f600e8001701fc001b0002000a0098ff0000effe020097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ff18011000ebfe0000adffffff65ff26000c00f0ff40007a05e0051208e207ffff230023002300230002000a00",
-            "warnings": 27
+            "textraw": "f600e8001701fc001b0002000a0098ff0000effe020097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ＆みお",
         "speaker_translation": "",
-        "text": "ですよね―。\u0000\n　。　？ら￣　高崎先生…………。\u0000\n",
+        "text": "ですよね―。\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -997,6 +1049,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "なんだ―？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "3304d0020107ee0b1b010d01e600ee001b0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "教科書忘れました―。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

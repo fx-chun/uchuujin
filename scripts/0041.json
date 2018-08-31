@@ -146,12 +146,25 @@
         "id": 11,
         "internal": {
             "speakerraw": "db05100ce4002201",
-            "textraw": "f0001601f200090000000d010100ba08f5000100d900d300090008000a00fdffedfffcff1aff0300000078fff0fe0a0066ff4e00000016ffffffbfff0d001000fcffbcffffd11000e8fe0200ebfe000064ffffff0a00f0ff0c002a09730a6007fffff60019011201d100d100d100090009000a00",
-            "warnings": 22
+            "textraw": "f0001601f200090000000d010100ba08f5000100d900d300090008000a00",
+            "warnings": 0
         },
         "speaker": "阪本さん",
         "speaker_translation": "",
-        "text": "ちょっ！　ま、待て、おい！？\u0000\n，　\u0000\n　￣￣。　\u0000\n中之条でりゃあああ！！\u0000\n",
+        "text": "ちょっ！　ま、待て、おい！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "f60019011201d100d100d100090009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "でりゃあああ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -354,12 +367,12 @@
         "id": 28,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "090008000a0098ff0000effe080097fffdff7fff040002ff01ff0000960005003200",
-            "warnings": 8
+            "textraw": "090008000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "！？\u0000\n　？．　４・",
+        "text": "！？\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +549,25 @@
         "id": 42,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "6b013a012d016d01e800dd001a01090008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe15000400c1fffe001000ebfe0100adffffff65ff14000a00f0ff2b002a09730a6007ffff29007107c4097a075b09fe00470ced0cef00f200ee00fd00fa00230023000a00000077051c01ea001a011701d500fa00f900f200f500d3001a01090009002a000a00",
-            "warnings": 23
+            "textraw": "6b013a012d016d01e800dd001a01090008000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "ラジカルすぎる！？\u0000\n　？．は￣、\u0000\n中之条（織田信長は無理だったのに……\u0000\n　降ろせるようになっている！！）\u0000\n",
+        "text": "ラジカルすぎる！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "29007107c4097a075b09fe00470ced0cef00f200ee00fd00fa00230023000a00000077051c01ea001a011701d500fa00f900f200f500d3001a01090009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（織田信長は無理だったのに……\u0000\n　降ろせるようになっている！！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +679,25 @@
         "id": 52,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff85011000ebfe000065ff1e001c00f0ff3500260141013501ffff600421017d0b1e012201f700fe00470c370df9001301f300100102000a009905e800df007d0b1e01f900e0001b01ff00160619018006f5001a01ed0002000a00",
-            "warnings": 23
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？￣　／イタコ金を払わんとは無礼なやつめ。\u0000\n今すぐ払わなければ斬り捨てるぞ。\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "600421017d0b1e012201f700fe00470c370df9001301f300100102000a009905e800df007d0b1e01f900e0001b01ff00160619018006f5001a01ed0002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "金を払わんとは無礼なやつめ。\u0000\n今すぐ払わなければ斬り捨てるぞ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -711,6 +750,19 @@
         "speaker": "イタコ",
         "speaker_translation": "",
         "text": "……では、呪ってやる。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "090008000a0098ff0000effe040097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　．",
         "text_translation": "",
         "type": "dialog"
     }

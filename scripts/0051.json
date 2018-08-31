@@ -367,12 +367,25 @@
         "id": 28,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "ef00da0018014f013a01fe00ca02f001d300da0018010a005d067a075106f200f5000100f900fd0009000a00fdffedfffcff67ffffffc9ff3702100066ff03000000daffc9ffffff1000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1500ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff120071ff000063ffffff90ffffffedfff9ff0800f4ff1e00beff16001000f4ff1e00beff17001000f4ff1e00beff18001000f4ff1e00e8fe0200ebfe000064ffffff0000f0ff1d00f900fd00ffff090008000a00",
-            "warnings": 60
+            "textraw": "ef00da0018014f013a01fe00ca02f001d300da0018010a005d067a075106f200f5000100f900fd0009000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "だからネジは可愛いから\u0000\n自信持って、なの！\u0000\n壱￣，　￣？　，、　　ば\u0000\nば　？／￣／￣／￣／。　　なの！？\u0000\n",
+        "text": "だからネジは可愛いから\u0000\n自信持って、なの！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -419,12 +432,12 @@
         "id": 33,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "e2002201f900fd00ca02f001d3001e01e000f900d300e7001201f900d300f600e800da0009000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "e2002201f900fd00ca02f001d3001e01e000f900d300e7001201f900d300f600e800da0009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "こんなの可愛いわけないじゃないですか！\u0000\n．",
+        "text": "こんなの可愛いわけないじゃないですか！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -510,12 +523,25 @@
         "id": 40,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "090008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffebfe000065ff0b000100f0ff2900fe00da00ea00ffffec002201f900e200f700fa041e01f900d300f6000200fe00da00ea0001000a00f900fd00fd00ee001001fa00d300f2000001d300c10c1f02e600ee002201ef00da00180102000a00",
-            "warnings": 17
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "！？\u0000\n　？　、（はかせそんなこと言わないで。はかせ、\u0000\nなののためにいっぱい用意したんだから。\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "ec002201f900e200f700fa041e01f900d300f6000200fe00da00ea0001000a00f900fd00fd00ee001001fa00d300f2000001d300c10c1f02e600ee002201ef00da00180102000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "そんなこと言わないで。はかせ、\u0000\nなののためにいっぱい用意したんだから。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "2300230025025d07ef0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc6d1ff00c1ff0a00ff00c8ff29001b00ff0090ff1b0090ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff29001000ebfe000065ff1c000100f0ff3a00fe00da00ea00ffffef00f200f500fe00da00ea0014021403fd00990711010a004f013a01db00ca02f001d300f200f500fa04f200ee00170108000a00",
-            "warnings": 49
+            "textraw": "2300230025025d07ef0002000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "……異常だ。\u0000\n　？？　　，、　　ば\u0000\nば（―ば―　？（￣　、はかせだってはかせ以外の人も\u0000\nネジが可愛いって言ったよ？\u0000\n",
+        "text": "……異常だ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "ef00f200f500fe00da00ea0014021403fd00990711010a004f013a01db00ca02f001d300f200f500fa04f200ee00170108000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "だってはかせ以外の人も\u0000\nネジが可愛いって言ったよ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -828,6 +867,19 @@
         "speaker": "はかせ",
         "speaker_translation": "",
         "text": "だってネジ可愛いもん！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "c7044704fe00da00ea005306ce08e7001201f900d300f600e800da0009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "結局はかせ次第じゃないですか！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

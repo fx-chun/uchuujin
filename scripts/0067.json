@@ -302,12 +302,12 @@
         "id": 23,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "d7001b002300230002000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "d7001b002300230002000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "え―……。\u0000\n．　４・",
+        "text": "え―……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -497,12 +497,25 @@
         "id": 38,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "29001301f200000142016301da001101230023002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff47011000ebfe0100adffffff65ff11001100f0ff2700ef053002e907ffff290023002300e6001601d500db00f900d300f900d0002a000a00",
-            "warnings": 26
+            "textraw": "29001301f200000142016301da001101230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "（やっぱダメかも……）\u0000\n　，　？￣ヅ￣、桜井誠（……しょうがないなぁ）\u0000\n",
+        "text": "（やっぱダメかも……）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "290023002300e6001601d500db00f900d300f900d0002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（……しょうがないなぁ）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -757,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "4b0dbc0623002300e600f500f900d30002000a0098ff0000effe0b0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff47011000ebfe0100adffffff65ff26001100f0ff3c00ef053002e907ffff290023002300f800d50011017a07c10cf600dc00f900d300f900d0002a000a00",
-            "warnings": 26
+            "textraw": "4b0dbc0623002300e600f500f900d30002000a0098ff0000effe0b0097ff",
+            "warnings": 4
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "練習……してない。\u0000\n　　？ヅ￣、桜井誠（……どうも信用できないなぁ）\u0000\n",
+        "text": "練習……してない。\u0000\n　",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "290023002300f800d50011017a07c10cf600dc00f900d300f900d0002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（……どうも信用できないなぁ）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -932,6 +958,19 @@
         "speaker": "桜井誠",
         "speaker_translation": "",
         "text": "そうですよね先生！\u0000\nさ、練習しましょうか！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

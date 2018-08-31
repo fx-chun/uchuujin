@@ -341,12 +341,12 @@
         "id": 26,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "29009907080000002d015e014301650108000a000000ec001b01f200f50072089c06db006106f60011016e09e7001a01fd00da00f90008002a000a0098ff0000effe000097fffdff7fff040002ff01ff",
-            "warnings": 7
+            "textraw": "29009907080000002d015e014301650108000a000000ec001b01f200f50072089c06db006106f60011016e09e7001a01fd00da00f90008002a000a0098ff0000effe000097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "（人？　カボチャ？\u0000\n　それって相手が鹿でも通じるのかな？）\u0000\n　　．",
+        "text": "（人？　カボチャ？\u0000\n　それって相手が鹿でも通じるのかな？）\u0000\n　　",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "6106",
-            "textraw": "230023002300230002000a00fdffedfffcff1aff04000000680010010a0016ffffff66ff30000000edffc0ff0400ffff1000effe0300eefe1300040066ffc7000000c1ff11011000ebfe0000adffffff65ff18000b00f0ff2c00ef0530021208e207ffff230023002300230002000a00",
-            "warnings": 25
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "鹿",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．　め\u0000\n｝　．￣，．ｑ　も￣　桜井先生…………。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "1d09da00f200ee002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000e8fe0400c1ff0b011000ebfe0100adffffff65ff1a000b00f0ff2e00ef0530021208e207ffff2900d1001b012300230008000000e7001201d10001009c06fa006106f200f5000107de00fd0008000a000000ec001b01f70011019907f200f5000107d300f50011013405de002300230008002a000a00",
-            "warnings": 24
+            "textraw": "1d09da00f200ee002300230002000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "遅かった……。\u0000\n　？￣．ぼ￣、桜井先生（あれ……？　じゃあ、手に鹿って書くの？\u0000\n　それとも人って書いても効く……？）\u0000\n",
+        "text": "遅かった……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "2900d1001b012300230008000000e7001201d10001009c06fa006106f200f5000107de00fd0008000a000000ec001b01f70011019907f200f5000107d300f50011013405de002300230008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "（あれ……？　じゃあ、手に鹿って書くの？\u0000\n　それとも人って書いても効く……？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "230023002300230002000a00fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc1ffffff1000effe030066ffc7000000c1ff11011000ebfe000065ff26000b00f0ff3a00ef0530021208e207ffffd1001b012300230008000a00",
-            "warnings": 20
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n，、　め\u0000\n｝　￣，ｑ　も￣　桜井先生あれ……？\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d1001b012300230008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "あれ……？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "d300f900de00f900f200f5001a012300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ff08011000ebfe0000adffffff65ff28000b00f0ff3c00ef0530021208e207ffff230023002300230002000a00",
-            "warnings": 27
+            "textraw": "d300f900de00f900f200f5001a012300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "いなくなってる……。\u0000\n　，　？べ￣　桜井先生…………。\u0000\n",
+        "text": "いなくなってる……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -809,12 +861,38 @@
         "id": 66,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "a408fd001208e20700052201f600e2001701d500f20009000a0098ff0000effe070097fffdffedfffcff66ff220000001aff0300000000fe00001e0016ffffffedffc1ffffff1000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff2f001e00f0ff43006106ffff090009000a00",
-            "warnings": 53
+            "textraw": "a408fd001208e20700052201f600e2001701d500f20009000a0098ff0000effe070097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "他の先生呼んでこようっ！\u0000\n　；　，　　／￣？　　，、　　ば\u0000\nば　？。　｛／鹿！！\u0000\n",
+        "text": "他の先生呼んでこようっ！\u0000\n　；",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "090009000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

@@ -562,12 +562,12 @@
         "id": 43,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "090008000a0098ff0000effe030097fffdff7fff040002ff01ff",
-            "warnings": 7
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，．",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "d700f20008000000d1000100fe00d30009000a00fdffedfffcff66ff220000001aff04000000000200001e0016ffffffedffc0ff0400ffff1000faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1ff0a00ff00c0ff03001801ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff080066ff230000001fff0400000000020000c0ff04003c00ff001aff04000000680000001e0016ffffffc1ff3c001000ebfe000065ff0d000200f0ff32001501f200e200fffffe000100fe00d30001007a05e0051208e207f20009000a00",
-            "warnings": 60
+            "textraw": "d700f20008000000d1000100fe00d30009000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "えっ？　あ、はい！\u0000\n　．　斡　／．￣，　？　　，、　　ば\u0000\nば，らば　．　？…　．　斡　．ば．　　／￣　。ゆっこは、はい、高崎先生っ！\u0000\n",
+        "text": "えっ？　あ、はい！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fe000100fe00d30001007a05e0051208e207f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "は、はい、高崎先生っ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -679,12 +692,25 @@
         "id": 53,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "d700d600f200090008000000fe000100fe000100fe000100fe00d30009000a00fdffedfffcff66ff220000001aff04000000000200001e0016ffffffedffc0ff0400ffff1000faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9301ff00c1ff0a00ff00c0ff03000e01ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff080066ff230000001fff0400000000020000c0ff04003c00ff001aff04000000680000001e0016ffffffc1ff3b001000ebfe000065ff11000200f0ff36001501f200e200fffffe00d0000100fe00d0000100fe00d00009000a00110101005106f200f500d80c0d01e600ee0009000a00",
-            "warnings": 60
+            "textraw": "d700d600f200090008000000fe000100fe000100fe000100fe00d30009000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "えぇっ！？　は、は、は、はい！\u0000\n　．　斡　／．￣，　？　　，、　　ば\u0000\nば，みば　．　？…　．　斡　．ば．　　／￣　。ゆっこはぁ、はぁ、はぁ！\u0000\nも、持って来ました！\u0000\n",
+        "text": "えぇっ！？　は、は、は、はい！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fe00d0000100fe00d0000100fe00d00009000a00110101005106f200f500d80c0d01e600ee0009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "はぁ、はぁ、はぁ！\u0000\nも、持って来ました！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -744,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "2900aa064604e6001c011701230023002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200c1ff0b011000ebfe000065ff17000b00f0ff3c00ef0530021208e207ffffd1000100d100fd00230023000a007a05e0051208e207db00ec00e2000d01f600e600f900de00f50011012300230002000a00",
-            "warnings": 25
+            "textraw": "2900aa064604e6001c011701230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "（授業しろよ……）\u0000\n　，　？ぼ￣　桜井先生あ、あの……\u0000\n高崎先生がそこまでしなくても……。\u0000\n",
+        "text": "（授業しろよ……）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d1000100d100fd00230023000a007a05e0051208e207db00ec00e2000d01f600e600f900de00f50011012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "あ、あの……\u0000\n高崎先生がそこまでしなくても……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -900,12 +939,25 @@
         "id": 72,
         "internal": {
             "speakerraw": "1501f200e20054000e01d900",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff0e011000ebfe000065ff24000b00f0ff4900ef0530021208e207ffffd1000100d100fd00230023007a05e0051208e207db00590dc202fa00f70cf200f5001a01f7000a00aa064604db0096070d01f900d300f600e800da0018012300230002000a00",
-            "warnings": 23
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ＆みお",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？み￣　桜井先生あ、あの……高崎先生が廊下に立ってると\u0000\n授業が進まないですから……。\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d1000100d100fd00230023007a05e0051208e207db00590dc202fa00f70cf200f5001a01f7000a00aa064604db0096070d01f900d300f600e800da0018012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "あ、あの……高崎先生が廊下に立ってると\u0000\n授業が進まないですから……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1062,6 +1114,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "ぬおおおお！！\u0000\nバケツに……バケツに負けてたまるか―っ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 86,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d7001b001b00f200090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "え――っ！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

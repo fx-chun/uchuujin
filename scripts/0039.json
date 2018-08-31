@@ -432,12 +432,25 @@
         "id": 33,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "d700f20008000000d1000100d3000100d300d300f600e800e000f80001000a00f600110101009905fe00cb0afd00650cdb00990c3c0dfa00f900f200f500f500800d800d0a00fdffedfffcff1aff04000000f0ff00001e0016ffffffe8fe0200c1ff2b001000adff0500ebfe000064ffffff0100f0ff2200fe00da00ea00ffffd100fe00fe00fe00fe0009000a0098ff010066ffa90000001aff0400000078ff00000a0016ffffff1aff04000000f0ff00000f0016ffffff97ff640154012d01750109000000df00fa001201f200f500f9001a0109000a0098ff000066ffa90000001aff0400000078ff00000a0016ffffff1aff04000000f0ff00000f0016ffffff97ff",
-            "warnings": 41
+            "textraw": "d700f20008000000d1000100d3000100d300d300f600e800e000f80001000a00f600110101009905fe00cb0afd00650cdb00990c3c0dfa00f900f200f500f500800d800d0a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "えっ？　あ、い、いいですけど、\u0000\nでも、今は髪の毛が幽霊になってて弌弌\u0000\n．　　／。￣・　、はかせあはははは！\u0000\n、Ｍ　．　　\u0000\n．　　モヒカン！　ぐにゃってなる！\u0000\n　Ｍ　．　　\u0000\n．　　",
+        "text": "えっ？　あ、い、いいですけど、\u0000\nでも、今は髪の毛が幽霊になってて弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "d100fe00fe00fe00fe0009000a0098ff010066ffa90000001aff0400000078ff00000a0016ffffff1aff04000000f0ff00000f0016ffffff97ff640154012d01750109000000df00fa001201f200f500f9001a0109000a0098ff000066ffa90000001aff0400000078ff00000a0016ffffff1aff04000000f0ff00000f0016ffffff97ff",
+            "warnings": 24
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "あはははは！\u0000\n、Ｍ　．　　\u0000\n．　　モヒカン！　ぐにゃってなる！\u0000\n　Ｍ　．　　\u0000\n．　　",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +718,12 @@
         "id": 55,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "090008000a0098ff0000effe030097fffdff7fff040002ff01ff",
-            "warnings": 7
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，．",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -887,12 +900,25 @@
         "id": 69,
         "internal": {
             "speakerraw": "db05100ce4002201",
-            "textraw": "23002300e2001b01010033061001ee00d30bdb00d300d300fd00da0008000a0098ff0000effe020097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1500ebfe0100adffffff65ff15000a00f0ff46002a09730a6007ffff2900da000100cb0adb000100e207d700ee00230023000a0000001101d500e207d700f900d300f7002b061e011b01ee005a07fa06fa00230023002a000a00",
-            "warnings": 25
+            "textraw": "23002300e2001b01010033061001ee00d30bdb00d300d300fd00da0008000a0098ff0000effe020097ff",
+            "warnings": 3
         },
         "speaker": "阪本さん",
         "speaker_translation": "",
-        "text": "……これ、止めた方がいいのか？\u0000\n　。　？、\u0000\n中之条（か、髪が、生えた……\u0000\n　もう生えないと思われた場所に……）\u0000\n",
+        "text": "……これ、止めた方がいいのか？\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900da000100cb0adb000100e207d700ee00230023000a0000001101d500e207d700f900d300f7002b061e011b01ee005a07fa06fa00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（か、髪が、生えた……\u0000\n　もう生えないと思われた場所に……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -926,12 +952,25 @@
         "id": 73,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "29008307e600d3009400f300110174071b01f900d30023002300090009000a0000000d073705db002c03db00f200ee00ef00e000ef00230023002a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000ebfe000065ff19000100f0ff4a00fe00da00ea00ffffd100fe00fe00fe0009000000a70bf900cb0a9b0409000a002d0145014a01530126017501db009500f30011011d06e400f200f5001a0109000a00",
-            "warnings": 18
+            "textraw": "29008307e600d3009400f300110174071b01f900d30023002300090009000a0000000d073705db002c03db00f200ee00ef00e000ef00230023002a000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "（新しい２つも触れない……！！\u0000\n　傷口が拡がっただけだ……）\u0000\n　？￣　〆、はかせあははは！　変な髪型！\u0000\nカットパインが３つも刺さってる！\u0000\n",
+        "text": "（新しい２つも触れない……！！\u0000\n　傷口が拡がっただけだ……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "d100fe00fe00fe0009000000a70bf900cb0a9b0409000a002d0145014a01530126017501db009500f30011011d06e400f200f5001a0109000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "あははは！　変な髪型！\u0000\nカットパインが３つも刺さってる！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1049,6 +1088,19 @@
         "speaker": "はかせ",
         "speaker_translation": "",
         "text": "はぁ……面白かった！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 84,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "f6001101f800f200da006c05f200f0001201f200ee0002000a00ea00f200da00de005506e600f500d100e1001701d500f7002b06f200ee00fd00fa0002000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "でもどっか行っちゃった。\u0000\nせっかく治してあげようと思ったのに。\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

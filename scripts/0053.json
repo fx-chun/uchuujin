@@ -354,12 +354,12 @@
         "id": 27,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "2900e2001b01fe000100f0001601f200f7009a05f200ee0002000a000000f800d500e6001701d500230023002a000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "2900e2001b01fe000100f0001601f200f7009a05f200ee0002000a000000f800d500e6001701d500230023002a000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "（これは、ちょっと困った。\u0000\n　どうしよう……）\u0000\n．",
+        "text": "（これは、ちょっと困った。\u0000\n　どうしよう……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "230023002300230009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ff51021000c1ff0b011000ebfe000065ff15000b00f0ff2a00ef0530021208e207ffffb1075307e40022010100cd0854074f0b800d800dd1001b0108000a00e2001b01fe0001000e010100810ca80dc40bfb0508000a00",
-            "warnings": 23
+            "textraw": "230023002300230009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "…………！\u0000\n　，　？羽￣ぼ￣　）桜井先生水上さん、大丈夫弌弌あれ？\u0000\nこれは、み、弥佗菩薩？\u0000\n",
+        "text": "…………！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "b1075307e40022010100cd0854074f0b800d800dd1001b0108000a00e2001b01fe0001000e010100810ca80dc40bfb0508000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "水上さん、大丈夫弌弌あれ？\u0000\nこれは、み、弥佗菩薩？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -744,12 +757,25 @@
         "id": 58,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe09000400c1ff0b011000ebfe000065ff26000b00f0ff3b00ef0530021208e207ffffb1075307e400220108000000cd0854074f0bf600e800da0008000a00",
-            "warnings": 21
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？！．ぼ￣　桜井先生水上さん？　大丈夫ですか？\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "b1075307e400220108000000cd0854074f0bf600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "水上さん？　大丈夫ですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -945,6 +971,19 @@
         "speaker": "麻衣",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 75,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "29009905510501006004b70a1901db00f802e000ee00f9002201f500fa04d700f900d3002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "（今更、金縛りが解けたなんて言えない）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

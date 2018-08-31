@@ -237,12 +237,25 @@
         "id": 18,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "230023002300230002000a00fdffedfffcff1aff04000000680010010a0016ffffff66ff30000000bfff05001000edffc1ffffff1000edffc8ff8a00e4001000ebfe000064ffffff0400f0ff13000e01e400f700ffffef00d300ee00d300d1002201ee00fe00d300f3001101800d800d0a00",
-            "warnings": 21
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．　め\u0000\n｝　・￣￣さ￣　．みさとだいたいあんたはいつも弌弌\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "ef00d300ee00d300d1002201ee00fe00d300f3001101800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "だいたいあんたはいつも弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +588,12 @@
         "id": 45,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "d700f200090008000000d1000100d100d500230023000a00ec000100ec001b01fe000100ec00fd002300230002000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "d700f200090008000000d1000100d100d500230023000a00ec000100ec001b01fe000100ec00fd002300230002000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "えっ！？　あ、あう……\u0000\nそ、それは、その……。\u0000\n．・",
+        "text": "えっ！？　あ、あう……\u0000\nそ、それは、その……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "08000a00fdffedfffcff67ff12001fff0300000000fe0000c0ff0300a200ff001aff0300000078ff00003c0066ff28000000f3ff16ffffffedfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ffedffc1ffffff1000f6ff0800effe0400eefe03000400e8fe0200c1ffa1001000ebfe000065ff09000400f0ff2f000e01e400f700fffffe00d000090008000000d1002201ee0052012d01e7001201f900d300090008000a006c032d02d300e600f900d300f6001701fc00090009000a00",
-            "warnings": 37
+            "textraw": "08000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "？\u0000\n，　　，Ｆば，　　　　ば，．￣？．，．。Ｅ￣　！．｛みさとはぁ！？　あんたバカじゃない！？\u0000\n勘違いしないでよね！！\u0000\n",
+        "text": "？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "fe00d000090008000000d1002201ee0052012d01e7001201f900d300090008000a006c032d02d300e600f900d300f6001701fc00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "はぁ！？　あんたバカじゃない！？\u0000\n勘違いしないでよね！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +718,51 @@
         "id": 55,
         "internal": {
             "speakerraw": "6b064a06",
-            "textraw": "230023002300230002000a00fdffedfffcff66ff300000001aff03000100000010010a0016ffffffedffc1ffffff1000c1ffe4001000ebfe0000adffffff65ff12000800f0ff3800f105f004ffff230023002300230002000a00fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc1ffffff1000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffff01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff13001f00f0ff390035013a016f012801ffff630129011b000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff84001000ebfe000065ff14000400f0ff3a000e01e400f700ffffec000100ec001b01fe0023002300ec001b01fe002300230002000a00",
-            "warnings": 90
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "執事",
         "speaker_translation": "",
-        "text": "…………。\u0000\n｝　，、　め\u0000\n￣さ￣　？笹原…………。\u0000\n，、　め\u0000\n｝　￣？　　，、　　圧ば\u0000\nば　？　コジロウメェ―\u0000\n　，　？￣　．みさとそ、それは……それは……。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "35013a016f012801",
+            "textraw": "630129011b000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "コジロウ",
+        "speaker_translation": "",
+        "text": "メェ―\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "ec000100ec001b01fe0023002300ec001b01fe002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "そ、それは……それは……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1017,12 +1082,25 @@
         "id": 83,
         "internal": {
             "speakerraw": "35013a016f012801",
-            "textraw": "630129011b000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff84001000ebfe0000adffffff65ff2e000400f0ff54000e01e400f700ffff230023002300230002000a00",
-            "warnings": 22
+            "textraw": "630129011b000a00",
+            "warnings": 0
         },
         "speaker": "コジロウ",
         "speaker_translation": "",
-        "text": "メェ―\u0000\n　？￣￣　．＆みさと…………。\u0000\n",
+        "text": "メェ―\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 84,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1082,12 +1160,38 @@
         "id": 89,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "380611010100ee000d01fa00fe006f0bfa00ad07da001b01f5000e011a01da0002000a00fdffedfffcfff8ff080066ff43000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff9000ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800f9ff0800ebfe0000adffffff65ff34000800f0ff5a00f105f004ffff230023002300230002000a00fdffedfffcff66ff43000000f8ff0800bcffb1011000f9ff0800ebfe0000adffffff65ff35000800f0ff5b00f105f004ffff230023002300230002000a00",
-            "warnings": 64
+            "textraw": "380611010100ee000d01fa00fe006f0bfa00ad07da001b01f5000e011a01da0002000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "私も、たまには風に吹かれてみるか。\u0000\n？　？　　，、　　ば\u0000\nば　？？　？笹原…………。\u0000\n　？￣？　？笹原…………。\u0000\n",
+        "text": "私も、たまには風に吹かれてみるか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 90,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 91,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1140,6 +1244,19 @@
         "speaker": "笹原",
         "speaker_translation": "",
         "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 96,
+        "internal": {
+            "speakerraw": "35013a016f012801",
+            "textraw": "630129011b000a00",
+            "warnings": 0
+        },
+        "speaker": "コジロウ",
+        "speaker_translation": "",
+        "text": "メェ―\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

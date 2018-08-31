@@ -485,11 +485,11 @@
         "internal": {
             "speakerraw": "260141013501",
             "textraw": "9400920001009e00b600020095009b000100b40002009700980001009d00b60002000a00",
-            "warnings": 1
+            "warnings": 0
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "２０、ＢＺ。３、Ｘ。５６、ＡＺ。\u0000\n",
+        "text": "２０、ＢＺ。３９、Ｘ。５６、ＡＺ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +523,25 @@
         "id": 40,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "230023002300230002000a00fdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe05000600070067ffffffc1ffc2001000ebfe0000adffffff65ff09000600f0ff29002a09a2081208e207ffff230023002300230002000a00",
-            "warnings": 19
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．４　・：；ｌ￣　！：（中村先生…………。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -550,11 +563,11 @@
         "internal": {
             "speakerraw": "2a09a2081208e207",
             "textraw": "9b00f00a02000a00",
-            "warnings": 1
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "番。\u0000\n",
+        "text": "９番。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -809,12 +822,25 @@
         "id": 63,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "d100d10002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0c00c1ffc2001000ebfe000065ff20000600f0ff40002a09a2081208e207ffffec00fd006b0af600ef044f08cd037e0521011209f200f500d3001a01f700fe0001000a00e800e300d300f90002000a00",
-            "warnings": 20
+            "textraw": "d100d10002000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "ああ。\u0000\n　？ｌ￣　〜：中村先生その年で元素記号を知っているとは、\u0000\nすごいな。\u0000\n",
+        "text": "ああ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "ec00fd006b0af600ef044f08cd037e0521011209f200f500d3001a01f700fe0001000a00e800e300d300f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "その年で元素記号を知っているとは、\u0000\nすごいな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -965,12 +991,25 @@
         "id": 76,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "23002300d500f000fd00e207cc09e7001201f900d300ef001c01d500f90008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffc2001000ebfe000065ff2d000600f0ff4d002a09a2081208e207ffff0d01d10023002300ec00f200f000db00f800d500ef001c01d500f70001000a003806fe007a07e700f500f900d3002201ef00db00f90002000a00",
-            "warnings": 22
+            "textraw": "23002300d500f000fd00e207cc09e7001201f900d300ef001c01d500f90008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "……うちの生徒じゃないだろうな？\u0000\n　，　？ｌ￣　：中村先生まあ……そっちがどうだろうと、\u0000\n私は信じてないんだがな。\u0000\n",
+        "text": "……うちの生徒じゃないだろうな？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 77,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "0d01d10023002300ec00f200f000db00f800d500ef001c01d500f70001000a003806fe007a07e700f500f900d3002201ef00db00f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "まあ……そっちがどうだろうと、\u0000\n私は信じてないんだがな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1036,6 +1075,19 @@
         "speaker": "中村先生",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "b80be0001a01fd00da002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "歩けるのか……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

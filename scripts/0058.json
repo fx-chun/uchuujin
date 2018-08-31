@@ -133,12 +133,25 @@
         "id": 10,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "090008000a00fdffedfffcff1aff0300000000fe00001e0016ffffff1aff04000000680010010a0016ffffff66ff30000000edffc1ffffff1000c1ffe5001000ebfe000064ffffff0800f0ff0b00f105f004ffff53055b09090009000a00f9000100c5020805010053055b09db006106fa00090008000a00",
-            "warnings": 22
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "！？\u0000\n，　　／．　め\u0000\n｝　￣ざ￣　？笹原校長！！\u0000\nな、何故、校長が鹿に！？\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "53055b09090009000a00f9000100c5020805010053055b09db006106fa00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "校長！！\u0000\nな、何故、校長が鹿に！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -289,12 +302,12 @@
         "id": 23,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "2900ec00e600f500bd051f052300230021069308fd00d30602000a000000d30013010100e2001301f300fe00800d800d2a000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "2900ec00e600f500bd051f052300230021069308fd00d30602000a000000d30013010100e2001301f300fe00800d800d2a000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "（そして最後……四足の獣。\u0000\n　いや、こやつは弌弌）\u0000\n．・",
+        "text": "（そして最後……四足の獣。\u0000\n　いや、こやつは弌弌）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -328,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "f9001801ff0001006e0cfa00fe006e0c210102000a002b099803fa00fe002b099803210102000a00fdffedfffcffedffc1ffffff10001fff0400000000020000c0ff04003602ff001aff04000000680000001e001fff0300000000fe0000c0ff03008e01ff001aff0300000078ff00001e0016ffffffe8fe0200ebfe000065ff07000800f0ff1b00f105f004fffff800d500ef000100e2001b01f600c007fd005307f600fe000f0ac00702000a00ce03bd0cfd00950c1602fe00470cde00f900f200ee00ed0009000a0098ff0000effe080097ff",
-            "warnings": 26
+            "textraw": "f9001801ff0001006e0cfa00fe006e0c210102000a002b099803fa00fe002b099803210102000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "ならば、目には目を。\u0000\n仲間には仲間を。\u0000\n￣．　斡　．一ば．　　／，　　，ば，　　／。　；？―笹原どうだ、これで数の上では同数。\u0000\n貴様の優位は無くなったぞ！\u0000\n　？",
+        "text": "ならば、目には目を。\u0000\n仲間には仲間を。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "f800d500ef000100e2001b01f600c007fd005307f600fe000f0ac00702000a00ce03bd0cfd00950c1602fe00470cde00f900f200ee00ed0009000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "どうだ、これで数の上では同数。\u0000\n貴様の優位は無くなったぞ！\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -471,12 +497,25 @@
         "id": 38,
         "internal": {
             "speakerraw": "6b064a06",
-            "textraw": "d500d900d900d900d900d900d9000900090009000a0098ff0000effe040097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff0c0071ff000063ffffff90ffffffedfff9ff0800c1ffe0001000ebfe000065ff13000800f0ff2700f105f004ffffd30013010100800cc10bf9002b0af20096050e01fe001701ec00d50002000a00",
-            "warnings": 55
+            "textraw": "d500d900d900d900d900d900d9000900090009000a0098ff0000effe040097ff",
+            "warnings": 3
         },
         "speaker": "執事",
         "speaker_translation": "",
-        "text": "うおおおおおお！！！\u0000\n　．　？？　，、　　ば\u0000\nば　？け￣　？笹原いや、野暮な突っ込みはよそう。\u0000\n",
+        "text": "うおおおおおお！！！\u0000\n　．",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d30013010100800cc10bf9002b0af20096050e01fe001701ec00d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "いや、野暮な突っ込みはよそう。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -614,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "cd08770bde002201290061062a00",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffba01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ffe7001000ebfe000065ff1f000800f0ff3300f105f004ffff23002300d900d90001002b06d300e006e600ee0002000a00",
-            "warnings": 51
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "大福くん（鹿）",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？？　　，、　　ば\u0000\nば　？じ￣　？笹原……おお、思い出した。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300d900d90001002b06d300e006e600ee0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……おお、思い出した。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -763,6 +815,19 @@
         "speaker": "大福くん（ゆっこ）",
         "speaker_translation": "",
         "text": "……何にも言ってないよね？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "cd08770bde0022012900dc001701e6002a00",
+            "textraw": "d500220102000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "大福くん（きよし）",
+        "speaker_translation": "",
+        "text": "うん。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

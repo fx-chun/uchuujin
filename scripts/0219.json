@@ -68,12 +68,25 @@
         "id": 5,
         "internal": {
             "speakerraw": "3b0141011b006b01290b",
-            "textraw": "2d02d5000200ba061e011901fe00ba061e011901ef0002000a00230023006c0bb602fa00730c1a0102000a00fdffedfffcff66ff2b0000001aff0300000000fe00003c0016ffffffedffc1ffffff1000e8fe0400c0ff0300e7011000ebfe000065ff06002500f0ff06000afffffff800d500d300d500e200f700ef0008000000100cf609fa00ba061e011901f900fd00da0008000a00",
-            "warnings": 22
+            "textraw": "2d02d5000200ba061e011901fe00ba061e011901ef0002000a00230023006c0bb602fa00730c1a0102000a00",
+            "warnings": 0
         },
         "speaker": "スタ―ラ姫",
         "speaker_translation": "",
-        "text": "違う。終わりは終わりだ。\u0000\n……部屋に戻る。\u0000\n　，　　￣．，￣　：：どういうことだ？　本当に終わりなのか？\u0000\n",
+        "text": "違う。終わりは終わりだ。\u0000\n……部屋に戻る。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "0aff",
+            "textraw": "f800d500d300d500e200f700ef0008000000100cf609fa00ba061e011901f900fd00da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "どういうことだ？　本当に終わりなのか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },

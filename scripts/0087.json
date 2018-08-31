@@ -406,12 +406,25 @@
         "id": 31,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "d100fe00fe000100f8002201f900fd00ef0002000a00fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe05000600070067ff1000c1ff45001000ebfe000065ff08000200f0ff20001501f200e200ffffd100f2000100e7001201d1000c03390bde00170102000a00d700f200f700fc001b0002000a00",
-            "warnings": 16
+            "textraw": "d100fe00fe000100f8002201f900fd00ef0002000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "あはは、どんなのだ。\u0000\n．　\u0000\n４・：；￣￣　？。〜ゆっこあっ、じゃあ絵描くよ。\u0000\nえっとね―。\u0000\n",
+        "text": "あはは、どんなのだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d100f2000100e7001201d1000c03390bde00170102000a00d700f200f700fc001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "あっ、じゃあ絵描くよ。\u0000\nえっとね―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "2900e200fd000c03fa00110c5a0de4001b01f5000a0000000d01ee00c009c007db00f701de00f9001a01fa0093005c013f012a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff43001000ebfe000065ff17000200f0ff2f001501f200e200ffffe7001201d100e400e7001201d100e40001000a000e01d900f00012012201fd0063088408e8001a014f022c099907fe00f8002201f9007803e70008000a00",
-            "warnings": 20
+            "textraw": "2900e200fd000c03fa00110c5a0de4001b01f5000a0000000d01ee00c009c007db00f701de00f9001a01fa0093005c013f012a000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "（この絵に翻弄されて\u0000\n　また点数が悪くなるに１ペソ）\u0000\n　？￣￣　。｛ゆっこじゃあさじゃあさ、\u0000\nみおちゃんの想像する宇宙人はどんな感じ？\u0000\n",
+        "text": "（この絵に翻弄されて\u0000\n　また点数が悪くなるに１ペソ）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "e7001201d100e400e7001201d100e40001000a000e01d900f00012012201fd0063088408e8001a014f022c099907fe00f8002201f9007803e70008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "じゃあさじゃあさ、\u0000\nみおちゃんの想像する宇宙人はどんな感じ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -874,12 +900,25 @@
         "id": 69,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "04038a08e4001b01f5001a012300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff44001000ebfe000065ff2e000200f0ff46001501f200e200ffffd5001b0022010100f0001601f200f700fa04c50cf600fe000a00350be600fa00de00d300f700fa04d500da002300230002000a00",
-            "warnings": 20
+            "textraw": "04038a08e4001b01f5001a012300230002000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "改造されてる……。\u0000\n　？￣　。ゆっこう―ん、ちょっと言葉では\u0000\n表しにくいと言うか……。\u0000\n",
+        "text": "改造されてる……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d5001b0022010100f0001601f200f700fa04c50cf600fe000a00350be600fa00de00d300f700fa04d500da002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "う―ん、ちょっと言葉では\u0000\n表しにくいと言うか……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1049,6 +1088,19 @@
         "speaker": "みお",
         "speaker_translation": "",
         "text": "……がんばった。\u0000\nがんばったよゆっこは。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 84,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "390be000f900d3002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "描けない……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

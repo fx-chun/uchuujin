@@ -81,12 +81,25 @@
         "id": 6,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "fe00da00ea00fe004f013a01db00d100f200ee00d30bdb00d300d30009000a00ca02f001d300e60001008307c103790ad300f2000001d3004206ea001a01e60009000a00fdffedfffcffc9ff3702100066ff03000000daffc9ffffff100066ff90000000effe0800e8fe0200c1ff18001000ebfe000064ffffff0000f0ff0700f900fd00ffffd100f2000100f0001601010013011001f500de00ef00e400d300fe00da00ea0009000a003602b408c5022101e8001a01800d800d0a00",
-            "warnings": 19
+            "textraw": "fe00da00ea00fe004f013a01db00d100f200ee00d30bdb00d300d30009000a00ca02f001d300e60001008307c103790ad300f2000001d3004206ea001a01e60009000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "はかせはネジがあった方がいい！\u0000\n可愛いし、新機能いっぱい試せるし！\u0000\n壱￣，　￣　？。￣　　；なのあっ、ちょ、やめてくださいはかせ！\u0000\n一体何をする弌弌\u0000\n",
+        "text": "はかせはネジがあった方がいい！\u0000\n可愛いし、新機能いっぱい試せるし！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d100f2000100f0001601010013011001f500de00ef00e400d300fe00da00ea0009000a003602b408c5022101e8001a01800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "あっ、ちょ、やめてくださいはかせ！\u0000\n一体何をする弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -432,12 +445,12 @@
         "id": 34,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "090008000a0098ff0000effe030097fffdff7fff040002ff01ff",
-            "warnings": 7
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，．",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "d3001a0111012201d3001a0111012201d3001a0111012201d3001a011101220109000a00fdffedfffcff66ff03000000daff66ff90000000c1ff16001000ebfe000065ff0e000000f0ff2a00f900fd00ffff1e01f200090008000000f9000100c5022101800d800d0a00",
-            "warnings": 14
+            "textraw": "d3001a0111012201d3001a0111012201d3001a0111012201d3001a011101220109000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "いるもんいるもんいるもんいるもん！\u0000\n，　　￣　　）なのわっ！？　な、何を弌弌\u0000\n",
+        "text": "いるもんいるもんいるもんいるもん！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "1e01f200090008000000f9000100c5022101800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "わっ！？　な、何を弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -679,12 +705,25 @@
         "id": 54,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "2a0175014b016e013b01090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe15000400c1ff1c001000ebfe000065ff1b000000f0ff3700f900fd00fffffe000100fe00da00ea00230023000a009300f3008f0bd300f5001101d300d300f600e800da0008000a00",
-            "warnings": 25
+            "textraw": "2a0175014b016e013b01090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "エンドレス！？\u0000\n　，　？￣．￣　―　なのは、はかせ……\u0000\n１つ聞いてもいいですか？\u0000\n",
+        "text": "エンドレス！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "fe000100fe00da00ea00230023000a009300f3008f0bd300f5001101d300d300f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "は、はかせ……\u0000\n１つ聞いてもいいですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +809,38 @@
         "id": 62,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "310dd700ff00fc001b002300230002000a00fdffedfffcff66ff03000000daff66ff90000000dafff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff92000000daffbeff8900ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff23000100f0ff3f00fe00da00ea00ffffe200d5001301f200f5000e0bff00e800f600e600160108000a00ec00e600f500800d800d0a00fdffedfffcff66ff03000000daff66ff92000000dafff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ff76000000daffbcffe801ff00c1ff0a00ff00c8ff18002900ff0090ff290090ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff18001000ebfe000065ff24000000f0ff4000f900fd00ffff090008000a00",
-            "warnings": 91
+            "textraw": "310dd700ff00fc001b002300230002000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "例えばね―……。\u0000\n，　　？　　，、　０　ば\u0000\nば　？　…、はかせこうやって飛ばすでしょ？\u0000\nそして弌弌\u0000\n，　０　？　　，、　　ば\u0000\nば（ば（　？。￣　　なの！？\u0000\n",
+        "text": "例えばね―……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "e200d5001301f200f5000e0bff00e800f600e600160108000a00ec00e600f500800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "こうやって飛ばすでしょ？\u0000\nそして弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -835,12 +900,25 @@
         "id": 69,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "3806fe001101d50001000a004f013a01fd00a806b70ada001801060ae10018011b01f900d3002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00c1ff1a001000ebfe000065ff2a000000f0ff4600f900fd00ffff8307e600d3004f013a01f200f500c502f600e800da0002000a00c502f6008307e600d300fd00db005f0175015f017501e006f500de001a012201f600e800da0002000a00",
-            "warnings": 24
+            "textraw": "3806fe001101d50001000a004f013a01fd00a806b70ada001801060ae10018011b01f900d3002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "私はもう、\u0000\nネジの呪縛から逃げられない……。\u0000\n　，　？￣　）　なの新しいネジって何ですか。\u0000\n何で新しいのがポンポン出てくるんですか。\u0000\n",
+        "text": "私はもう、\u0000\nネジの呪縛から逃げられない……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "8307e600d3004f013a01f200f500c502f600e800da0002000a00c502f6008307e600d300fd00db005f0175015f017501e006f500de001a012201f600e800da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "新しいネジって何ですか。\u0000\n何で新しいのがポンポン出てくるんですか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -978,12 +1056,25 @@
         "id": 81,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "d100f2000100060ae100f50009000a00fdffedfffcff66ff03000000daff66ff90000000daffc9ff5d021000effe0900e8fe0200ebfe000065ff36000000f0ff5200f900fd00ffff1e01f200090008000a00",
-            "warnings": 17
+            "textraw": "d100f2000100060ae100f50009000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "あっ、逃げて！\u0000\n，　　欝￣！。　　なのわっ！？\u0000\n",
+        "text": "あっ、逃げて！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 82,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "1e01f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "わっ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1049,6 +1140,19 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "（そんなにネジが大切なんだ……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 88,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "2900fe00da00ea00f200f500230023004f013a0157012901430108002a000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（はかせって……ネジフェチ？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

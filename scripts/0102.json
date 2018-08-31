@@ -536,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "2300230023002300090008000a0098ff0000effe010097fffdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700c9ffffff100067ff1000c1fffa001000ebfe000065ff04000a00f0ff2a002a09730a6007fffff9000100c50235016e012300230002000a00",
-            "warnings": 20
+            "textraw": "2300230023002300090008000a0098ff0000effe010097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "…………！？\u0000\n　、．\u0000\n４　・：；￣￣に￣　．\u0000\n）中之条な、何コレ……。\u0000\n",
+        "text": "…………！？\u0000\n　、",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "f9000100c50235016e012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "な、何コレ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -861,12 +874,25 @@
         "id": 67,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ffffff100067ff1200eefe04000400c1ffff001000ebfe000065ff1e000a00f0ff44002a09730a6007fffff9000100c502e2001b0123002300090009000a00ee00ef00fd00de0c0107dc00e7001201f900d300da0009000a00",
-            "warnings": 26
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？￣．．ば￣　／\u0000\n中之条な、何これ……！！\u0000\nただの落書きじゃないか！\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "f9000100c502e2001b0123002300090009000a00ee00ef00fd00de0c0107dc00e7001201f900d300da0009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "な、何これ……！！\u0000\nただの落書きじゃないか！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1082,12 +1108,25 @@
         "id": 85,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "090008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ffffff100067ff1000eefe04000400c1fffa001000ebfe000065ff30000a00f0ff56002a09730a6007fffff9000100c50235016e0108000a00",
-            "warnings": 22
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "！？\u0000\n　？￣￣．．に￣　｝\u0000\n中之条な、何コレ？\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 86,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "f9000100c50235016e0108000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "な、何コレ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1205,6 +1244,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "死ねっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 96,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900d700d700d7001b001b001b00090008002a000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（えええ―――！？）\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

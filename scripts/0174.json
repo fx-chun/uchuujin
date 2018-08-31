@@ -406,12 +406,25 @@
         "id": 31,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "ee00ef00fd000f0a0904e207f600e800da00180102000a00ec00e2000d01f600fe00f0001601f200f7002300230002000a00fdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe050006000700eefe0200040067ff1800e8fe0200b3ff0300c1ff6e011000ebfe000065ff04001900f0ff2000280129015e0139011b00ffff6e0c2101e504f5006f0dea00f200090009000a0098ff0000b2ff97ff",
-            "warnings": 23
+            "textraw": "ee00ef00fd000f0a0904e207f600e800da00180102000a00ec00e2000d01f600fe00f0001601f200f7002300230002000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "ただの同級生ですから。\u0000\nそこまではちょっと……。\u0000\n．４　・：；。．。，レ￣　．〆〜ウェボシ―目を見て話せっ！！\u0000\n　",
+        "text": "ただの同級生ですから。\u0000\nそこまではちょっと……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "6e0c2101e504f5006f0dea00f200090009000a0098ff0000b2ff97ff",
+            "warnings": 3
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "目を見て話せっ！！\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "23002300c604fa00de0cf0001a0114021403f60002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff6d011000ebfe000065ff17001900f0ff3300280129015e0139011b00ffffef001701fc001b0023002300ee00ef00fd0031016b013b0163011b004a01ef0011012201fc00d60002000a00",
-            "warnings": 23
+            "textraw": "23002300c604fa00de0cf0001a0114021403f60002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "……穴に落ちる以外で。\u0000\n　，　？￣ル￣　〆ウェボシ―だよね―……ただのクラスメ―トだもんねぇ。\u0000\n",
+        "text": "……穴に落ちる以外で。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "ef001701fc001b0023002300ee00ef00fd0031016b013b0163011b004a01ef0011012201fc00d60002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "だよね―……ただのクラスメ―トだもんねぇ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "c502ef00f200ee002201ef001c01d50008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff6d011000ebfe000065ff22001900f0ff3e00280129015e0139011b00ffff1e01da00f200ee0001001101d500d300d30002000a00230023008f0bd300f500dc00f50002000a00",
-            "warnings": 19
+            "textraw": "c502ef00f200ee002201ef001c01d50008000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "何だったんだろう？\u0000\n　？ル￣　〆ウェボシ―わかった、もういい。\u0000\n……聞いてきて。\u0000\n",
+        "text": "何だったんだろう？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "1e01da00f200ee0001001101d500d300d30002000a00230023008f0bd300f500dc00f50002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "わかった、もういい。\u0000\n……聞いてきて。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -984,6 +1023,19 @@
         "speaker": "ウェボシ―",
         "speaker_translation": "",
         "text": "アンタの教室、明日から２年Ｏ組だから。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 79,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "56000900090008000a0098ff0000effe030097ff",
+            "warnings": 4
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "！！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

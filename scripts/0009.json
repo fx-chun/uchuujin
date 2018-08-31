@@ -471,12 +471,12 @@
         "id": 36,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "090008000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "！？\u0000\n．・",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +692,25 @@
         "id": 53,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "23002300fe00d00002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ffffff100067ff1000eefe04000400c1ff45001000ebfe000065ff18000200f0ff36001501f200e200ffffe3000100970013088702f200f500230023000d01ee000d01ee0002000a0057071009db0053079c06d300f900d00002000a00",
-            "warnings": 24
+            "textraw": "23002300fe00d00002000a00",
+            "warnings": 0
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "……はぁ。\u0000\n　？￣￣．．￣　。ゆっこご、５千円って……またまた。\u0000\n冗談が上手いなぁ。\u0000\n",
+        "text": "……はぁ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "e3000100970013088702f200f500230023000d01ee000d01ee0002000a0057071009db0053079c06d300f900d00002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "ご、５千円って……またまた。\u0000\n冗談が上手いなぁ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -874,12 +887,25 @@
         "id": 68,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "230023005701570102000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ffffff100067ff1000eefe10000400c1ff4a001000ebfe000065ff27000200f0ff45001501f200e200ffffd30013010100d300de0018013806db003c03e207f60011010a00ec001b01fe000b01f200ee00de001901f200f5001e01da001a01170102000a00",
-            "warnings": 24
+            "textraw": "230023005701570102000a00",
+            "warnings": 0
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "……フフ。\u0000\n　？￣￣￣．￣　。ゆっこいや、いくら私が学生でも\u0000\nそれはぼったくりってわかるよ。\u0000\n",
+        "text": "……フフ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d30013010100d300de0018013806db003c03e207f60011010a00ec001b01fe000b01f200ee00de001901f200f5001e01da001a01170102000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "いや、いくら私が学生でも\u0000\nそれはぼったくりってわかるよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1023,6 +1049,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "23002300ba08f200f500090000001301f200000119019f0ad50009000a009f0a1e01ea00f500de00ef00e4001b00d30009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "……待って！　やっぱり買う！\u0000\n買わせてくださ―い！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

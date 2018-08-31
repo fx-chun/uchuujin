@@ -315,12 +315,25 @@
         "id": 24,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "2900d1001b01fe0023002300d500f000fd003c035305fd00e207cc09da0008000a00000023002300d900130101001f051c01fa00110101001101d50036029907d3001a01f9002a000a00fdffedfffcffedffc1ffffff1000c1ff05001000ebfe0000adffffff65ff19000000f0ff1900f900fd00ffff230023002300230002000a00",
-            "warnings": 13
+            "textraw": "2900d1001b01fe0023002300d500f000fd003c035305fd00e207cc09da0008000a00000023002300d900130101001f051c01fa00110101001101d50036029907d3001a01f9002a000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "（あれは……うちの学校の生徒か？\u0000\n　……おや、後ろにも、もう一人いるな）\u0000\n￣・￣　〆　〆なの…………。\u0000\n",
+        "text": "（あれは……うちの学校の生徒か？\u0000\n　……おや、後ろにも、もう一人いるな）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },

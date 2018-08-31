@@ -29,12 +29,25 @@
         "id": 2,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "23002300230023002300230002000a00fdffedfffcfffcffc0ff03004f02100066ff84000000daffafff03000300c0ff0300d0001000ebfe0000adffffff64ffffff0700f0ff0300170c2b02ffff23002300230023002300230002000a00",
-            "warnings": 17
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "………………。\u0000\n，宇￣　，，，ぁ￣　；，麻衣………………。\u0000\n",
+        "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "………………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -94,12 +107,25 @@
         "id": 8,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "f90018012300230002000a00fdffedfffcfffcffc0ff03004f02100066ff84000000dafff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff9d1ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ffcd000000daffe8fe0200ebfe0000adffffff64ffffff2f00f0ff09002d016b013b01ffff30016501240109000000300165012401090009000a00",
-            "warnings": 50
+            "textraw": "f90018012300230002000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "なら……。\u0000\n，宇￣　？　　，、　　ば\u0000\nば　？ｗ　。　｛！カラスギャア！　ギャア！！\u0000\n",
+        "text": "なら……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "2d016b013b01",
+            "textraw": "30016501240109000000300165012401090009000a00",
+            "warnings": 0
+        },
+        "speaker": "カラス",
+        "speaker_translation": "",
+        "text": "ギャア！　ギャア！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -159,12 +185,25 @@
         "id": 14,
         "internal": {
             "speakerraw": "2d016b013b01",
-            "textraw": "30016501240101003001650124014501090009000a00fdffedfffcffc0ff03004f02100066ff84000000daffedffc1ffffff100066ff89000000daffe8fe0200ebfe0000adffffff64ffffff2f00f0ff0f002d016b013b01ffff2d01240124012401240124012401240124012401090009000a00",
-            "warnings": 22
+            "textraw": "30016501240101003001650124014501090009000a00",
+            "warnings": 0
         },
         "speaker": "カラス",
         "speaker_translation": "",
-        "text": "ギャア、ギャアッ！！\u0000\n，宇￣　￣　。　｛カラスカアアアアアアアアア！！\u0000\n",
+        "text": "ギャア、ギャアッ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "2d016b013b01",
+            "textraw": "2d01240124012401240124012401240124012401090009000a00",
+            "warnings": 0
+        },
+        "speaker": "カラス",
+        "speaker_translation": "",
+        "text": "カアアアアアアアアア！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -172,12 +211,38 @@
         "id": 16,
         "internal": {
             "speakerraw": "db05100ce4002201",
-            "textraw": "800d800dd70008000a00f9002201f600e200f200f000fa002d016b013b01db0023002300090008000a00fdffedfffcffedffc1ffffff100066ff38000000daffe8fe0200ebfe0000adffffff64ffffff2f00f0ff11002d016b013b01ffff30016501450109000000300165012401450109000a00fdffedfffcfffcff67ff1800bcffffd1100066ff91000000e8fe0400ebfe000064ffffff0d00f0ff1200db05100ce4002201ffffdd001201d100d100d100d100d100d100f200090008000a00d80c1a01f900090000002b0ade00f900f200090008000000d100f200f0006c05e0001b00f200090009000a00",
-            "warnings": 36
+            "textraw": "800d800dd70008000a00f9002201f600e200f200f000fa002d016b013b01db0023002300090008000a00",
+            "warnings": 0
         },
         "speaker": "阪本さん",
         "speaker_translation": "",
-        "text": "弌弌え？\u0000\nなんでこっちにカラスが……！？\u0000\n￣　。　｛カラスギャッ！　ギャアッ！\u0000\n￣　．　阪本さんぎゃああああああっ！？\u0000\n来るな！　突くなっ！？　あっち行け―っ！！\u0000\n",
+        "text": "弌弌え？\u0000\nなんでこっちにカラスが……！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "2d016b013b01",
+            "textraw": "30016501450109000000300165012401450109000a00",
+            "warnings": 0
+        },
+        "speaker": "カラス",
+        "speaker_translation": "",
+        "text": "ギャッ！　ギャアッ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "db05100ce4002201",
+            "textraw": "dd001201d100d100d100d100d100d100f200090008000a00d80c1a01f900090000002b0ade00f900f200090008000000d100f200f0006c05e0001b00f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "阪本さん",
+        "speaker_translation": "",
+        "text": "ぎゃああああああっ！？\u0000\n来るな！　突くなっ！？　あっち行け―っ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -185,12 +250,25 @@
         "id": 19,
         "internal": {
             "speakerraw": "09ff",
-            "textraw": "f9002201ef00d100fd002d016b013b01090008000a00f9002201f600e200fd00690afa004e05be042101090008000a00fdffedfffcffedffc1ffffff100066ff0b000000daffc1ffbf011000ebfe000065ff01002300f0ff140008ffffffde00f20001006f028408db00090008000a002d016b013b01fd00db0901002d0163016b01c103790a2101870afb02e6001301db00f200ee0009000a00",
-            "warnings": 17
+            "textraw": "f9002201ef00d100fd002d016b013b01090008000a00f9002201f600e200fd00690afa004e05be042101090008000a00",
+            "warnings": 0
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "なんだあのカラス！？\u0000\nなんでこの猫に攻撃を！？\u0000\n￣　￣　、…くっ、映像が！？\u0000\nカラスの奴、カメラ機能を破壊しやがった！\u0000\n",
+        "text": "なんだあのカラス！？\u0000\nなんでこの猫に攻撃を！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "08ff",
+            "textraw": "de00f20001006f028408db00090008000a002d016b013b01fd00db0901002d0163016b01c103790a2101870afb02e6001301db00f200ee0009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "くっ、映像が！？\u0000\nカラスの奴、カメラ機能を破壊しやがった！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -354,12 +432,38 @@
         "id": 33,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "6c05de00800d800d09000a00fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700ebfe000065ff05000700f0ff2200170c2b02ffff230023005701570102000a00fdffedfffcfffcffc1ff4f02100066ff84000000daffeefe03000400e8fe0400ebfe000065ff06000d00f0ff2300db05100ce4002201fffff9000100f9002201ef000100410cf900c403970adb00230023002d016b013b01fa00110108000a0098ff0000effe060097ff",
-            "warnings": 33
+            "textraw": "6c05de00800d800d09000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "行く弌弌！\u0000\n．　４・：；　・；麻衣……フフ。\u0000\n宇￣　，．．　：…阪本さんな、なんだ、妙な気配が……カラスにも？\u0000\n　：",
+        "text": "行く弌弌！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "230023005701570102000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "……フフ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "db05100ce4002201",
+            "textraw": "f9000100f9002201ef000100410cf900c403970adb00230023002d016b013b01fa00110108000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "阪本さん",
+        "speaker_translation": "",
+        "text": "な、なんだ、妙な気配が……カラスにも？\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -393,12 +497,38 @@
         "id": 38,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "e2001b01f600ba061e01190109000a00fdffedfffcfffcff66ff38000000daffebfe000065ff0a001e00f0ff27006106fffff20009000a00fdffedfffcfff5ff080067ffffffbcffabd11000c0ff04008b01100019ff03008000800080000a0016fffffff6ff080066ffce00000067ff1300c0ff03008b01040019ff0300ff00ff00ff00780016ffffffdaffc0ff03008b011000ebfe0000adffffffadffffff65ff0b001e00f0ff2800610605005b0bffff23002300230023002300230002000a0098ff0000effe060097ff",
-            "warnings": 54
+            "textraw": "e2001b01f600ba061e01190109000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "これで終わり！\u0000\n　　\u0000\n／鹿っ！\u0000\n？￣．￣，\u0000\n？ｘ　，．，ばばば，￣　／鹿・父………………。\u0000\n　：",
+        "text": "これで終わり！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "っ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "610605005b0b",
+            "textraw": "23002300230023002300230002000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "鹿・父",
+        "speaker_translation": "",
+        "text": "………………。\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -406,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "6106fd003c0d090008000a00fdffedfffcfffcff66ff740000001aff0300000000fe00001e0016ffffffe8fe0200c1ff8b011000ebfe000065ff0d001e00f0ff2a006106ffff4501090008000a00",
-            "warnings": 18
+            "textraw": "6106fd003c0d090008000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "鹿の霊！？\u0000\n　，　　／。￣　／）鹿ッ！？\u0000\n",
+        "text": "鹿の霊！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "4501090008000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "ッ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -497,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "db05100ce4002201",
-            "textraw": "23002300f9002201ef00f200ee002201ef000100d1001901120108000a0098ff0000effe060097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ffd0001000ebfe000065ff15000700f0ff3200170c2b02ffff800d800d0a06b80b070102000a0098ff0000effe0a0097ff",
-            "warnings": 27
+            "textraw": "23002300f9002201ef00f200ee002201ef000100d1001901120108000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "阪本さん",
         "speaker_translation": "",
-        "text": "……なんだったんだ、ありゃ？\u0000\n　：　？ぁ￣　；麻衣弌弌散歩へ。\u0000\n　\u0000\n",
+        "text": "……なんだったんだ、ありゃ？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "800d800d0a06b80b070102000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "弌弌散歩へ。\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -533,15 +689,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 53,
         "internal": {
-            "speakerraw": "1e0016ff",
-            "textraw": "e8fe0300ebfe0100adffffff65ff18000d00f0ff3500db05100ce4002201ffff290023002300aa00a600e600ee00090008002a000a00",
-            "warnings": 10
+            "speakerraw": "db05100ce4002201",
+            "textraw": "290023002300aa00a600e600ee00090008002a000a00",
+            "warnings": 0
         },
-        "speaker": "／",
+        "speaker": "阪本さん",
         "speaker_translation": "",
-        "text": "，、阪本さん（……ＮＪした！？）\u0000\n",
+        "text": "（……ＮＪした！？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +718,25 @@
         "id": 55,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "23002300220108000a00fdffedfffcfffcff66ff51000000edffc1ffffff1000daffe8fe0300ebfe0100adffffff65ff1b000d00f0ff3800db05100ce4002201ffff2900de0cf000ee001b001b00f20009002a000a00",
-            "warnings": 19
+            "textraw": "23002300220108000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "……ん？\u0000\n　￣，、―阪本さん（落ちた――っ！）\u0000\n",
+        "text": "……ん？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "db05100ce4002201",
+            "textraw": "2900de0cf000ee001b001b00f20009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "阪本さん",
+        "speaker_translation": "",
+        "text": "（落ちた――っ！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -601,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "db05100ce4002201",
-            "textraw": "230023000a06b80b01006c05de00da0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffcc001000ebfe0000adffffff65ff1f000700f0ff3c00170c2b02ffff23002300230023002300230002000a00",
-            "warnings": 24
+            "textraw": "230023000a06b80b01006c05de00da0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "阪本さん",
         "speaker_translation": "",
-        "text": "……散歩、行くか。\u0000\n　，　？ｖ￣　；麻衣………………。\u0000\n",
+        "text": "……散歩、行くか。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "………………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -659,45 +841,6 @@
         "speaker": "ｔば，　　",
         "speaker_translation": "",
         "text": "　…／鹿………………。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 65,
-        "internal": {
-            "speakerraw": "db05100ce4002201",
-            "textraw": "800d800d0e0b2201f600f200ee001b001b001b001b001b001b001b001b00f20009000a0098ff0000effe090097ff",
-            "warnings": 3
-        },
-        "speaker": "阪本さん",
-        "speaker_translation": "",
-        "text": "弌弌飛んでった――――――――っ！\u0000\n　！",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 66,
-        "internal": {
-            "speakerraw": "6106",
-            "textraw": "23002300230023002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "鹿",
-        "speaker_translation": "",
-        "text": "………………。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 67,
-        "internal": {
-            "speakerraw": "db05100ce4002201",
-            "textraw": "d7000100d90038081101c203f200f0001201d500fd00da00090008000a00",
-            "warnings": 0
-        },
-        "speaker": "阪本さん",
-        "speaker_translation": "",
-        "text": "え、お前も帰っちゃうのか！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

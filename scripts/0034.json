@@ -211,12 +211,25 @@
         "id": 16,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "e200e200f600390167011b004a01090009000a00fdffedfffcff66ffa6000000fcffedffc1ffffff1000daffbcffff01100066ff61000000ebfe000064ffffff1200f0ff11009a033705ffff090008000a00",
-            "warnings": 19
+            "textraw": "e200e200f600390167011b004a01090009000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "ここでシュ―ト！！\u0000\nＪ　￣圧￣　　関口！？\u0000\n",
+        "text": "ここでシュ―ト！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -497,12 +510,12 @@
         "id": 39,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "f900d10001009a03370502000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "f900d10001009a03370502000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "なあ、関口。\u0000\n．・",
+        "text": "なあ、関口。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1fff1001000ebfe000065ff1c000900f0ff3d00cd084105ffff1301f200000160014f011b003a0165011b00fa003805d300f5001a01170102000a00",
-            "warnings": 22
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？ぢ￣　！大工やっぱマネ―ジャ―に向いてるよ。\u0000\n",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "1301f200000160014f011b003a0165011b00fa003805d300f5001a01170102000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "やっぱマネ―ジャ―に向いてるよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -991,12 +1017,25 @@
         "id": 78,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "23002300d900020b1b01bd0cf600e80002000a0098ff0000effe020097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1fff2001000ebfe000065ff2e000900f0ff4f00cd084105ffff1301f2000001190160014f011b003a0165011b0001001301f200f500de001b01f900d300da0008000a00",
-            "warnings": 23
+            "textraw": "23002300d900020b1b01bd0cf600e80002000a0098ff0000effe020097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "……お疲れ様です。\u0000\n　。　？￣っ￣　！大工やっぱりマネ―ジャ―、やってくれないか？\u0000\n",
+        "text": "……お疲れ様です。\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 79,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "1301f2000001190160014f011b003a0165011b0001001301f200f500de001b01f900d300da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "やっぱりマネ―ジャ―、やってくれないか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1166,6 +1205,19 @@
         "speaker": "関口",
         "speaker_translation": "",
         "text": "はい。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 93,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "2900d300d300fd00090008002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（いいの！？）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

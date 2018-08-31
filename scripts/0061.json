@@ -614,12 +614,12 @@
         "id": 47,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "d100fd002300230002000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "d100fd002300230002000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "あの……。\u0000\n．",
+        "text": "あの……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "23002300d1001b0108000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff11011000ebfe000065ff15000b00f0ff3d00ef0530021208e207ffffec00fd00cb0a9b04f9002201f600e800e000f800230023000a006f0bca03aa09fa0023002300ec00fd002300230002000a00",
-            "warnings": 24
+            "textraw": "23002300d1001b0108000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "……あれ？\u0000\n　，　？￣も￣　桜井先生その髪型なんですけど……\u0000\n風紀的に……その……。\u0000\n",
+        "text": "……あれ？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "ec00fd00cb0a9b04f9002201f600e800e000f800230023000a006f0bca03aa09fa0023002300ec00fd002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "その髪型なんですけど……\u0000\n風紀的に……その……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -926,12 +939,25 @@
         "id": 72,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff0c011000ebfe0100adffffff65ff21000b00f0ff4900ef0530021208e207ffff2900d100f2000100f600110101001101e600c4092a098b0411010a000000cb0a9b04210131091f02e4001b01f5000d074d0bd300ee001801230023002a000a00",
-            "warnings": 23
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？￣ぽ￣、桜井先生（あっ、でも、もし田中君も\u0000\n　髪型を注意されて傷付いたら……）\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "2900d100f2000100f600110101001101e600c4092a098b0411010a000000cb0a9b04210131091f02e4001b01f5000d074d0bd300ee001801230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "（あっ、でも、もし田中君も\u0000\n　髪型を注意されて傷付いたら……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1075,6 +1101,19 @@
         "speaker": "桜井先生",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 85,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

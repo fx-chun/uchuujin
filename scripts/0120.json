@@ -341,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "1208e207",
-            "textraw": "ec001b01e7001201d1005306fd00aa064604db0023060d011a010d01f6000a00cd089907e600de00ba08f200f5001a011701d500fa001b0002000a00fdffedfffcff66ff16000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff090071ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff3200f0ff1b000f092606e207cc0929000f092606e207cc0993002a00ffff2c01450133011b0001009905f902110113011901e800e300e600ee00f90009000a00",
-            "warnings": 43
+            "textraw": "ec001b01e7001201d1005306fd00aa064604db0023060d011a010d01f6000a00cd089907e600de00ba08f200f5001a011701d500fa001b0002000a00",
+            "warnings": 0
         },
         "speaker": "先生",
         "speaker_translation": "",
-        "text": "それじゃあ次の授業が始まるまで\u0000\n大人しく待ってるように―。\u0000\n　？　，、　　ば\u0000\nば！　？　―男子生徒（男子生徒１）オッケ―、今回もやりすごしたな！\u0000\n",
+        "text": "それじゃあ次の授業が始まるまで\u0000\n大人しく待ってるように―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
+            "textraw": "2c01450133011b0001009905f902110113011901e800e300e600ee00f90009000a00",
+            "warnings": 0
+        },
+        "speaker": "男子生徒（男子生徒１）",
+        "speaker_translation": "",
+        "text": "オッケ―、今回もやりすごしたな！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -380,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "d1000100f6001101360299079300920092008702f90009000a0098ff0000effe0b0097fffdff7fff040002ff01ff000032000a00cefff6ff960000fffffe050006000700ebfe000065ff05003200f0ff1f000f092606e207cc0929000f092606e207cc0993002a00ffffe6001601d500db00fc001b00f9001b0002000a00d7001b00f200f7000100d805530bfe0023002300240157016f01fd002a09ef0002000a00",
-            "warnings": 19
+            "textraw": "d1000100f6001101360299079300920092008702f90009000a0098ff0000effe0b0097ff",
+            "warnings": 4
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "あ、でも一人１００円な！\u0000\n　．　\u0000\n４・：；　・男子生徒（男子生徒１）しょうがね―な―。\u0000\nえ―っと、財布は……アフロの中だ。\u0000\n",
+        "text": "あ、でも一人１００円な！\u0000\n　",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
+            "textraw": "e6001601d500db00fc001b00f9001b0002000a00d7001b00f200f7000100d805530bfe0023002300240157016f01fd002a09ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "男子生徒（男子生徒１）",
+        "speaker_translation": "",
+        "text": "しょうがね―な―。\u0000\nえ―っと、財布は……アフロの中だ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +679,25 @@
         "id": 52,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "d700f2000100ba08f500f200f50009000000d900d3000100d9001b001b001b001b00d300090009000a0098ff0000effe060097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffebfe000065ff1b003200f0ff35000f092606e207cc0929000f092606e207cc0993002a00ffffe6001601d500db00fc00d700f9001b0002000a000d010100d300f3001101ae0be80cfa001c061e01ea00f50011011801f200f5001a01e600f90002000a00",
-            "warnings": 21
+            "textraw": "d700f2000100ba08f500f200f50009000000d900d3000100d9001b001b001b001b00d300090009000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "えっ、待てって！　おい、お――――い！！\u0000\n　：　？　―男子生徒（男子生徒１）しょうがねえな―。\u0000\nま、いつも便利に使わせてもらってるしな。\u0000\n",
+        "text": "えっ、待てって！　おい、お――――い！！\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
+            "textraw": "e6001601d500db00fc00d700f9001b0002000a000d010100d300f3001101ae0be80cfa001c061e01ea00f50011011801f200f5001a01e600f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "男子生徒（男子生徒１）",
+        "speaker_translation": "",
+        "text": "しょうがねえな―。\u0000\nま、いつも便利に使わせてもらってるしな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -861,12 +900,25 @@
         "id": 69,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "2401510151015101510151015101010024015101510151015101450109000a0098ff0000effe060097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff54011000ebfe000065ff2c001300f0ff4600c4092a09fffff9001b002201f500f9000200570710095707100902000a00",
-            "warnings": 23
+            "textraw": "2401510151015101510151015101010024015101510151015101450109000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "アハハハハハハ、アハハハハッ！\u0000\n　：　？ヒ￣　田中な―んてな。冗談冗談。\u0000\n",
+        "text": "アハハハハハハ、アハハハハッ！\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "f9001b002201f500f9000200570710095707100902000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "な―んてな。冗談冗談。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1036,6 +1088,19 @@
         "speaker": "先生",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 84,
+        "internal": {
+            "speakerraw": "1208e207",
+            "textraw": "c4092a091b000100ec001b015106f200f500720741026e060d01f600d80c1a011701d500fa001b0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "先生",
+        "speaker_translation": "",
+        "text": "田中―、それ持って職員室まで来るように―。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -120,12 +120,25 @@
         "id": 9,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "230023002300230002000a00fdffedfffcff66ff7a000000daff66ff7b000000daffeffe0700c1ffc2001000ebfe000064ffffff0600f0ff0a002a09a2081208e207ffff23002300d5000f010200e2001b01f600d300d300da0002000a00",
-            "warnings": 16
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　　；ｌ￣　：\u0000\n中村先生……うむ。これでいいか。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "23002300d5000f010200e2001b01f600d300d300da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "……うむ。これでいいか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -198,12 +211,25 @@
         "id": 16,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "230023002300230002000a00fdffedfffcfffcffedffc1ffffff100066ff7b000000daffebfe0000adffffff64ffffff0600f0ff11002a09a2081208e207ffff230023002300230002000a00",
-            "warnings": 18
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n￣　　：中村先生…………。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 17,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -419,12 +445,25 @@
         "id": 34,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "0101f200090008000a00fdffedfffcffedffc1ffffff100066ff15000000daffebfe000064ffffff0a00f0ff23002a09730a6007ffff6c06370de6000d011b00e8000200d100fd000100e200e200da0018010a00db0cfd00c102db008f0be200d7001a012201f600e800e000f800c50221012300230002000a00",
-            "warnings": 14
+            "textraw": "0101f200090008000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "ひっ！？\u0000\n￣　　\u0000\n…中之条失礼しま―す。あの、ここから\u0000\n雷の音が聞こえるんですけど何を……。\u0000\n",
+        "text": "ひっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "6c06370de6000d011b00e8000200d100fd000100e200e200da0018010a00db0cfd00c102db008f0be200d7001a012201f600e800e000f800c50221012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "失礼しま―す。あの、ここから\u0000\n雷の音が聞こえるんですけど何を……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +588,12 @@
         "id": 45,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "090008000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "！？\u0000\n．・",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "060ae1001c0109000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffc0001000ebfe000065ff18000600f0ff3f002a09a2081208e207ffffd3000100d30013010100a20bfa00550bd300f700da000a00ec00d500d300d500e200f700f600fe00f900de00f5002300230002000a00",
-            "warnings": 22
+            "textraw": "060ae1001c0109000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "逃げろ！\u0000\n　，　？ｊ￣　：中村先生い、いや、別に怖いとか\u0000\nそういうことではなくて……。\u0000\n",
+        "text": "逃げろ！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "d3000100d30013010100a20bfa00550bd300f700da000a00ec00d500d300d500e200f700f600fe00f900de00f5002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "い、いや、別に怖いとか\u0000\nそういうことではなくて……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -965,12 +1017,25 @@
         "id": 78,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "de00f20009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffe8fe0400c1ffc5001000ebfe000065ff28000600f0ff4f002a09a2081208e207ffffe2000100550bde00f9002201da00f900d30002000a00f9000100c502f90018010d01ee00560c1801e600f5000e011701d500da0008000a00",
-            "warnings": 20
+            "textraw": "de00f20009000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "くっ！\u0000\n　？．ｏ￣　：中村先生こ、怖くなんかない。\u0000\nな、何ならまた鳴らしてみようか？\u0000\n",
+        "text": "くっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 79,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "e2000100550bde00f9002201da00f900d30002000a00f9000100c502f90018010d01ee00560c1801e600f5000e011701d500da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "こ、怖くなんかない。\u0000\nな、何ならまた鳴らしてみようか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1127,6 +1192,19 @@
         "speaker": "中之条",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 92,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "d100f2002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "あっ……。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

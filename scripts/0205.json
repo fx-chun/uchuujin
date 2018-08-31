@@ -42,12 +42,25 @@
         "id": 3,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "e1000a01f20023002300e20001009905d909fe00230023000a003806db00dd09e4001b011a01f00aef00f200ee0023002300da002300230002000a00fdffedfffcff1aff0300000078ff10010a0016ffffff66ff30000000edffc1ffffff1000c1ff8c011000ebfe000065ff04001e00f0ff04006106ffff57011b002300230057011b002300230002000a00",
-            "warnings": 17
+            "textraw": "e1000a01f20023002300e20001009905d909fe00230023000a003806db00dd09e4001b011a01f00aef00f200ee0023002300da002300230002000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "げほっ……こ、今度は……\u0000\n私が倒される番だった……か……。\u0000\n，　め\u0000\n｝　￣￣　．／．鹿フ―……フ―……。\u0000\n",
+        "text": "げほっ……こ、今度は……\u0000\n私が倒される番だった……か……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "57011b002300230057011b002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "フ―……フ―……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -211,12 +224,25 @@
         "id": 17,
         "internal": {
             "speakerraw": "6106",
-            "textraw": "4501090008000a00fdffedfffcfffcffedffc0ff0400ffff100066ffa5000000e8fe0200ebfe0000adffffff65ff12000300f0ff12000e01d900ffff6908de00b6061e01f900d300f70009000000b6061e01f900d300f70009000000b6061e01f900d300f70009000a00",
-            "warnings": 17
+            "textraw": "4501090008000a00",
+            "warnings": 0
         },
         "speaker": "鹿",
         "speaker_translation": "",
-        "text": "ッ！？\u0000\n．￣Ｉ　。　，みお早く拾わないと！　拾わないと！　拾わないと！\u0000\n",
+        "text": "ッ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "6908de00b6061e01f900d300f70009000000b6061e01f900d300f70009000000b6061e01f900d300f70009000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "早く拾わないと！　拾わないと！　拾わないと！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -224,12 +250,25 @@
         "id": 19,
         "internal": {
             "speakerraw": "6106",
-            "textraw": "2300230023002300230023002300230002000a00fdffedfffcff66ff450000001aff0400000000fe00001e0016ffffffedffc1ffffff1000e8fe0200c0ff040062001000ebfe000065ff14000300f0ff14000e01d900ffff060ae1001a01f90009000a00",
-            "warnings": 21
+            "textraw": "2300230023002300230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "鹿",
         "speaker_translation": "",
-        "text": "……………………。\u0000\n　．　　／￣。．￣　，みお逃げるな！\u0000\n",
+        "text": "……………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "060ae1001a01f90009000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "逃げるな！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -276,12 +315,25 @@
         "id": 24,
         "internal": {
             "speakerraw": "6106",
-            "textraw": "800d800d800d4501090008000a00fdffedfffcfff8ff0800bcffabd11000c8ffffffffff10001fff03000000f0ff00001fff04000000f0ff0000c8ff8c016900100066ff73000000f9ff08001aff0300000078ff00001e001aff04000000680000001e0016ffffffc1ff68001000ebfe000065ff19000300f0ff19000e01d900ffff230023001403e600ee0008000a009008d700ee00fe00e900fd0001003806fd004b016b01360175013b0131016c0167011b002101090008000a00",
-            "warnings": 31
+            "textraw": "800d800d800d4501090008000a00",
+            "warnings": 0
         },
         "speaker": "鹿",
         "speaker_translation": "",
-        "text": "弌弌弌ッ！？\u0000\n？￣￣，　　．　　￣　？，　　／．　　／￣　〆，〆みお……外した？\u0000\n捉えたはずの、私のドラゴンスクリュ―を！？\u0000\n",
+        "text": "弌弌弌ッ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "230023001403e600ee0008000a009008d700ee00fe00e900fd0001003806fd004b016b01360175013b0131016c0167011b002101090008000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "……外した？\u0000\n捉えたはずの、私のドラゴンスクリュ―を！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -302,12 +354,25 @@
         "id": 27,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "1c0229030d01f60023002300e2001b01fe000100ee00ef00fd006106e7001201f900d30008000a00f900180101009905d909fe00100cc403f60009000a00fdffedfffcfffcffedffc0ff0400ffff100066ff74000000daffe8fe0200c1ff8c011000ebfe000065ff1c001e00f0ff1c006106ffff2300230009000a00",
-            "warnings": 19
+            "textraw": "1c0229030d01f60023002300e2001b01fe000100ee00ef00fd006106e7001201f900d30008000a00f900180101009905d909fe00100cc403f60009000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "威嚇まで……これは、ただの鹿じゃない？\u0000\nなら、今度は本気で！\u0000\n．￣　。￣　／鹿……！\u0000\n",
+        "text": "威嚇まで……これは、ただの鹿じゃない？\u0000\nなら、今度は本気で！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "2300230009000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "……！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },

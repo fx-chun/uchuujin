@@ -302,12 +302,25 @@
         "id": 23,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "0900090009000a00fdffedfffcff66ff1e000000edffc0ff0400ffff1000edfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067fffcfffaff01000000f9ff0800e8fe0200c0ff0300db011000ebfe000065ff00002500f0ff18000affffffd500f200090008000a00f9002201ef00e200fd0099079803fe0009000a00",
-            "warnings": 35
+            "textraw": "0900090009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "！！！\u0000\n／　．￣、　？￣／￣、　？。，￣　　うっ！？\u0000\nなんだこの人間は！\u0000\n",
+        "text": "！！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "0aff",
+            "textraw": "d500f200090008000a00f9002201ef00e200fd0099079803fe0009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "うっ！？\u0000\nなんだこの人間は！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -471,12 +484,12 @@
         "id": 37,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "e6000100ec0968020100e2001b01fe003602b4082300230002000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "e6000100ec0968020100e2001b01fe003602b4082300230002000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "し、東雲、これは一体……。\u0000\n．",
+        "text": "し、東雲、これは一体……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -627,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "23002300ef04c403e7001201f900d300da0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe02000400c1ff0a001000ebfe000065ff11000000f0ff3200f900fd00ffffe600010012091801f900d3002201f600e800da0008000a00e200fd00c102fe002c016d0136011b006d01fd00c102f600e800170108000a0098ff0000effe020097ff",
-            "warnings": 23
+            "textraw": "23002300ef04c403e7001201f900d300da0002000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "……元気じゃないか。\u0000\n　？。．\u0000\n￣　　なのし、知らないんですか？\u0000\nこの音はオルゴ―ルの音ですよ？\u0000\n　。",
+        "text": "……元気じゃないか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "e600010012091801f900d3002201f600e800da0008000a00e200fd00c102fe002c016d0136011b006d01fd00c102f600e800170108000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "し、知らないんですか？\u0000\nこの音はオルゴ―ルの音ですよ？\u0000\n　。",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "57014501230023000a00e400d100d9003808ee00f0000100aa06460421019908e0001a01ed0009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff0a001000ebfe000065ff1d000000f0ff3e00f900fd00ffffd7000100d700f200f70023002300f9002201f600e6001601d500fc002300230008000a00",
-            "warnings": 19
+            "textraw": "57014501230023000a00e400d100d9003808ee00f0000100aa06460421019908e0001a01ed0009000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "フッ……\u0000\nさあお前たち、授業を続けるぞ！\u0000\n　？\u0000\n￣　　なのえ、えっと……なんでしょうね……？\u0000\n",
+        "text": "フッ……\u0000\nさあお前たち、授業を続けるぞ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d7000100d700f200f70023002300f9002201f600e6001601d500fc002300230008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "え、えっと……なんでしょうね……？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -880,6 +919,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "じゅ、授業を続ける……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "fe00d300f20002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "はいっ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

@@ -107,12 +107,25 @@
         "id": 8,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "ec002201f9001101fd00090bf200f50009000a00f0001601f200f700fe00d900b909fd00540c730d6505d700ee001801f800d500f900fd00090009000a00fdffedfffcffc0ff0400860010001fff0300000000fe0000c0ff0300e000ff001aff0300000078ff0000780016ffffffebfe000064ffffff0800f0ff0900f105f004ffff04010f0101001301fe001901ec00d500da0002000a00f600fe0099051f052d0157012901f600fd00840ce4051901fe004d05d7001a01f700e6001701d50002000a0098ff0000effe080097ff",
-            "warnings": 21
+            "textraw": "ec002201f9001101fd00090bf200f50009000a00f0001601f200f700fe00d900b909fd00540c730d6505d700ee001801f800d500f900fd00090009000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "そんなもの被って！\u0000\nちょっとはお店の迷惑考えたらどうなの！！\u0000\n．￣，　　，けば，　　　？！笹原ふむ、やはりそうか。\u0000\nでは今後カフェでの役作りは控えるとしよう。\u0000\n　？",
+        "text": "そんなもの被って！\u0000\nちょっとはお店の迷惑考えたらどうなの！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "04010f0101001301fe001901ec00d500da0002000a00f600fe0099051f052d0157012901f600fd00840ce4051901fe004d05d7001a01f700e6001701d50002000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "ふむ、やはりそうか。\u0000\nでは今後カフェでの役作りは控えるとしよう。\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -133,12 +146,25 @@
         "id": 11,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "d500d50023002300f9000100f900eb00010cdb00e2002201f9006e0cfa002300230002000a00fdffedfffcff66ff30000000c9ffffff1000c0ff040084001000ebfe000064ffffff0400f0ff0c000e01e400f700ffffd70009000800000008010100a20b9907090008000a00",
-            "warnings": 14
+            "textraw": "d500d50023002300f9000100f900eb00010cdb00e2002201f9006e0cfa002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "うう……な、なぜ僕がこんな目に……。\u0000\n｝　￣．￣　．みさとえ！？　べ、別人！？\u0000\n",
+        "text": "うう……な、なぜ僕がこんな目に……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "d70009000800000008010100a20b9907090008000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "え！？　べ、別人！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -276,12 +302,25 @@
         "id": 23,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "f600fe000100e400f200ec00de00990741050005fb0321012300230002000a00fdffedfffcfff8ff0800fcffbcffc1011000f9ff0800c1ffb6001000ebfe000064ffffff0500f0ff180053055b091208e207ffff23002300f701c302e600ee00090008000a00f9001801ff000100fe03d300f6003a0b490207014e0d1b01f5006c05dc000d01e6001601d50009000a00",
-            "warnings": 15
+            "textraw": "f600fe000100e400f200ec00de00990741050005fb0321012300230002000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "では、さっそく人工呼吸を……。\u0000\n？￣？Ｚ￣　・校長先生……悪化した！？\u0000\nならば、急いで病院へ連れて行きましょう！\u0000\n",
+        "text": "では、さっそく人工呼吸を……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "23002300f701c302e600ee00090008000a00f9001801ff000100fe03d300f6003a0b490207014e0d1b01f5006c05dc000d01e6001601d50009000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "……悪化した！？\u0000\nならば、急いで病院へ連れて行きましょう！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -601,12 +640,12 @@
         "id": 49,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "090008000a0098ff0000effe080097fffdff7fff040002ff01ff05003200",
-            "warnings": 8
+            "textraw": "090008000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "！？\u0000\n　？．・",
+        "text": "！？\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -809,12 +848,25 @@
         "id": 65,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff84001000ebfe000065ff16000400f0ff42000e01e400f700ffff1e0101003806f700f105f004fd00230023002b0923002300090008000a00",
-            "warnings": 23
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？￣　．みさとわ、私と笹原の……仲……！？\u0000\n",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "1e0101003806f700f105f004fd00230023002b0923002300090008000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "わ、私と笹原の……仲……！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -901,11 +953,11 @@
         "internal": {
             "speakerraw": "0e01d900",
             "textraw": "4f0056006600610048009b0052005300550058002000090008000a00",
-            "warnings": 10
+            "warnings": 9
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "〜！？\u0000\n",
+        "text": "９〜！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1121,12 +1173,25 @@
         "id": 90,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "dc00d700200020002000200020002000200020002000200020002000f2000900090009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffedffc1ffffff1000c1ff40001000ebfe000065ff2f000200f0ff5b001501f200e200ffffd30001001f021403200002000a00f105f0041208960adb00170dd3009907f2000c01d3001701200002000a00",
-            "warnings": 22
+            "textraw": "dc00d700200020002000200020002000200020002000200020002000f2000900090009000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "きえ〜〜〜〜〜〜〜〜〜〜〜〜っ！！！\u0000\n　？￣￣　｛。ゆっこい、意外〜。\u0000\n笹原先輩が良い人っぽいよ〜。\u0000\n",
+        "text": "きえ〜〜〜〜〜〜〜〜〜〜〜〜っ！！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 91,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d30001001f021403200002000a00f105f0041208960adb00170dd3009907f2000c01d3001701200002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "い、意外〜。\u0000\n笹原先輩が良い人っぽいよ〜。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1277,12 +1342,38 @@
         "id": 103,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "2900d100d10023002300f105f0041208960af7002300230009000a0000001e0101001e01ee00e60001001101d50034062201f6001101170dd30020002000f200090009002a000a00fdffedfffcfff8ff080066ff6c000000daffedffc1ffffff1000bcfffd01100066ff6f000000dafff9ff0800faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffee01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800ebfe000065ff3c000200f0ff68001501f200e200ffff23002300d1001b0108000a00",
-            "warnings": 54
+            "textraw": "2900d100d10023002300f105f0041208960af7002300230009000a0000001e0101001e01ee00e60001001101d50034062201f6001101170dd30020002000f200090009002a000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "（ああ……笹原先輩と……！\u0000\n　わ、わたし、もう死んでも良い〜〜っ！！）\u0000\n？　￣鯵￣　？，　？　　，、　　阿ば\u0000\nば　．　？　。ゆっこ……あれ？\u0000\n",
+        "text": "（ああ……笹原先輩と……！\u0000\n　わ、わたし、もう死んでも良い〜〜っ！！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 104,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "23002300d1001b0108000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "……あれ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 105,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "f9000100f900eb0001003806ef00e0002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "な、なぜ、私だけ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

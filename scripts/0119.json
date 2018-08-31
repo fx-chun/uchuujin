@@ -393,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "2900f800d500e6001701d500230023002a000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffaed1ff00c1ff0a00ff00c0ff04005001ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe04000400c0ff040050011000ebfe000065ff08001200f0ff1f009a033705ffffd100fd0001006c0b5b0902000a00c5021301f200f5001a012201f600e800da0008000a00",
-            "warnings": 48
+            "textraw": "2900f800d500e6001701d500230023002a000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "（どうしよう……）\u0000\n．４　\u0000\n・：；？　　，、　　ば\u0000\nば．ノば　？．．．ノ￣　？関口あの、部長。\u0000\n何やってるんですか？\u0000\n",
+        "text": "（どうしよう……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "d100fd0001006c0b5b0902000a00c5021301f200f5001a012201f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "あの、部長。\u0000\n何やってるんですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "fe000100fe00d30002000a00fdffedfffcff1aff04000000000200003c0016ffffff1fff0400000000020000c0ff04005001ff001aff04000000680000003c0016ffffffc1ff50011000ebfe000065ff13001200f0ff2a009a033705ffffe2002201fa00f000fe0001001d09de00f90019010d01e600ee0002000a0023002300f200f500f9002201f6001301fc00220102000a00",
-            "warnings": 21
+            "textraw": "fe000100fe00d30002000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "は、はい。\u0000\n．　斡　．　斡　．ノば．　　ノ￣　）関口こんにちは、遅くなりました。\u0000\n……ってなんでやねん。\u0000\n",
+        "text": "は、はい。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "e2002201fa00f000fe0001001d09de00f90019010d01e600ee0002000a0023002300f200f500f9002201f6001301fc00220102000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "こんにちは、遅くなりました。\u0000\n……ってなんでやねん。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +679,25 @@
         "id": 52,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "f9002201f6001301fc00220102000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffaed1ff00c1ff0a00ff00c1ff5001ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800c1ff50011000ebfe000065ff1e001200f0ff35009a033705ffffd1001b01080000001701de00e504ee0018012300230002000a001301f2000001190101007e07f5001a0102000a0098ff0000effe020097ff",
-            "warnings": 57
+            "textraw": "f9002201f6001301fc00220102000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "なんでやねん。\u0000\n　，　？？　，、　　ば\u0000\nばノば　？ノ￣　／関口あれ？　よく見たら……。\u0000\nやっぱり、寝てる。\u0000\n　。",
+        "text": "なんでやねん。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "d1001b01080000001701de00e504ee0018012300230002000a001301f2000001190101007e07f5001a0102000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "あれ？　よく見たら……。\u0000\nやっぱり、寝てる。\u0000\n　。",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +822,25 @@
         "id": 63,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffaed1ff00c1ff0a00ff00c1ff5001ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800c1ff50011000ebfe0100adffffff65ff29001200f0ff40009a033705ffff2900ec00f200f700e600f500d900e200d500230023002a000a0098ff0000effe020097ff",
-            "warnings": 59
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？？　，、　　ば\u0000\nばノば　？ノ￣、（関口（そっとしておこう……）\u0000\n　。",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "2900ec00f200f700e600f500d900e200d500230023002a000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "（そっとしておこう……）\u0000\n　。",
         "text_translation": "",
         "type": "dialog"
     },
@@ -932,6 +984,19 @@
         "speaker": "大工",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 76,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "46014501350110011701090009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "ツッコめよ！！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

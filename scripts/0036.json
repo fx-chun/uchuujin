@@ -393,12 +393,12 @@
         "id": 30,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "090008000a0098ff0000effe080097fffdff7fff040002ff01ff05003200",
-            "warnings": 8
+            "textraw": "090008000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "！？\u0000\n　？．・",
+        "text": "！？\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "35016e0123002300f800d500e6001701d5002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1100eefe06000400ebfe000065ff10000a00f0ff2a002a09730a6007ffff74071b01f900d300230023001301f20000011901990c3c0dfd000d010d01ef002300230002000a00",
-            "warnings": 19
+            "textraw": "35016e0123002300f800d500e6001701d5002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "コレ……どうしよう……。\u0000\n　？：．　￣\u0000\n）中之条触れない……やっぱり幽霊のままだ……。\u0000\n",
+        "text": "コレ……どうしよう……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "74071b01f900d300230023001301f20000011901990c3c0dfd000d010d01ef002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "触れない……やっぱり幽霊のままだ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -627,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "f8000100f800d500e6001701d5002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe04000400e8fe0400ebfe000065ff18000a00f0ff32002a09730a6007fffff9000100f9002201f500e200f200ee002300230002000a00",
-            "warnings": 24
+            "textraw": "f8000100f800d500e6001701d5002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "ど、どうしよう……。\u0000\n　，　？￣．．．　\u0000\n中之条な、なんてこった……。\u0000\n",
+        "text": "ど、どうしよう……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "f9000100f9002201f500e200f200ee002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "な、なんてこった……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -679,12 +705,25 @@
         "id": 54,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "230023002300230002000a00fdffedfffcfffcffc1ff5e0110001aff03000100000010010a0016ffffff66ff30000000edffc1ffffff100067ff1800effe0200e8fe0200ebfe000065ff1d000a00f0ff37002a09730a6007ffff23002300f70001005b0be4002201f200090008000a00",
-            "warnings": 22
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "…………。\u0000\nボ￣，、　め\u0000\n｝　￣。。　\u0000\n中之条……と、父さんっ！？\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "23002300f70001005b0be4002201f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "……と、父さんっ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -724,6 +763,19 @@
         "speaker": "中之条",
         "speaker_translation": "",
         "text": "（だ、だめだ、\u0000\n　母さんにまで見られるわけには！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d30001006c05f200f500dc000d011b00e800090009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "い、行ってきま―す！！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

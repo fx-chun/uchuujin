@@ -289,12 +289,25 @@
         "id": 22,
         "internal": {
             "speakerraw": "520149012501",
-            "textraw": "2300230071017501450109000a00fdffedfffcffedffc1ffffff100066ff22000000edfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1100faff01000000f9ff0800c1fff6011000ebfe000065ff00002600f0ff17000bfffffff8000100f800d500e600ee002201ef00090008000a00fe03fa00de04db007e081901e006e600ee00ed00090008000a00",
-            "warnings": 34
+            "textraw": "2300230071017501450109000a00",
+            "warnings": 0
         },
         "speaker": "バディ",
         "speaker_translation": "",
-        "text": "……ワンッ！\u0000\n￣　、　？￣／￣、　？穐￣　　ど、どうしたんだ！？\u0000\n急に犬が走り出したぞ！？\u0000\n",
+        "text": "……ワンッ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "0bff",
+            "textraw": "f8000100f800d500e600ee002201ef00090008000a00fe03fa00de04db007e081901e006e600ee00ed00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "ど、どうしたんだ！？\u0000\n急に犬が走り出したぞ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +536,12 @@
         "id": 41,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "5201450123002300da0001006c032d02d300e600f900d300f6001701fc0009000a003806fe0001003806fe0023002300f200090009000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "5201450123002300da0001006c032d02d300e600f900d300f6001701fc0009000a003806fe0001003806fe0023002300f200090009000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "バッ……か、勘違いしないでよね！\u0000\n私は、私は……っ！！\u0000\n．",
+        "text": "バッ……か、勘違いしないでよね！\u0000\n私は、私は……っ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "f900f200090008000000fe00010014031b01ee00090008000a00fdffedfffcffedffc1ffffff100066ff5d000000daff66ffd7000000e8fe0200ebfe000065ff0b003200f0ff2d000f092606e207cc0929000f092606e207cc0993002a00ffffd5001e011b001b001b00090008000a00",
-            "warnings": 18
+            "textraw": "f900f200090008000000fe00010014031b01ee00090008000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "なっ！？　は、外れた！？\u0000\n￣　え　。　男子生徒（男子生徒１）うわ―――！？\u0000\n",
+        "text": "なっ！？　は、外れた！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "0f092606e207cc0929000f092606e207cc0993002a00",
+            "textraw": "d5001e011b001b001b00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "男子生徒（男子生徒１）",
+        "speaker_translation": "",
+        "text": "うわ―――！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +718,25 @@
         "id": 55,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "090008000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff8a001000ebfe000065ff16000400f0ff38000e01e400f700fffff0001601f200f70023002300ec00fd0001006c0b4c03fd004b0dbc06f60001000a009c0621016d091001f0001201f200ee00ef00e000170109000a00",
-            "warnings": 23
+            "textraw": "090008000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "！？\u0000\n　\u0000\n　？￣　．みさとちょっと……その、部活の練習で、\u0000\n手を痛めちゃっただけよ！\u0000\n",
+        "text": "！？\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "f0001601f200f70023002300ec00fd0001006c0b4c03fd004b0dbc06f60001000a009c0621016d091001f0001201f200ee00ef00e000170109000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "ちょっと……その、部活の練習で、\u0000\n手を痛めちゃっただけよ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -835,12 +874,25 @@
         "id": 67,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "230023001906d30bf900d3001e01fc0002000a00e600ff001801de00fe001309db0cf6006c03b10be600f500d100e1001a011e01170102000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff8a001000ebfe000065ff22000400f0ff44000e01e400f700ffff2000200020002000200020002000200020002000f20009000a00",
-            "warnings": 23
+            "textraw": "230023001906d30bf900d3001e01fc0002000a00e600ff001801de00fe001309db0cf6006c03b10be600f500d100e1001a011e01170102000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "……仕方ないわね。\u0000\nしばらくは地雷で勘弁してあげるわよ。\u0000\n　，　？￣　．みさと〜〜〜〜〜〜〜〜〜〜っ！\u0000\n",
+        "text": "……仕方ないわね。\u0000\nしばらくは地雷で勘弁してあげるわよ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "2000200020002000200020002000200020002000f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "〜〜〜〜〜〜〜〜〜〜っ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -848,12 +900,25 @@
         "id": 69,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "d1002201ee00f9002201da000100d1002201ee00f9002201da0023002300f20009000a0098ff000066ff6000000097fffdffedfffcff66ff63000000c9ff62021000effe0600daffc1ff80001000ebfe0000adffffff65ff24000400f0ff46000e01e400f700ffff230023002300230002000a00",
-            "warnings": 22
+            "textraw": "d1002201ee00f9002201da000100d1002201ee00f9002201da0023002300f20009000a0098ff000066ff6000000097ff",
+            "warnings": 4
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "あんたなんか、あんたなんか……っ！\u0000\n　　　浦￣：￣　．みさと…………。\u0000\n",
+        "text": "あんたなんか、あんたなんか……っ！\u0000\n　　",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -900,12 +965,25 @@
         "id": 74,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "2000200020002000200020002000090009000a00fdffedfffcff66ff62000000daff66ff65000000c9ff63021000c1ffe0001000ebfe0000adffffff65ff29000800f0ff4b00f105f004ffff230023002300230002000a00",
-            "warnings": 17
+            "textraw": "2000200020002000200020002000090009000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "〜〜〜〜〜〜〜！！\u0000\n　　瓜￣け￣　（？笹原…………。\u0000\n",
+        "text": "〜〜〜〜〜〜〜！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 75,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -945,6 +1023,19 @@
         "speaker": "みさと",
         "speaker_translation": "",
         "text": "……余計なことなら、言わないで。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 79,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "2300230004010f010100ec001b011101ec00d500ef00f90002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……ふむ、それもそうだな。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

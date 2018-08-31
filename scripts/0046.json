@@ -341,12 +341,12 @@
         "id": 26,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "7a05e0051208e20701001209f200f5001a012201f600e800da00090008000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "7a05e0051208e20701001209f200f5001a012201f600e800da00090008000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "高崎先生、知ってるんですか！？\u0000\n．　４・",
+        "text": "高崎先生、知ってるんですか！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "5101260102000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff16011000ebfe000065ff19000c00f0ff2e007a05e0051208e207ffff540175014a01470ce600da002300230002000a00e2001b01fe001309190afa008f0bdc0096050f01e600da0023002300ec00d500ef0009000a00",
-            "warnings": 22
+            "textraw": "5101260102000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "ハイ。\u0000\n　，　？ょ￣　〆高崎先生ヒント無しか……。\u0000\nこれは地道に聞き込むしか……そうだ！\u0000\n",
+        "text": "ハイ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "540175014a01470ce600da002300230002000a00e2001b01fe001309190afa008f0bdc0096050f01e600da0023002300ec00d500ef0009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "ヒント無しか……。\u0000\nこれは地道に聞き込むしか……そうだ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "23002300d100fd001b0001000005ff001b01ee00fd00f200f500ec001b01ef00e00008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff1a011000ebfe000065ff28000c00f0ff3d007a05e0051208e207ffff23002300120918012201090009000a00ef00db0001009300f300ef00e0001e01da001a01e200f700db00d1001a0102000a00",
-            "warnings": 20
+            "textraw": "23002300d100fd001b0001000005ff001b01ee00fd00f200f500ec001b01ef00e00008000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "……あの―、呼ばれたのってそれだけ？\u0000\n　？る￣　高崎先生……知らん！！\u0000\nだが、１つだけわかることがある。\u0000\n",
+        "text": "……あの―、呼ばれたのってそれだけ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "23002300120918012201090009000a00ef00db0001009300f300ef00e0001e01da001a01e200f700db00d1001a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "……知らん！！\u0000\nだが、１つだけわかることがある。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -880,6 +906,19 @@
         "speaker": "安中",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "d100f20001007a05e005ea002201ea001b001b001b001b00f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "あっ、高崎せんせ――――っ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

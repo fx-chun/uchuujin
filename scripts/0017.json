@@ -458,12 +458,12 @@
         "id": 35,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "2900f800d500e8001a012300230008000000f800d500e8001a0123002300090008002a000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "2900f800d500e8001a012300230008000000f800d500e8001a0123002300090008002a000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "（どうする……？　どうする……！？）\u0000\n．",
+        "text": "（どうする……？　どうする……！？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1400c0ff030073001000ebfe000065ff11000300f0ff33000e01d900ffffd1000100d100fd000100f105f0041208960a01000a00cd084a06f9006f0ddb00d1001a012201f600e80009000a0098ff0000effe080097ff",
-            "warnings": 28
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？，￣　，みおあ、あの、笹原先輩、\u0000\n大事な話があるんです！\u0000\n　？",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "d1000100d100fd000100f105f0041208960a01000a00cd084a06f9006f0ddb00d1001a012201f600e80009000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "あ、あの、笹原先輩、\u0000\n大事な話があるんです！\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -913,12 +926,25 @@
         "id": 71,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "090008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe1000040067ff0c00c1ffe6001000ebfe000065ff26000800f0ff4800f105f004ffff08000000f800d500e600ee000100ab037307db00f701d300ed0002000a00b4085609db00e800df001b012201fd00da0008000a00",
-            "warnings": 22
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "！？\u0000\n　？￣．し￣　？笹原？　どうした、顔色が悪いぞ。\u0000\n体調がすぐれんのか？\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "08000000f800d500e600ee000100ab037307db00f701d300ed0002000a00b4085609db00e800df001b012201fd00da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "？　どうした、顔色が悪いぞ。\u0000\n体調がすぐれんのか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1153,6 +1179,19 @@
         "speaker": "みさと",
         "speaker_translation": "",
         "text": "あ、ちょっと笹原待ちなさい！\u0000\n話はまだ終わってないわよ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 91,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

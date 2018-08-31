@@ -497,12 +497,12 @@
         "id": 38,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "290023002300d1001b0108000000e200fd00d90aa602f200f5001101e600da00e600f500230023002a000a0098ff0000effe080097fffdff7fff040002ff01ff",
-            "warnings": 7
+            "textraw": "290023002300d1001b0108000000e200fd00d90aa602f200f5001101e600da00e600f500230023002a000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "（……あれ？　この反応ってもしかして……）\u0000\n　？．",
+        "text": "（……あれ？　この反応ってもしかして……）\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +692,25 @@
         "id": 53,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "23002300f800d500e6001701d50002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff48011000ebfe000065ff11001100f0ff3600ef053002e907ffffd1001b0023002300ec00d500d300d500e200f700da0002000a00",
-            "warnings": 24
+            "textraw": "23002300f800d500e6001701d50002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "……どうしよう。\u0000\n　，　？￣テ￣　桜井誠あ―……そういうことか。\u0000\n",
+        "text": "……どうしよう。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "d1001b0023002300ec00d500d300d500e200f700da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "あ―……そういうことか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -913,12 +926,25 @@
         "id": 71,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "d700f200090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff45011000ebfe0100adffffff65ff23001100f0ff4800ef053002e907ffff290023002300e2001b01210153079c06de001c06d700ff001101e600da00e600ee0018012a000a00",
-            "warnings": 24
+            "textraw": "d700f200090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "えっ！？\u0000\n　，　？ッ￣、…桜井誠（……これを上手く使えばもしかしたら）\u0000\n",
+        "text": "えっ！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "290023002300e2001b01210153079c06de001c06d700ff001101e600da00e600ee0018012a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（……これを上手く使えばもしかしたら）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1166,6 +1192,19 @@
         "speaker": "関口",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 92,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

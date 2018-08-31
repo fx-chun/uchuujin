@@ -510,12 +510,12 @@
         "id": 39,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "3806fe00ec001b01db0012091901ee00d30002000a002d014d012d016001f700fe000100d300da00f9001a01350cdb00e8001a011101fd00f900fd00da0002000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "3806fe00ec001b01db0012091901ee00d30002000a002d014d012d016001f700fe000100d300da00f9001a01350cdb00e8001a011101fd00f900fd00da0002000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "私はそれが知りたい。\u0000\nカニカマとは、いかなる味がするものなのか。\u0000\n．　４・",
+        "text": "私はそれが知りたい。\u0000\nカニカマとは、いかなる味がするものなのか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +692,25 @@
         "id": 53,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "e600da00e60023002300f70cdc020e01e400f700db00f900230023000a00ec00d500da00230023009907fa00fe001f021403f90036025e0cdb00d1001a01800d800d0a00fdffedfffcff1aff04000000000200001e0016ffffff66ff660000001fff0500000000020000c9ff7702ff001aff05000000f0ff00001e001fff0400000000020000c0ff04008600ff001aff04000000680000003c0016ffffffeffe0600edfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ffedffc1ffffff1000bcfffe011000f6ff0800ebfe0000adffffff65ff12000800f0ff3600f105f004ffff230023002300230002000a00",
-            "warnings": 43
+            "textraw": "e600da00e60023002300f70cdc020e01e400f700db00f900230023000a00ec00d500da00230023009907fa00fe001f021403f90036025e0cdb00d1001a01800d800d0a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "しかし……立花みさとがな……\u0000\nそうか……人には意外な一面がある弌弌\u0000\n．　斡　／　・　斡　穎ば・　　／．　斡　．ば．　　：　ば，．￣梓￣？　？笹原…………。\u0000\n",
+        "text": "しかし……立花みさとがな……\u0000\nそうか……人には意外な一面がある弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +731,38 @@
         "id": 56,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "3806db00ca02f001d300ef00f9002201f50001000a00ec002201f9000100ec002201f9000100ec002201f900200020002000200020002000f200090009000a00fdffedfffcff66ff22000000edffc1ffffff1000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff00e0ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff080066ff8a000000ebfe0000adffffff65ff15000800f0ff3900f105f004ffff230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff86001000ebfe000065ff16000400f0ff3a000e01e400f700ffff32052404fd0032058802f600c2021801f900d300e200f7006505d700f900d300f600170109000a005f04fa06540c730df900fd00170109000a00",
-            "warnings": 73
+            "textraw": "3806db00ca02f001d300ef00f9002201f50001000a00ec002201f9000100ec002201f9000100ec002201f900200020002000200020002000f200090009000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "私が可愛いだなんて、\u0000\nそんな、そんな、そんな〜〜〜〜〜〜っ！！\u0000\n　￣？　　，、　　ば\u0000\nば　？　　？笹原…………。\u0000\n　，　？￣　．みさと公共の公園で下らないこと考えないでよ！\u0000\n近所迷惑なのよ！\u0000\n",
+        "text": "私が可愛いだなんて、\u0000\nそんな、そんな、そんな〜〜〜〜〜〜っ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "32052404fd0032058802f600c2021801f900d300e200f7006505d700f900d300f600170109000a005f04fa06540c730df900fd00170109000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "公共の公園で下らないこと考えないでよ！\u0000\n近所迷惑なのよ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1004,12 +1043,25 @@
         "id": 80,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "0001de00f20002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ff48021000c0ff040036021000ebfe0000adffffff65ff2d002c00f0ff51006b064a06ffff230023002300230002000a00",
-            "warnings": 23
+            "textraw": "0001de00f20002000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "ぱくっ。\u0000\n　？蔭￣．一￣　執事…………。\u0000\n",
+        "text": "ぱくっ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "6b064a06",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "執事",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1114,6 +1166,19 @@
         "speaker": "みさと",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 90,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300f9002201f70011010100fa04d7002201f90002000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……なんとも、言えんな。\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

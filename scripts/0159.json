@@ -393,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "ec00e200fd004e0c02000a00e8000d01fb00db00ec00fd0057012b011b00310121019a06f200f50011011801d700fb00da0008000a00fdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe050006000700c1ffd0001000ebfe000065ff0c000700f0ff1f00170c2b02ffffe2001b0108000a00",
-            "warnings": 17
+            "textraw": "ec00e200fd004e0c02000a00e8000d01fb00db00ec00fd0057012b011b00310121019a06f200f50011011801d700fb00da0008000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "そこの娘。\u0000\nすまぬがそのフォ―クを取ってもらえぬか？\u0000\n．４　・：；ぁ￣　；麻衣これ？\u0000\n",
+        "text": "そこの娘。\u0000\nすまぬがそのフォ―クを取ってもらえぬか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "e2001b0108000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "これ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -419,12 +432,25 @@
         "id": 33,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "e700120101009b02060df900de0002000a0098ff0000effe080097fffdffedfffcffbeff62001000f4ff3c00eefe02000400e8fe020066ff7b000000ebfe000065ff0f000800f0ff2200f105f004ffff090008000a0098ff0000effe060097ff",
-            "warnings": 23
+            "textraw": "e700120101009b02060df900de0002000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "じゃ、遠慮なく。\u0000\n　？￣。．。　　？笹原！？\u0000\n　：",
+        "text": "じゃ、遠慮なく。\u0000\n　？",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "090008000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +549,25 @@
         "id": 42,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "040104012300230023002300860ddc00d9001a011e0102000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffca001000ebfe000065ff18000700f0ff2b00170c2b02fffffe00d30002000a00",
-            "warnings": 22
+            "textraw": "040104012300230023002300860ddc00d9001a011e0102000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "ふふ…………丼きおるわ。\u0000\n　，　？ｔ￣　；麻衣はい。\u0000\n",
+        "text": "ふふ…………丼きおるわ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "fe00d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "はい。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "290023002300380611019905d9091301f200f5000e011701d5002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffeefe0f000400c1ffd0001000ebfe0000adffffff65ff29000700f0ff3c00170c2b02ffff230023002300230002000a00",
-            "warnings": 27
+            "textraw": "290023002300380611019905d9091301f200f5000e011701d5002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "（……私も今度やってみよう）\u0000\n　，　？．ぁ￣　（；麻衣…………。\u0000\n",
+        "text": "（……私も今度やってみよう）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -789,6 +841,19 @@
         "speaker": "笹原",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0401f20023002300da000501dc00d9001a0102000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "ふっ……かぶきおる。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

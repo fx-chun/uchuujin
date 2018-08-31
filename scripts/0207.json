@@ -16,12 +16,25 @@
         "id": 1,
         "internal": {
             "speakerraw": "d900f300dc009400",
-            "textraw": "290bbd0c21013e03e6000d01ea00ee008606fa00fe00600436026d0b2101af0cd7001a0102000a00ec001b01f600fe00290bbd0c0100d900fa04c50c210102000a00fdffedfffcfffcff1aff03000000000200001e0016ffffffedffc1ffffff10001fff0500000000fe0000c9ff3a01ff001aff05000000f0ff00007800adffffffebfe000065ff02001000f0ff02003b0141011b006b01290bffffd1001b002300230002000a00",
-            "warnings": 22
+            "textraw": "290bbd0c21013e03e6000d01ea00ee008606fa00fe00600436026d0b2101af0cd7001a0102000a00ec001b01f600fe00290bbd0c0100d900fa04c50c210102000a00",
+            "warnings": 0
         },
         "speaker": "おつき２",
         "speaker_translation": "",
-        "text": "姫様を楽しませた者には金一封を与える。\u0000\nそれでは姫様、お言葉を。\u0000\n，　斡　／￣・　　ジば・　　　。￣。スタ―ラ姫あ―……。\u0000\n",
+        "text": "姫様を楽しませた者には金一封を与える。\u0000\nそれでは姫様、お言葉を。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "3b0141011b006b01290b",
+            "textraw": "d1001b002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "スタ―ラ姫",
+        "speaker_translation": "",
+        "text": "あ―……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -56,11 +69,11 @@
         "internal": {
             "speakerraw": "d900f300dc009400",
             "textraw": "ec000100ec001b01f600fe00e400f200ec00de0023002300bd05f906fe009b009600f00a09000a00",
-            "warnings": 1
+            "warnings": 0
         },
         "speaker": "おつき２",
         "speaker_translation": "",
-        "text": "そ、それではさっそく……最初は４番！\u0000\n",
+        "text": "そ、それではさっそく……最初は９４番！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -69,11 +82,11 @@
         "internal": {
             "speakerraw": "9b009600f00a",
             "textraw": "fe00d300090000009b009600f00ad300dc000d01e80009000a00",
-            "warnings": 1
+            "warnings": 0
         },
-        "speaker": "４番",
+        "speaker": "９４番",
         "speaker_translation": "",
-        "text": "はい！　４番いきます！\u0000\n",
+        "text": "はい！　９４番いきます！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -95,11 +108,11 @@
         "internal": {
             "speakerraw": "09ff",
             "textraw": "d100d10001006e093c0742013a0165016e01fd009b009600f00a02000a00600436026d0bf600ee00f9000100e2001901120102000a00",
-            "warnings": 1
+            "warnings": 0
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "ああ、通称ダジャレの４番。\u0000\n金一封でたな、こりゃ。\u0000\n",
+        "text": "ああ、通称ダジャレの９４番。\u0000\n金一封でたな、こりゃ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -110,7 +123,7 @@
             "textraw": "ec001b01f600fe00230610010d01e80009000a00",
             "warnings": 0
         },
-        "speaker": "４番",
+        "speaker": "９４番",
         "speaker_translation": "",
         "text": "それでは始めます！\u0000\n",
         "text_translation": "",
@@ -120,12 +133,25 @@
         "id": 10,
         "internal": {
             "speakerraw": "9b009600f00a",
-            "textraw": "0b01f200f00012012201db0001001709fa00de0cf000ee0009000a000b01f200800d800d0a00fdffedfffcfffcff67ffffff66ff04000000f3ff1aff03000100000010010a0016ffffffedffc1ffffff100066ff07000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffcc00ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff0b002500f0ff0b009b009600f00affff800d800df00012011b001b001b001b001b001b001b001b00220109000a00",
-            "warnings": 56
+            "textraw": "0b01f200f00012012201db0001001709fa00de0cf000ee0009000a000b01f200800d800d0a00",
+            "warnings": 0
         },
-        "speaker": "４番",
+        "speaker": "９４番",
         "speaker_translation": "",
-        "text": "ぼっちゃんが、池に落ちた！\u0000\nぼっ弌弌\u0000\n．　，、　め\u0000\n￣；　？　，、　　ｖば\u0000\nば　？。　４番弌弌ちゃ――――――――ん！\u0000\n",
+        "text": "ぼっちゃんが、池に落ちた！\u0000\nぼっ弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "9b009600f00a",
+            "textraw": "800d800df00012011b001b001b001b001b001b001b001b00220109000a00",
+            "warnings": 0
+        },
+        "speaker": "９４番",
+        "speaker_translation": "",
+        "text": "弌弌ちゃ――――――――ん！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -146,12 +172,38 @@
         "id": 13,
         "internal": {
             "speakerraw": "920bc808ee00f000",
-            "textraw": "d700d700d700d700d700d700d700d700090008000a00fdffedfffcfffcffedffc1ffffff1000bcffd8011000c1ff90011000ebfe000065ff0e002000f0ff0e00d900f300dc009400ffff5306020095009a00f00a02000a00fdffedfffcfffcffedffc1ffffff1000bcffdb011000e8fe0400ebfe000065ff0f002400f0ff0f0009ffffffd9000100d900d300090000003203da0095009a00f00afe002300230002000a00",
-            "warnings": 35
+            "textraw": "d700d700d700d700d700d700d700d700090008000a00",
+            "warnings": 0
         },
         "speaker": "兵隊たち",
         "speaker_translation": "",
-        "text": "ええええええええ！？\u0000\n￣￣￣　〜おつき２次。３８番。\u0000\n￣￣．　お、おい！　確か３８番は……。\u0000\n",
+        "text": "ええええええええ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "d900f300dc009400",
+            "textraw": "5306020095009a00f00a02000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき２",
+        "speaker_translation": "",
+        "text": "次。３８番。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "09ff",
+            "textraw": "d9000100d900d300090000003203da0095009a00f00afe002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "お、おい！　確か３８番は……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -198,12 +250,25 @@
         "id": 19,
         "internal": {
             "speakerraw": "d900f300dc009400",
-            "textraw": "95009a00f00a090000006908de00e6001c0102000a00fdffedfffcfffcff1fff0300000000020000c1ff1602ff001aff03000000f0ff00001e0016ffffffc1ff17021000ebfe000065ff14002900f0ff140095009a00f00affff230023001701e60002000a00ec001b01e70012010d01e9000100bc02fd003302f500f500d3001a013c02fd006f0d2101800d800d0a00",
-            "warnings": 17
+            "textraw": "95009a00f00a090000006908de00e6001c0102000a00",
+            "warnings": 0
         },
         "speaker": "おつき２",
         "speaker_translation": "",
-        "text": "３８番！　早くしろ。\u0000\n，　斡　位ば，　　／依￣　（３８番……よし。\u0000\nそれじゃまず、俺の育てている芋の話を弌弌\u0000\n",
+        "text": "３８番！　早くしろ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "95009a00f00a",
+            "textraw": "230023001701e60002000a00ec001b01e70012010d01e9000100bc02fd003302f500f500d3001a013c02fd006f0d2101800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "３８番",
+        "speaker_translation": "",
+        "text": "……よし。\u0000\nそれじゃまず、俺の育てている芋の話を弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -211,12 +276,25 @@
         "id": 21,
         "internal": {
             "speakerraw": "3b0141011b006b01290b",
-            "textraw": "230023003b04350cf900d30002000a00fdffedfffcfffcff66ff04000000f3ff1aff03000100000010010a0016ffffffedffc1ffffff100066ff07000000e8fe0200ebfe000065ff16002900f0ff160095009a00f00affffd1001b001b001b001b001b001b001b001b001b001b0009000a00",
-            "warnings": 20
+            "textraw": "230023003b04350cf900d30002000a00",
+            "warnings": 0
         },
         "speaker": "スタ―ラ姫",
         "speaker_translation": "",
-        "text": "……興味ない。\u0000\n．　，、　め\u0000\n￣；　。　（３８番あ――――――――――！\u0000\n",
+        "text": "……興味ない。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speakerraw": "95009a00f00a",
+            "textraw": "d1001b001b001b001b001b001b001b001b001b001b0009000a00",
+            "warnings": 0
+        },
+        "speaker": "３８番",
+        "speaker_translation": "",
+        "text": "あ――――――――――！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -224,12 +302,25 @@
         "id": 23,
         "internal": {
             "speakerraw": "0cff",
-            "textraw": "66015201260123002300e207d80aca02f900b904f600fe00230023000a002c016e01ee00f0003c0841020100290bfa00800d800d0a00fdffedfffcfffcff66ff04000000f3ff1aff03000100000010010a0016ffffffedffc1ffffff100066ff07000000e8fe0200ebfe000065ff18002700f0ff18000cffffff800d800d3107e4001b011a011b001b001b001b00f20009000a00",
-            "warnings": 22
+            "textraw": "66015201260123002300e207d80aca02f900b904f600fe00230023000a002c016e01ee00f0003c0841020100290bfa00800d800d0a00",
+            "warnings": 0
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "ヤバイ……生半可な芸では……\u0000\nオレたち全員、姫に弌弌\u0000\n．　，、　め\u0000\n￣；　。　弌弌消される――――っ！\u0000\n",
+        "text": "ヤバイ……生半可な芸では……\u0000\nオレたち全員、姫に弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "0cff",
+            "textraw": "800d800d3107e4001b011a011b001b001b001b00f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "弌弌消される――――っ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -393,12 +484,25 @@
         "id": 37,
         "internal": {
             "speakerraw": "6e097a07920b",
-            "textraw": "13090504fa0077051901f500d3001a0109081a0943011b006201fa004e0ddd0c09000a006f02840821016908de000100290bbd0cfd002d0807017f081a012201ef0009000a00fdffedfffcfff8ff0800edffc1ffffff100067fffffff1fef0febcfffd011000f9ff080066ff0f000000aaff0100ff00bcfffe011000aaff00000000f5ff0800bcffff011000f6ff0800ebfe000065ff26002800f0ff260008000800080029009b009900f00a2a00ffff23002300d9001b00d30023002300e504d700f5001a01da002300230002000a00",
-            "warnings": 29
+            "textraw": "13090504fa0077051901f500d3001a0109081a0943011b006201fa004e0ddd0c09000a006f02840821016908de000100290bbd0cfd002d0807017f081a012201ef0009000a00",
+            "warnings": 0
         },
         "speaker": "通信兵",
         "speaker_translation": "",
-        "text": "地球に降りている設置チ―ムに連絡！\u0000\n映像を早く、姫様の船へ送るんだ！\u0000\n？￣鯵￣？　、ば梓￣　　？圧￣？　？？？（７番）……お―い……見えてるか……。\u0000\n",
+        "text": "地球に降りている設置チ―ムに連絡！\u0000\n映像を早く、姫様の船へ送るんだ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "08000800080029009b009900f00a2a00",
+            "textraw": "23002300d9001b00d30023002300e504d700f5001a01da002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "？？？（９７番）",
+        "speaker_translation": "",
+        "text": "……お―い……見えてるか……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -406,12 +510,25 @@
         "id": 39,
         "internal": {
             "speakerraw": "08000800080029009b009900f00a2a00",
-            "textraw": "23002300d700080000000d01ef0008000a002201e70012010100f0001601f200f7005609da0721012300230002000a00fdffedfffcffaaff0100ff00bcffb7011000c1ff25021000aaff0000000067ff0900ebfe000065ff28002800f0ff28009b009900f00affffe2001b01f600f800d500ef0008000000d1000100f000f9000e01fa002c016e019b009900f00a02000a00ec002201f6006e0cfd003808fa006f02f200f5002201fd00db00800d800d0a00",
-            "warnings": 18
+            "textraw": "23002300d700080000000d01ef0008000a002201e70012010100f0001601f200f7005609da0721012300230002000a00",
+            "warnings": 0
         },
-        "speaker": "？？？（７番）",
+        "speaker": "？？？（９７番）",
         "speaker_translation": "",
-        "text": "……え？　まだ？\u0000\nんじゃ、ちょっと調整を……。\u0000\n、ば￣異￣　　！　７番これでどうだ？　あ、ちなみにオレ７番。\u0000\nそんで目の前に映ってんのが弌弌\u0000\n",
+        "text": "……え？　まだ？\u0000\nんじゃ、ちょっと調整を……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "9b009900f00a",
+            "textraw": "e2001b01f600f800d500ef0008000000d1000100f000f9000e01fa002c016e019b009900f00a02000a00ec002201f6006e0cfd003808fa006f02f200f5002201fd00db00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "９７番",
+        "speaker_translation": "",
+        "text": "これでどうだ？　あ、ちなみにオレ９７番。\u0000\nそんで目の前に映ってんのが弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -420,11 +537,11 @@
         "internal": {
             "speakerraw": "9b00f00a",
             "textraw": "fe002000d300090000009b00f00af6001b00e8000200ee00ef00d3000d0113090504f6001b00e80002000a00ec001b01f600fe0001009b00f00a23002300d300dc000d012000e80009000a00",
-            "warnings": 2
+            "warnings": 0
         },
-        "speaker": "番",
+        "speaker": "９番",
         "speaker_translation": "",
-        "text": "は〜い！　番で―す。ただいま地球で―す。\u0000\nそれでは、番……いきま〜す！\u0000\n",
+        "text": "は〜い！　９番で―す。ただいま地球で―す。\u0000\nそれでは、９番……いきま〜す！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -433,11 +550,11 @@
         "internal": {
             "speakerraw": "9b009900f00a",
             "textraw": "bc02ee00f000fd002a011b003b0101006e093c073d01310151016b01fd009b00f00a09000a00600436026d0bf6001a01170120000100e2001901120102000a00",
-            "warnings": 1
+            "warnings": 0
         },
-        "speaker": "７番",
+        "speaker": "９７番",
         "speaker_translation": "",
-        "text": "俺たちのエ―ス、通称セクハラの番！\u0000\n金一封でるよ〜、こりゃ。\u0000\n",
+        "text": "俺たちのエ―ス、通称セクハラの９番！\u0000\n金一封でるよ〜、こりゃ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -461,7 +578,7 @@
             "textraw": "d7001b00230023000d01e900fe0001000a00bc02db003302f500f500d3001a0101003c02fd006f0dda001801800d800d0a00",
             "warnings": 0
         },
-        "speaker": "番",
+        "speaker": "９番",
         "speaker_translation": "",
         "text": "え―……まずは、\u0000\n俺が育てている、芋の話から弌弌\u0000\n",
         "text_translation": "",
@@ -594,6 +711,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "……廊下に立ってます。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "230023000d01ee00a70bf900460c0100e504f0001201f200ee00170102000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "……また変な夢、見ちゃったよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

@@ -16,12 +16,25 @@
         "id": 1,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "5307650c2d016d014101d100ee00190108000a00d3001301010099055a0ae200ec00fe00ce070a033602b00634011b00620121012300230002000a00fdffedfffcffedffc1ffffff10001fff0300000000fe0000c1ffbf0010001aff03000000000200000a00ebfe000064ffffff0900f0ff0200cd084105ffff220108000a0098ff000016ffffff97ff",
-            "warnings": 19
+            "textraw": "5307650c2d016d014101d100ee00190108000a00d3001301010099055a0ae200ec00fe00ce070a033602b00634011b00620121012300230002000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "上毛カルタあたり？\u0000\nいや、今日こそは世界一周ゲ―ムを……。\u0000\n￣，　　ｉ￣，　斡　\u0000\n　！。大工ん？\u0000\n　",
+        "text": "上毛カルタあたり？\u0000\nいや、今日こそは世界一周ゲ―ムを……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "220108000a0098ff000016ffffff97ff",
+            "warnings": 4
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "ん？\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     },
@@ -403,15 +416,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 32,
         "internal": {
-            "speakerraw": "3c0016ff",
-            "textraw": "ebfe000064ffffff0600f0ff20002a09a2081208e207ffff3806f700e600ee00e200f700db0024016e012101ee0b1b011a01f700fe002300230002000a0098ff01001aff0300000000fe00003c0016ffffff97ff0d01f200ee00de00010024016e01db00470cd300f7007203d807e600f900d300fd00fa0002000a00",
-            "warnings": 12
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "3806f700e600ee00e200f700db0024016e012101ee0b1b011a01f700fe002300230002000a0098ff01001aff0300000000fe00003c0016ffffff97ff0d01f200ee00de00010024016e01db00470cd300f7007203d807e600f900d300fd00fa0002000a00",
+            "warnings": 7
         },
-        "speaker": "",
+        "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "　：〜中村先生私としたことがアレを忘れるとは……。\u0000\n、，　　まったく、アレが無いと完成しないのに。\u0000\n",
+        "text": "私としたことがアレを忘れるとは……。\u0000\n、，　　まったく、アレが無いと完成しないのに。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -432,12 +445,25 @@
         "id": 34,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "e600f200da00e6002300230024016e01f200f500c502ef0008000a00800d800df7001901d100d700e9000100c604fd00bd0c2606f6001101e504f5000e011a01da0002000a00fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700eefe16000400c1ff69021000ebfe000065ff08000900f0ff2300cd084105ffffd5001b00220123002300e200fd00370126013c01fd00c604f200f50001000a00520c1801da00fa0099079803c10cef001701f900d00002000a00",
-            "warnings": 17
+            "textraw": "e600f200da00e6002300230024016e01f200f500c502ef0008000a00800d800df7001901d100d700e9000100c604fd00bd0c2606f6001101e504f5000e011a01da0002000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "しっかし……アレって何だ？\u0000\n弌弌とりあえず、穴の様子でも見てみるか。\u0000\n．　４・：；．荏￣　？！…大工う―ん……このサイズの穴って、\u0000\n明らかに人間用だよなぁ。\u0000\n",
+        "text": "しっかし……アレって何だ？\u0000\n弌弌とりあえず、穴の様子でも見てみるか。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "d5001b00220123002300e200fd00370126013c01fd00c604f200f50001000a00520c1801da00fa0099079803c10cef001701f900d00002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "う―ん……このサイズの穴って、\u0000\n明らかに人間用だよなぁ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -666,12 +692,25 @@
         "id": 53,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "640a1b012b02ef001b00f20009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff69021000ebfe000065ff1b000900f0ff3600cd084105ffffd5001b000f012300230002000a00e5041b01ff00e5041a010a01f800e200fd008807e400fe002300230002000a00",
-            "warnings": 21
+            "textraw": "640a1b012b02ef001b00f20009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "濡れ衣だ―っ！\u0000\n　，　？荏￣　―！大工う―む……。\u0000\n見れば見るほどこの深さは……。\u0000\n",
+        "text": "濡れ衣だ―っ！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "d5001b000f012300230002000a00e5041b01ff00e5041a010a01f800e200fd008807e400fe002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "う―む……。\u0000\n見れば見るほどこの深さは……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -835,12 +874,25 @@
         "id": 67,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "2900d30013011b00010019022505370145012d011b0011010a000000ee000d01fa00fe00840cfa00f70cf30011012201ef0009002a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff69021000ebfe000065ff29000900f0ff4400cd084105ffffd500f2001e011b000100e800e100d7008807d300c60402000a00",
-            "warnings": 18
+            "textraw": "2900d30013011b00010019022505370145012d011b0011010a000000ee000d01fa00fe00840cfa00f70cf30011012201ef0009002a000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "（いや―、囲碁サッカ―も\u0000\n　たまには役に立つもんだ！）\u0000\n　？荏￣　（！大工うっわ―、すげえ深い穴。\u0000\n",
+        "text": "（いや―、囲碁サッカ―も\u0000\n　たまには役に立つもんだ！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "d500f2001e011b000100e800e100d7008807d300c60402000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "うっわ―、すげえ深い穴。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -997,6 +1049,19 @@
         "speaker": "中村先生",
         "speaker_translation": "",
         "text": "（逃げろっ！！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "f308da001b0023002300f308da000507e000f500de001b011b0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "誰か―……誰か助けてくれ―。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

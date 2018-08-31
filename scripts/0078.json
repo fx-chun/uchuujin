@@ -185,12 +185,25 @@
         "id": 14,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "cd08770b21019f0d10011a01f9000900090009000a00fdffedfffcfffcffbcffff011000edfffcff66ff3e000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200ebfe000064ffffff0500f0ff0f0053055b091208e207ffff090008000a00",
-            "warnings": 22
+            "textraw": "cd08770b21019f0d10011a01f9000900090009000a00",
+            "warnings": 0
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "大福を仞めるな！！！\u0000\n圧￣　￣，．。　・校長先生！？\u0000\n",
+        "text": "大福を仞めるな！！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -328,12 +341,12 @@
         "id": 26,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "2900ec002201f90001000d01e400da00cd08770bfd00bd05cd08fd00680bb103db000a000000bd05cd08fd00c304c009fa00f900f200f500d3001a01f700fe002300230009002a000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "2900ec002201f90001000d01e400da00cd08770bfd00bd05cd08fd00680bb103db000a000000bd05cd08fd00c304c009fa00f900f200f500d3001a01f700fe002300230009002a000a00",
+            "warnings": 0
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "（そんな、まさか大福の最大の武器が\u0000\n　最大の欠点になっているとは……！）\u0000\n．・",
+        "text": "（そんな、まさか大福の最大の武器が\u0000\n　最大の欠点になっているとは……！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -484,12 +497,25 @@
         "id": 38,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff5e011000ebfe000065ff0f001600f0ff27002a09730a6007e4002201ffffde00f200230023001301fe001901cd08770bfe00cd08770b02000a001309350cf700d300d500d906510cda001801fe00060a1b0118011b01f900d300fd00da002300230002000a00",
-            "warnings": 23
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？ボ￣　中之条さんくっ……やはり大福は大福。\u0000\n地味という宿命からは逃れられないのか……。\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "de00f200230023001301fe001901cd08770bfe00cd08770b02000a001309350cf700d300d500d906510cda001801fe00060a1b0118011b01f900d300fd00da002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "くっ……やはり大福は大福。\u0000\n地味という宿命からは逃れられないのか……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "d3000100170dd300d9005c07e40022010100ef00f200ee0023002300fe00e900ef0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff5e011000ebfe0000adffffff65ff1c001600f0ff34002a09730a6007e4002201ffff230023002300230002000a00",
-            "warnings": 25
+            "textraw": "d3000100170dd300d9005c07e40022010100ef00f200ee0023002300fe00e900ef0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "い、良いお嬢さん、だった……はずだ。\u0000\n　，　？ボ￣　中之条さん…………。\u0000\n",
+        "text": "い、良いお嬢さん、だった……はずだ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -763,6 +802,19 @@
         "speaker": "中之条さん",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "23002300cd08770bfe00470c1d0df9002201ef001c01d500da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "……大福は無力なんだろうか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

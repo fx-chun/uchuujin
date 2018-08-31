@@ -393,12 +393,12 @@
         "id": 30,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "f800d500d300d5004a06f900fd00ef002300230008000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "f800d500d300d5004a06f900fd00ef002300230008000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "どういう事なのだ……？\u0000\n．",
+        "text": "どういう事なのだ……？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +549,25 @@
         "id": 42,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "230023000d010100610be000ee0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffe6001000ebfe000065ff11000800f0ff2b00f105f004ffff23002300ec00d500da0002000a001908fd00470c1f02350ce40021010c08dc00fa00d80cee00fd00ef00f90002000a0098ff0000effe0700eefe1100040097ff",
-            "warnings": 27
+            "textraw": "230023000d010100610be000ee0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "……ま、負けた。\u0000\n　，　？し￣　？笹原……そうか。\u0000\n戦の無意味さを説きに来たのだな。\u0000\n　；．",
+        "text": "……ま、負けた。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300ec00d500da0002000a001908fd00470c1f02350ce40021010c08dc00fa00d80cee00fd00ef00f90002000a0098ff0000effe0700eefe1100040097ff",
+            "warnings": 5
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……そうか。\u0000\n戦の無意味さを説きに来たのだな。\u0000\n　；．",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +731,25 @@
         "id": 56,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "ee000100ee000d01ee000d01240175014101fd002506db000a00e504d700ee00ef00e000f9002201ef00da0018010900090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffe6001000ebfe000065ff1f000800f0ff3900f105f004ffff23002300f7001901ee00f500c403fa00e8001a01240bc70c1101470cd300da0002000a009905fe00e200fd001908fd006c05d30b2101e5042d0ae000fc00ff0002000a00",
-            "warnings": 22
+            "textraw": "ee000100ee000d01ee000d01240175014101fd002506db000a00e504d700ee00ef00e000f9002201ef00da0018010900090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "た、たまたまアンタの姿が\u0000\n見えただけなんだから！！！\u0000\n　，　？し￣　？笹原……とりたて気にする必要も無いか。\u0000\n今はこの戦の行方を見届けねば。\u0000\n",
+        "text": "た、たまたまアンタの姿が\u0000\n見えただけなんだから！！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300f7001901ee00f500c403fa00e8001a01240bc70c1101470cd300da0002000a009905fe00e200fd001908fd006c05d30b2101e5042d0ae000fc00ff0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……とりたて気にする必要も無いか。\u0000\n今はこの戦の行方を見届けねば。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -880,6 +906,19 @@
         "speaker": "みさと",
         "speaker_translation": "",
         "text": "…………。\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

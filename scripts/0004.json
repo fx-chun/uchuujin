@@ -42,12 +42,25 @@
         "id": 3,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "e006f500dc00f0001201f200ee002201ef00e6001906d30bf900d300da0002000a006908de009f0ad300800bc7050d01ea00f500c2031c01d50002000a00fdffedfffcffedffc1ffffff100067ff10001fff0300000000020000c1ff6a01ff001aff03000000f0ff00001e00ebfe000064ffffff1800f0ff04000e01d9002406fffff9001b00fd001b00f0001201220109000a00",
-            "warnings": 17
+            "textraw": "e006f500dc00f0001201f200ee002201ef00e6001906d30bf900d300da0002000a006908de009f0ad300800bc7050d01ea00f500c2031c01d50002000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "出てきちゃったんだし仕方ないか。\u0000\n早く買い物済ませて帰ろう。\u0000\n￣￣，　斡　ヨば，　　／　．みお姉な―の―ちゃん！\u0000\n",
+        "text": "出てきちゃったんだし仕方ないか。\u0000\n早く買い物済ませて帰ろう。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "f9001b00fd001b00f0001201220109000a00",
+            "warnings": 0
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "な―の―ちゃん！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -302,12 +315,25 @@
         "id": 24,
         "internal": {
             "speakerraw": "0e01d9002406",
-            "textraw": "1701d300e6001601f200f70002000a00fdffedfffcffedffc1ffffff100066ff7800000067ffffffdaffe8fe0200c9ff5802100066ff7b000000ebfe000064ffffff0000f0ff1900f900fd00ffff090008000a00",
-            "warnings": 20
+            "textraw": "1701d300e6001601f200f70002000a00",
+            "warnings": 0
         },
         "speaker": "みお姉",
         "speaker_translation": "",
-        "text": "よいしょっと。\u0000\n￣　。碓￣　　　〆なの！？\u0000\n",
+        "text": "よいしょっと。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -406,12 +432,12 @@
         "id": 33,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "090008000a0098ff0000effe030097fffdff7fff040002ff01ff",
-            "warnings": 7
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，．",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +614,25 @@
         "id": 47,
         "internal": {
             "speakerraw": "0e01d9002406",
-            "textraw": "d1000100ec001c01ec001c01c2031801f900dc00120102000a000d01ee00fc000100f900fd00f0001201220102000a00fdffedfffcff1aff04000000000200003c0016ffffffe8fe0200c1ff04001000ebfe000065ff10000000f0ff3000f900fd00ffffd100d100d100d100d100d100d1002300230002000a00",
-            "warnings": 13
+            "textraw": "d1000100ec001c01ec001c01c2031801f900dc00120102000a000d01ee00fc000100f900fd00f0001201220102000a00",
+            "warnings": 0
         },
         "speaker": "みお姉",
         "speaker_translation": "",
-        "text": "あ、そろそろ帰らなきゃ。\u0000\nまたね、なのちゃん。\u0000\n．　斡　。．￣　￣　｝なのあああああああ……。\u0000\n",
+        "text": "あ、そろそろ帰らなきゃ。\u0000\nまたね、なのちゃん。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d100d100d100d100d100d100d1002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "あああああああ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -614,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "fb00da00b00302012300230009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe15000400c1ff07001000ebfe000065ff13000000f0ff3300f900fd00ffffd1000100d100fd000100f800d500e600f5000d01ee00f300e000ee002201f600e800da0008000a00",
-            "warnings": 22
+            "textraw": "fb00da00b00302012300230009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "ぬか喜び……！\u0000\n　？￣．；￣　　なのあ、あの、どうしてまたつけたんですか？\u0000\n",
+        "text": "ぬか喜び……！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d1000100d100fd000100f800d500e600f5000d01ee00f300e000ee002201f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "あ、あの、どうしてまたつけたんですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +835,25 @@
         "id": 64,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "090008000a002705160cc302e4001b01ee00090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe1500040067ff1000c1ff0a001000ebfe000065ff21000000f0ff4100f900fd00ffffd100fd000100f800d500e600f5000d01ee000a00de00f200f300e000ee002201f600e6001601d500da0008000a00",
-            "warnings": 25
+            "textraw": "090008000a002705160cc302e4001b01ee00090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "！？\u0000\n誤魔化された！？\u0000\n　，　？．￣\u0000\n￣　　なのあの、どうしてまた\u0000\nくっつけたんでしょうか？\u0000\n",
+        "text": "！？\u0000\n誤魔化された！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d100fd000100f800d500e600f5000d01ee000a00de00f200f300e000ee002201f600e6001601d500da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "あの、どうしてまた\u0000\nくっつけたんでしょうか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -893,6 +958,19 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "0e01d9002406",
+            "textraw": "1701d300e6001601f20002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "みお姉",
+        "speaker_translation": "",
+        "text": "よいしょっ。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

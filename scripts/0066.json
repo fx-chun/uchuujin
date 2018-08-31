@@ -185,12 +185,38 @@
         "id": 14,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "23002300d1001b0001001101d500f200090009000a00fdffedfffcfffcffedffc1ffffff100066ffa6000000dafffaff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa8d1ff00c1ff0a00ff00c1ffb300ff0090ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800e8fe0200c1ffb9001000ebfe000064ffffff0500f0ff0f0053055b091208e207ffff090008000a00fdffedfffcfffcff66ffa80000001aff03000100000010010a0016ffffff66ff30000000edffc1ffffff1000daffc0ff040047011000ebfe000064ffffff1100f0ff1000ef053002e907ffffd100230023001301f200f0001201f200ee0002000a00",
-            "warnings": 70
+            "textraw": "23002300d1001b0001001101d500f200090009000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "……あ―、もうっ！！\u0000\n￣Ｊ　，　？　　，、　　ば\u0000\nばＷば　．　？。ｃ￣　・校長先生！？\u0000\nＬ　，、　め\u0000\n｝　￣．ヅ￣　￣桜井誠あ……やっちゃった。\u0000\n",
+        "text": "……あ―、もうっ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "d100230023001301f200f0001201f200ee0002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "あ……やっちゃった。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -315,12 +341,12 @@
         "id": 26,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "2900c502f700da00e600f5001208e20721010c081e0ae600f900d300f700230023002a000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "2900c502f700da00e600f5001208e20721010c081e0ae600f900d300f700230023002a000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "（何とかして先生を説得しないと……）\u0000\n．・",
+        "text": "（何とかして先生を説得しないと……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -614,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "6c0b5b091b001b001b001b00f20009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1700e8fe020066ff89000000c1ff17011000ebfe000065ff1a000c00f0ff32007a05e0051208e207ffff23002300090009000a00",
-            "warnings": 28
+            "textraw": "6c0b5b091b001b001b001b00f20009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "部長――――っ！\u0000\n　，　？。　よ￣　高崎先生……！！\u0000\n",
+        "text": "部長――――っ！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "23002300090009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "……！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -822,12 +861,25 @@
         "id": 66,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "290023002300f0001601f200f7004c0b0c02ef00e000f8002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff49011000ebfe000065ff2b001100f0ff4300ef053002e907ffff1208e2070100f800d500e600f5001101d900ac03d300f600dc000d01ea002201da0008000a00",
-            "warnings": 23
+            "textraw": "290023002300f0001601f200f7004c0b0c02ef00e000f8002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "（……ちょっと不安だけど）\u0000\n　，　？デ￣　桜井誠先生、どうしてもお願いできませんか？\u0000\n",
+        "text": "（……ちょっと不安だけど）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "1208e2070100f800d500e600f5001101d900ac03d300f600dc000d01ea002201da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "先生、どうしてもお願いできませんか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -997,6 +1049,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "1e0101001e01da00f200ee002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "わ、わかった……。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -406,12 +406,12 @@
         "id": 31,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "60013a01f600090008000a009a0337050100f0001601f200f700d900da00e9002c057b03e6001701d500eb00090008000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "60013a01f600090008000a009a0337050100f0001601f200f700d900da00e9002c057b03e6001701d500eb00090008000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "マジで！？\u0000\n関口、ちょっとおかず交換しようぜ！？\u0000\n．・",
+        "text": "マジで！？\u0000\n関口、ちょっとおかず交換しようぜ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +705,25 @@
         "id": 54,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "290042016301ef0023002300e2001b01fe000100060ae10018011b01f900e400ec00d5002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff4e011000ebfe000065ff1c001200f0ff37009a033705ffffd300d300f600e800170102000a00",
-            "warnings": 23
+            "textraw": "290042016301ef0023002300e2001b01fe000100060ae10018011b01f900e400ec00d5002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "（ダメだ……これは、逃げられなさそう）\u0000\n　，　？ヌ￣　関口いいですよ。\u0000\n",
+        "text": "（ダメだ……これは、逃げられなさそう）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "d300d300f600e800170102000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "いいですよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -926,12 +939,25 @@
         "id": 72,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "230023001701010017011c01e600de0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff4e011000ebfe000065ff2e001200f0ff49009a033705ffff42016301f600e80002000a00",
-            "warnings": 24
+            "textraw": "230023001701010017011c01e600de0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "……よ、よろしく。\u0000\n　，　？￣ヌ￣　関口ダメです。\u0000\n",
+        "text": "……よ、よろしく。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "42016301f600e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "ダメです。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1127,6 +1153,19 @@
         "speaker": "大工",
         "speaker_translation": "",
         "text": "別料金！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 89,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "2d02d3000d01e80002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "違います。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

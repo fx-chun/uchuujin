@@ -68,12 +68,25 @@
         "id": 5,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "fe00da00ea0001000d01ee00d900da00e6003c086c0b75070801ee002201f600e800da00090008000a00ef0ae300ed0ace0adc00f600e80009000a00fdffedfffcffb7ff1000f5ff0800edffc1ffffff1000b6fff6ff080066ff7c000000c1ff37001000ebfe000064ffffff0100f0ff0600fe00da00ea00ffff230023002300230009000a00",
-            "warnings": 19
+            "textraw": "fe00da00ea0001000d01ee00d900da00e6003c086c0b75070801ee002201f600e800da00090008000a00ef0ae300ed0ace0adc00f600e80009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "はかせ、またおかし全部食べたんですか！？\u0000\n晩ご飯抜きです！\u0000\n￣？￣？　￣　、：はかせ…………！\u0000\n",
+        "text": "はかせ、またおかし全部食べたんですか！？\u0000\n晩ご飯抜きです！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "230023002300230009000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "…………！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -328,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "f8002201f900800bfa00e6001701d500da00f900d0002300230002000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700eefe02000400c1ff33001000ebfe000065ff04000100f0ff1b00fe00da00ea00ffff4301690135019b04fd005e01410175012101e405f200f5000a00f900fd00db0075070801ee00180101007f0ddb000e0b05017d081a09f700da0009000a0098ff0000effe010097ff",
-            "warnings": 19
+            "textraw": "f8002201f900800bfa00e6001701d500da00f900d0002300230002000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "どんな物にしようかなぁ……。\u0000\n．４　\u0000\n・：；。．￣　．、―はかせチョコ型のボタンを作って\u0000\nなのが食べたら、腕が飛ぶ装置とか！\u0000\n　、",
+        "text": "どんな物にしようかなぁ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "4301690135019b04fd005e01410175012101e405f200f5000a00f900fd00db0075070801ee00180101007f0ddb000e0b05017d081a09f700da0009000a0098ff0000effe010097ff",
+            "warnings": 3
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "チョコ型のボタンを作って\u0000\nなのが食べたら、腕が飛ぶ装置とか！\u0000\n　、",
         "text_translation": "",
         "type": "dialog"
     },
@@ -406,12 +432,25 @@
         "id": 33,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "090008000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe16000400c1ff29001000ebfe000065ff0b000100f0ff2200fe00da00ea00ffff0201f200de001901bc0a0e01ee00d300fa00e8001b01ff000100f900fd00db000f03e000ee00e606980301000a004104d300f50090052101ce0ada00e800ed0002000a00",
-            "warnings": 24
+            "textraw": "090008000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "！？\u0000\n　\u0000\n　？．（￣　、はかせびっくり箱みたいにすれば、なのが開けた瞬間、\u0000\n驚いて腰を抜かすぞ。\u0000\n",
+        "text": "！？\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "0201f200de001901bc0a0e01ee00d300fa00e8001b01ff000100f900fd00db000f03e000ee00e606980301000a004104d300f50090052101ce0ada00e800ed0002000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "びっくり箱みたいにすれば、なのが開けた瞬間、\u0000\n驚いて腰を抜かすぞ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -419,12 +458,38 @@
         "id": 35,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "ec00e600ee001801f900fd00fe00800d800d0a00fdffedfffcffb7ff1000f5ff0800edffc1ffffff1000b6fff6ff0800e8fe0200c1ff06001000ebfe000065ff0d000000f0ff2400f900fd00ffff1e01f2000900080000005501450131016c01e600ee0009000a001101d500090000004104da00ea00f900d300f600de00ef00e400d30009000a00fdffedfffcffb7ff1000f5ff0800edffc1ffffff1000b6fff6ff0800c1ff2b001000ebfe000065ff0e000100f0ff2500fe00da00ea00ffff0601060106010200dc091a01f900fd00fd002506db000a0063088408f600dc00f0001201d50002000a00",
-            "warnings": 36
+            "textraw": "ec00e600ee001801f900fd00fe00800d800d0a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "そしたらなのは弌弌\u0000\n￣？￣？。：￣　　なのわっ！？　ビックリした！\u0000\nもう！　驚かせないでください！\u0000\n￣？￣？￣　、はかせぷぷぷ。怒るなのの姿が\u0000\n想像できちゃう。\u0000\n",
+        "text": "そしたらなのは弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "1e01f2000900080000005501450131016c01e600ee0009000a001101d500090000004104da00ea00f900d300f600de00ef00e400d30009000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "わっ！？　ビックリした！\u0000\nもう！　驚かせないでください！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "0601060106010200dc091a01f900fd00fd002506db000a0063088408f600dc00f0001201d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "ぷぷぷ。怒るなのの姿が\u0000\n想像できちゃう。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -458,12 +523,25 @@
         "id": 40,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "ec00d500ef0001007507080118011b01f900d300e000f80078037407db003e03e60010011a010a00d900da00e6002101c10c1f02e600ee001801800d800d0a00fdffedfffcffb7ff1000f5ff0800edffc1ffffff1000b6fff6ff0800c1ff07001000ebfe000065ff12000000f0ff2900f900fd00ffff1e01f2000100e200fd00d900da00e6005e0cae0ad30002000a00fe00da00ea00fd00c90a520cf600e800da0008000a00",
-            "warnings": 16
+            "textraw": "ec00d500ef0001007507080118011b01f900d300e000f80078037407db003e03e60010011a010a00d900da00e6002101c10c1f02e600ee001801800d800d0a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "そうだ、食べられないけど感触が楽しめる\u0000\nおかしを用意したら弌弌\u0000\n￣？￣？；￣　　（なのわっ、このおかし面白い。\u0000\nはかせの発明ですか？\u0000\n",
+        "text": "そうだ、食べられないけど感触が楽しめる\u0000\nおかしを用意したら弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "1e01f2000100e200fd00d900da00e6005e0cae0ad30002000a00fe00da00ea00fd00c90a520cf600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "わっ、このおかし面白い。\u0000\nはかせの発明ですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -510,12 +588,38 @@
         "id": 45,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "d100f200090000000d01ee00e2002201f900fa00d900da00e60075070801f50009000a00fe00da00ea00fd00ef0ae300ed0afe00ce0adc00f600e80009000a00fdffedfffcffb7ff1000f5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffe701ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffffb6ffedfff6ff0800ebfe000065ff17000100f0ff2e00fe00da00ea00ffffd1001b011b001b00090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff2e001000ebfe000065ff18000100f0ff2f00fe00da00ea00ffff23002300f60011010100f900fd00fe005e0cae0ad300c103790a2101e504f50011010a002705160cc302e4001b01f900d300da00110102000a00",
-            "warnings": 63
+            "textraw": "d100f200090000000d01ee00e2002201f900fa00d900da00e60075070801f50009000a00fe00da00ea00fd00ef0ae300ed0afe00ce0adc00f600e80009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "あっ！　またこんなにおかし食べて！\u0000\nはかせの晩ご飯は抜きです！\u0000\n￣？　　，、　　ば\u0000\nば　？　、はかせあれ――！？\u0000\n　，　？￣　、｛はかせ……でも、なのは面白い機能を見ても\u0000\n誤魔化されないかも。\u0000\n",
+        "text": "あっ！　またこんなにおかし食べて！\u0000\nはかせの晩ご飯は抜きです！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "d1001b011b001b00090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "あれ――！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "23002300f60011010100f900fd00fe005e0cae0ad300c103790a2101e504f50011010a002705160cc302e4001b01f900d300da00110102000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "……でも、なのは面白い機能を見ても\u0000\n誤魔化されないかも。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -594,6 +698,19 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "あっ！　はかせ、またゴミ散らかして！\u0000\nしかもおかし全部食べてるじゃないですか！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "ff001b01ee00090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "ばれた！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

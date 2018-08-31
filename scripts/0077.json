@@ -614,12 +614,12 @@
         "id": 47,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "290060013c01d300090000000d0b5d07fa0060013c01d30009000a0000006908de00c502f700da00e600f900e0001b01ff0023002300090009002a000a0098ff0000effe080097fffdff7fff040002ff01ff0000960005003200",
-            "warnings": 8
+            "textraw": "290060013c01d300090000000d0b5d07fa0060013c01d30009000a0000006908de00c502f700da00e600f900e0001b01ff0023002300090009002a000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "（マズい！　非常にマズい！\u0000\n　早く何とかしなければ……！！）\u0000\n　？．　４・",
+        "text": "（マズい！　非常にマズい！\u0000\n　早く何とかしなければ……！！）\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -744,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "ef00da0018010a01180101000801d70020000801d7000801d7000801d70002000a00e200f200f000fa00d900d300f6000200670bf600670bf600e600f500d100e1001a011701200002000a00fdffedfffcff1aff04000000540000003c0016ffffffc1ff8b011000ebfe0000adff040065ff0e001e00f0ff3a006106ffff23002300230023002300230002000a00",
-            "warnings": 16
+            "textraw": "ef00da0018010a01180101000801d70020000801d7000801d7000801d70002000a00e200f200f000fa00d900d300f6000200670bf600670bf600e600f500d100e1001a011701200002000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "だからほら、べえ〜べえべえべえ。\u0000\nこっちにおいで。撫で撫でしてあげるよ〜。\u0000\n．　＆　￣　．／鹿………………。\u0000\n",
+        "text": "だからほら、べえ〜べえべえべえ。\u0000\nこっちにおいで。撫で撫でしてあげるよ〜。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "………………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -874,12 +887,25 @@
         "id": 68,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "d500d100d100d100d100d100d100d100f2000900090008000a0098ff000066ff89000000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff5b011000ebfe0100adffffff65ff19001500f0ff450033040a0a1208e207ffff290023002300fa05c403f70cf200f500fe00ef001001ef0002000e0a800bfe00c403970a2101270a0f0102000a000000de0cf0002909e00023002300de0cf0002909de002201ef002a000a00",
-            "warnings": 26
+            "textraw": "d500d100d100d100d100d100d100d100f2000900090008000a0098ff000066ff89000000effe030097ff",
+            "warnings": 5
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "うあああああああっ！！？\u0000\n　　，　？ベ￣、〆教頭先生（……殺気立ってはだめだ。動物は気配を読む。\u0000\n　落ち着け……落ち着くんだ）\u0000\n",
+        "text": "うあああああああっ！！？\u0000\n　　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "290023002300fa05c403f70cf200f500fe00ef001001ef0002000e0a800bfe00c403970a2101270a0f0102000a000000de0cf0002909e00023002300de0cf0002909de002201ef002a000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "（……殺気立ってはだめだ。動物は気配を読む。\u0000\n　落ち着け……落ち着くんだ）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1069,12 +1095,25 @@
         "id": 84,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "dd001201d100d100d100d1001b001b00090008000a0098ff000066ff8900000097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffafff03000300eefe10000400c1ff5a011000ebfe0100adffffff65ff29001500f0ff550033040a0a1208e207ffff2900230023006e0c21017f051e01ea00f900d30002000a000000ec00d500e600ee0018010e0a800bfe00c106f200f500e200f900d300fe00e900230023002a000a0098ff0000effe070097ff",
-            "warnings": 30
+            "textraw": "dd001201d100d100d100d1001b001b00090008000a0098ff000066ff8900000097ff",
+            "warnings": 4
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "ぎゃああああ――！？\u0000\n　　　？，，￣．ヘ￣、（教頭先生（……目を合わせない。\u0000\n　そうしたら動物は襲ってこないはず……）\u0000\n　；",
+        "text": "ぎゃああああ――！？\u0000\n　　",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 85,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "2900230023006e0c21017f051e01ea00f900d30002000a000000ec00d500e600ee0018010e0a800bfe00c106f200f500e200f900d300fe00e900230023002a000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "（……目を合わせない。\u0000\n　そうしたら動物は襲ってこないはず……）\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1264,12 +1303,38 @@
         "id": 100,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "290099050d01f600fd006a04570ddb00cc08470ce600ef001b001b0009002a000a00fdffedfffcffbeffb6001000ebfe000065ff39001e00f0ff65006106ffff2300230045012300230045012300230045012300230045012300230009000a0098ff0000effe080097ff",
-            "warnings": 13
+            "textraw": "290099050d01f600fd006a04570ddb00cc08470ce600ef001b001b0009002a000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "（今までの苦労が台無しだ――！）\u0000\nＺ￣　／鹿……ッ……ッ……ッ……ッ……！\u0000\n　？",
+        "text": "（今までの苦労が台無しだ――！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 101,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "2300230045012300230045012300230045012300230045012300230009000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "……ッ……ッ……ッ……ッ……！\u0000\n　？",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 102,
+        "internal": {
+            "speakerraw": "53055b091208e207540033040a0a1208e207",
+            "textraw": "dd001201d100d100d100d100d100d100d1000900090009000a0098ff000066ff89000000effe030097ff",
+            "warnings": 5
+        },
+        "speaker": "校長先生＆教頭先生",
+        "speaker_translation": "",
+        "text": "ぎゃあああああああ！！！\u0000\n　　，",
         "text_translation": "",
         "type": "dialog"
     }

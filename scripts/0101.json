@@ -341,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "800d800d7a05e0051208e20709000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe05000600070067ff1800e8fe0200c0ff030017011000ebfe000065ff05000c00f0ff1b007a05e0051208e207ffff0d01ee00da00f200090008000a00",
-            "warnings": 18
+            "textraw": "800d800d7a05e0051208e20709000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "弌弌高崎先生！\u0000\n．４　\u0000\n・：；。，よ￣　・―高崎先生またかっ！？\u0000\n",
+        "text": "弌弌高崎先生！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "0d01ee00da00f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "またかっ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -471,12 +484,25 @@
         "id": 37,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "f800e200fa00090008000a0098ff0000effe030097fffdffedfffcff66ff1e0000001aff03000000000200000a0016ffffffedffc0ff0300ffff1000e8fe0200c1fff3001000ebfe000065ff10000900f0ff2600cd084105ffffd100f2000100f0001601f200090008000a007a05e0051208e2071b00090008000a00",
-            "warnings": 20
+            "textraw": "f800e200fa00090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "どこに！？\u0000\n　，／　，　斡　\u0000\n，￣。つ￣　￣！大工あっ、ちょっ！？\u0000\n高崎先生―！？\u0000\n",
+        "text": "どこに！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "d100f2000100f0001601f200090008000a007a05e0051208e2071b00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "あっ、ちょっ！？\u0000\n高崎先生―！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -484,12 +510,25 @@
         "id": 39,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "23002300f9002201ef00f200ee002201ef0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc0ff030012011000ebfe000065ff12000c00f0ff28007a05e0051208e207ffff22010100d100d1000100cd084105da0002000a00f800d500e600ee002201ef0008000a00",
-            "warnings": 20
+            "textraw": "23002300f9002201ef00f200ee002201ef0002000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "……なんだったんだ。\u0000\n　？，ゃ￣　高崎先生ん、ああ、大工か。\u0000\nどうしたんだ？\u0000\n",
+        "text": "……なんだったんだ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "22010100d100d1000100cd084105da0002000a00f800d500e600ee002201ef0008000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "ん、ああ、大工か。\u0000\nどうしたんだ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -757,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "290023002300790bfc05ef00f9002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe10000400e8fe0200c0ff030017011000ebfe000065ff28000c00f0ff3e007a05e0051208e207ffff090008000a00",
-            "warnings": 26
+            "textraw": "290023002300790bfc05ef00f9002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（……複雑だな）\u0000\n　，　？￣￣．。，よ￣　高崎先生！？\u0000\n",
+        "text": "（……複雑だな）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1023,6 +1075,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "先に言えよ〜。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "2900d700d6001b00230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "（えぇ―……）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

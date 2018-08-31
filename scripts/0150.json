@@ -224,12 +224,25 @@
         "id": 17,
         "internal": {
             "speakerraw": "09ff",
-            "textraw": "d100d1000100290bfe00b60c8106db00f900d300da001801800d800df900f200090008000a00fdffedfffcfffcff67ffffff66ff04000000f3ff1aff03000100000010010a0016ffffffedffc1ffffff100066ff07000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff0e01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff180071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff04002200f0ff120007ffffffec00d500ec00d5000100e2002201f9007803e700f60002000a00",
-            "warnings": 54
+            "textraw": "d100d1000100290bfe00b60c8106db00f900d300da001801800d800df900f200090008000a00",
+            "warnings": 0
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "ああ、姫は容赦がないから弌弌なっ！？\u0000\n．　，、　め\u0000\n￣；　？　，、　　みば\u0000\nば　？　．そうそう、こんな感じで。\u0000\n",
+        "text": "ああ、姫は容赦がないから弌弌なっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "07ff",
+            "textraw": "ec00d500ec00d5000100e2002201f9007803e700f60002000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "そうそう、こんな感じで。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -393,12 +406,25 @@
         "id": 31,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "090008000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700c9ffffff1000eefe1500040067ff1200c1ffff001000ebfe0100adffffff65ff07000a00f0ff20002a09730a6007ffff2900240157016f01fd002a09da001801cd08770b2300230008000a0000000d01e400da000100ec002201f900800bdb005c0af200f500d300ee00f700fe00230023002a000a00",
-            "warnings": 23
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "！？\u0000\n．４　・：；￣．ば￣、；\u0000\n〜中之条（アフロの中から大福……？\u0000\n　まさか、そんな物が入っていたとは……）\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900240157016f01fd002a09da001801cd08770b2300230008000a0000000d01e400da000100ec002201f900800bdb005c0af200f500d300ee00f700fe00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（アフロの中から大福……？\u0000\n　まさか、そんな物が入っていたとは……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ffffff100067ff0f00eefe15000400c1fffb001000ebfe0100adffffff65ff14000a00f0ff2d002a09730a6007ffff2900f800d500d300d500e200f700ef0008000a000000cd08770b210113011a01da0018011604e600f500de001b01f700d300d500e200f700da0008002a000a00",
-            "warnings": 27
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？￣．ぬ￣、\u0000\n中之条（どういうことだ？\u0000\n　大福をやるから許してくれということか？）\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900f800d500d300d500e200f700ef0008000a000000cd08770b210113011a01da0018011604e600f500de001b01f700d300d500e200f700da0008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（どういうことだ？\u0000\n　大福をやるから許してくれということか？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "230023002300230002000a0098ff0000effe0b0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe15000400c9ffffff1000c1ffff001000ebfe0100adffffff65ff23000a00f0ff3c002a09730a6007ffff2900cd08770b2300230008000a000000f9002201f600e200fd0041012601610175013201f600cd08770b21012300230008002a000a00",
-            "warnings": 29
+            "textraw": "230023002300230002000a0098ff0000effe0b0097ff",
+            "warnings": 4
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　　？￣．￣ば￣、…\u0000\n中之条（大福……？\u0000\n　なんでこのタイミングで大福を……？）\u0000\n",
+        "text": "…………。\u0000\n　",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900cd08770b2300230008000a000000f9002201f600e200fd0041012601610175013201f600cd08770b21012300230008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（大福……？\u0000\n　なんでこのタイミングで大福を……？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -841,6 +893,19 @@
         "speaker": "中之条",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900230023000d010100d300f200da002a000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（……ま、いっか）\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

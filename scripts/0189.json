@@ -29,12 +29,25 @@
         "id": 2,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "520c5a0a93005a0af60001000a00e200fd00cb0afd00650c2101ef04fa00730cea001a01fd00ef001c01d500da002300230008000a00fdffedfffcffedffc1ffffff100066ff21000000daff1fff0400000000020000c0ff04005f01ff001aff04000000f0ff00001e0016ffffffebfe0000adff050065ff03001600f0ff03002a09730a6007e4002201ffffd300ee00f200090009000a00",
-            "warnings": 21
+            "textraw": "520c5a0a93005a0af60001000a00e200fd00cb0afd00650c2101ef04fa00730cea001a01fd00ef001c01d500da002300230008000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "明日１日で、\u0000\nこの髪の毛を元に戻せるのだろうか……？\u0000\n￣　．　斡　．ポば．　　／　・，，中之条さんいたっ！！\u0000\n",
+        "text": "明日１日で、\u0000\nこの髪の毛を元に戻せるのだろうか……？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "d300ee00f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "いたっ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },

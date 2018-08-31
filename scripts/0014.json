@@ -406,12 +406,25 @@
         "id": 31,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "e5041a01f9001b001b001b001b001b001b00090009000a00fdffedfffcff1aff0300000000fe00000a0016ffffffedffc1ffffff1000c1ffb3001000edfffcff66ff3e000000c1ffffff1000b3ff0300f4ff0400daffb2ffe8fe0200c1ffb2001000ebfe000064ffffff0500f0ff200053055b091208e207ffff090008000a00",
-            "warnings": 28
+            "textraw": "e5041a01f9001b001b001b001b001b001b00090009000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "見るな――――――！！\u0000\n，　　\u0000\n￣Ｗ￣　￣，．。Ｖ￣　・〜校長先生！？\u0000\n",
+        "text": "見るな――――――！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -744,12 +757,12 @@
         "id": 58,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "290071012c011b001b001b001b00090008002a000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "290071012c011b001b001b001b00090008002a000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "（ワオ――――！？）\u0000\n．・",
+        "text": "（ワオ――――！？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1030,12 +1043,25 @@
         "id": 80,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "2900d30001003602fa07510a5d09f800e2001c01da00230023000a0000001509e900da00e600e400fd00420158016d01530175014301ef001701230023002a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe09000400c1ff65001000ebfe0100adffffff65ff1f000300f0ff51000e01d900ffff29000d0101000d01ef00c502da00c10cdb00090008000a0000001101d5006c03b10be600f5000a01e600d3002201ef00e000f80009002a000a00",
-            "warnings": 24
+            "textraw": "2900d30001003602fa07510a5d09f800e2001c01da00230023000a0000001509e900da00e600e400fd00420158016d01530175014301ef001701230023002a000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "（い、一石二鳥どころか……\u0000\n　恥ずかしさのダブルパンチだよ……）\u0000\n　？￣！．￣、，みお（ま、まだ何か用が！？\u0000\n　もう勘弁してほしいんだけど！）\u0000\n",
+        "text": "（い、一石二鳥どころか……\u0000\n　恥ずかしさのダブルパンチだよ……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "29000d0101000d01ef00c502da00c10cdb00090008000a0000001101d5006c03b10be600f5000a01e600d3002201ef00e000f80009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "（ま、まだ何か用が！？\u0000\n　もう勘弁してほしいんだけど！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1251,12 +1277,25 @@
         "id": 98,
         "internal": {
             "speakerraw": "0e01d90054007a05e0051208e207",
-            "textraw": "09000900090008000a0098ff0000effe060097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe15000400edffc8ff680010011000ebfe000065ff31000b00f0ff6300ef0530021208e207ffffe30010012201f900e400d30009000a003806db000f079c06f900e200f700e600f0001201f200ee00da0018012300230009000a00",
-            "warnings": 28
+            "textraw": "09000900090008000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "みお＆高崎先生",
         "speaker_translation": "",
-        "text": "！！！？\u0000\n　：　？￣．め￣　桜井先生ごめんなさい！\u0000\n私が勝手なことしちゃったから……！\u0000\n",
+        "text": "！！！？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 99,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "e30010012201f900e400d30009000a003806db000f079c06f900e200f700e600f0001201f200ee00da0018012300230009000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "ごめんなさい！\u0000\n私が勝手なことしちゃったから……！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1426,6 +1465,19 @@
         "speaker": "桜井先生",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 113,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d9008308db00ea0023002300e6000d01e600ee002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "お騒がせ……しました……。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

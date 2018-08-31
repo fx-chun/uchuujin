@@ -406,12 +406,25 @@
         "id": 31,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "04010f012300230002000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe05000600070067ffffffe8fe0200c0ff0300e1001000ebfe000065ff07000800f0ff2000f105f004ffff4f08dc071801e600d300090009000a00",
-            "warnings": 17
+            "textraw": "04010f012300230002000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "ふむ……。\u0000\n．４　\u0000\n・：；。，げ￣　；？〜笹原素晴らしい！！\u0000\n",
+        "text": "ふむ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "4f08dc071801e600d300090009000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "素晴らしい！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +549,25 @@
         "id": 42,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "ec00f200f000e7001201f900d300090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000e8fe0400c0ff040087001000ebfe000065ff12000400f0ff2b000e01e400f700ffff9c0601009c06db00f200090000009c06db000900090009000a00",
-            "warnings": 25
+            "textraw": "ec00f200f000e7001201f900d300090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "そっちじゃない！！\u0000\n　，　？￣．．￣　．みさと手、手がっ！　手が！！！\u0000\n",
+        "text": "そっちじゃない！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "9c0601009c06db00f200090000009c06db000900090009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "手、手がっ！　手が！！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -679,12 +705,25 @@
         "id": 54,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "dd001201f200090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0c00c0ff0300e6001000ebfe000065ff1e000800f0ff3700f105f004ffffd900f200f7000100e2002201f9005a077f05f600fe00f900da00f200ee0002000a004a0126016e010701fe03db00fc00ff0002000a00",
-            "warnings": 23
+            "textraw": "dd001201f200090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "ぎゃっ！？\u0000\n　，　？，し￣　／？笹原おっと、こんな場合ではなかった。\u0000\nトイレへ急がねば。\u0000\n",
+        "text": "ぎゃっ！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "d900f200f7000100e2002201f9005a077f05f600fe00f900da00f200ee0002000a004a0126016e010701fe03db00fc00ff0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "おっと、こんな場合ではなかった。\u0000\nトイレへ急がねば。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -854,6 +893,19 @@
         "speaker": "みさと",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "d100f2000100f00016010100f0001601f200f70009000a009c06f700da00b606d500fd009c06c109d300f900e400d3001701200020002000090009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "あっ、ちょ、ちょっと！\u0000\n手とか拾うの手伝いなさいよ〜〜〜！！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

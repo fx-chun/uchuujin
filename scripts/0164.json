@@ -224,12 +224,25 @@
         "id": 17,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "e2001b01f6001101f807fe0079031801e600ee001101fd00f60023002300f0001801190102000a00fdffedfffcfffcffedffc1ffffff1000bcffa8011000c0ff0300b300100067ff1800ebfe000064ffffff1500f0ff120033040a0a1208e207ffffd900f200f70001009308db004e03f200ee00d000d000d000f200090009000a00",
-            "warnings": 19
+            "textraw": "e2001b01f6001101f807fe0079031801e600ee001101fd00f60023002300f0001801190102000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "これでも昔は慣らしたもので……ちらり。\u0000\n￣￣，Ｗ￣　教頭先生おっと、足が滑ったぁぁぁっ！！\u0000\n",
+        "text": "これでも昔は慣らしたもので……ちらり。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 18,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "d900f200f70001009308db004e03f200ee00d000d000d000f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "おっと、足が滑ったぁぁぁっ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -237,12 +250,25 @@
         "id": 19,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "090008000a00fdffedfffcfffcffedfffcff66ffa8000000c1ffffff1000b3ff0300f4ff0400daffb2ffbcffff011000e8fe0200ebfe000064ffffff1100f0ff1400ef053002e907ffffe200010053055b091208e2071b00090009000a00",
-            "warnings": 22
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "！？\u0000\nＬ　￣，．圧￣。　桜井誠こ、校長先生―！！\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "e200010053055b091208e2071b00090009000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "こ、校長先生―！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -406,12 +432,25 @@
         "id": 33,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "2900f8000100f800d500e6001701d500230023002a000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700c1ff48011000ebfe0100adffffff65ff02001100f0ff2200ef053002e907ffff2900e2001b01fe00df076009fa00fa04d5000801dc00ef001701f90008002a000a0098ff0000effe080097ff",
-            "warnings": 22
+            "textraw": "2900f8000100f800d500e6001701d500230023002a000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "（ど、どうしよう……）\u0000\n．４　・：；テ￣、。桜井誠（これは正直に言うべきだよな？）\u0000\n　？",
+        "text": "（ど、どうしよう……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "2900e2001b01fe00df076009fa00fa04d5000801dc00ef001701f90008002a000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（これは正直に言うべきだよな？）\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff48011000ebfe0100adffffff65ff0f001100f0ff2f00ef053002e907ffff2900e200e200fe00e4001901e100f900de003304d700f500d100e1001701d500da00f9002a000a00",
-            "warnings": 25
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？￣テ￣、｛桜井誠（ここはさりげなく教えてあげようかな）\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "2900e200e200fe00e4001901e100f900de003304d700f500d100e1001701d500da00f9002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（ここはさりげなく教えてあげようかな）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -835,12 +887,25 @@
         "id": 68,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "23002300c502ef001c01d5000100e200fd0013011a01ea00f900d300c403820b02000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe0d00040067ffffffc1ff49011000ebfe0100adffffff65ff25001100f0ff4500ef053002e907ffff290023002300e504f900da00f200ee00e200f700fa00e6001701d5002a000a0098ff0000effe0a0097ff",
-            "warnings": 29
+            "textraw": "23002300c502ef001c01d5000100e200fd0013011a01ea00f900d300c403820b02000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "……何だろう、このやるせない気分。\u0000\n　？．デ￣、桜井誠（……見なかったことにしよう）\u0000\n　\u0000\n",
+        "text": "……何だろう、このやるせない気分。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "290023002300e504f900da00f200ee00e200f700fa00e6001701d5002a000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（……見なかったことにしよう）\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1010,6 +1075,19 @@
         "speaker": "桜井誠",
         "speaker_translation": "",
         "text": "あれ？　これもしかして弌弌やっぱり。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "780a040aef0035016e012300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "納豆だコレ……。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

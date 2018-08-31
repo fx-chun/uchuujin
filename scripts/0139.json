@@ -432,12 +432,25 @@
         "id": 33,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "2900ec002201f900fa004a05f500f5001a01f200f500e200f700fe00230023000a000000e50418011b01f00012010d01e900d300e200f700210153055b09fa0023002300090008002a000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700eefe03000400c1ff5b011000ebfe000065ff06001500f0ff220033040a0a1208e207ffffee000100da0c0f01230023000a00e200fd00e200f700fe00400aff06fa00e600f500de001b012300230002000a00",
-            "warnings": 18
+            "textraw": "2900ec002201f900fa004a05f500f5001a01f200f500e200f700fe00230023000a000000e50418011b01f00012010d01e900d300e200f700210153055b09fa0023002300090008002a000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "（そんなに慌ててるってことは……\u0000\n　見られちゃまずいことを校長に……！？）\u0000\n．４　・：；，．ベ￣　：教頭先生た、頼む……\u0000\nこのことは内緒にしてくれ……。\u0000\n",
+        "text": "（そんなに慌ててるってことは……\u0000\n　見られちゃまずいことを校長に……！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "ee000100da0c0f01230023000a00e200fd00e200f700fe00400aff06fa00e600f500de001b012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "た、頼む……\u0000\nこのことは内緒にしてくれ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +718,25 @@
         "id": 55,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "6c0124016d01ef00f7002f0164011b001b001b002601090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00e8fe0200c1ff5d011000ebfe000065ff1c001500f0ff380033040a0a1208e207ffff2d02d500090000002705f802ef00090000009905f902fe003806e7001201f900d300ed0009000a00e200e200fa00d80cee001801e800f600fa0053055b09db00dd091b01f500ee002201ef0009000a00",
-            "warnings": 26
+            "textraw": "6c0124016d01ef00f7002f0164011b001b001b002601090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "リアルだとキモ―――イ！！\u0000\n　，　？。ホ￣　教頭先生違う！　誤解だ！　今回は私じゃないぞ！\u0000\nここに来たらすでに校長が倒れてたんだ！\u0000\n",
+        "text": "リアルだとキモ―――イ！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "2d02d500090000002705f802ef00090000009905f902fe003806e7001201f900d300ed0009000a00e200e200fa00d80cee001801e800f600fa0053055b09db00dd091b01f500ee002201ef0009000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "違う！　誤解だ！　今回は私じゃないぞ！\u0000\nここに来たらすでに校長が倒れてたんだ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -978,12 +1004,25 @@
         "id": 77,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1800eefe0a000400e8fe0200c1ff66001000ebfe000065ff32000300f0ff4e000e01d900ffff0e010100e504f5000d01ea00220109000000c5021101e504f5000d01ea001b001b00220109000a00",
-            "warnings": 24
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？\u0000\n．。￣　，みおみ、見てません！　何も見てませ――ん！\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 78,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "0e010100e504f5000d01ea00220109000000c5021101e504f5000d01ea001b001b00220109000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "み、見てません！　何も見てませ――ん！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1088,6 +1127,19 @@
         "speaker": "校長先生",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 87,
+        "internal": {
+            "speakerraw": "4c016e011b0041011b00d9002406e4002201",
+            "textraw": "ec00fd0052060100cd08dc00f9001808db00fe00f200dc001901e504d7000d01e600ee0002001f055a0a01000a0053055b091208e207fe00ec00d5008b07d104fa002605f200ee00f700fa04d3000d01e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "ナレ―タ―お姉さん",
+        "speaker_translation": "",
+        "text": "その時、大きな川がはっきり見えました。後日、\u0000\n校長先生はそう真剣に語ったと言います。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

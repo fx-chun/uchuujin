@@ -393,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "0f011b00230023000a00fe00da00ea009905e800df00f600dc001a011701d500fa00f9001901ee00d30002000a00fdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe050006000700f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc301ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff33001000ebfe000065ff04000100f0ff1f00fe00da00ea00ffffec00d500ef000900000019022505370145012d011b00fd00ee001001fd006f015e0145014a0121010a00e4051b01ff00d300d3002201ef0009000a0098ff0000effe0800eefe0200040097ff",
-            "warnings": 54
+            "textraw": "0f011b00230023000a00fe00da00ea009905e800df00f600dc001a011701d500fa00f9001901ee00d30002000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "む―……\u0000\nはかせ今すぐできるようになりたい。\u0000\n．４　・：；？　　，、　　ば\u0000\nば　？。￣　．、はかせそうだ！　囲碁サッカ―のためのロボットを\u0000\n作ればいいんだ！\u0000\n　？。．",
+        "text": "む―……\u0000\nはかせ今すぐできるようになりたい。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "ec00d500ef000900000019022505370145012d011b00fd00ee001001fd006f015e0145014a0121010a00e4051b01ff00d300d3002201ef0009000a0098ff0000effe0800eefe0200040097ff",
+            "warnings": 4
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "そうだ！　囲碁サッカ―のためのロボットを\u0000\n作ればいいんだ！\u0000\n　？。．",
         "text_translation": "",
         "type": "dialog"
     },
@@ -510,12 +523,25 @@
         "id": 40,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc301ff00c1ff0a00ff00c8ff2d004501ff0090ff450190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff45011000ebfe000065ff0e001100f0ff2900ef053002e907fffffe00fe00fe000100e800df00fa00fe00470ced0cef00170102000a0019022505370145012d011b00fe004f0ae600d3002304db03ef00da001801fc0002000a00",
-            "warnings": 50
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？？　　，、　　ば\u0000\nばッばッ　？ッ￣　（桜井誠ははは、すぐには無理だよ。\u0000\n囲碁サッカ―は難しい競技だからね。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "fe00fe00fe000100e800df00fa00fe00470ced0cef00170102000a0019022505370145012d011b00fe004f0ae600d3002304db03ef00da001801fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "ははは、すぐには無理だよ。\u0000\n囲碁サッカ―は難しい競技だからね。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -601,12 +627,25 @@
         "id": 48,
         "internal": {
             "speakerraw": "4c016e011b0041011b00d9002406e4002201",
-            "textraw": "c0075a0a1f050100e200fd005e011b006d01fe00800b1a09fa00af06100118011b0101000a007202f703fa00ee0b1b0118011b011a01e200f700fa00f900f200ee00f700d300d3000d01e80002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc301ff00c1ff0a00ff00c8ff2d004401ff0090ff440190ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800c1ff44011000ebfe000065ff16001100f0ff3100ef053002e907ffff9905e800df00da001b00020019022505370145012d011b00fe00a402db008807d300da0018010a004f0ae600d300f7002b06d500170102000a00",
-            "warnings": 54
+            "textraw": "c0075a0a1f050100e200fd005e011b006d01fe00800b1a09fa00af06100118011b0101000a007202f703fa00ee0b1b0118011b011a01e200f700fa00f900f200ee00f700d300d3000d01e80002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ナレ―タ―お姉さん",
         "speaker_translation": "",
-        "text": "数日後、このボ―ルは物置に収められ、\u0000\n永久に忘れられることになったといいます。\u0000\n　，　？？　　，、　　ば\u0000\nばヂばヂ　？ヂ￣　桜井誠今すぐか―。囲碁サッカ―は奥が深いから\u0000\n難しいと思うよ。\u0000\n",
+        "text": "数日後、このボ―ルは物置に収められ、\u0000\n永久に忘れられることになったといいます。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "9905e800df00da001b00020019022505370145012d011b00fe00a402db008807d300da0018010a004f0ae600d300f7002b06d500170102000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "今すぐか―。囲碁サッカ―は奥が深いから\u0000\n難しいと思うよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -776,6 +815,19 @@
         "speaker": "はかせ",
         "speaker_translation": "",
         "text": "…………！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "2300230019022505370145012d011b00e8001a01fd00130110011a0102000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "……囲碁サッカ―するのやめる。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

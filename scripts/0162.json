@@ -367,12 +367,25 @@
         "id": 28,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "230023002300230002000a00fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe05000600070067ff0f00eefe10000400c1ff0b011000ebfe000065ff07000b00f0ff1d00ef0530021208e207ffff4c0bf306f9006e0c23002300f600e800da0008000a00",
-            "warnings": 20
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．　４・：；￣．ぼ￣　；桜井先生不純な目……ですか？\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "4c0bf306f9006e0c23002300f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "不純な目……ですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +549,25 @@
         "id": 42,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "23002300fe00d300f20002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff0b011000ebfe000065ff15000b00f0ff2b00ef0530021208e207ffffd10001003b0101003b01260160013d0175012300230002000a0098ff0000eefe0f000400effe0a0097ff",
-            "warnings": 29
+            "textraw": "23002300fe00d300f20002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "……はいっ。\u0000\n　，　？￣ぼ￣　桜井先生あ、ス、スイマセン……。\u0000\n　．\u0000\n",
+        "text": "……はいっ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d10001003b0101003b01260160013d0175012300230002000a0098ff0000eefe0f000400effe0a0097ff",
+            "warnings": 5
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "あ、ス、スイマセン……。\u0000\n　．\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "29004c0bf306f9006e0cf200f500c502ef001c01d5002300230008002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe10000400c1ff11011000ebfe0100adffffff65ff1e000b00f0ff3400ef0530021208e207ffff29004c0bf306f9006e0c080000001701de001e01da001801f900d300e000f800230023002a000a00",
-            "warnings": 26
+            "textraw": "29004c0bf306f9006e0cf200f500c502ef001c01d5002300230008002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "（不純な目って何だろう……？）\u0000\n　，　？￣￣．も￣、／桜井先生（不純な目？　よくわからないけど……）\u0000\n",
+        "text": "（不純な目って何だろう……？）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "29004c0bf306f9006e0c080000001701de001e01da001801f900d300e000f800230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "（不純な目？　よくわからないけど……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -815,6 +854,19 @@
         "speaker": "桜井先生",
         "speaker_translation": "",
         "text": "わ―、ありがとうございます。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "2900cd08770bfd00170de400f700da001701de001e01da001801f900d300e000f800230023000a000000f60011010100d300f200da002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "（大福の良さとかよくわからないけど……\u0000\n　でも、いっか）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

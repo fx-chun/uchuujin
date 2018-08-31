@@ -588,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "2900f900fa00f900fa0008000a0000003602b408d100fd003a06fa00fe00c502db000107da001b01f5001a01fd0008002a000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff0c01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe03000400ebfe0100adffffff65ff10000200f0ff2e001501f200e200ffff2900d100f20001000d01ee00ef0002000e012201f9003a06fd002a0994072101e504ee0018010a000000e800df00fa00a20bfd009907fa00cf09e600f5001a012a000a00",
-            "warnings": 48
+            "textraw": "2900f900fa00f900fa0008000a0000003602b408d100fd003a06fa00fe00c502db000107da001b01f5001a01fd0008002a000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "（なになに？\u0000\n　一体あの紙には何が書かれてるの？）\u0000\n．４　\u0000\n・：；？　　，、　　ぽば\u0000\nば　？，．、￣。ゆっこ（あっ、まただ。みんな紙の中身を見たら\u0000\n　すぐに別の人に渡してる）\u0000\n",
+        "text": "（なになに？\u0000\n　一体あの紙には何が書かれてるの？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2900d100f20001000d01ee00ef0002000e012201f9003a06fd002a0994072101e504ee0018010a000000e800df00fa00a20bfd009907fa00cf09e600f5001a012a000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（あっ、まただ。みんな紙の中身を見たら\u0000\n　すぐに別の人に渡してる）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -861,12 +874,25 @@
         "id": 67,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe16000400c1ff43001000ebfe000065ff26000200f0ff44001501f200e200fffffc00d700170c2b02f000120122010200d100fd003a06fa00c50221010107d300ee00fd0008000a00",
-            "warnings": 57
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？？　　，、　　ば\u0000\nば　？．￣　。ゆっこねえ麻衣ちゃん。あの紙に何を書いたの？\u0000\n",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fc00d700170c2b02f000120122010200d100fd003a06fa00c50221010107d300ee00fd0008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "ねえ麻衣ちゃん。あの紙に何を書いたの？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1082,12 +1108,25 @@
         "id": 85,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "2300230023002300d700f20008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff8a01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800eefe04000400c1ff3f001000ebfe000065ff38000200f0ff56001501f200e200fffff200f5000100ec002201f900fd00d300d300da00180101000a00d906d0082101e504ea00f500170102000a00",
-            "warnings": 56
+            "textraw": "2300230023002300d700f20008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "…………えっ？\u0000\n　，　？？　　，、　　ば\u0000\nば　？．．￣　。ゆっこって、そんなのいいから、\u0000\n宿題を見せてよ。\u0000\n",
+        "text": "…………えっ？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 86,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f200f5000100ec002201f900fd00d300d300da00180101000a00d906d0082101e504ea00f500170102000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "って、そんなのいいから、\u0000\n宿題を見せてよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1322,6 +1361,19 @@
         "speaker": "麻衣",
         "speaker_translation": "",
         "text": "ゆっこのプリント、おとといの宿題のやつ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 105,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2300230023002300090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "…………！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -16,12 +16,25 @@
         "id": 1,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "6908de00e600f900d300f7005306fd00aa064604db00230023000a00c0073c03fd00000859071208e2070100f104e600d300da001801dc0918011b01f0001201d500170109000a00fdffedfffcfffcffc1fff6001000ebfe000064ffffff1400f0ff02000c022a09ffffd100f20009000a00",
-            "warnings": 11
+            "textraw": "6908de00e600f900d300f7005306fd00aa064604db00230023000a00c0073c03fd00000859071208e2070100f104e600d300da001801dc0918011b01f0001201d500170109000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "早くしないと次の授業が……\u0000\n数学の赤城先生、厳しいから怒られちゃうよ！\u0000\nで￣　。安中あっ！\u0000\n",
+        "text": "早くしないと次の授業が……\u0000\n数学の赤城先生、厳しいから怒られちゃうよ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "d100f20009000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "あっ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -120,12 +133,25 @@
         "id": 10,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "d10001000c022a09e400220109000a00ec002201f900fa007e08f200ee0018010d01ee00800d800d0a00fdffedfffcfffcff1fff0300000000fe0000c1ffb300ff001aff03000000f0ff00000a00c1ffb3001000ebfe0000adffffff64ffffff0500f0ff0b0053055b091208e207ffff230023002300230002000a00",
-            "warnings": 18
+            "textraw": "d10001000c022a09e400220109000a00ec002201f900fa007e08f200ee0018010d01ee00800d800d0a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "あ、安中さん！\u0000\nそんなに走ったらまた弌弌\u0000\n，　　Ｗば，　　\u0000\nＷ￣　・校長先生…………。\u0000\n",
+        "text": "あ、安中さん！\u0000\nそんなに走ったらまた弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -380,12 +406,25 @@
         "id": 31,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "f90001002a09730a6007de002201f2000100e600f200da001901e600f500090009000a006e0c210134030d01e600f50009000a00fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700eefe09000400c1ff59011000ebfe000065ff06001400f0ff20000c022a09fffff8000100f800d500e6001701d50009000a007a05e0051208e207210100050201fa006c05de00520698031101f900d300fd00fa002300230002000a00",
-            "warnings": 16
+            "textraw": "f90001002a09730a6007de002201f2000100e600f200da001901e600f500090009000a006e0c210134030d01e600f50009000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "な、中之条くんっ、しっかりして！！\u0000\n目を覚まして！\u0000\n．\u0000\n４　・：；！．プ￣　：〜安中ど、どうしよう！\u0000\n高崎先生を呼びに行く時間もないのに……。\u0000\n",
+        "text": "な、中之条くんっ、しっかりして！！\u0000\n目を覚まして！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "f8000100f800d500e6001701d50009000a007a05e0051208e207210100050201fa006c05de00520698031101f900d300fd00fa002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "ど、どうしよう！\u0000\n高崎先生を呼びに行く時間もないのに……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "7a05e005ea002201ea001b00090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200eefe10000400c1ff59011000ebfe000065ff14001400f0ff2e000c022a09fffff90001002a09730a6007de002201e600f200da00190109000a00",
-            "warnings": 26
+            "textraw": "7a05e005ea002201ea001b00090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "高崎せんせ―！！\u0000\n　，　？￣．プ￣　安中な、中之条くんしっかり！\u0000\n",
+        "text": "高崎せんせ―！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "f90001002a09730a6007de002201e600f200da00190109000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "な、中之条くんしっかり！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -666,12 +718,25 @@
         "id": 55,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "df000701f200090009000a0098ff0000effe0a0097fffdffedfffcff66ff30000000bfff0a001000c9ffffff1000c1ff58011000ebfe000065ff1e001400f0ff38000c022a09ffff0a0118010100f0001601d500f800e2002201f9006f0bfa0002000a00",
-            "warnings": 17
+            "textraw": "df000701f200090009000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "ぐへっ！！\u0000\n　\u0000\n｝　\u0000\n￣￣ブ￣　／安中ほら、ちょうどこんな風に。\u0000\n",
+        "text": "ぐへっ！！\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "0a0118010100f0001601d500f800e2002201f9006f0bfa0002000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "ほら、ちょうどこんな風に。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "2300230042016301ef00e2001901120102000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffebfe0000adffffff65ff23000a00f0ff3d002a09730a6007ffff230023002300230002000a00",
-            "warnings": 22
+            "textraw": "2300230042016301ef00e2001901120102000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "……ダメだこりゃ。\u0000\n　，　？　…\u0000\n中之条…………。\u0000\n",
+        "text": "……ダメだこりゃ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -906,6 +984,19 @@
         "speaker": "中之条",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 76,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "23002300ee0001007a05e0051208e207fe00230023000a00c5022101d900e600d700ee00220123002300ef002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "……た、高崎先生は……\u0000\n何をおしえたん……だ……。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

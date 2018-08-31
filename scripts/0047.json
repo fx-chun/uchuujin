@@ -302,12 +302,12 @@
         "id": 23,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2900ec001b01db0033042906f200f50011012201ef001c0108002a000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "2900ec001b01db0033042906f200f50011012201ef001c0108002a000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（それが教師ってもんだろ？）\u0000\n．・",
+        "text": "（それが教師ってもんだろ？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2900d300d3004a062101e600ee001f05fe00c4035106f000db00d300d30011012201ef0002000a000000800d800dec001b01db0033042906fd00cf082905350cf200f5001301f300da00f90008002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffe8fe0200c1ff19011000ebfe000065ff19000c00f0ff2d007a05e0051208e207ffffef0530021208e2070900090009000a00",
-            "warnings": 23
+            "textraw": "2900d300d3004a062101e600ee001f05fe00c4035106f000db00d300d30011012201ef0002000a000000800d800dec001b01db0033042906fd00cf082905350cf200f5001301f300da00f90008002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（いい事をした後は気持ちがいいもんだ。\u0000\n　弌弌それが教師の醍醐味ってやつかな？）\u0000\n　，　？。り￣　〆高崎先生桜井先生！！！\u0000\n",
+        "text": "（いい事をした後は気持ちがいいもんだ。\u0000\n　弌弌それが教師の醍醐味ってやつかな？）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "ef0530021208e2070900090009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "桜井先生！！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -848,12 +861,25 @@
         "id": 66,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff19011000ebfe000065ff2f000c00f0ff43007a05e0051208e207ffffef0530021208e2070900090009000a00",
-            "warnings": 19
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？り￣　｛高崎先生桜井先生！！！\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "ef0530021208e2070900090009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "桜井先生！！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1023,6 +1049,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900f0000100f000db001b001b001b001b001b00d500090009000a000000f000db00d5002201f600e8000100ef053002ea002201ea001b001b001b00090009002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（ち、ちが―――――う！！\u0000\n　ちがうんです、桜井せんせ―――！！）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

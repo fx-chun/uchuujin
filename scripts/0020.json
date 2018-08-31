@@ -536,12 +536,12 @@
         "id": 41,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "d1001b001101d5000100f9002201ef00da0026016b0126016b01e600f500dc00ee00f20009000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "d1001b001101d5000100f9002201ef00da0026016b0126016b01e600f500dc00ee00f20009000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "あ―もう、なんだかイライラしてきたっ！\u0000\n．・",
+        "text": "あ―もう、なんだかイライラしてきたっ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "090008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff84001000ebfe000065ff20000400f0ff3c000e01e400f700ffff23002300f200f500010042016301e7001201f900d30009000a003806fe0053070904e207f9002201ef00da0018010100ae0ca50c21011101ee00f900d300f70009000a00",
-            "warnings": 19
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "！？\u0000\n　？￣　〜．みさと……って、ダメじゃない！\u0000\n私は上級生なんだから、余裕をもたないと！\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "23002300f200f500010042016301e7001201f900d30009000a003806fe0053070904e207f9002201ef00da0018010100ae0ca50c21011101ee00f900d300f70009000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "……って、ダメじゃない！\u0000\n私は上級生なんだから、余裕をもたないと！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -978,12 +991,25 @@
         "id": 76,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "e1000401d100f20009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe16000400c1ff84001000ebfe000065ff31000400f0ff4d000e01e400f700fffff200f5000100f9002201f6003806db000a0026016b0126016b01e600f900dc001201d300e000f900d300fd00170102000a00",
-            "warnings": 22
+            "textraw": "e1000401d100f20009000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "げふあっ！\u0000\n　？．￣　．みさとって、なんで私が\u0000\nイライラしなきゃいけないのよ。\u0000\n",
+        "text": "げふあっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 77,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "f200f5000100f9002201f6003806db000a0026016b0126016b01e600f900dc001201d300e000f900d300fd00170102000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "って、なんで私が\u0000\nイライラしなきゃいけないのよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1017,12 +1043,25 @@
         "id": 80,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "1701e6000100e7001201d10001006c05de001e0117012300230002000a00fdffedfffcff67ff100066ff2b000000c0ff0300e00010001fff0400000000020000c0ff0400800010001aff0400000000fe00003c00ebfe000065ff35000800f0ff5100f105f004ffff220108000000f70cdc020e01e400f700f600fe00f900d300da0002000a00c502da00c10c800d800d0a00",
-            "warnings": 19
+            "textraw": "1701e6000100e7001201d10001006c05de001e0117012300230002000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "よし、じゃあ、行くわよ……。\u0000\n￣　，け￣．　斡　．￣．　　　？笹原ん？　立花みさとではないか。\u0000\n何か用弌弌\u0000\n",
+        "text": "よし、じゃあ、行くわよ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "220108000000f70cdc020e01e400f700f600fe00f900d300da0002000a00c502da00c10c800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "ん？　立花みさとではないか。\u0000\n何か用弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1069,12 +1108,25 @@
         "id": 85,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "d5000f01010031016b013b01630126014a01ef0002000a00d1001301f300fa00fe00d300f3001101ce076f0dfa00800d800d0a00fdffedfffcff1fff0500000000fe0000c9ff800010001aff05000000000200003c0016ffffffebfe0000adffffff65ff3a000400f0ff56000e01e400f700ffff230023002300230002000a0098ff0000effe060097ff",
-            "warnings": 22
+            "textraw": "d5000f01010031016b013b01630126014a01ef0002000a00d1001301f300fa00fe00d300f3001101ce076f0dfa00800d800d0a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "うむ、クラスメイトだ。\u0000\nあやつにはいつも世話に弌弌\u0000\n・　　￣・　斡　　．みさと…………。\u0000\n　：",
+        "text": "うむ、クラスメイトだ。\u0000\nあやつにはいつも世話に弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 86,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "230023002300230002000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1134,12 +1186,25 @@
         "id": 91,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "ec000100ec001b01f600f105f0041208960a01000a0099055a0a01006c0b4c03fe00c502520698050d01f600800d800d0a00fdffedfffcff1fff0500000000020000c9ff9c0010001aff0500000000fe00003c0016ffffffedffc1ffffff1000effe0300c1ff42001000ebfe000065ff40000200f0ff5c001501f200e200fffff900fa00090008000000f900fa00090008000a009905f9002201da006e09f200ee001b001b001b001b00f200090008000a00",
-            "warnings": 22
+            "textraw": "ec000100ec001b01f600f105f0041208960a01000a0099055a0a01006c0b4c03fe00c502520698050d01f600800d800d0a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "そ、それで笹原先輩、\u0000\n今日、部活は何時頃まで弌弌\u0000\n・　斡　９￣・　　￣，￣　。ゆっこなに！？　なに！？\u0000\n今なんか通った――――っ！？\u0000\n",
+        "text": "そ、それで笹原先輩、\u0000\n今日、部活は何時頃まで弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 92,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f900fa00090008000000f900fa00090008000a009905f9002201da006e09f200ee001b001b001b001b00f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "なに！？　なに！？\u0000\n今なんか通った――――っ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1205,6 +1270,19 @@
         "speaker": "みお",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 98,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

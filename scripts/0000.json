@@ -393,12 +393,12 @@
         "id": 30,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "ec00d500e7001201f900de00f5002300230002000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "ec00d500e7001201f900de00f5002300230002000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "そうじゃなくて……。\u0000\n．",
+        "text": "そうじゃなくて……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -614,12 +614,25 @@
         "id": 47,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "6c05f200f5001801f200e60012011b00d30009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff10001000ebfe000065ff19000000f0ff3000f900fd00ffff4f013a0121019a06f200f500de00ef00e400d30002000a00e2001b01db00d1001a01fc0419013806fe00ce024a062101e6000d01ea002201da001801fc0002000a00",
-            "warnings": 17
+            "textraw": "6c05f200f5001801f200e60012011b00d30009000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "行ってらっしゃ―い！\u0000\n　？￣￣　〆　｝なのネジを取ってください。\u0000\nこれがある限り私は家事をしませんからね。\u0000\n",
+        "text": "行ってらっしゃ―い！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "4f013a0121019a06f200f500de00ef00e400d30002000a00e2001b01db00d1001a01fc0419013806fe00ce024a062101e6000d01ea002201da001801fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "ネジを取ってください。\u0000\nこれがある限り私は家事をしませんからね。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "6c05f200f5001801f200e60012011b00d30002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff03001000ebfe000065ff27000000f0ff3e00f900fd00ffffe7001201d10001004f013a0121019a06f200f500de001b01ee0018010a004d09e300ed0ae40519010d01e80002000a00",
-            "warnings": 19
+            "textraw": "6c05f200f5001801f200e60012011b00d30002000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "行ってらっしゃ―い。\u0000\n　？，￣　　なのじゃあ、ネジを取ってくれたら\u0000\n朝ご飯作ります。\u0000\n",
+        "text": "行ってらっしゃ―い。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "e7001201d10001004f013a0121019a06f200f500de001b01ee0018010a004d09e300ed0ae40519010d01e80002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "じゃあ、ネジを取ってくれたら\u0000\n朝ご飯作ります。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -997,6 +1023,19 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "わ―ん！\u0000\nはかせ、行ってきま―す！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 79,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "6c05f200f5001801f200e60012011b00d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "行ってらっしゃ―い。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

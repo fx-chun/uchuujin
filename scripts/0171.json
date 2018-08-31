@@ -380,12 +380,25 @@
         "id": 29,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "e4000100c403fa005c0af200ee00f9001801f8002201f800220175070801f900e400d30009000a009905d90027091101920d1b01f500d100e1001701d50009000a00fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700c1ff5e011000ebfe000065ff02001600f0ff1e002a09730a6007e4002201ffff0a0118010a01180109000000f8002201f800220175070801f900e400d30009000a00",
-            "warnings": 16
+            "textraw": "e4000100c403fa005c0af200ee00f9001801f8002201f800220175070801f900e400d30009000a009905d90027091101920d1b01f500d100e1001701d50009000a00",
+            "warnings": 0
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "さ、気に入ったならどんどん食べなさい！\u0000\n今お茶も亞れてあげよう！\u0000\n．　４・：；ボ￣　。／中之条さんほらほら！　どんどん食べなさい！\u0000\n",
+        "text": "さ、気に入ったならどんどん食べなさい！\u0000\n今お茶も亞れてあげよう！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "0a0118010a01180109000000f8002201f800220175070801f900e400d30009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "ほらほら！　どんどん食べなさい！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +549,25 @@
         "id": 42,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "1e0101003806fe00c502da0098032d02d300210123002300090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff33001000ebfe000065ff0f000100f0ff2b00fe00da00ea00ffffd50022010200d1001901db00f700d5000100d900e700e400220109000a00",
-            "warnings": 23
+            "textraw": "1e0101003806fe00c502da0098032d02d300210123002300090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "わ、私は何か間違いを……！？\u0000\n　，　？￣　、はかせうん。ありがとう、おじさん！\u0000\n",
+        "text": "わ、私は何か間違いを……！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "d50022010200d1001901db00f700d5000100d900e700e400220109000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "うん。ありがとう、おじさん！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "29003c086c0b75070801f500e6000d01f200ee00230023002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff29001000ebfe0000adffffff65ff1e000100f0ff3a00fe00da00ea00ffff230023002300230002000a00",
-            "warnings": 24
+            "textraw": "29003c086c0b75070801f500e6000d01f200ee00230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "（全部食べてしまった……）\u0000\n　，　？￣（￣　／、はかせ…………。\u0000\n",
+        "text": "（全部食べてしまった……）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -906,6 +945,19 @@
         "speaker": "警察",
         "speaker_translation": "",
         "text": "子供が走って逃げていきましたし、すこ―し\u0000\nお話を聞かせて貰ってもいいでしょうか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "2900c5020805e200d500f9001a01230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "（何故こうなる……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

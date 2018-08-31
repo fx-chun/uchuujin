@@ -159,12 +159,25 @@
         "id": 12,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "070108000a00fdffedfffcff67ff1800fcff1aff0400000078ff00000a0016ffffff66ff0e000000daff1aff04000000680000000a0016ffffffc1ffd0001000ebfe000064ffffff0700f0ff0d00170c2b02ffff0a01180102000a00",
-            "warnings": 24
+            "textraw": "070108000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "へ？\u0000\n．　　\u0000\n　．　　\u0000\nぁ￣　；麻衣ほら。\u0000\n",
+        "text": "へ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 13,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "0a01180102000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "ほら。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -406,12 +419,25 @@
         "id": 32,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "230023002300230002000a00fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700c1ff52011000ebfe000065ff06001300f0ff2100c4092a09ffffd7000100d7001b00f200f70023002300e3001001220102000a00",
-            "warnings": 17
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．　４・：；バ￣　：田中え、え―っと……ごめん。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "d7000100d7001b00f200f70023002300e3001001220102000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "え、え―っと……ごめん。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +679,25 @@
         "id": 52,
         "internal": {
             "speakerraw": "1501f200e2005400c4092a09",
-            "textraw": "230023003b01610160013d017501f600e600ee0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200c1ff44001000ebfe000065ff1a000200f0ff35001501f200e200ffff1701e600090000003806db00210a8d04e600f500d100e1001a01da0018010a0060013901f9004601450135016101f200f5001101220121019407fa004d0be000f900e400d30009000a00",
-            "warnings": 25
+            "textraw": "230023003b01610160013d017501f600e600ee0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ＆田中",
         "speaker_translation": "",
-        "text": "……スミマセンでした。\u0000\n　，　？￣　。ゆっこよし！　私が特訓してあげるから\u0000\nマシなツッコミってもんを身に付けなさい！\u0000\n",
+        "text": "……スミマセンでした。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "1701e600090000003806db00210a8d04e600f500d100e1001a01da0018010a0060013901f9004601450135016101f200f5001101220121019407fa004d0be000f900e400d30009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "よし！　私が特訓してあげるから\u0000\nマシなツッコミってもんを身に付けなさい！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -913,12 +952,25 @@
         "id": 73,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0d00c1ff52011000ebfe000065ff2f001300f0ff4a00c4092a09ffffec00f200da0001002c016e01f200f500ec002201f900fa000a00b1075307fd005e0133012101470cb208fa00e600f500ee00fd00da0002000a00",
-            "warnings": 24
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？バ￣　｛田中そっか、オレってそんなに\u0000\n水上のボケを無駄にしてたのか。\u0000\n",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "ec00f200da0001002c016e01f200f500ec002201f900fa000a00b1075307fd005e0133012101470cb208fa00e600f500ee00fd00da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "そっか、オレってそんなに\u0000\n水上のボケを無駄にしてたのか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1114,6 +1166,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 90,
+        "internal": {
+            "speakerraw": "1501f200e2005400c4092a09",
+            "textraw": "6e015b016d01ee00e0001b002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ＆田中",
+        "speaker_translation": "",
+        "text": "レベルたけ―……。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

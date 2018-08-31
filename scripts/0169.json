@@ -341,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "2900f8000100f800d500e6001701d50002000a000000d300f30011011701190152069803da00da00f200f0001201d500da0011012a000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700c1ff57011000ebfe000065ff05001400f0ff1b000c022a09ffffd100fd0001001208e207f20001001301f200000119010f09fd001208e207f700da000a0000052201f600dc00ee00d30bdb00d300d300f600e800da0008000a00",
-            "warnings": 16
+            "textraw": "2900f8000100f800d500e6001701d50002000a000000d300f30011011701190152069803da00da00f200f0001201d500da0011012a000a00",
+            "warnings": 0
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "（ど、どうしよう。\u0000\n　いつもより時間かかっちゃうかも）\u0000\n．４　・：；フ￣　・―安中あの、先生っ、やっぱり男の先生とか\u0000\n呼んできた方がいいですか？\u0000\n",
+        "text": "（ど、どうしよう。\u0000\n　いつもより時間かかっちゃうかも）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "d100fd0001001208e207f20001001301f200000119010f09fd001208e207f700da000a0000052201f600dc00ee00d30bdb00d300d300f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "あの、先生っ、やっぱり男の先生とか\u0000\n呼んできた方がいいですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "2900e2001b01f600f802c4041b001b00f200090008002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff56011000ebfe0100adffffff65ff18001400f0ff2e000c022a09ffff2900d500d50022010100f6001101230023000a000000ef0530021208e207fe001208e207f9001901fa00100cc4030e01ee00d300ef00e6002a000a00",
-            "warnings": 25
+            "textraw": "2900e2001b01f600f802c4041b001b00f200090008002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "（これで解決――っ！？）\u0000\n　，　？ピ￣、安中（ううん、でも……\u0000\n　桜井先生は先生なりに本気みたいだし）\u0000\n",
+        "text": "（これで解決――っ！？）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "0c022a09",
+            "textraw": "2900d500d50022010100f6001101230023000a000000ef0530021208e207fe001208e207f9001901fa00100cc4030e01ee00d300ef00e6002a000a00",
+            "warnings": 0
+        },
+        "speaker": "安中",
+        "speaker_translation": "",
+        "text": "（ううん、でも……\u0000\n　桜井先生は先生なりに本気みたいだし）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +822,25 @@
         "id": 63,
         "internal": {
             "speakerraw": "0c022a09",
-            "textraw": "2900230023000d010100d300f200da002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200eefe15000400c1ff10011000ebfe000065ff2a000b00f0ff4000ef0530021208e207ffffd1001e011e011e01f20001000a00e2000100e200d500d300d5005206fe00f800d500e8001b01ff0023002300090008000a00",
-            "warnings": 26
+            "textraw": "2900230023000d010100d300f200da002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "安中",
         "speaker_translation": "",
-        "text": "（……ま、いっか）\u0000\n　，　？．め￣　）桜井先生あわわわっ、\u0000\nこ、こういう時はどうすれば……！？\u0000\n",
+        "text": "（……ま、いっか）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d1001e011e011e01f20001000a00e2000100e200d500d300d5005206fe00f800d500e8001b01ff0023002300090008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "あわわわっ、\u0000\nこ、こういう時はどうすれば……！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -958,6 +997,19 @@
         "speaker": "安中",
         "speaker_translation": "",
         "text": "こっちです！　早く！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 77,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -341,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "29000d01ee004f013a01db00f902190123061001ee00090008000a0000009905d909fe003602b408c502db00800d800d2a000a00fdffedfffcff67ffffff66ff95000000beff0d001000f4ff1e00beff0e001000f4ff1e00beff0f001000f4ff1e00effe090067ff1100e8fe0200ebfe000064ffffff0800f0ff1b00f105f004ffff090008000a00",
-            "warnings": 24
+            "textraw": "29000d01ee004f013a01db00f902190123061001ee00090008000a0000009905d909fe003602b408c502db00800d800d2a000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "（またネジが回り始めた！？\u0000\n　今度は一体何が弌弌）\u0000\n３　￣／￣／￣／！。　？―笹原！？\u0000\n",
+        "text": "（またネジが回り始めた！？\u0000\n　今度は一体何が弌弌）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -419,12 +432,12 @@
         "id": 33,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "d30001009905fd00fe002300230002000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "d30001009905fd00fe002300230002000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "い、今のは……。\u0000\n．・",
+        "text": "い、今のは……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "d1001901db00f700d500e300e500d3000d01e80009000a00ec001b01f600fe003806fe00e2001b01f600090009000a00fdffedfffcff66ff1c000000edffc0ff0300ffff1000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffea01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0d000000f0ff2a00f900fd00ffff1701e60009000000c502f700da002705160cc302ea00ee0009000a00e200fd000d010d016908de00ce02fa00800d800d0a00",
-            "warnings": 46
+            "textraw": "d1001901db00f700d500e300e500d3000d01e80009000a00ec001b01f600fe003806fe00e2001b01f600090009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "ありがとうございます！\u0000\nそれでは私はこれで！！\u0000\n　，￣？　，、　　ば\u0000\nば　？　　）なのよし！　何とか誤魔化せた！\u0000\nこのまま早く家に弌弌\u0000\n",
+        "text": "ありがとうございます！\u0000\nそれでは私はこれで！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "1701e60009000000c502f700da002705160cc302ea00ee0009000a00e200fd000d010d016908de00ce02fa00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "よし！　何とか誤魔化せた！\u0000\nこのまま早く家に弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "d100d100d100d1000900080000000c0d9c06db00470cd300090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff05001000ebfe000065ff0f000000f0ff2c00f900fd00ffffd7000100d700f200f7002300230002000a00",
-            "warnings": 22
+            "textraw": "d100d100d100d1000900080000000c0d9c06db00470cd300090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "ああああ！？　両手が無い！！\u0000\n　，　？・￣　　なのえ、えっと……。\u0000\n",
+        "text": "ああああ！？　両手が無い！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d7000100d700f200f7002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "え、えっと……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +692,25 @@
         "id": 53,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "23002300e600da00e60001009c06db000e0b0501f700fe0001000a005e0cb50cf9004e0cf600d100f200ee0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff00001000ebfe000065ff19000000f0ff3600f900fd00ffffd700f2000800000099050100c502da00d10019010d01e600ee0008000a00",
-            "warnings": 18
+            "textraw": "23002300e600da00e60001009c06db000e0b0501f700fe0001000a005e0cb50cf9004e0cf600d100f200ee0002000a00",
+            "warnings": 0
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "……しかし、手が飛ぶとは、\u0000\n面妖な娘であった。\u0000\n　？　￣　〆　なのえっ？　今、何かありました？\u0000\n",
+        "text": "……しかし、手が飛ぶとは、\u0000\n面妖な娘であった。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "d700f2000800000099050100c502da00d10019010d01e600ee0008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "えっ？　今、何かありました？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -828,6 +880,19 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "はい。さようなら。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "5701570145010100fb00da00e600d9001a0117010100d100fd004e0c02000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "フフッ、ぬかしおるよ、あの娘。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

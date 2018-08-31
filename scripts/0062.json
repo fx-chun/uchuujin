@@ -393,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "d100f2000100f105f0048b040200e4001701d500f900800d800d0a00fdffedfffcff1aff0300000000fe00001e0016ffffffebfe0000adffffff64ffffff0b00f0ff1f00ef0530021208e207ffff230023002300230002000a00",
-            "warnings": 16
+            "textraw": "d100f2000100f105f0048b040200e4001701d500f900800d800d0a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "あっ、笹原君。さような弌弌\u0000\n，　　／　桜井先生…………。\u0000\n",
+        "text": "あっ、笹原君。さような弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -406,12 +419,25 @@
         "id": 32,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "e20018011b00f105f0041b0009000a00f800e2000d01f600060ae1001a01f3001101190117011b0009000a00fdffedfffcffedffc1ffffff10001fff0400000000020000c0ff04008c001000c0ff03000c01100066ff220000001aff0400000000fe00001e0016ffffffc1ff0c011000ebfe000064ffffff0b00f0ff2100ef0530021208e207ffff090008000a0098ff0000effe060097ff",
-            "warnings": 27
+            "textraw": "e20018011b00f105f0041b0009000a00f800e2000d01f600060ae1001a01f3001101190117011b0009000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "こら―笹原―！\u0000\nどこまで逃げるつもりよ―！\u0000\n￣．　斡　．￣，ぽ￣　．　　／ぽ￣　桜井先生！？\u0000\n　：",
+        "text": "こら―笹原―！\u0000\nどこまで逃げるつもりよ―！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "090008000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +614,12 @@
         "id": 47,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "090008000a0098ff0000effe030097fffdff7fff040002ff01ff05003200",
-            "warnings": 8
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，．・",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +822,25 @@
         "id": 63,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "2902db006d09d3002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe09000400c1ff80001000ebfe000065ff15000400f0ff40000e01e400f700ffffd100fd0001003806fd00500c3808fe000e01e400f700f9002201f600e800e000f80002000a00",
-            "warnings": 25
+            "textraw": "2902db006d09d3002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "胃が痛い……。\u0000\n　，　？￣！．￣　．みさとあの、私の名前はみさとなんですけど。\u0000\n",
+        "text": "胃が痛い……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "d100fd0001003806fd00500c3808fe000e01e400f700f9002201f600e800e000f80002000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "あの、私の名前はみさとなんですけど。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -965,12 +1004,25 @@
         "id": 77,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "d100f200230023000a00d9000c083304fd00e200f700ee0b1b01f500ee002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe04000400c1ff10011000ebfe0100adffffff65ff23000b00f0ff4e00ef0530021208e207ffff29006001010060013501f00012012201ef00f7002b06f200f5004109f200f500ee00da0018010a000000500c380898032d02d700f0001201f200ee00230023002a000a00",
-            "warnings": 26
+            "textraw": "d100f200230023000a00d9000c083304fd00e200f700ee0b1b01f500ee002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "あっ……\u0000\nお説教のこと忘れてた……。\u0000\n　，　？￣．．め￣、…桜井先生（マ、マコちゃんだと思って喋ってたから\u0000\n　名前間違えちゃった……）\u0000\n",
+        "text": "あっ……\u0000\nお説教のこと忘れてた……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 78,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "29006001010060013501f00012012201ef00f7002b06f200f5004109f200f500ee00da0018010a000000500c380898032d02d700f0001201f200ee00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "（マ、マコちゃんだと思って喋ってたから\u0000\n　名前間違えちゃった……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1075,6 +1127,19 @@
         "speaker": "みさと",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 87,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "2900d100f2000100d300f3001101fd00ef0530021208e207fa00730cf200f5001a012a000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "（あっ、いつもの桜井先生に戻ってる）\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     }

@@ -42,12 +42,38 @@
         "id": 3,
         "internal": {
             "speakerraw": "d900f300dc009500",
-            "textraw": "ec001b01f90018013e09d9091701da00f200ee0002000a0099050d01e400fa009a0619014d0be000f500d300ee00f700e2001c01ef0002000a011801800d800d0a00fdffedfffcff67ffffffaaff0100ff00bcffab011000c1ffb200100067ff1600aaff00000000c1ffb2001000ebfe000065ff04000500f0ff040053055b091208e207ffffd1000100d100f900ee00ee00f000fe00c5028606f600e800da00090008000a0023002300db0001003c035305fd00570b1309fa00470c0b09f600800d800d0101f200090008000a00fdffedfffcfffcffedffc1ffffff1000bcfff9011000edfffcff66ff10000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe000065ff05000500f0ff050053055b091208e207ffff0101dd001201d100d100d1001b00f200090008000a00",
-            "warnings": 38
+            "textraw": "ec001b01f90018013e09d9091701da00f200ee0002000a0099050d01e400fa009a0619014d0be000f500d300ee00f700e2001c01ef0002000a011801800d800d0a00",
+            "warnings": 0
         },
         "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "それなら丁度よかった。\u0000\n今まさに取り付けていたところだ。ほら弌弌\u0000\n、ば￣Ｖ￣　　Ｖ￣　．・．校長先生あ、あなたたちは何者ですか！？\u0000\n……が、学校の敷地に無断で弌弌ひっ！？\u0000\n￣渥￣￣　￣，．　・・・校長先生ひぎゃあああ―っ！？\u0000\n",
+        "text": "それなら丁度よかった。\u0000\n今まさに取り付けていたところだ。ほら弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "d1000100d100f900ee00ee00f000fe00c5028606f600e800da00090008000a0023002300db0001003c035305fd00570b1309fa00470c0b09f600800d800d0101f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "あ、あなたたちは何者ですか！？\u0000\n……が、学校の敷地に無断で弌弌ひっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 5,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "0101dd001201d100d100d1001b00f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "ひぎゃあああ―っ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -373,6 +399,19 @@
         "speaker": "おつき３",
         "speaker_translation": "",
         "text": "これでアンテナ装着者が決まり、\u0000\nＫＨＵＤ中継がスタ―トする。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "2300230014025307ef0002000a00f600fe002401750148014c017d0829098606fd00c4048c09fa004b092201f600de001b0109000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "……以上だ。\u0000\nではアンテナ装着者の決定に挑んでくれ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

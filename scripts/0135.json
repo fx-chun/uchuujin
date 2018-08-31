@@ -133,12 +133,25 @@
         "id": 10,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "2c0101002c01450133011b000100600aea00f50009000a00f5001301d100d1001b001b000900090000001501f200e20041011b00450131016d0109000a00fdffedfffcff1aff03000000000200001e0016ffffffedffc1ffffff1000ebfe0000adffffff64ffffff3200f0ff0b00a509f40bfffff609ee001a01da00170109000a00",
-            "warnings": 18
+            "textraw": "2c0101002c01450133011b000100600aea00f50009000a00f5001301d100d1001b001b000900090000001501f200e20041011b00450131016d0109000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "オ、オッケ―、任せて！\u0000\nてやああ――！！　ゆっこタ―ックル！\u0000\n，　斡　／￣　泥棒当たるかよ！\u0000\n",
+        "text": "オ、オッケ―、任せて！\u0000\nてやああ――！！　ゆっこタ―ックル！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speakerraw": "a509f40b",
+            "textraw": "f609ee001a01da00170109000a00",
+            "warnings": 0
+        },
+        "speaker": "泥棒",
+        "speaker_translation": "",
+        "text": "当たるかよ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -172,12 +185,25 @@
         "id": 14,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "f200f50053055b091208e2071b001b00f200090008000a00fdffedfffcff1fff0300000000fe0000c0ff03004200ff001aff03000000680000000a0016ffffffedfffcff66ff36000000c1ffffff1000b3ff0300f4ff0400daffb2ffedfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff1000faff01000000f9ff0800c0ff0300af011000ebfe000065ff00002200f0ff0f0007fffffffe00fe0001004c011b0026013b014101450131016d0102000a002c01450137017501ad07dc000e0b2201ef00eb0002000a00",
-            "warnings": 47
+            "textraw": "f200f50053055b091208e2071b001b00f200090008000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "って校長先生――っ！？\u0000\n，　　，ば，　　\u0000\n　￣，．、　？￣／￣￣、　？，￣　　はは、ナ―イスタックル。\u0000\nオッサン吹き飛んだぜ。\u0000\n",
+        "text": "って校長先生――っ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "07ff",
+            "textraw": "fe00fe0001004c011b0026013b014101450131016d0102000a002c01450137017501ad07dc000e0b2201ef00eb0002000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "はは、ナ―イスタックル。\u0000\nオッサン吹き飛んだぜ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -328,12 +354,25 @@
         "id": 27,
         "internal": {
             "speakerraw": "a509f40b",
-            "textraw": "dd001201d100d100d100090009000a00fdffedfffcff66ff23000000daff67ff1500eeffe8fe0200c1ff86001000ebfe000064ffffff0400f0ff1c000e01e400f700ffffb70b0d01d700ee001e010900000093036c0ae600f900e400d30009000a0098ff0000effe090097ff",
-            "warnings": 20
+            "textraw": "dd001201d100d100d100090009000a00",
+            "warnings": 0
         },
         "speaker": "泥棒",
         "speaker_translation": "",
-        "text": "ぎゃあああ！！\u0000\n…　。￣　．みさと捕まえたわ！　観念しなさい！\u0000\n　！",
+        "text": "ぎゃあああ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "b70b0d01d700ee001e010900000093036c0ae600f900e400d30009000a0098ff0000effe090097ff",
+            "warnings": 3
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "捕まえたわ！　観念しなさい！\u0000\n　！",
         "text_translation": "",
         "type": "dialog"
     },
@@ -432,12 +471,25 @@
         "id": 36,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "cd0854074f0b08000000550bde00f900da00f200ee0008000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700c1ff4a001000ebfe000065ff08000200f0ff25001501f200e200ffffd1001b000100ec002201f900e200f7006505d7001a013808fa000a00820d850dfa009407b408db000e0ad300ee000100f700fa04d500da0002000a00",
-            "warnings": 17
+            "textraw": "cd0854074f0b08000000550bde00f900da00f200ee0008000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "大丈夫？　怖くなかった？\u0000\n．４　・：；￣　？。ゆっこあ―、そんなこと考える前に\u0000\n丕丶に身体が動いた、と言うか。\u0000\n",
+        "text": "大丈夫？　怖くなかった？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d1001b000100ec002201f900e200f7006505d7001a013808fa000a00820d850dfa009407b408db000e0ad300ee000100f700fa04d500da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "あ―、そんなこと考える前に\u0000\n丕丶に身体が動いた、と言うか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +627,25 @@
         "id": 48,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "42016301ef00f200ee00090008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe18000400c1ff4a001000ebfe000065ff14000200f0ff31001501f200e200ffffd1001b0023002300cd0854074f0b02000a00",
-            "warnings": 22
+            "textraw": "42016301ef00f200ee00090008000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "ダメだった！？\u0000\n　？．￣　。ゆっこあ―……大丈夫。\u0000\n",
+        "text": "ダメだった！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d1001b0023002300cd0854074f0b02000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "あ―……大丈夫。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -679,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "d100fd00090b1901800b550bd6001b0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe18000400c1ff3f001000ebfe000065ff1d000200f0ff3a001501f200e200ffffd100fe00fe000100f0001601f200f700ef00e00002000a00",
-            "warnings": 22
+            "textraw": "d100fd00090b1901800b550bd6001b0002000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "あの被り物怖ぇ―。\u0000\n　？．￣　。ゆっこあはは、ちょっとだけ。\u0000\n",
+        "text": "あの被り物怖ぇ―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d100fe00fe000100f0001601f200f700ef00e00002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "あはは、ちょっとだけ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -789,6 +867,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "e60001003406fb00da00f7002b06f200ee002300230002000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "し、死ぬかと思った……。\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     }

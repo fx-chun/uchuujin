@@ -146,12 +146,25 @@
         "id": 11,
         "internal": {
             "speakerraw": "07ff",
-            "textraw": "af03f900d300f20009000000fb00d800d80019011201d100d100090009000a00fdffedfffcfffcff66ff74000000daffc1ffc4011000ebfe000065ff01002300f0ff0c0008ffffffd900d900f200090000004c0126013b01f9020c0b09000a00",
-            "warnings": 15
+            "textraw": "af03f900d300f20009000000fb00d800d80019011201d100d100090009000a00",
+            "warnings": 0
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "危ないっ！　ぬぉぉりゃああ！！\u0000\n　￣　、…おおっ！　ナイス回避！\u0000\n",
+        "text": "危ないっ！　ぬぉぉりゃああ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "08ff",
+            "textraw": "d900d900f200090000004c0126013b01f9020c0b09000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "おおっ！　ナイス回避！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -341,12 +354,25 @@
         "id": 27,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "2900d700d700d7001b001b001b00090008002a000a00fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700e8fe0200ebfe000065ff07001600f0ff1c002a09730a6007e4002201ffffcd08770bfe00bd057a05fd00800bef0009000a007f051e01f900d3001e01e000db00f900d300ef001c01d50009000a00",
-            "warnings": 17
+            "textraw": "2900d700d700d7001b001b001b00090008002a000a00",
+            "warnings": 0
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "（えええ―――！？）\u0000\n．　４・：；。　；中之条さん大福は最高の物だ！\u0000\n合わないわけがないだろう！\u0000\n",
+        "text": "（えええ―――！？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 28,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "cd08770bfe00bd057a05fd00800bef0009000a007f051e01f900d3001e01e000db00f900d300ef001c01d50009000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "大福は最高の物だ！\u0000\n合わないわけがないだろう！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "2900230023003806fe000100f800d500e8001b01ff00d300d3002201ef001c01d5002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe04000400ebfe000065ff17001d00f0ff2c004a04a208ffff110101008907e600870ce300e500d3000d01ea0022012300230002000a00",
-            "warnings": 23
+            "textraw": "2900230023003806fe000100f800d500e8001b01ff00d300d3002201ef001c01d5002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "（……私は、どうすればいいんだろう）\u0000\n　，　？．．　玉村も、申し訳ございません……。\u0000\n",
+        "text": "（……私は、どうすればいいんだろう）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "110101008907e600870ce300e500d3000d01ea0022012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "も、申し訳ございません……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "230023001701e60002000a0098ff0000effe090097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffc001ff00c1ff0a00ff00c8ff5e018901ff0090ff890190ffffff67ff100071ff000063ffffff90ffffffedfff9ff0800c1ff89011000ebfe000065ff2a001d00f0ff3f004a04a208ffff9f0d1001f500d90019010d01ea002201db0001000a00f609b909fa00cd08770bfe00e300e500d3000d01ea002201fd00f6002300230002000a00",
-            "warnings": 55
+            "textraw": "230023001701e60002000a0098ff0000effe090097ff",
+            "warnings": 3
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "……よし。\u0000\n　！　？？　，、　　ば\u0000\nばボば￣　？￣　）玉村仞めておりませんが、\u0000\n当店に大福はございませんので……。\u0000\n",
+        "text": "……よし。\u0000\n　！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "9f0d1001f500d90019010d01ea002201db0001000a00f609b909fa00cd08770bfe00e300e500d3000d01ea002201fd00f6002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "仞めておりませんが、\u0000\n当店に大福はございませんので……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -932,6 +984,19 @@
         "speaker": "中之条さん",
         "speaker_translation": "",
         "text": "終了！？\u0000\n……くっ、仕方が無い、またくるぞ！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 76,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "d70008000a0023002300d1001b0108000000d1001b011b011b0008000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "え？\u0000\n……あれ？　あれれ―？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

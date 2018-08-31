@@ -536,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "52016c012d017501090008000a0098ff0000effe060097fffdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700eefe0900040066ffb6000000e8fe0200c0ff04003d001000ebfe000065ff0a000200f0ff2a001501f200e200fffffe00d100d100d100090009000a00",
-            "warnings": 21
+            "textraw": "52016c012d017501090008000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "バリカン！？\u0000\n　：．４　\u0000\n・：；！．Ｚ　。．￣　\u0000\n。）ゆっこはあああ！！\u0000\n",
+        "text": "バリカン！？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fe00d100d100d100090009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "はあああ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -624,15 +637,41 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 49,
         "internal": {
-            "speakerraw": "1e0016ff",
-            "textraw": "e8fe0200c1ff00011000ebfe000065ff11000a00f0ff31002a09730a6007ffffea00d300f20009000a00fdffedfffcffb3ff030066ff3e000000c1ff41001000b2ff1aff04000000680000000a0066ff3100000016ffffffeffe0900e8fe0200ebfe000065ff12000200f0ff32001501f200e200ffff090008000a00fdffedfffcff1aff04000000680010010a0016ffffff66ff30000000edffc0ff0400ffff1000c1fffe001000ebfe000065ff13000a00f0ff33002a09730a6007ffffd100f2002300230002000a00",
-            "warnings": 49
+            "speakerraw": "2a09730a6007",
+            "textraw": "ea00d300f20009000a00",
+            "warnings": 0
         },
-        "speaker": "／",
+        "speaker": "中之条",
         "speaker_translation": "",
-        "text": "。ぱ￣　\u0000\n中之条せいっ！\u0000\n，　￣．　　\u0000\n　！。　。ゆっこ！？\u0000\n．　め\u0000\n｝　．￣は￣　\u0000\n中之条あっ……。\u0000\n",
+        "text": "せいっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d100f2002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "あっ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +679,25 @@
         "id": 52,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "200020002000200009000900090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe0f000400c1ffff001000ebfe0100adffffff65ff15000a00f0ff35002a09730a6007ffff2900f9000100c5020805ef00da001e01da001801f900d300e000f8000a0000007208e207e4002201db00dc09f200f500d3001a012300230009002a000a00",
-            "warnings": 26
+            "textraw": "200020002000200009000900090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "〜〜〜〜！！！！\u0000\n　，　？．ば￣、\u0000\n中之条（な、何故だかわからないけど\u0000\n　相生さんが怒っている……！）\u0000\n",
+        "text": "〜〜〜〜！！！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900f9000100c5020805ef00da001e01da001801f900d300e000f8000a0000007208e207e4002201db00dc09f200f500d3001a012300230009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（な、何故だかわからないけど\u0000\n　相生さんが怒っている……！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -874,12 +926,25 @@
         "id": 71,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "290023002300060ae100ee00fd00da002a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1fffb001000ebfe0100adffffff65ff28000a00f0ff48002a09730a6007ffff2900da00010064031a01c403f900fd00da002300230008000a000000d100fd0052016c012d017501f600640154012d0175012101230023002a000a00",
-            "warnings": 22
+            "textraw": "290023002300060ae100ee00fd00da002a000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "（……逃げたのか）\u0000\n　？￣．ぬ￣、\u0000\n中之条（か、刈る気なのか……？\u0000\n　あのバリカンでモヒカンを……）\u0000\n",
+        "text": "（……逃げたのか）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900da00010064031a01c403f900fd00da002300230008000a000000d100fd0052016c012d017501f600640154012d0175012101230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（か、刈る気なのか……？\u0000\n　あのバリカンでモヒカンを……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -984,6 +1049,19 @@
         "speaker": "中之条",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "23002300e9001a01d30009000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "……ずるい！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

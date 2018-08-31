@@ -1095,12 +1095,25 @@
         "id": 84,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "3e03e600de00d10019010d01ea00220109000a00510a99072404d300d300c902f404fa00e600f500de00ef00e4001b00d300090009000a00fdffedfffcff67ffffff66ff0f000000aaff0100ff00edffc1ffffff1000bcffd8011000aaff00000000c1ff3a011000ebfe000065ff55001000f0ff55003b0141011b006b01290bffff2300230004010f0102000a00530611013e03e6001001ec00d500ef00f90002000a00",
-            "warnings": 21
+            "textraw": "3e03e600de00d10019010d01ea00220109000a00510a99072404d300d300c902f404fa00e600f500de00ef00e4001b00d300090009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "楽しくありません！\u0000\n二人共いい加減にしてくださ―い！！\u0000\n　、ば￣￣　　ジ￣　￣スタ―ラ姫……ふむ。\u0000\n次も楽しめそうだな。\u0000\n",
+        "text": "楽しくありません！\u0000\n二人共いい加減にしてくださ―い！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 85,
+        "internal": {
+            "speakerraw": "3b0141011b006b01290b",
+            "textraw": "2300230004010f0102000a00530611013e03e6001001ec00d500ef00f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "スタ―ラ姫",
+        "speaker_translation": "",
+        "text": "……ふむ。\u0000\n次も楽しめそうだな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

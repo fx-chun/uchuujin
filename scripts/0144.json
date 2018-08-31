@@ -380,12 +380,25 @@
         "id": 29,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "230023002300230002000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ffffffc1ffc8001000ebfe000065ff08000600f0ff1e002a09a2081208e207ffff0d01ee0053055b091208e207f600e800da0002000a00",
-            "warnings": 17
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．４　・：；ｒ￣　？：／中村先生また校長先生ですか。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "0d01ee0053055b091208e207f600e800da0002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "また校長先生ですか。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -627,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "23002300f900eb00ef0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffc2001000ebfe0100adffffff65ff1c000600f0ff32002a09a2081208e207ffff29000d01d1000100f800d500ea001c01de00f6001101f900d300e200f700ef001c01d50002000a0000006505d700f900d300f600d900e200d5002a000a00",
-            "warnings": 24
+            "textraw": "23002300f900eb00ef0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "……なぜだ。\u0000\n　，　？ｌ￣、：中村先生（まあ、どうせろくでもないことだろう。\u0000\n　考えないでおこう）\u0000\n",
+        "text": "……なぜだ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "29000d01d1000100f800d500ea001c01de00f6001101f900d300e200f700ef001c01d50002000a0000006505d700f900d300f600d900e200d5002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（まあ、どうせろくでもないことだろう。\u0000\n　考えないでおこう）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -809,12 +835,25 @@
         "id": 64,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "ac09f609f9007d081a099300f300f600f9035a0af700250d5206af065c0a230023000a00170dd3002d016401ef00f90002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ffc8001000ebfe0100adffffff65ff2b000600f0ff41002a09a2081208e207ffff290032037406fa006f0ddb005b09de00f9001a01c10307030100da00230023002a000a00",
-            "warnings": 25
+            "textraw": "ac09f609f9007d081a099300f300f600f9035a0af700250d5206af065c0a230023000a00170dd3002d016401ef00f90002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "適当な装置１つで休日と臨時収入……\u0000\n良いカモだな。\u0000\n　，　？￣．ｒ￣、：中村先生（確実に話が長くなる機械、か……）\u0000\n",
+        "text": "適当な装置１つで休日と臨時収入……\u0000\n良いカモだな。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "290032037406fa006f0ddb005b09de00f9001a01c10307030100da00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（確実に話が長くなる機械、か……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -971,6 +1010,19 @@
         "speaker": "中村先生",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 78,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "d1001b01fe009e091001f500f900d300f90002000a005306fd003c085305c806f702db003e03e6000e01ef0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "あれは諦めてないな。\u0000\n次の全校集会が楽しみだ。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

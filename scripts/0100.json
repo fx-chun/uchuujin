@@ -406,12 +406,25 @@
         "id": 31,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "2900f9001a010a01f8000100ec00d500da0009002a000a00fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe05000600070067ff1600eefe19000400c1fff2001000ebfe0100adffffff65ff04000900f0ff2000cd084105ffff2900e2001b01fe004601450135016101ba08f000fa002d02d300f900d300090009002a000a00",
-            "warnings": 19
+            "textraw": "2900f9001a010a01f8000100ec00d500da0009002a000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "（なるほど、そうか！）\u0000\n．　\u0000\n４・：；〆．っ￣、．！〜大工（これはツッコミ待ちに違いない！！）\u0000\n",
+        "text": "（なるほど、そうか！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "2900e2001b01fe004601450135016101ba08f000fa002d02d300f900d300090009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "（これはツッコミ待ちに違いない！！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "09000900090008000a0098ff0000effe060097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ffec001000ebfe000065ff13000900f0ff2f00cd084105ffff12091801220123002300d900e700e4002201db0009000a00",
-            "warnings": 22
+            "textraw": "09000900090008000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "！！！？\u0000\n　：　？￣そ￣　！｛大工知らん……おじさんが！\u0000\n",
+        "text": "！！！？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "12091801220123002300d900e700e4002201db0009000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "知らん……おじさんが！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ffec001000ebfe000065ff23000900f0ff3f00cd084105ffff23002300d1000100ec00d500d300d700ff0002000a00",
-            "warnings": 23
+            "textraw": "090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "！！\u0000\n　，　？そ￣　…！大工……あ、そういえば。\u0000\n",
+        "text": "！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "23002300d1000100ec00d500d300d700ff0002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "……あ、そういえば。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -958,6 +997,19 @@
         "speaker": "関口",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 77,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "d102ef001701f9001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "暇だよな―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

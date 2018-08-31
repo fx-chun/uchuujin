@@ -432,12 +432,25 @@
         "id": 33,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "29001908d300db0023060d01f200ee0018010100d100fd00dc020909fe000a000000c404e600f500470c4a06f600fe00c7050d01f900d30023002300090009002a000a00fdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe05000600070067ffffffe8fe0200c1fffc001000ebfe000065ff0c000a00f0ff22002a09730a6007ffffba08f500ba08f500ba08f5001b001b00090009000a0098ff0000effe080097ff",
-            "warnings": 23
+            "textraw": "29001908d300db0023060d01f200ee0018010100d100fd00dc020909fe000a000000c404e600f500470c4a06f600fe00c7050d01f900d30023002300090009002a000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "（戦いが始まったら、あの花壇は\u0000\n　決して無事では済まない……！！）\u0000\n．４　・：；。ね￣　\u0000\n中之条待て待て待て――！！\u0000\n　？",
+        "text": "（戦いが始まったら、あの花壇は\u0000\n　決して無事では済まない……！！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "ba08f500ba08f500ba08f5001b001b00090009000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "待て待て待て――！！\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -601,12 +614,25 @@
         "id": 47,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "e2002201f9002504f10bf90036025e0c11015106f200f500ee00f9002201f50001000a001301f20000011901640154012d017501fe00530175013101ef0009000a0098ff0000effe090097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0d00eefe10000400c1fffa001000ebfe0100adffffff65ff1a000a00f0ff30002a09730a6007ffff2900d30013010100e600da00e6000100010cfa00fe000a00000094001c0bfd001908d3002101330610011a011d0dfe00470cd300230023002a000a00",
-            "warnings": 26
+            "textraw": "e2002201f9002504f10bf90036025e0c11015106f200f500ee00f9002201f50001000a001301f20000011901640154012d017501fe00530175013101ef0009000a0098ff0000effe090097ff",
+            "warnings": 3
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "こんな凶暴な一面も持ってたなんて、\u0000\nやっぱりモヒカンはパンクだ！\u0000\n　！　？￣．に￣、\u0000\n｝中之条（いや、しかし、僕には\u0000\n　２匹の戦いを止める力は無い……）\u0000\n",
+        "text": "こんな凶暴な一面も持ってたなんて、\u0000\nやっぱりモヒカンはパンクだ！\u0000\n　！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900d30013010100e600da00e6000100010cfa00fe000a00000094001c0bfd001908d3002101330610011a011d0dfe00470cd300230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（いや、しかし、僕には\u0000\n　２匹の戦いを止める力は無い……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -692,12 +718,64 @@
         "id": 55,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "0e041c01d500230023000a00010cfa00f600dc001a01e200f700fe00c5021101f900d3002300230002000a0098ff0000effe0a0097fffdffedfffcff66ff2a0000001aff0300000000020000780016ffffffedffc1ffffff100066ffc7000000daffeeffc1ff8b011000ebfe0000adffffff65ff22001e00f0ff38006106ffff230023002300230002000a00fdffedfffcff66ff440000001aff0300000000fe0000780016ffffffedffc1ffffff1000c1ff8e011000ebfe0000adffffff65ff23001f00f0ff390066013001ffff230023002300230002000a00fdffedfffcff66ff440000001aff0300000000fe0000780016ffffffedffc1ffffff1000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff901ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff24002e00f0ff3a004c016e011b0041011b00d9002406e4002201fffffa0a18011101c4030d01e900de00f900f200ee001701d500f600e80002000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c0ff03008e011000ebfe0000adffffff65ff25001f00f0ff3b0066013001ffff230023002300230002000a00",
-            "warnings": 128
+            "textraw": "0e041c01d500230023000a00010cfa00f600dc001a01e200f700fe00c5021101f900d3002300230002000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "去ろう……\u0000\n僕にできることは何もない……。\u0000\n　\u0000\n）　，　斡　￣ｑ　￣　／鹿…………。\u0000\n　，　　￣￣　…ヤギ…………。\u0000\n　，　　￣？　　，、　　渥ば\u0000\nば　？　ナレ―タ―お姉さん彼らも気まずくなったようです。\u0000\n　\u0000\n　？￣．，￣　ヤギ…………。\u0000\n",
+        "text": "去ろう……\u0000\n僕にできることは何もない……。\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "66013001",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ヤギ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "4c016e011b0041011b00d9002406e4002201",
+            "textraw": "fa0a18011101c4030d01e900de00f900f200ee001701d500f600e80002000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "ナレ―タ―お姉さん",
+        "speaker_translation": "",
+        "text": "彼らも気まずくなったようです。\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "66013001",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ヤギ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -750,6 +828,19 @@
         "speaker": "中之条",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "33046e060100730c1801f900d300f7002300230002000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "教室、戻らないと……。\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

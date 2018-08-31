@@ -445,12 +445,12 @@
         "id": 34,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "2900d100d1000100760a2201f6001a01520698031101f507e600d300fd00fa00230023000a000000f800d500e8001a0108000000f800d500e8001a0108000000f800d500e8001a01090008002a000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "2900d100d1000100760a2201f6001a01520698031101f507e600d300fd00fa00230023000a000000f800d500e8001a0108000000f800d500e8001a0108000000f800d500e8001a01090008002a000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "（ああ、悩んでる時間も惜しいのに……\u0000\n　どうする？　どうする？　どうする！？）\u0000\n．・",
+        "text": "（ああ、悩んでる時間も惜しいのに……\u0000\n　どうする？　どうする？　どうする！？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -679,12 +679,25 @@
         "id": 52,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "a20bfd001301f300ef002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff63ff0200eefe16000400c1ff68001000ebfe0100adffffff65ff19000300f0ff35000e01d900ffff2900d9000100de0cf0002909e000380609002a000a00",
-            "warnings": 27
+            "textraw": "a20bfd001301f300ef002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "別のやつだ……。\u0000\n　，　？。．￣、〆，みお（お、落ち着け私！）\u0000\n",
+        "text": "別のやつだ……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 53,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "2900d9000100de0cf0002909e000380609002a000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "（お、落ち着け私！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -978,12 +991,25 @@
         "id": 76,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "23002300f9002201ef001c0101006a03c403db0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff63001000ebfe0100adffffff65ff31000300f0ff4d000e01d900ffff2900ef000100cd0854074f0bef001701fc0002000a000000d1002201f900fd000100d100f700fe008006f5001a01ef00e000f9002201ef00e6002a000a00",
-            "warnings": 22
+            "textraw": "23002300f9002201ef001c0101006a03c403db0002000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "……なんだろ、寒気が。\u0000\n　？￣、，みお（だ、大丈夫だよね。\u0000\n　あんなの、あとは捨てるだけなんだし）\u0000\n",
+        "text": "……なんだろ、寒気が。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 77,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "2900ef000100cd0854074f0bef001701fc0002000a000000d1002201f900fd000100d100f700fe008006f5001a01ef00e000f9002201ef00e6002a000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "（だ、大丈夫だよね。\u0000\n　あんなの、あとは捨てるだけなんだし）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1075,6 +1101,19 @@
         "speaker": "中之条",
         "speaker_translation": "",
         "text": "……ん？　何だろう、\u0000\nコ―スタ―に絵が描かれて弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 85,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "090008000a0098ff0000effe040097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　．",
         "text_translation": "",
         "type": "dialog"
     }

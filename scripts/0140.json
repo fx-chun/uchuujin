@@ -198,12 +198,25 @@
         "id": 15,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "f9000100f9002201ef00e2001b0123002300230023000a00d500d4000100fe03fa000100440cde00230023002300230002000a00fdffedfffcff1aff0300000078ff10010a0016ffffff66ff30000000edffc0ff0300ffff1000c1ffbf001000ebfe000064ffffff0600f0ff10002a09a2081208e207ffff23002300230023001701e60002000a00",
-            "warnings": 17
+            "textraw": "f9000100f9002201ef00e2001b0123002300230023000a00d500d4000100fe03fa000100440cde00230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "な、なんだこれ…………\u0000\nうぅ、急に、眠く…………。\u0000\n，　め\u0000\n｝　，￣ｉ￣　：￣中村先生…………よし。\u0000\n",
+        "text": "な、なんだこれ…………\u0000\nうぅ、急に、眠く…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "23002300230023001701e60002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "…………よし。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "de001801d700f200090009000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700eefe09000400c9ff59021000c1ff64001000ebfe000065ff08000300f0ff2a000e01d900ffffec000100ec001b01fe003602b4082300230008000a00",
-            "warnings": 18
+            "textraw": "de001801d700f200090009000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "くらえっ！！\u0000\n．４　・：；！．臼￣￣　？，）みおそ、それは一体……？\u0000\n",
+        "text": "くらえっ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "ec000100ec001b01fe003602b4082300230008000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "そ、それは一体……？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -679,12 +705,38 @@
         "id": 54,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "060ae1001c01f200090009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffe8fe0200c1ff66001000ebfe000065ff15000300f0ff37000e01d900ffffdc001201f200090009000a00fdffedfffcff67ffffff66ff61000000dafff5ff080066ff52000000dafff6ff0800eefe01000400c1ff63001000ebfe0000adffffff65ff16000300f0ff38000e01d900ffff230023002300230002000a00",
-            "warnings": 45
+            "textraw": "060ae1001c01f200090009000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "逃げろっ！！\u0000\n　？。￣　，みおきゃっ！！\u0000\n　？　？、．￣　，みお…………。\u0000\n",
+        "text": "逃げろっ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "dc001201f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "きゃっ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 56,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +822,25 @@
         "id": 63,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "d1001b0101005b09800cf004e40022011101d3001a010200e400f200dc00c502da00db000a00c90a7f06e4001b01ee000e01ee00d300f600e600ee00e000f80001007406ed04f6001101800d800d0a00fdffedfffcff66ff070000001aff04000000680010010a0016ffffffbfff00001000e8fe0200ebfe000065ff1e000000f0ff4000f900fd00ffff1e01f200090008000a00f9000100f9002201f600e800da00e2001b012000090008000a00",
-            "warnings": 15
+            "textraw": "d1001b0101005b09800cf004e40022011101d3001a010200e400f200dc00c502da00db000a00c90a7f06e4001b01ee000e01ee00d300f600e600ee00e000f80001007406ed04f6001101800d800d0a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "あれ、長野原さんもいる。さっき何かが\u0000\n発射されたみたいでしたけど、実験でも弌弌\u0000\n；　．　め\u0000\n　￣。　／　なのわっ！？\u0000\nな、なんですかこれ〜！？\u0000\n",
+        "text": "あれ、長野原さんもいる。さっき何かが\u0000\n発射されたみたいでしたけど、実験でも弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 64,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "1e01f200090008000a00f9000100f9002201f600e800da00e2001b012000090008000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "わっ！？\u0000\nな、なんですかこれ〜！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -952,12 +1017,25 @@
         "id": 78,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "230023000d01ee006c06900ada0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1800e8fe0200c1ffc3001000ebfe000065ff2d000600f0ff4f002a09a2081208e207fffff70019011201d100d100d100d100d100d100090009000a00",
-            "warnings": 22
+            "textraw": "230023000d01ee006c06900ada0002000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "……また失敗か。\u0000\n　？。ｍ￣　：中村先生とりゃああああああ！！\u0000\n",
+        "text": "……また失敗か。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 79,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "f70019011201d100d100d100d100d100d100090009000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "とりゃああああああ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -965,12 +1043,25 @@
         "id": 80,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "dc001201d100d100d100d100d100d100d100090009000a00fdffedfffcff66ff070000001aff04000000680010010a0016ffffffbfff06001000e8fe0200ebfe000065ff2f000600f0ff51002a09a2081208e207ffff090008000a00",
-            "warnings": 15
+            "textraw": "dc001201d100d100d100d100d100d100d100090009000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "きゃあああああああ！！\u0000\n；　．　め\u0000\n：￣。　｛：中村先生！？\u0000\n",
+        "text": "きゃあああああああ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1062,6 +1153,19 @@
         "speaker": "みお",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 89,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "2900c704470401005f01330145014a01fa00c50221015106f200f500ee002201ef001c01d500230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "（結局、ポケットに何を持ってたんだろう……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

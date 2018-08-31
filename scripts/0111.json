@@ -341,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "ef0530021208e2071101da001e01d300ec00d500fa002300230002000a0098ff0000effe030097fffdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700eefe10000400c0ff0400ca001000ebfe000065ff0a000700f0ff1b00170c2b02ffff230023001208e20702000a00",
-            "warnings": 18
+            "textraw": "ef0530021208e2071101da001e01d300ec00d500fa002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "桜井先生もかわいそうに……。\u0000\n　，．\u0000\n４　・：；￣．．ｔ￣　\u0000\n；―麻衣……先生。\u0000\n",
+        "text": "桜井先生もかわいそうに……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "230023001208e20702000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "……先生。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "d300f300b70b0d011a01da00f90008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffca001000ebfe0000adffffff65ff1e000700f0ff2f00170c2b02ffff230023002300230002000a00",
-            "warnings": 22
+            "textraw": "d300f300b70b0d011a01da00f90008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "いつ捕まるかな？\u0000\n　，　？ｔ￣　／；｛麻衣…………。\u0000\n",
+        "text": "いつ捕まるかな？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -848,12 +874,25 @@
         "id": 67,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "3101310131012300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffca001000ebfe0000adffffff65ff33000700f0ff4400170c2b02ffff230023002300230002000a00",
-            "warnings": 21
+            "textraw": "3101310131012300230002000a00",
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "ククク……。\u0000\n　？ｔ￣　；麻衣…………。\u0000\n",
+        "text": "ククク……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -919,6 +958,19 @@
         "speaker": "麻衣",
         "speaker_translation": "",
         "text": "ふぅ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "520c5a0afd0083078f0bdb003e03e6000e0102000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "明日の新聞が楽しみ。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

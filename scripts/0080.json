@@ -16,12 +16,25 @@
         "id": 1,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "d10020000100d900780bf404f200ee00200002000a0099055a0afd00d9002f09e300ed0ac502da00f900200002000a00fdffedfffcfffcffedffc1ffffff1000c8ffffffffff10001fff0300000000020000c0ff03003001ff001aff0300000078ff00001e001fff0400000000020000c0ff04003201ff001aff04000000680000001e0016ffffffdaffedffc8ff300132011000adff0a00aeff03008000aeff04008000ebfe000064ffffff0e00f0ff020052014901250154003501520149012501ffff230023002300230002000a00",
-            "warnings": 34
+            "textraw": "d10020000100d900780bf404f200ee00200002000a0099055a0afd00d9002f09e300ed0ac502da00f900200002000a00",
+            "warnings": 0
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "あ〜、お腹減った〜。\u0000\n今日のお昼ご飯何かな〜。\u0000\n￣￣，　斡　，ギば，　　／．　斡　．グば．　　／ギグ￣\u0000\n，．　。バディ＆コバディ…………。\u0000\n",
+        "text": "あ〜、お腹減った〜。\u0000\n今日のお昼ご飯何かな〜。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "52014901250154003501520149012501",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "バディ＆コバディ",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -55,12 +68,38 @@
         "id": 5,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "d900780bf404f200ee00e000f80023002300d300d300130102000a001208fa000a06b80bfa006c05de00da0009000a00fdffedfffcffedffc1ffffff100066ff18000000daff66ff7e000000edffc8ff300132011000adff0a00ebfe000064ffffff0e00f0ff060052014901250154003501520149012501ffff09000a00fdffedfffcfffcff67ff120066ff200000001aff0300000000fe00001e001aff0400000078ff00001e0016ffffff1aff0400000000fe00001e00daffedffc1ffffff1000e8fe0200ebfe000064ffffff1700f0ff0700dc001701e600ffff090008000a0098ff0000effe060097ff",
-            "warnings": 49
+            "textraw": "d900780bf404f200ee00e000f80023002300d300d300130102000a001208fa000a06b80bfa006c05de00da0009000a00",
+            "warnings": 0
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "お腹減ったけど……いいや。\u0000\n先に散歩に行くか！\u0000\n￣　　ギグ￣\u0000\n　：バディ＆コバディ！\u0000\n〜　，　　／．　　／．　　／￣。　；きよし！？\u0000\n　：",
+        "text": "お腹減ったけど……いいや。\u0000\n先に散歩に行くか！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 6,
+        "internal": {
+            "speakerraw": "52014901250154003501520149012501",
+            "textraw": "09000a00",
+            "warnings": 0
+        },
+        "speaker": "バディ＆コバディ",
+        "speaker_translation": "",
+        "text": "！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "090008000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -302,12 +341,12 @@
         "id": 26,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "f9000100c50221012300230008000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "f9000100c50221012300230008000a00",
+            "warnings": 0
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "な、何を……？\u0000\n．",
+        "text": "な、何を……？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -432,12 +471,25 @@
         "id": 36,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "7a07e7001b01fc001b0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ff65011000ebfe000065ff0f001700f0ff2500dc001701e600ffff7a07e7001c01f200f500230023001101e600da00e600f5000100d900e700d300f00012012201db000a00520149012501ee00f0002101f908e600f500dc00f500de001b011a01f200f500e200f70008000a00",
-            "warnings": 25
+            "textraw": "7a07e7001b01fc001b0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "信じれね―。\u0000\n　，　？ャ￣　きよし信じろって……もしかして、おじいちゃんが\u0000\nバディたちを探してきてくれるってこと？\u0000\n",
+        "text": "信じれね―。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "7a07e7001c01f200f500230023001101e600da00e600f5000100d900e700d300f00012012201db000a00520149012501ee00f0002101f908e600f500dc00f500de001b011a01f200f500e200f70008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "信じろって……もしかして、おじいちゃんが\u0000\nバディたちを探してきてくれるってこと？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +627,25 @@
         "id": 48,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "d900e700d300f000120122010100a404b908ee0b1b01f5001a01170109000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe16000400c1ff64011000ebfe000065ff1b001700f0ff3100dc001701e600ffff7a07e7001c01f200f500230023000a00d900e700d300f0001201220121017a07e7001c01f200f500e200f700da00f90008000a00",
-            "warnings": 24
+            "textraw": "d900e700d300f000120122010100a404b908ee0b1b01f5001a01170109000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "おじいちゃん、携帯忘れてるよ！\u0000\n　\u0000\n　？．モ￣　―きよし信じろって……\u0000\nおじいちゃんを信じろってことかな？\u0000\n",
+        "text": "おじいちゃん、携帯忘れてるよ！\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "7a07e7001c01f200f500230023000a00d900e700d300f0001201220121017a07e7001c01f200f500e200f700da00f90008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "信じろって……\u0000\nおじいちゃんを信じろってことかな？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -633,6 +698,19 @@
         "speaker": "きよし",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "f7001901d100d700e9000100e300ed0a750708011701d50002000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "とりあえず、ご飯食べよう。\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

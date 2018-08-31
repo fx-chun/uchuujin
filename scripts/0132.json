@@ -484,12 +484,25 @@
         "id": 37,
         "internal": {
             "speakerraw": "57012901f200f00012012201",
-            "textraw": "23002300d1001b01080000001101e600da00e600f500f900fd00f00012012201f200f5000a00fa04d700f900d300de001801d300d506d300fd0008000a00fdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe05000600070067ff1200c1ff0a001000ebfe000065ff09000000f0ff2600f900fd00ffffec000100ec002201f900e200f700f900d300f600e80009000a00a408fd00990717011901f0001601f200f700d506d300ef00e000f600e80009000a00",
-            "warnings": 18
+            "textraw": "23002300d1001b01080000001101e600da00e600f500f900fd00f00012012201f200f5000a00fa04d700f900d300de001801d300d506d300fd0008000a00",
+            "warnings": 0
         },
         "speaker": "フェっちゃん",
         "speaker_translation": "",
-        "text": "……あれ？　もしかしてなのちゃんって\u0000\n言えないくらい重いの？\u0000\n．４　・：；\u0000\n￣　！　なのそ、そんなことないです！\u0000\n他の人よりちょっと重いだけです！\u0000\n",
+        "text": "……あれ？　もしかしてなのちゃんって\u0000\n言えないくらい重いの？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "ec000100ec002201f900e200f700f900d300f600e80009000a00a408fd00990717011901f0001601f200f700d506d300ef00e000f600e80009000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "そ、そんなことないです！\u0000\n他の人よりちょっと重いだけです！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "fe00d30009000000aa03470919010d01e80009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffedffc1ffffff100067ffffffeefe10000400e8fe0300c1ff06001000ebfe0100adffffff65ff1d000000f0ff3a00f900fd00ffff2900d506d30009000a000000dc00f200f700590b6e09fd000707fd002606fd00c502980a1101d506d30009002a000a00",
-            "warnings": 28
+            "textraw": "fe00d30009000000aa03470919010d01e80009000a00",
+            "warnings": 0
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "はい！　頑張ります！\u0000\n　？￣￣．，：￣、　なの（重い！\u0000\n　きっと普通の女の子の何倍も重い！）\u0000\n",
+        "text": "はい！　頑張ります！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "2900d506d30009000a000000dc00f200f700590b6e09fd000707fd002606fd00c502980a1101d506d30009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "（重い！\u0000\n　きっと普通の女の子の何倍も重い！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -848,12 +874,25 @@
         "id": 67,
         "internal": {
             "speakerraw": "f900fd00",
-            "textraw": "23002300c704470401003806fe00f800fd005f013a01390169017501fa00f9001b01ff000a00d300d3002201ef001c01d5002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff0a001000ebfe000065ff27000000f0ff4400f900fd00fffff8000100f800d500f600e6001601d50002000a00bd055f04b408d50621011a0df200f5000d01ea002201e60002000a00",
-            "warnings": 22
+            "textraw": "23002300c704470401003806fe00f800fd005f013a01390169017501fa00f9001b01ff000a00d300d3002201ef001c01d5002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "なの",
         "speaker_translation": "",
-        "text": "……結局、私はどのポジションになれば\u0000\nいいんだろう……。\u0000\n　，　？\u0000\n￣　　なのど、どうでしょう。\u0000\n最近体重を量ってませんし。\u0000\n",
+        "text": "……結局、私はどのポジションになれば\u0000\nいいんだろう……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "f8000100f800d500f600e6001601d50002000a00bd055f04b408d50621011a0df200f5000d01ea002201e60002000a00",
+            "warnings": 0
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "ど、どうでしょう。\u0000\n最近体重を量ってませんし。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -984,6 +1023,19 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "嘘をつき通しちゃった……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 79,
+        "internal": {
+            "speakerraw": "f900fd00",
+            "textraw": "56016b01610145014b01fd00ce0bfb02fe005a0c1b01f900d3002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "なの",
+        "speaker_translation": "",
+        "text": "ピラミッドの崩壊は免れない……。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

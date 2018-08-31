@@ -146,12 +146,25 @@
         "id": 11,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "ec001b01e700120169089408800d800d0a00fdffedfffcff1aff0300000000fe00003c0016fffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff8300ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000064ffffff0500f0ff0c0053055b091208e207ffff800d800dd900fe001701d500e300e500d3000d01e80002000a00d30013011101d5000100e2002201f000fa00fe000100f600e6001601d500da0008000a0098ff0000effe000097ff",
-            "warnings": 49
+            "textraw": "ec001b01e700120169089408800d800d0a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "それじゃ早速弌弌\u0000\n，　　？　　，、　　ば\u0000\nば　？　・校長先生弌弌おはようございます。\u0000\nいやもう、こんちには、でしょうか？\u0000\n　　",
+        "text": "それじゃ早速弌弌\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "53055b091208e207",
+            "textraw": "800d800dd900fe001701d500e300e500d3000d01e80002000a00d30013011101d5000100e2002201f000fa00fe000100f600e6001601d500da0008000a0098ff0000effe000097ff",
+            "warnings": 3
+        },
+        "speaker": "校長先生",
+        "speaker_translation": "",
+        "text": "弌弌おはようございます。\u0000\nいやもう、こんちには、でしょうか？\u0000\n　　",
         "text_translation": "",
         "type": "dialog"
     },
@@ -354,12 +367,38 @@
         "id": 28,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "800d800dd100d100f2000900080000005b09800cf004e4002201db00dd091b01f50009000a0098ff0000effe060097fffdffedfffcfffcff67ff0f0066ff31000000daffedffc1ffffff1000e8fe0200c0ff03001a011000ebfe000064ffffff0c00f0ff1d007a05e0051208e207ffff0c022a091101f600e80009000a00800d800dd500d900f200090008000000c4092a090d01f60009000a00fdffedfffcfffcff66ff31000000daffedffc1ffffff1000c1ff5b011000ebfe000064ffffff1500f0ff1e0033040a0a1208e207ffffcd08a70bf900e200f700fa00f900f200f500dc000d01e600ee00f90002000a0053055b091208e20701006f0ddb005b09d300f600e800da0018012300230002000a00",
-            "warnings": 41
+            "textraw": "800d800dd100d100f2000900080000005b09800cf004e4002201db00dd091b01f50009000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "弌弌ああっ！？　長野原さんが倒れて！\u0000\n　：　￣。，る￣　高崎先生安中もです！\u0000\n弌弌うおっ！？　田中まで！\u0000\n　￣ベ￣　／教頭先生大変なことになってきましたな。\u0000\n校長先生、話が長いですから……。\u0000\n",
+        "text": "弌弌ああっ！？　長野原さんが倒れて！\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "0c022a091101f600e80009000a00800d800dd500d900f200090008000000c4092a090d01f60009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "安中もです！\u0000\n弌弌うおっ！？　田中まで！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "cd08a70bf900e200f700fa00f900f200f500dc000d01e600ee00f90002000a0053055b091208e20701006f0ddb005b09d300f600e800da0018012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "大変なことになってきましたな。\u0000\n校長先生、話が長いですから……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -484,12 +523,12 @@
         "id": 40,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "2900d700d700d3000100e200d500f900f200ee001801800d800d2a000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "2900d700d700d3000100e200d500f900f200ee001801800d800d2a000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "（ええい、こうなったら弌弌）\u0000\n．・",
+        "text": "（ええい、こうなったら弌弌）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -497,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "df00d500d500d500d500d500f200090008000a00fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc0ff0300ffff1000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ff31000000daffbeff5b00ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff120071ff000063ffffff90ffffffedfff9ff0800eefe0f000400ebfe000065ff06000c00f0ff2a007a05e0051208e207ffffef000100cd0854074f0bf600e800da00090008000a00ef000100f308da000900000033040a0a1208e2070d01f600dd091b0118011b01ee00ed0009000a00",
-            "warnings": 50
+            "textraw": "df00d500d500d500d500d500f200090008000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "ぐうううううっ！？\u0000\n，、　め\u0000\n｝　，￣？　，、　　ば\u0000\nば　？．　：）高崎先生だ、大丈夫ですか！？\u0000\nだ、誰か！　教頭先生まで倒れられたぞ！\u0000\n",
+        "text": "ぐうううううっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "ef000100cd0854074f0bf600e800da00090008000a00ef000100f308da000900000033040a0a1208e2070d01f600dd091b0118011b01ee00ed0009000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "だ、大丈夫ですか！？\u0000\nだ、誰か！　教頭先生まで倒れられたぞ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +770,25 @@
         "id": 59,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "23002300c502f6001101f900d30002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffe8fe0200c1ff5b011000ebfe000065ff18001500f0ff3c0033040a0a1208e207ffff1e0101001e01da0019010d01e600ee0009000000e800df00fa00c109d7000d01e800da00180109000a00",
-            "warnings": 24
+            "textraw": "23002300c502f6001101f900d30002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "……何でもない。\u0000\n　，　？。ベ￣　教頭先生わ、わかりました！　すぐに伝えますから！\u0000\n",
+        "text": "……何でもない。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 60,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "1e0101001e01da0019010d01e600ee0009000000e800df00fa00c109d7000d01e800da00180109000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "わ、わかりました！　すぐに伝えますから！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +861,25 @@
         "id": 66,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "d50002000a00fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000f8ff0800daffb4ffbcfffd01ff00bcffa801ff00c1ff0a00ff00c0ff04000c01ff0090ffffff90ffffff67ff140071ff000063ffffffedfff9ff0800e8fe0200c1ff0c011000ebfe000065ff1f000b00f0ff4300ef0530021208e207ffffdc0012011b00f20009000800000033040a0a1208e207db001b00090009000a0098ff0000effe030097ff",
-            "warnings": 38
+            "textraw": "d50002000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "う。\u0000\n，、　め\u0000\n｝　？鯵ばば\u0000\nば．ぽば　？。ぽ￣　桜井先生きゃ―っ！？　教頭先生が―！！\u0000\n　，",
+        "text": "う。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "dc0012011b00f20009000800000033040a0a1208e207db001b00090009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "きゃ―っ！？　教頭先生が―！！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -835,12 +913,25 @@
         "id": 70,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "d50002000a00fdffedfffcff1aff0300000078ff10010a0016ffffff66ff30000000edffc0ff0300ffff1000e8fe0200c1ff0c011000ebfe000065ff23000b00f0ff4700ef0530021208e207ffffd5001e011e01f200090008000a00e20001009905d909fe007a05e0051208e207db00800d800d0a00",
-            "warnings": 19
+            "textraw": "d50002000a00",
+            "warnings": 0
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "う。\u0000\n，　め\u0000\n｝　，￣。ぽ￣　…桜井先生うわわっ！？\u0000\nこ、今度は高崎先生が弌弌\u0000\n",
+        "text": "う。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d5001e011e01f200090008000a00e20001009905d909fe007a05e0051208e207db00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "うわわっ！？\u0000\nこ、今度は高崎先生が弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -848,12 +939,25 @@
         "id": 72,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "d10002000a00fdffedfffcff1aff04000000680010010a0016ffffff66ff30000000edffc0ff0400ffff1000ebfe0000adffffff65ff25001500f0ff490033040a0a1208e207ffff2300230023002300230023002300230002000a00",
-            "warnings": 20
+            "textraw": "d10002000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "あ。\u0000\n．　め\u0000\n｝　．￣　教頭先生……………………。\u0000\n",
+        "text": "あ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "2300230023002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "……………………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -926,12 +1030,25 @@
         "id": 79,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "14025307f6006f0d2101ba061e0119010d01e80002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe14000400e8fe0200c1ff5b011000ebfe000065ff2c001500f0ff500033040a0a1208e207ffff8907e600870cf900d300f600e800db0023002300ec001b01fe00f600dc000d01ea00220109000a00f600dc002201fd00f600e80009000a00",
-            "warnings": 26
+            "textraw": "14025307f6006f0d2101ba061e0119010d01e80002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "以上で話を終わります。\u0000\n　，　？．。ベ￣　教頭先生申し訳ないですが……それはできません！\u0000\nできんのです！\u0000\n",
+        "text": "以上で話を終わります。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 80,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "8907e600870cf900d300f600e800db0023002300ec001b01fe00f600dc000d01ea00220109000a00f600dc002201fd00f600e80009000a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "申し訳ないですが……それはできません！\u0000\nできんのです！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1140,6 +1257,19 @@
         "speaker": "教頭先生",
         "speaker_translation": "",
         "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 97,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "23002300d1001901db00f700d500e300e500d3000d01e600ee0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "……ありがとうございました。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -146,12 +146,25 @@
         "id": 11,
         "internal": {
             "speakerraw": "0cff",
-            "textraw": "23002300d1001b0108000000d1001b011b01f20009000800000023002300d1000100ec00d500ef0009000a00fdffedfffcfffcffedfffcff66ffa8000000c1ffffff1000b3ff0300f4ff0400daffb2ffc1fffa011000ebfe000065ff05002700f0ff0c000cffffff820a190ad80bf700fa04d700ff009300940092005200f600e8001701fc001b0009000a00230023005306fe00c4032101f300e0001701f200f70002000a00",
-            "warnings": 22
+            "textraw": "23002300d1001b0108000000d1001b011b01f20009000800000023002300d1000100ec00d500ef0009000a00",
+            "warnings": 0
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "……あれ？　あれれっ！？　……あ、そうだ！\u0000\nＬ　￣，．旭￣　・覇道砲と言えば１２０ですよね―！\u0000\n……次は気をつけよっと。\u0000\n",
+        "text": "……あれ？　あれれっ！？　……あ、そうだ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "0cff",
+            "textraw": "820a190ad80bf700fa04d700ff009300940092005200f600e8001701fc001b0009000a00230023005306fe00c4032101f300e0001701f200f70002000a00",
+            "warnings": 1
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "覇道砲と言えば１２０ですよね―！\u0000\n……次は気をつけよっと。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -289,12 +302,25 @@
         "id": 23,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "01011601010001011601f200f700e600f500ab0218011b011a01da0011012300230002000a00fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700eefe09000400edffc8fff6004b011000ebfe000065ff07000a00f0ff18002a09730a6007ffffd9001b00d3000100e2001b018b04fd00ef001701f9001b0008000a00",
-            "warnings": 18
+            "textraw": "01011601010001011601f200f700e600f500ab0218011b011a01da0011012300230002000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "ひょ、ひょっとして殴られるかも……。\u0000\n．　４・：；！．でド￣　；\u0000\n中之条お―い、これ君のだよな―？\u0000\n",
+        "text": "ひょ、ひょっとして殴られるかも……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "d9001b00d3000100e2001b018b04fd00ef001701f9001b0008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "お―い、これ君のだよな―？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -510,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "4c0126013b016b017501090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff47011000ebfe0100adffffff65ff19001100f0ff2a00ef053002e907ffff2900d300130101004f086009fa0087061a010801dc00ef0017012a000a0098ff0000effe070097ff",
-            "warnings": 26
+            "textraw": "4c0126013b016b017501090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "ナイスラン！！\u0000\n　，　？ヅ￣、〆）桜井誠（いや、素直に謝るべきだよ）\u0000\n　；",
+        "text": "ナイスラン！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "2900d300130101004f086009fa0087061a010801dc00ef0017012a000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（いや、素直に謝るべきだよ）\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "0a0a6d09d300e000f8000100a70bf9006502ff00f200da0019018f0bde006c0bef00e60001000a00e2001b01140253079a031e011801f900d300d30bdb00d300d30011012201f90002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff4d011000ebfe000065ff29001100f0ff3a00ef053002e907ffff23002300ec00d500ef00010012091801f900d30057016c01e6001701d50002000a0098ff0000effe0a0097ff",
-            "warnings": 25
+            "textraw": "0a0a6d09d300e000f8000100a70bf9006502ff00f200da0019018f0bde006c0bef00e60001000a00e2001b01140253079a031e011801f900d300d30bdb00d300d30011012201f90002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "頭痛いけど、変な噂ばっかり聞く部だし、\u0000\nこれ以上関わらない方がいいもんな。\u0000\n　，　？ニ￣　（桜井誠……そうだ、知らないフリしよう。\u0000\n　\u0000\n",
+        "text": "頭痛いけど、変な噂ばっかり聞く部だし、\u0000\nこれ以上関わらない方がいいもんな。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "23002300ec00d500ef00010012091801f900d30057016c01e6001701d50002000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "……そうだ、知らないフリしよう。\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1140,6 +1192,19 @@
         "speaker": "中之条",
         "speaker_translation": "",
         "text": "（やれやれ、誤解がとけて助かったよ）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 92,
+        "internal": {
+            "speakerraw": "4c016e011b0041011b00d9002406e4002201",
+            "textraw": "ec00fd005a0a010035004c0b170d3600fd002705f802fe00f802e000ee00f700fa04d3000d01e80002000a0098ff0000effe030097ff",
+            "warnings": 5
+        },
+        "speaker": "ナレ―タ―お姉さん",
+        "speaker_translation": "",
+        "text": "その日、不良の誤解は解けたと言います。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

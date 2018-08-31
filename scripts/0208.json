@@ -224,12 +224,38 @@
         "id": 18,
         "internal": {
             "speakerraw": "07ff540096009400f00a",
-            "textraw": "090df802f20009000a00fdffedfffcffedffc1ffffff100067ffffff66ff1e000000daff66ff12000000dafffaff01000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfffaff02000000f9ff0800c1ff90011000ebfe000065ff12002000f0ff1300d900f300dc009500ffffe400f5002300230099050100ec021800db001a09da001b01f500d3001a01f70c5a07fe000a00e2001b01f600ed0cf802e600f500de001b01ee00da00f90008000a00fdff5fff0400010067ff0400c1ff97011000ebfe000065ff13002000f0ff1400d900f300dc009500ffffec00d500da0001000507da001a010200f600fe0059016f01490167011b0037011b00f600d1001a010a008b04fd00840c6e0c21010c08520ce6001701d50002000a00",
-            "warnings": 68
+            "textraw": "090df802f20009000a00",
+            "warnings": 0
         },
         "speaker": "＆４２番",
         "speaker_translation": "",
-        "text": "了解っ！\u0000\n￣／　　、　？　，、　　ば\u0000\nば　。　？￣　〜おつき３さて……今、我が置かれている立場は\u0000\nこれで理解してくれたかな？\u0000\n．、．￣　〜おつき３そうか、助かる。ではプロデュ―サ―である\u0000\n君の役目を説明しよう。\u0000\n",
+        "text": "了解っ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 19,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "e400f5002300230099050100ec021800db001a09da001b01f500d3001a01f70c5a07fe000a00e2001b01f600ed0cf802e600f500de001b01ee00da00f90008000a00",
+            "warnings": 1
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "さて……今、我が置かれている立場は\u0000\nこれで理解してくれたかな？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "ec00d500da0001000507da001a010200f600fe0059016f01490167011b0037011b00f600d1001a010a008b04fd00840c6e0c21010c08520ce6001701d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "そうか、助かる。ではプロデュ―サ―である\u0000\n君の役目を説明しよう。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -250,12 +276,25 @@
         "id": 22,
         "internal": {
             "speakerraw": "d900f300dc009500",
-            "textraw": "e2001b010d01f600fd000c08520cf6000100ec021800db001a09da001b01f500d3001a01f70c5a07fe000a00ed0cf802e600f500de001b01ee001701f90008000a00fdff7fff0300c1ff8f011000ebfe000065ff16002000f0ff1700d900f300dc009500ffff8b04fd00840c6e0cfe000100290b2101320c9308e400ea001a010801de00010099055a0a93005a0a0a007f05b3049a0052069803820bfd00f00a50082101d20b6f02e8001a01e200f700ef0002000a00",
-            "warnings": 11
+            "textraw": "e2001b010d01f600fd000c08520cf6000100ec021800db001a09da001b01f500d3001a01f70c5a07fe000a00ed0cf802e600f500de001b01ee001701f90008000a00",
+            "warnings": 1
         },
         "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "これまでの説明で、我が置かれている立場は\u0000\n理解してくれたよな？\u0000\n，￣　〜おつき３君の役目は、姫を満足させるべく、今日１日\u0000\n合計８時間分の番組を放映することだ。\u0000\n",
+        "text": "これまでの説明で、我が置かれている立場は\u0000\n理解してくれたよな？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 23,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "8b04fd00840c6e0cfe000100290b2101320c9308e400ea001a010801de00010099055a0a93005a0a0a007f05b3049a0052069803820bfd00f00a50082101d20b6f02e8001a01e200f700ef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "君の役目は、姫を満足させるべく、今日１日\u0000\n合計８時間分の番組を放映することだ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -459,11 +498,24 @@
         "internal": {
             "speakerraw": "d900f300dc009500",
             "textraw": "f600fe00010013090504fd005a0a100c5206980301000a0092009b0006009200920017011901d20b6f020f032306ef0002000a00",
-            "warnings": 1
+            "warnings": 0
         },
         "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "では、地球の日本時間、\u0000\n０：００より放映開始だ。\u0000\n",
+        "text": "では、地球の日本時間、\u0000\n０９：００より放映開始だ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "ce040c0a2101c7031a0109000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "健闘を祈る！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

@@ -523,12 +523,25 @@
         "id": 40,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "d9001301d000010082032101da00da001b01f5000d01e800fc00d60002000a00b30bce046e06fa006c05dc000d01e800da0008000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700eefe15000400c1ff82011000ebfe0100adffffff65ff05001c00f0ff2900260141013501ffff2900b30bce046e06f700fa04f200f50001000a000000100cf609fe00f800e200fa004e0d1b01f5006c05de00f30011011901ef002300230008002a000a00",
-            "warnings": 21
+            "textraw": "d9001301d000010082032101da00da001b01f5000d01e800fc00d60002000a00b30bce046e06fa006c05dc000d01e800da0008000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "おやぁ、汗をかかれてますねぇ。\u0000\n保健室に行きますか？\u0000\n．４　・：；．￣、・（イタコ（保健室と言って、\u0000\n　本当はどこに連れて行くつもりだ……？）\u0000\n",
+        "text": "おやぁ、汗をかかれてますねぇ。\u0000\n保健室に行きますか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "2900b30bce046e06f700fa04f200f50001000a000000100cf609fe00f800e200fa004e0d1b01f5006c05de00f30011011901ef002300230008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "（保健室と言って、\u0000\n　本当はどこに連れて行くつもりだ……？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +731,25 @@
         "id": 56,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "e7001201d1000100640154012d017501f60002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00eefe0a000400c1ff83011000ebfe000065ff15001c00f0ff3900260141013501ffffd300d7000100c7045505f600e800da00180102000a00ec001b01e7001201e2001b01f600800d800d0a00",
-            "warnings": 27
+            "textraw": "e7001201d1000100640154012d017501f60002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "じゃあ、モヒカンで。\u0000\n　，　？\u0000\n．￣　イタコいえ、結構ですから。\u0000\nそれじゃこれで弌弌\u0000\n",
+        "text": "じゃあ、モヒカンで。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 57,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "d300d7000100c7045505f600e800da00180102000a00ec001b01e7001201e2001b01f600800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "いえ、結構ですから。\u0000\nそれじゃこれで弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -887,12 +913,25 @@
         "id": 70,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "a8061e011b011c0109000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00eefe0a000400c1ff82011000ebfe000065ff23001c00f0ff4700260141013501ffffd30013010100c7045505f600e800da0018010200f600fe000100e2001b01fa00f500800d800d0a00",
-            "warnings": 26
+            "textraw": "a8061e011b011c0109000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "呪われろ！\u0000\n　，　？\u0000\n．￣　…イタコいや、結構ですから。では、これにて弌弌\u0000\n",
+        "text": "呪われろ！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 71,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "d30013010100c7045505f600e800da0018010200f600fe000100e2001b01fa00f500800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "いや、結構ですから。では、これにて弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1043,12 +1082,25 @@
         "id": 83,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "f9000100f9002201f6002300230008000a00fdffedfffcff1aff04000000680010010a0016ffffff66ff30000000edffc0ff0300ffff1000effe030067ff1800eefe1a000400c0ff03005d011000ebfe000065ff30001500f0ff540033040a0a1208e207ffffe60001006106db0099079803fd00fa04c50c21011e01da001a01fe00e900f900d300230023000a00ec001b01fa000100e200fd006106fe00800d800d0a00",
-            "warnings": 22
+            "textraw": "f9000100f9002201f6002300230008000a00",
+            "warnings": 0
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "な、なんで……？\u0000\n．　め\u0000\n｝　，￣，．，ホ￣　｝＆教頭先生し、鹿が人間の言葉をわかるはずない……\u0000\nそれに、この鹿は弌弌\u0000\n",
+        "text": "な、なんで……？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 84,
+        "internal": {
+            "speakerraw": "33040a0a1208e207",
+            "textraw": "e60001006106db0099079803fd00fa04c50c21011e01da001a01fe00e900f900d300230023000a00ec001b01fa000100e200fd006106fe00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "教頭先生",
+        "speaker_translation": "",
+        "text": "し、鹿が人間の言葉をわかるはずない……\u0000\nそれに、この鹿は弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1069,12 +1121,25 @@
         "id": 86,
         "internal": {
             "speakerraw": "33040a0a1208e207",
-            "textraw": "230023009907260135011b006d0123002300a80923002300ef002300230002000a00fdffedfffcff1aff03000100000010010a0016ffffff66ff30000000edffc1ffffff1000effe0300faff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffab01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfffaff04000000f9ff0800c1fff6001000ebfe000065ff33000a00f0ff57002a09730a6007ffff23002300d1001b0108000000d1002201f900f700e2001c01fa00610608000a00ec001b01ef00e000e7001201f900d300ed000100c502da0093081101f700fa00800d800d0a00",
-            "warnings": 52
+            "textraw": "230023009907260135011b006d0123002300a80923002300ef002300230002000a00",
+            "warnings": 0
         },
         "speaker": "教頭先生",
         "speaker_translation": "",
-        "text": "……人イコ―ル……敵……だ……。\u0000\n，、　め\u0000\n｝　￣，，　？　　，、　　ば\u0000\nば　．　？で￣　\u0000\n中之条……あれ？　あんなところに鹿？\u0000\nそれだけじゃないぞ、何か足もとに弌弌\u0000\n",
+        "text": "……人イコ―ル……敵……だ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 87,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "23002300d1001b0108000000d1002201f900f700e2001c01fa00610608000a00ec001b01ef00e000e7001201f900d300ed000100c502da0093081101f700fa00800d800d0a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "……あれ？　あんなところに鹿？\u0000\nそれだけじゃないぞ、何か足もとに弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1114,6 +1179,19 @@
         "speaker": "中之条",
         "speaker_translation": "",
         "text": "………………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 91,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "23002300b504f5050100da00f90002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "……警察、かな。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -120,12 +120,25 @@
         "id": 9,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "d500ec00f2000100c502da000f041a01090008000a00d50023002300d5001e01d100d000d000d000d000f200090009000a00fdffedfffcff67ffffffedffc1ffffff100066ff5f000000c1ff47021000ebfe0000adffffff64ffffff1300f0ff0a00c4092a09ffff230023002300230002000a00",
-            "warnings": 19
+            "textraw": "d500ec00f2000100c502da000f041a01090008000a00d50023002300d5001e01d100d000d000d000d000f200090009000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "うそっ、何か居る！？\u0000\nう……うわあぁぁぁぁっ！！\u0000\n￣　胤￣　\u0000\n田中…………。\u0000\n",
+        "text": "うそっ、何か居る！？\u0000\nう……うわあぁぁぁぁっ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -133,12 +146,25 @@
         "id": 11,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "f9001b002201ef00010060014f012f017501fd007f0dda0002000a000201f200de001901e600ee001b002300230002000a00fdffedfffcff67ff180066ff5b000000daffe8fe0200c1ff55011000ebfe000064ffffff1300f0ff0c00c4092a09ffff23002300f9002201ef0008000a007f0dda001801c102db0023002300d700d7001b001b00f200090008000a00",
-            "warnings": 17
+            "textraw": "f9001b002201ef00010060014f012f017501fd007f0dda0002000a000201f200de001901e600ee001b002300230002000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "な―んだ、マネキンの腕か。\u0000\nびっくりした―……。\u0000\n　。ビ￣　田中……なんだ？\u0000\n腕から音が……ええ――っ！？\u0000\n",
+        "text": "な―んだ、マネキンの腕か。\u0000\nびっくりした―……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "23002300f9002201ef0008000a007f0dda001801c102db0023002300d700d7001b001b00f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "……なんだ？\u0000\n腕から音が……ええ――っ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -354,12 +380,12 @@
         "id": 29,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "2900d1001b001101d50001001e01e0001e01da002201fc001b00090009002a000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "2900d1001b001101d50001001e01e0001e01da002201fc001b00090009002a000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "（あ―もう、わけわかんね―！！）\u0000\n．・",
+        "text": "（あ―もう、わけわかんね―！！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -393,12 +419,25 @@
         "id": 32,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "2900f8002201f90011012201ef0009000a000000e200d500e504d700f5007e081901fa00fe005d067a07db00800d800d2a000a00fdffedfffcff66ff50000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfffd01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800e8fe0200c1ff55011000ebfe000065ff07001300f0ff2100c4092a09fffffb00d900d900d900d900f200090008000a00f9000100f9002201ef0035016e0109000000de0cf700e600c604090008000a0098ff0000effe020097ff",
-            "warnings": 47
+            "textraw": "2900f8002201f90011012201ef0009000a000000e200d500e504d700f5007e081901fa00fe005d067a07db00800d800d2a000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "（どんなもんだ！\u0000\n　こう見えて走りには自信が弌弌）\u0000\n　？　　，、　　鯵ば\u0000\nば　？。ビ￣　；田中ぬおおおおっ！？\u0000\nな、なんだコレ！　落とし穴！？\u0000\n　。",
+        "text": "（どんなもんだ！\u0000\n　こう見えて走りには自信が弌弌）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "fb00d900d900d900d900f200090008000a00f9000100f9002201ef0035016e0109000000de0cf700e600c604090008000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "ぬおおおおっ！？\u0000\nな、なんだコレ！　落とし穴！？\u0000\n　。",
         "text_translation": "",
         "type": "dialog"
     },
@@ -406,12 +445,25 @@
         "id": 34,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "1701e6000100e2001b01f6006b09d300f300e000800d800de6000d01f200ee00090009000a00fdffedfffcff66ff50000000daffe8fe020066ff7c000000c1ff55011000ebfe000065ff09001300f0ff2300c4092a09ffff090008000a00",
-            "warnings": 15
+            "textraw": "1701e6000100e2001b01f6006b09d300f300e000800d800de6000d01f200ee00090009000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "よし、これで追いつけ弌弌しまった！！\u0000\n　。　ビ￣　！…田中！？\u0000\n",
+        "text": "よし、これで追いつけ弌弌しまった！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 35,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "d700d700d700d700d700d700f200090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff53011000ebfe0100adffffff65ff15001300f0ff2f00c4092a09ffff29001701e6000100e200e200fe000d01ee002705160cc302e800e600da00230023002a000a00",
-            "warnings": 24
+            "textraw": "d700d700d700d700d700d700f200090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "ええええええっ！？\u0000\n　，　？パ￣、｛田中（よし、ここはまた誤魔化すしか……）\u0000\n",
+        "text": "ええええええっ！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "29001701e6000100e200e200fe000d01ee002705160cc302e800e600da00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "（よし、ここはまた誤魔化すしか……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -744,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "e6000d01f200ee00230023003806db0045022201f6002300230002000a00fdffedfffcff1aff04000000680010010a0016ffffff66ff30000000edffc0ff0400ffff1000e8fe0200c1ff55011000ebfe000065ff25001300f0ff3f00c4092a09ffffc502d200d200f200090008000a00",
-            "warnings": 20
+            "textraw": "e6000d01f200ee00230023003806db0045022201f6002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "しまった……私が飲んで……。\u0000\n．　め\u0000\n｝　．￣。ビ￣　田中何ぃぃっ！？\u0000\n",
+        "text": "しまった……私が飲んで……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "c502d200d200f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "何ぃぃっ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +861,25 @@
         "id": 66,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "f7000100f7001901d100d700e900050b3b0cfe009b061b01ee00eb00090009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00c0ff0400c5001000ebfe0000adffffff65ff29000600f0ff43002a09a2081208e207ffff230023002300230002000a00",
-            "warnings": 22
+            "textraw": "f7000100f7001901d100d700e900050b3b0cfe009b061b01ee00eb00090009000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "と、とりあえず秘密は守れたぜ！！\u0000\n　？．ｏ￣　（：中村先生…………。\u0000\n",
+        "text": "と、とりあえず秘密は守れたぜ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1010,6 +1101,19 @@
         "speaker": "田中",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 85,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "2900eb002201eb0022016b0145012f011b00e7001201f900da00f200ee00230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "（ぜんぜんラッキ―じゃなかった……）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

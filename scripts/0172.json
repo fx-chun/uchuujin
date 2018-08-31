@@ -3,12 +3,25 @@
         "id": 0,
         "internal": {
             "speakerraw": "520149012501",
-            "textraw": "230023002300230002000a00fdffedfffcffedfffcff66ff22000000c1ffffff1000daff1fff0300000000020000c1ff6401ff001aff03000000f0ff00003c00c1ff64011000ebfe000064ffffff1700f0ff0100dc001701e600ffffd1001b010800000099050100520149012501db00d300ee00c403db002300230002000a00",
-            "warnings": 22
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "バディ",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　￣，　斡　モば，　　モ￣　、きよしあれ？　今、バディがいた気が……。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 1,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "d1001b010800000099050100520149012501db00d300ee00c403db002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "あれ？　今、バディがいた気が……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -195,15 +208,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 16,
         "internal": {
-            "speakerraw": "1e0016ff",
-            "textraw": "1fff0400000000020000c0ff0400b30010001aff04000000680000001e0016ffffffebfe0000adffffff64ffffff1700f0ff1000dc001701e600ffff230023002300230002000a00",
-            "warnings": 14
+            "speakerraw": "dc001701e600",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
-        "speaker": "／",
+        "speaker": "きよし",
         "speaker_translation": "",
-        "text": "．　斡　．Ｗ￣．　　／　￣きよし…………。\u0000\n",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -221,15 +234,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 18,
         "internal": {
-            "speakerraw": "1e0016ff",
-            "textraw": "1fff0400000000020000c0ff0400b30010001aff04000000680000001e0016ffffffebfe0000adffffff64ffffff1700f0ff1200dc001701e600ffff230023002300230002000a00",
-            "warnings": 15
+            "speakerraw": "dc001701e600",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
-        "speaker": "／",
+        "speaker": "きよし",
         "speaker_translation": "",
-        "text": "．　斡　．Ｗ￣．　　／　きよし…………。\u0000\n",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "090008000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1200c1ff82011000ebfe000065ff04001c00f0ff2e00260141013501ffffef04c403fa00e600f500ee0071017501da0008000a006f0b8b06f700da004402d300f500f900d30071017501da0008000a00",
-            "warnings": 20
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "！？\u0000\n．４　・：；￣　．イタコ元気にしてたワンか？\u0000\n風邪とか引いてないワンか？\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "ef04c403fa00e600f500ee0071017501da0008000a006f0b8b06f700da004402d300f500f900d30071017501da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "元気にしてたワンか？\u0000\n風邪とか引いてないワンか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -900,12 +926,25 @@
         "id": 71,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "0d01e400da000100990c3c0d2300230008000a0098ff0000effe060097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0e00c1ff82011000ebfe000065ff1e001c00f0ff4800260141013501ffffd90041091901f600dc001a011701d500fa00f900f200f500b403e600d3007101750102000a00e200fd00260141013501e4002201fa0078038706ef007101750102000a00",
-            "warnings": 25
+            "textraw": "0d01e400da000100990c3c0d2300230008000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "まさか、幽霊……？\u0000\n　：　？￣　／イタコお喋りできるようになって嬉しいワン。\u0000\nこのイタコさんに感謝だワン。\u0000\n",
+        "text": "まさか、幽霊……？\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "d90041091901f600dc001a011701d500fa00f900f200f500b403e600d3007101750102000a00e200fd00260141013501e4002201fa0078038706ef007101750102000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "お喋りできるようになって嬉しいワン。\u0000\nこのイタコさんに感謝だワン。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1082,12 +1121,25 @@
         "id": 86,
         "internal": {
             "speakerraw": "dc001701e600",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200eefe04000400c1ff66011000ebfe000065ff2d001700f0ff5700dc001701e600ffffd100fd000100c502e600f5001a012201f600e800da0008000a00",
-            "warnings": 26
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "きよし",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？．．ヤ￣　きよしあの、何してるんですか？\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 87,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "d100fd000100c502e600f5001a012201f600e800da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "あの、何してるんですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1205,6 +1257,19 @@
         "speaker": "イタコ",
         "speaker_translation": "",
         "text": "……ケッ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 97,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

@@ -523,12 +523,25 @@
         "id": 40,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "23002300d1001b0108000a00f9002201f60094001c0bf6001908d500fd0008000a00fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700c1ff32001000ebfe000065ff04000100f0ff2900fe00da00ea00ffff2d02d500170109000000fe00da00ea00fe000a0061062101c6085506e600f5000a01e600da00f200ee002201ef0017011b00090008000a00",
-            "warnings": 16
+            "textraw": "23002300d1001b0108000a00f9002201f60094001c0bf6001908d500fd0008000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "……あれ？\u0000\nなんで２匹で戦うの？\u0000\n．　４・：；￣　．、（はかせ違うよ！　はかせは\u0000\n鹿を退治してほしかったんだよ―！？\u0000\n",
+        "text": "……あれ？\u0000\nなんで２匹で戦うの？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "2d02d500170109000000fe00da00ea00fe000a0061062101c6085506e600f5000a01e600da00f200ee002201ef0017011b00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "違うよ！　はかせは\u0000\n鹿を退治してほしかったんだよ―！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "d500f200090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe05000400e8fe0200c1ff32001000ebfe000065ff0f000100f0ff3400fe00da00ea00ffff350cd30b0f0a2206f6001908d5002201e7001201f900de00f50001000a0061062101dd09e600f5000a01e600d300fd0009000a00",
-            "warnings": 25
+            "textraw": "d500f200090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "うっ！？\u0000\n　，　？・．。￣　、はかせ味方同士で戦うんじゃなくて、\u0000\n鹿を倒してほしいの！\u0000\n",
+        "text": "うっ！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "350cd30b0f0a2206f6001908d5002201e7001201f900de00f50001000a0061062101dd09e600f5000a01e600d300fd0009000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "味方同士で戦うんじゃなくて、\u0000\n鹿を倒してほしいの！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -874,12 +900,25 @@
         "id": 69,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "1e011b001b001b00090008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcfffffff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffaa00ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe0000adffffff65ff21003200f0ff46002d0158014a0162013901ffff230023002300230009000a00",
-            "warnings": 52
+            "textraw": "1e011b001b001b00090008000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "わ―――！？\u0000\n　？？　　，、　　Ｎば\u0000\nば　？　カブトムシ…………！\u0000\n",
+        "text": "わ―――！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "2d0158014a0162013901",
+            "textraw": "230023002300230009000a00",
+            "warnings": 0
+        },
+        "speaker": "カブトムシ",
+        "speaker_translation": "",
+        "text": "…………！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -971,6 +1010,19 @@
         "speaker": "はかせ",
         "speaker_translation": "",
         "text": "う、うう……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 78,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "060ae1001c011b001b0009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "逃げろ――！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

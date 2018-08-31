@@ -198,12 +198,25 @@
         "id": 15,
         "internal": {
             "speakerraw": "0dff",
-            "textraw": "4201010042016301ef0002009803fa007f051e01f900d300090009000a00fdffedfffcffedffc1ffffff100066ff18000000daff66ff0e000000ebfe000064ffffff0900f0ff1000cd084105ffff220108000000c502da0032040d01f200f50008081b01ee001701d500f900c102db0002000a00",
-            "warnings": 16
+            "textraw": "4201010042016301ef0002009803fa007f051e01f900d300090009000a00",
+            "warnings": 0
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "ダ、ダメだ。間に合わない！！\u0000\n￣　　　！￣大工ん？　何か挟まって折れたような音が。\u0000\n",
+        "text": "ダ、ダメだ。間に合わない！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 16,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "220108000000c502da0032040d01f200f50008081b01ee001701d500f900c102db0002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "ん？　何か挟まって折れたような音が。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -354,12 +367,12 @@
         "id": 28,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "d100d1000100600aea00f700e00002000a002c016e01fd000c081e0a1d0d2101e504f500de001b0102000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "d100d1000100600aea00f700e00002000a002c016e01fd000c081e0a1d0d2101e504f500de001b0102000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "ああ、任せとけ。\u0000\nオレの説得力を見てくれ。\u0000\n．　４・",
+        "text": "ああ、任せとけ。\u0000\nオレの説得力を見てくれ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "ec00fd00ce028d040100f0001601f200f700a70bf600e80017016c0b5b092300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000edffc1ffffff1000c0ff0400f2001000ebfe000065ff15000900f0ff2c00cd084105ffffec002201f9004a06fa041e01e900fa00d900ac03d300e6000d01e80017011b0002000a00",
-            "warnings": 26
+            "textraw": "ec00fd00ce028d040100f0001601f200f700a70bf600e80017016c0b5b092300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "その家訓、ちょっと変ですよ部長……。\u0000\n　，　？￣￣．っ￣　！大工そんな事言わずにお願いしますよ―。\u0000\n",
+        "text": "その家訓、ちょっと変ですよ部長……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "ec002201f9004a06fa041e01e900fa00d900ac03d300e6000d01e80017011b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "そんな事言わずにお願いしますよ―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "230023006c0b5b090100c502da00f0001601f200f700550bd300f600e80002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffec001000ebfe000065ff27000900f0ff3e00cd084105ffff1208e20723002300f0001601f200f700e200f200f000070102000a00ef053002de002201fe00e200e200f600ba08f200f500f500de001b0102000a00",
-            "warnings": 22
+            "textraw": "230023006c0b5b090100c502da00f0001601f200f700550bd300f600e80002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "……部長、何かちょっと怖いです。\u0000\n　，　？そ￣　！大工先生……ちょっとこっちへ。\u0000\n桜井くんはここで待っててくれ。\u0000\n",
+        "text": "……部長、何かちょっと怖いです。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "1208e20723002300f0001601f200f700e200f200f000070102000a00ef053002de002201fe00e200e200f600ba08f200f500f500de001b0102000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "先生……ちょっとこっちへ。\u0000\n桜井くんはここで待っててくれ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -945,6 +984,19 @@
         "speaker": "大工",
         "speaker_translation": "",
         "text": "な、桜井くん。\u0000\nオレの説得、上手くいっただろ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 76,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "230023002300230002000a0098ff0000effe0b0097ff",
+            "warnings": 4
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　",
         "text_translation": "",
         "type": "dialog"
     }

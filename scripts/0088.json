@@ -406,12 +406,25 @@
         "id": 31,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "2900aa0347091b01380609000a000000e200fd008d0b1902c403fa003b0a0d011b01f0001201b2086e0c170109002a000a0098ff0000effe090097fffdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700c9ffffff1000c1ff39001000ebfe000065ff08000200f0ff20001501f200e200ffffd5001b0022010100d7001b00f200f7002300230002000a00",
-            "warnings": 20
+            "textraw": "2900aa0347091b01380609000a000000e200fd008d0b1902c403fa003b0a0d011b01f0001201b2086e0c170109002a000a0098ff0000effe090097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "（頑張れ私！\u0000\n　この雰囲気に呑まれちゃ駄目よ！）\u0000\n　！．４　\u0000\n・：；￣￣　？。〜ゆっこう―ん、え―っと……。\u0000\n",
+        "text": "（頑張れ私！\u0000\n　この雰囲気に呑まれちゃ駄目よ！）\u0000\n　！",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 32,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d5001b0022010100d7001b00f200f7002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "う―ん、え―っと……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "29005b01750148012501f200f50001005b01750148012501f200f500230023000a000000f9002201f9002201ef001b001b001b001b001b000900090009002a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ffffff1000c0ff040064011000ebfe0000adffffff65ff1c001700f0ff3400dc001701e600ffff230023002300230002000a00",
-            "warnings": 24
+            "textraw": "29005b01750148012501f200f50001005b01750148012501f200f500230023000a000000f9002201f9002201ef001b001b001b001b001b000900090009002a000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "（ベンティって、ベンティって……\u0000\n　なんなんだ―――――！！！）\u0000\n　？￣．モ￣　きよし…………。\u0000\n",
+        "text": "（ベンティって、ベンティって……\u0000\n　なんなんだ―――――！！！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "dc001701e600",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -939,12 +965,38 @@
         "id": 74,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "3406fc00090009000a0098ff0000effe030097fffdffedfffcffedfffcff66ff1e000000c0ff0400ffff1000dafff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffedd1ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff33001700f0ff4b00dc001701e60054004a04a208ffffd700d700d700f200090008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc9ffffff1000c1ff44001000ebfe0100adffffff65ff34000200f0ff4c001501f200e200ffff2900ec000100ec00d500ef0009000a0000003808fa000e01d900f00012012201fe003203da00230023002a000a00",
-            "warnings": 75
+            "textraw": "3406fc00090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "死ね！！\u0000\n　，／　．￣？　　，、　　ば\u0000\nば　？　きよし＆玉村えええっ！？\u0000\n　？￣￣、。ゆっこ（そ、そうだ！\u0000\n　前にみおちゃんは確か……）\u0000\n",
+        "text": "死ね！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 75,
+        "internal": {
+            "speakerraw": "dc001701e60054004a04a208",
+            "textraw": "d700d700d700f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "きよし＆玉村",
+        "speaker_translation": "",
+        "text": "えええっ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 76,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "2900ec000100ec00d500ef0009000a0000003808fa000e01d900f00012012201fe003203da00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（そ、そうだ！\u0000\n　前にみおちゃんは確か……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1218,6 +1270,19 @@
         "speaker": "玉村",
         "speaker_translation": "",
         "text": "……ショット。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 98,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "29006e015b016d0142012801750109002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "（レベルダウン！）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

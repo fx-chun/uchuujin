@@ -653,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "d500df00df002300230002000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe050006000700edffc8ff620043001000ebfe000065ff05000200f0ff33001501f200e200fffffc00d6000e01d900f00012012201230023001701de001e01da001801f900d3002201ef00e000f80001000a009905fd0031098e0b0100ec002201f900fa003b0136012601fd0008000a00",
-            "warnings": 19
+            "textraw": "d500df00df002300230002000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "うぐぐ……。\u0000\n．４　・：；￣　・。ゆっこねぇみおちゃん……よくわからないんだけど、\u0000\n今の注文、そんなにスゴイの？\u0000\n",
+        "text": "うぐぐ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "fc00d6000e01d900f00012012201230023001701de001e01da001801f900d3002201ef00e000f80001000a009905fd0031098e0b0100ec002201f900fa003b0136012601fd0008000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "ねぇみおちゃん……よくわからないんだけど、\u0000\n今の注文、そんなにスゴイの？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1004,12 +1017,25 @@
         "id": 78,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "1501f200e200fe0052012d01ef00f900d0002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffe8fe0300c1ff66001000ebfe0100adffffff65ff21000300f0ff4f000e01d900ffff2900e2000100e200fd00260623002300e800e300d30009000a000000f700f5001101e7001201f900d300e000f80001000f07f5001a01c403db00e600f900d30009002a000a00",
-            "warnings": 23
+            "textraw": "1501f200e200fe0052012d01ef00f900d0002300230002000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "ゆっこはバカだなぁ……。\u0000\n　？，￣、，みお（こ、この子……すごい！\u0000\n　とてもじゃないけど、勝てる気がしない！）\u0000\n",
+        "text": "ゆっこはバカだなぁ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 79,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "2900e2000100e200fd00260623002300e800e300d30009000a000000f700f5001101e7001201f900d300e000f80001000f07f5001a01c403db00e600f900d30009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "（こ、この子……すごい！\u0000\n　とてもじゃないけど、勝てる気がしない！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1186,12 +1212,25 @@
         "id": 93,
         "internal": {
             "speakerraw": "4a04a208",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe16000400c1ff66001000ebfe0100adffffff65ff30000300f0ff5e000e01d900ffff2900d1000100d1001b0121015809d7001a0131098e0bf9002201f500230023002a000a00",
-            "warnings": 23
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "玉村",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？．￣、｝，みお（あ、あれを超える注文なんて……）\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 94,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "2900d1000100d1001b0121015809d7001a0131098e0bf9002201f500230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "（あ、あれを超える注文なんて……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1309,6 +1348,19 @@
         "speaker": "きよし",
         "speaker_translation": "",
         "text": "マズイマズイマズイ！！\u0000\nマズ―――――イ！！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 104,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "2900590b6e09db00230023003602f00aef001701230023002a000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "（普通が……一番だよ……）\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

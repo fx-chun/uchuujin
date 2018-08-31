@@ -185,12 +185,25 @@
         "id": 14,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "23002300d500090009000a00fdffedfffcfffcff1aff04000000680010010a0016ffffff66ff30000000edffc0ff0400ffff1000e8fe0300c1ff0c011000ebfe0100adffffff64ffffff0b00f0ff0f00ef0530021208e207ffff2900d700d700d7001b001b00090008002a000a00",
-            "warnings": 23
+            "textraw": "23002300d500090009000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "……う！！\u0000\n．　め\u0000\n｝　．￣，ぽ￣、桜井先生（えええ――！？）\u0000\n",
+        "text": "……う！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "2900d700d700d7001b001b00090008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "（えええ――！？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -367,12 +380,25 @@
         "id": 29,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "2900e2000100e200fd00100c01003304d0020107e7001201f900d30009002a000a00fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700c1ff0e011000ebfe0100adffffff65ff09000b00f0ff1e00ef0530021208e207ffff2900aa064604fa009a039404f900d300100c2101e504f5001a012201ef00da00180101000a00000031091f02e600f900dc00120142016301ef001701fc00230023002a000a00",
-            "warnings": 17
+            "textraw": "2900e2000100e200fd00100c01003304d0020107e7001201f900d30009002a000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "（こ、この本、教科書じゃない！）\u0000\n．\u0000\n４　・：；み￣、！／桜井先生（授業に関係ない本を見てるんだから、\u0000\n　注意しなきゃダメだよね……）\u0000\n",
+        "text": "（こ、この本、教科書じゃない！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 30,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "2900aa064604fa009a039404f900d300100c2101e504f5001a012201ef00da00180101000a00000031091f02e600f900dc00120142016301ef001701fc00230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "（授業に関係ない本を見てるんだから、\u0000\n　注意しなきゃダメだよね……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +614,25 @@
         "id": 47,
         "internal": {
             "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ffca001000ebfe0000adffffff65ff1b000700f0ff3000170c2b02ffff230023002300230002000a00",
-            "warnings": 23
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？￣．ｔ￣　―；｝麻衣…………。\u0000\n",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +835,25 @@
         "id": 64,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ff08011000ebfe0100adffffff65ff2c000b00f0ff4100ef0530021208e207ffff2900f0001401010031091f02e600f900d300f70042016301ef001701fc0002000a000000aa064604f7009a039404f900d3001101fd002101e504f5001a012201ef00da0018012a000a00",
-            "warnings": 26
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？￣．べ￣、桜井先生（ちゅ、注意しないとダメだよね。\u0000\n　授業と関係ないものを見てるんだから）\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "2900f0001401010031091f02e600f900d300f70042016301ef001701fc0002000a000000aa064604f7009a039404f900d3001101fd002101e504f5001a012201ef00da0018012a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "（ちゅ、注意しないとダメだよね。\u0000\n　授業と関係ないものを見てるんだから）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -906,6 +958,19 @@
         "speaker": "麻衣",
         "speaker_translation": "",
         "text": "…………。\u0000\n　：",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "170c2b02",
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

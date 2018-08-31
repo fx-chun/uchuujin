@@ -263,12 +263,25 @@
         "id": 20,
         "internal": {
             "speakerraw": "07ff",
-            "textraw": "d5001e01f2000100d900d300130110011c0109000a00d300dc00f9001901c5022101800d800dd900d3000100ec00fd003b01260145014301fe0009000a00fdffedfffcfffcffedffc1ffffff100066ff02000000daff67ff1400e8fe0200edffc8ffc801b4011000c1ffc8011000ebfe000065ff07002300f0ff150008ffffffd5001a01ea00d70009000000360cef00fa00c20bf00012012201da0018010a006101f200f00012012201f200f5000005ff001b01f5001a012c016e01fa0087061b0109000a00",
-            "warnings": 24
+            "textraw": "d5001e01f2000100d900d300130110011c0109000a00d300dc00f9001901c5022101800d800dd900d3000100ec00fd003b01260145014301fe0009000a00",
+            "warnings": 0
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "うわっ、おいやめろ！\u0000\nいきなり何を弌弌おい、そのスイッチは！\u0000\n￣。　。￣￣　；…うるせえ！　未だに母ちゃんから\u0000\nミっちゃんって呼ばれてるオレに謝れ！\u0000\n",
+        "text": "うわっ、おいやめろ！\u0000\nいきなり何を弌弌おい、そのスイッチは！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 21,
+        "internal": {
+            "speakerraw": "08ff",
+            "textraw": "d5001a01ea00d70009000000360cef00fa00c20bf00012012201da0018010a006101f200f00012012201f200f5000005ff001b01f5001a012c016e01fa0087061b0109000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "うるせえ！　未だに母ちゃんから\u0000\nミっちゃんって呼ばれてるオレに謝れ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -406,12 +419,25 @@
         "id": 32,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "fe00d0002300230002000a00fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe05000600070067ff0f00eefe05000400e8fe0200c1ff46011000ebfe000065ff0b001100f0ff2100ef053002e907ffffd1001b001101d50009000a00ef00da001801d500f200f700d500e600d3002201ef00f200f50009000a00",
-            "warnings": 21
+            "textraw": "fe00d0002300230002000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "はぁ……。\u0000\n．\u0000\n４　・：；・．。ツ￣　桜井誠あ―もう！\u0000\nだからうっとうしいんだって！\u0000\n",
+        "text": "はぁ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "d1001b001101d50009000a00ef00da001801d500f200f700d500e600d3002201ef00f200f50009000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "あ―もう！\u0000\nだからうっとうしいんだって！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +666,25 @@
         "id": 51,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "230023000e010100e50418011b01ee002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff49011000ebfe000065ff1e001100f0ff3400ef053002e907ffffef00f200ee0018012c016e01db0012086c05f200f5001a01170102000a00",
-            "warnings": 22
+            "textraw": "230023000e010100e50418011b01ee002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "……み、見られた……。\u0000\n　，　？デ￣　／桜井誠だったらオレが先行ってるよ。\u0000\n",
+        "text": "……み、見られた……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 52,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "ef00f200ee0018012c016e01db0012086c05f200f5001a01170102000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "だったらオレが先行ってるよ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -809,12 +848,25 @@
         "id": 65,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "290023002300ae0cb3041509e900da00e600de00f900f200ee0002000a000000f308da000507e00023002300f200f500d300d500da0001000f01e6001c013406fa00ee00d3002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff47011000ebfe0100adffffff65ff2c001100f0ff4200ef053002e907ffff290023002300e6001601d500db00f900d30001006c0157014801250175013201f6001101e600f50001000a0000002406f00012012201fd00e200f700fe00e504f900d300f600d900e200d5002a000a00",
-            "warnings": 25
+            "textraw": "290023002300ae0cb3041509e900da00e600de00f900f200ee0002000a000000f308da000507e00023002300f200f500d300d500da0001000f01e6001c013406fa00ee00d3002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "（……余計恥ずかしくなった。\u0000\n　誰か助け……っていうか、むしろ死にたい）\u0000\n　，　？ヅ￣、桜井誠（……しょうがない、リフティングでもして、\u0000\n　姉ちゃんのことは見ないでおこう）\u0000\n",
+        "text": "（……余計恥ずかしくなった。\u0000\n　誰か助け……っていうか、むしろ死にたい）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 66,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "290023002300e6001601d500db00f900d30001006c0157014801250175013201f6001101e600f50001000a0000002406f00012012201fd00e200f700fe00e504f900d300f600d900e200d5002a000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（……しょうがない、リフティングでもして、\u0000\n　姉ちゃんのことは見ないでおこう）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -971,6 +1023,19 @@
         "speaker": "桜井誠",
         "speaker_translation": "",
         "text": "（逃げろっ！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 79,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d700d700f200090008000a000d010100ba08f200f500170160013501f00012011b002201090009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "ええっ！？\u0000\nま、待ってよマコちゃ―ん！！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

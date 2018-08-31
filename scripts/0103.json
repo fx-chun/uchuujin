@@ -471,12 +471,25 @@
         "id": 36,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "090008000a0098ff0000effe010097fffdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe05000600070067ff0f00e8fe0200c1fffb001000ebfe000065ff06000a00f0ff25002a09730a6007ffffec001b01fe00d5041e011b018606f700d300d5001f02350cf600e6001601d500da00090008000a00",
-            "warnings": 21
+            "textraw": "090008000a0098ff0000effe010097ff",
+            "warnings": 3
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "！？\u0000\n　、．４　\u0000\n・：；。ぬ￣　：\u0000\n中之条それは嫌われ者という意味でしょうか！？\u0000\n",
+        "text": "！？\u0000\n　、",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 37,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "ec001b01fe00d5041e011b018606f700d300d5001f02350cf600e6001601d500da00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "それは嫌われ者という意味でしょうか！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "2300230023002300090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe04000400e8fe0300c1fffa001000ebfe0100adffffff65ff14000a00f0ff33002a09730a6007ffff2900e8000100a907380afd00530126014c01450159016d01090008000a000000ec001b01fe0052012d01fa00e600f500d3001a01fd00da002300230008002a000a00",
-            "warnings": 27
+            "textraw": "2300230023002300090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "…………！？\u0000\n　，　？￣．．，に￣、\u0000\n中之条（す、酢豚のパイナップル！？\u0000\n　それはバカにしているのか……？）\u0000\n",
+        "text": "…………！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900e8000100a907380afd00530126014c01450159016d01090008000a000000ec001b01fe0052012d01fa00e600f500d3001a01fd00da002300230008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（す、酢豚のパイナップル！？\u0000\n　それはバカにしているのか……？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "2300230023002300080008000a0098ff0000effe0b0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe15000400c1fffe001000ebfe0100adffffff65ff20000a00f0ff3f002a09730a6007ffff2900e8000100a907380afd00530126014c01450159016d012300230008002a000a00",
-            "warnings": 27
+            "textraw": "2300230023002300080008000a0098ff0000effe0b0097ff",
+            "warnings": 4
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "…………？？\u0000\n　　？￣．は￣、〜\u0000\n中之条（す、酢豚のパイナップル……？）\u0000\n",
+        "text": "…………？？\u0000\n　",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "2a09730a6007",
+            "textraw": "2900e8000100a907380afd00530126014c01450159016d012300230008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条",
+        "speaker_translation": "",
+        "text": "（す、酢豚のパイナップル……？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -893,6 +932,19 @@
         "speaker": "高崎先生",
         "speaker_translation": "",
         "text": "桜井先生はモヒカンが好み……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "fe00d0000100fe00d00023002300bc021101640154012d017501fa0023002300090008000a0098ff0000effe080097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "はぁ、はぁ……俺もモヒカンに……！？\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     }

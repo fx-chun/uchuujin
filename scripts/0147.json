@@ -393,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "090008000a00fdff7fff040002ff01ff000032000f00cefff1ff960000fffffe050006000700eefe0400040067ff1200c9ffffff1000e8fe0300c1ffef001000ebfe0100adffffff65ff0a000900f0ff1f00cd084105ffff2900f8000100f800d500d300d5004a06ef00090008000a000000f80018013407dc0008000000d30013010100240157016f01da001801090008002a000a00",
-            "warnings": 24
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "！？\u0000\n．　４・：；．．￣，だ￣、\u0000\n！大工（ど、どういう事だ！？\u0000\n　どら焼き？　いや、アフロから！？）\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "2900f8000100f800d500d300d5004a06ef00090008000a000000f80018013407dc0008000000d30013010100240157016f01da001801090008002a000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "（ど、どういう事だ！？\u0000\n　どら焼き？　いや、アフロから！？）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -614,12 +627,25 @@
         "id": 48,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "d700d700d700d600d600d600d600f200090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c9ffffff1000c0ff0400f1001000ebfe000065ff1c000900f0ff3100cd084105ffffd1000100d1001901db00f700d50002000a00ec001b01f600010019022505370145012d011b00fa003b04350cdb0008000a00",
-            "warnings": 25
+            "textraw": "d700d700d700d600d600d600d600f200090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "えええぇぇぇぇっ！？\u0000\n　，　？￣￣．ぢ￣　！大工あ、ありがとう。\u0000\nそれで、囲碁サッカ―に興味が？\u0000\n",
+        "text": "えええぇぇぇぇっ！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "d1000100d1001901db00f700d50002000a00ec001b01f600010019022505370145012d011b00fa003b04350cdb0008000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "あ、ありがとう。\u0000\nそれで、囲碁サッカ―に興味が？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -913,12 +939,25 @@
         "id": 72,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "23002300d207d3009907d605ef000100d3001c012201f9001f02350cf60002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c9ffffff1000c0ff0400eb001000ebfe000065ff34000900f0ff4900cd084105ffffd1001901db00f700d50002000a00f700e2001c01f60019022505370145012d011b00fa003b04350cdb0008000a00",
-            "warnings": 22
+            "textraw": "23002300d207d3009907d605ef000100d3001c012201f9001f02350cf60002000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "……凄い人材だ、いろんな意味で。\u0000\n　？￣￣．ぜ￣　！大工ありがとう。\u0000\nところで囲碁サッカ―に興味が？\u0000\n",
+        "text": "……凄い人材だ、いろんな意味で。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 73,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "d1001901db00f700d50002000a00f700e2001c01f60019022505370145012d011b00fa003b04350cdb0008000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "ありがとう。\u0000\nところで囲碁サッカ―に興味が？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1153,6 +1192,19 @@
         "speaker": "田中",
         "speaker_translation": "",
         "text": "それじゃ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 92,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "23002300c502ef00f200ee002201ef00010024016e0102000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "……何だったんだ、アレ。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

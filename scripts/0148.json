@@ -107,12 +107,38 @@
         "id": 8,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "d5001b002201010083071407420bf700d100f700c502da0c0f01da00f9001b0008000a00fdffedfffcfffcffedffc1ffffff100066ff6e000000daffedfffcff66ff4a000000c1ffffff1000b3ff0300f4ff0400daffb2ffebfe000064ffffff0900f0ff0900cd084105fffff9000100f9002201ef00090008000a00fdffedfffcfffcff67ff160066ff7d000000c1ffb3001000daffe8fe0200ebfe000064ffffff0900f0ff0a00cd084105ffffe200010053055b091208e2071b00090008000a00c502f6002d0157012901da001801ad07f2000e0b2201f600090008000a00",
-            "warnings": 41
+            "textraw": "d5001b002201010083071407420bf700d100f700c502da0c0f01da00f9001b0008000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "う―ん、新商品とあと何頼むかな―？\u0000\n￣　　￣，．　！！大工な、なんだ！？\u0000\n　Ｗ￣。　！\u0000\n大工こ、校長先生―！？\u0000\n何でカフェから吹っ飛んで！？\u0000\n",
+        "text": "う―ん、新商品とあと何頼むかな―？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "f9000100f9002201ef00090008000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "な、なんだ！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "e200010053055b091208e2071b00090008000a00c502f6002d0157012901da001801ad07f2000e0b2201f600090008000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "こ、校長先生―！？\u0000\n何でカフェから吹っ飛んで！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -302,12 +328,25 @@
         "id": 25,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "29002d012801750141011b00fa006106f70066013001090008000a000000c502f600e2002201f900fa06fa00080000001e01e000db001e01da001801220109002a000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1600c1ffec001000ebfe000065ff05000900f0ff1a00cd084105ffff23002300ec00d500da0009000a00",
-            "warnings": 18
+            "textraw": "29002d012801750141011b00fa006106f70066013001090008000a000000c502f600e2002201f900fa06fa00080000001e01e000db001e01da001801220109002a000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "（カウンタ―に鹿とヤギ！？\u0000\n　何でこんな所に？　わけがわからん！）\u0000\n．４　・：；そ￣　・！大工……そうか！\u0000\n",
+        "text": "（カウンタ―に鹿とヤギ！？\u0000\n　何でこんな所に？　わけがわからん！）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 26,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "23002300ec00d500da0009000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "……そうか！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -419,12 +458,25 @@
         "id": 35,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "de000100de00ec00f20023002300610be000f500ee000d011a01da0009000a000e012201f90021010507e0001a012201ef00f20009000a00fdffedfffcffb7ff4000f5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9001ff00c1ff0a00ff00c1fff300ff0090ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff6ff0800b6ffe8fe0200c1fff3001000ebfe000065ff0f000900f0ff2400cd084105ffffd500d900d900d900d900d900d900d900d900d9000900090009000a00",
-            "warnings": 46
+            "textraw": "de000100de00ec00f20023002300610be000f500ee000d011a01da0009000a000e012201f90021010507e0001a012201ef00f20009000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "く、くそっ……負けてたまるか！\u0000\nみんなを助けるんだっ！\u0000\n？　，、　　ば\u0000\nばつば　？。つ￣　！大工うおおおおおおおおお！！！\u0000\n",
+        "text": "く、くそっ……負けてたまるか！\u0000\nみんなを助けるんだっ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 36,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "d500d900d900d900d900d900d900d900d900d9000900090009000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "うおおおおおおおおお！！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -497,12 +549,25 @@
         "id": 42,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "fe00d30009000000590dc202fa00f70cf200f5000d01e80009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ffeb001000ebfe000065ff16000900f0ff2b00cd084105ffffd1000100ec00f200da0002000a00e2001b01fe00460cef00f90002000a0098ff0000eefe11000400effe070097ff",
-            "warnings": 28
+            "textraw": "fe00d30009000000590dc202fa00f70cf200f5000d01e80009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "はい！　廊下に立ってます！\u0000\n　，　？￣ぜ￣　！大工あ、そっか。\u0000\nこれは夢だな。\u0000\n　．；",
+        "text": "はい！　廊下に立ってます！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 43,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "d1000100ec00f200da0002000a00e2001b01fe00460cef00f90002000a0098ff0000eefe11000400effe070097ff",
+            "warnings": 5
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "あ、そっか。\u0000\nこれは夢だな。\u0000\n　．；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +705,25 @@
         "id": 54,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "ec00d500f600e800fc00020049011b004a01f600e800fc0002000a00fdffedfffcffb7ff4000f5ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9001ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff6ff0800b6ffebfe000065ff22000900f0ff3700cd084105ffff0f01fa0012010f01fa001201230023000d01d100460cef00e600230023000a00c502f600110124016c01ef00e600230023000f01fa0012012300230002000a00",
-            "warnings": 45
+            "textraw": "ec00d500f600e800fc00020049011b004a01f600e800fc0002000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "そうですね。デ―トですね。\u0000\n？　，、　　ば\u0000\nば　？　！大工むにゃむにゃ……まあ夢だし……\u0000\n何でもアリだし……むにゃ……。\u0000\n",
+        "text": "そうですね。デ―トですね。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "0f01fa0012010f01fa001201230023000d01d100460cef00e600230023000a00c502f600110124016c01ef00e600230023000f01fa0012012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "むにゃむにゃ……まあ夢だし……\u0000\n何でもアリだし……むにゃ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "e207cc09ee00f000",
-            "textraw": "d700d700d7001b001b00090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1fff1001000ebfe000065ff28000900f0ff3d00cd084105fffff9001a010a01f80001008307e600d300b9094102e4002201ef00f90002000a0098ff0000effe0a00eefe0300040097ff",
-            "warnings": 27
+            "textraw": "d700d700d7001b001b00090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "生徒たち",
         "speaker_translation": "",
-        "text": "えええ――！？\u0000\n　，　？￣ぢ￣　！大工なるほど、新しい店員さんだな。\u0000\n　\u0000\n，．",
+        "text": "えええ――！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "f9001a010a01f80001008307e600d300b9094102e4002201ef00f90002000a0098ff0000effe0a00eefe0300040097ff",
+            "warnings": 4
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "なるほど、新しい店員さんだな。\u0000\n　\u0000\n，．",
         "text_translation": "",
         "type": "dialog"
     },
@@ -887,12 +978,25 @@
         "id": 75,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "d100f20009000000d90060040d01ef00ef00170109000a007a05e0051208e20709000000470c340845027507ef00170109000a00fdffedfffcffb7ff4000f5ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcff9001ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff6ff0800b6ffebfe000065ff37000900f0ff4c00cd084105ffff0101f6001b002300230033042906fd00de00ea00fa002300230002000a0098ff0000eefe0300040097ff",
-            "warnings": 47
+            "textraw": "d100f20009000000d90060040d01ef00ef00170109000a007a05e0051208e20709000000470c340845027507ef00170109000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "あっ！　お金まだだよ！\u0000\n高崎先生！　無銭飲食だよ！\u0000\n？　　，、　　ば\u0000\nば　？　！大工ひで―……教師のくせに……。\u0000\n　，．",
+        "text": "あっ！　お金まだだよ！\u0000\n高崎先生！　無銭飲食だよ！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 76,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "0101f6001b002300230033042906fd00de00ea00fa002300230002000a0098ff0000eefe0300040097ff",
+            "warnings": 3
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "ひで―……教師のくせに……。\u0000\n　，．",
         "text_translation": "",
         "type": "dialog"
     },
@@ -945,6 +1049,19 @@
         "speaker": "生徒たち",
         "speaker_translation": "",
         "text": "サイテ―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

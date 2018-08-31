@@ -120,12 +120,25 @@
         "id": 9,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "1e01da0019010d01e600ee0002000a00fdffedfffcfffcffedffc1ffffff100066ff12000000daffebfe000064ffffff1d00f0ff0a004a04a208ffff800d800dd100010069089408d80cee000e01ee00d30002000a00",
-            "warnings": 16
+            "textraw": "1e01da0019010d01e600ee0002000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "わかりました。\u0000\n￣　　\u0000\n玉村弌弌あ、早速来たみたい。\u0000\n",
+        "text": "わかりました。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 10,
+        "internal": {
+            "speakerraw": "4a04a208",
+            "textraw": "800d800dd100010069089408d80cee000e01ee00d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "玉村",
+        "speaker_translation": "",
+        "text": "弌弌あ、早速来たみたい。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -484,12 +497,25 @@
         "id": 38,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "2900f800d500e6001701d5000100e2001b012a000a00fdff7fff040002ff01fff1ff9600000032000f00ceff00fffffe050006000700eefe10000400c1ff39001000ebfe000065ff07000200f0ff27001501f200e200ffffd7001b00f200f7000100d7001b00f200f70002000a00",
-            "warnings": 18
+            "textraw": "2900f800d500e6001701d5000100e2001b012a000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "（どうしよう、これ）\u0000\n．４　・：；￣．￣　；。ゆっこえ―っと、え―っと。\u0000\n",
+        "text": "（どうしよう、これ）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 39,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d7001b00f200f7000100d7001b00f200f70002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "え―っと、え―っと。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -679,12 +705,25 @@
         "id": 54,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff4e011000ebfe000065ff17001200f0ff37009a033705ffffd100fd0002000a00",
-            "warnings": 23
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？ヌ￣　関口あの。\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "d100fd0002000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "あの。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -861,12 +900,25 @@
         "id": 69,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "d300d70023002300c502f6001101f900d300f600e80002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffe8fe0400c1ff45001000ebfe000065ff26000200f0ff46001501f200e200ffffd7000100d7001b00f200f70023002300d7001b00f200f70001000a005d0101005d01710126014a012d016d015e014c011b006b01090008000a0098ff0000effe010097ff",
-            "warnings": 27
+            "textraw": "d300d70023002300c502f6001101f900d300f600e80002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "いえ……何でもないです。\u0000\n　，　？．￣　。ゆっこえ、え―っと……え―っと、\u0000\nホ、ホワイトカルボナ―ラ！？\u0000\n　、",
+        "text": "いえ……何でもないです。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "d7000100d7001b00f200f70023002300d7001b00f200f70001000a005d0101005d01710126014a012d016d015e014c011b006b01090008000a0098ff0000effe010097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "え、え―っと……え―っと、\u0000\nホ、ホワイトカルボナ―ラ！？\u0000\n　、",
         "text_translation": "",
         "type": "dialog"
     },
@@ -997,6 +1049,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "35011b0054011b00230023000a0045020e01fa00dc00ee00fe00e900ef00f200ee00fd00fa0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "コ―ヒ―……\u0000\n飲みにきたはずだったのに。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

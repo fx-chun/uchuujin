@@ -185,12 +185,25 @@
         "id": 14,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "2900fa00e600e60001001f051c01da001801e607da00e000f5000a0000004104da00ea00f500d100e1001701d500da00f9001b0008002a000a00fdffedfffcff66ffb5000000dafff8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffb4000000daffbefff500ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff0f001c00f0ff0f00260141013501ffff23002300fe00d30002001101e6001101e60008000a00d1001b000100f703e600050119011b0002000a00",
-            "warnings": 42
+            "textraw": "2900fa00e600e60001001f051c01da001801e607da00e000f5000a0000004104da00ea00f500d100e1001701d500da00f9001b0008002a000a00",
+            "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "（にしし、後ろから声かけて\u0000\n　驚かせてあげようかな―？）\u0000\nＹ　？　　，、　Ｘ　てば\u0000\nば　？　イタコ……はい。もしもし？\u0000\nあ―、久しぶり―。\u0000\n",
+        "text": "（にしし、後ろから声かけて\u0000\n　驚かせてあげようかな―？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speakerraw": "260141013501",
+            "textraw": "23002300fe00d30002001101e6001101e60008000a00d1001b000100f703e600050119011b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "イタコ",
+        "speaker_translation": "",
+        "text": "……はい。もしもし？\u0000\nあ―、久しぶり―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },

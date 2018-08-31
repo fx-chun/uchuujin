@@ -601,12 +601,12 @@
         "id": 46,
         "internal": {
             "speakerraw": "2a09730a6007e4002201",
-            "textraw": "230023002300230002000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "中之条さん",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．・",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -900,12 +900,25 @@
         "id": 69,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "98000100f70002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ff5f011000ebfe000065ff20001600f0ff46002a09730a6007e4002201ffff9a051a01f900d9002406e40022010200ec00d500fa04d500fd00fe00750708011a013808fa000a00c4034d0bd300f500de001b01f900d300f70002000a00",
-            "warnings": 23
+            "textraw": "98000100f70002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "６、と。\u0000\n　，　？￣．ポ￣　〜中之条さん困るなお姉さん。そう言うのは食べる前に\u0000\n気付いてくれないと。\u0000\n",
+        "text": "６、と。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "2a09730a6007e4002201",
+            "textraw": "9a051a01f900d9002406e40022010200ec00d500fa04d500fd00fe00750708011a013808fa000a00c4034d0bd300f500de001b01f900d300f70002000a00",
+            "warnings": 0
+        },
+        "speaker": "中之条さん",
+        "speaker_translation": "",
+        "text": "困るなお姉さん。そう言うのは食べる前に\u0000\n気付いてくれないと。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1056,12 +1069,25 @@
         "id": 82,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "f9061001f50033042906fa00f900f200f500170dda00f200ee00f7002b06f200ee002300230002000a0098ff0000effe020097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe0a000400c1ffc2001000ebfe000065ff2d000600f0ff53002a09a2081208e207ffffd805530bfe00470cd300fd00f60001000a009905d1001a011101fd002101cb086004cb081e011901fa00f600dc00f900d300da0008000a00",
-            "warnings": 24
+            "textraw": "f9061001f50033042906fa00f900f200f500170dda00f200ee00f7002b06f200ee002300230002000a0098ff0000effe020097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "初めて教師になって良かったと思った……。\u0000\n　。　？￣\u0000\n．ｌ￣　：中村先生財布は無いので、\u0000\n今あるものを代金代わりにできないか？\u0000\n",
+        "text": "初めて教師になって良かったと思った……。\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 83,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "d805530bfe00470cd300fd00f60001000a009905d1001a011101fd002101cb086004cb081e011901fa00f600dc00f900d300da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "財布は無いので、\u0000\n今あるものを代金代わりにできないか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1205,6 +1231,19 @@
         "speaker": "中之条さん",
         "speaker_translation": "",
         "text": "怖っ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 95,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

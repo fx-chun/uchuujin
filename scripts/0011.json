@@ -354,12 +354,12 @@
         "id": 27,
         "internal": {
             "speakerraw": "1501f200e200",
-            "textraw": "090008000a0098ff0000effe060097fffdff7fff040002ff01ff05003200",
-            "warnings": 8
+            "textraw": "090008000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
-        "text": "！？\u0000\n　：．・",
+        "text": "！？\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "5701450102000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0f00c9ffffff1000eefe0e000400c1ff47001000ebfe000065ff16000200f0ff2e001501f200e200ffff0d01ee00ec00d5001301f200f500d603800b2101a00a1a01c40308000a00",
-            "warnings": 26
+            "textraw": "5701450102000a00",
+            "warnings": 0
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "フッ。\u0000\n　？￣．￣　。ゆっこまたそうやって偽物を売る気？\u0000\n",
+        "text": "フッ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "0d01ee00ec00d5001301f200f500d603800b2101a00a1a01c40308000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "またそうやって偽物を売る気？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "0d01d300f800d10019011b0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c9ffffff1000c1ff44001000ebfe000065ff27000200f0ff3f001501f200e200fffff0001601f200f700ba08f200f5000200ec001101ec001101bd05f906fa009f0af200ee00d9009b061901db000a003405d202f900da00f200ee00fd00fe00ec00f200f000fd00ff07600af600e600160108000a00",
-            "warnings": 23
+            "textraw": "0d01d300f800d10019011b0002000a00",
+            "warnings": 0
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "まいどあり―。\u0000\n　？￣￣￣　。ゆっこちょっと待って。そもそも最初に買ったお守りが\u0000\n効果なかったのはそっちの責任でしょ？\u0000\n",
+        "text": "まいどあり―。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "f0001601f200f700ba08f200f5000200ec001101ec001101bd05f906fa009f0af200ee00d9009b061901db000a003405d202f900da00f200ee00fd00fe00ec00f200f000fd00ff07600af600e600160108000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "ちょっと待って。そもそも最初に買ったお守りが\u0000\n効果なかったのはそっちの責任でしょ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -958,6 +984,19 @@
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 76,
+        "internal": {
+            "speakerraw": "1501f200e200",
+            "textraw": "23002300d500220102007a07e7001701d50002000a00",
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "",
+        "text": "……うん。信じよう。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

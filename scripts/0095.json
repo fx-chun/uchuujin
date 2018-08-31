@@ -432,12 +432,25 @@
         "id": 33,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "090009000a00fdffedfffcff1fff0500000000fe0000c9ff840010001aff0500000078ff00000a0016ffffffb3ff030066ff36000000b2ffdaff1aff03000000000200000a0016ffffff66ff6e000000daffc0ff0300ffff100066ffd7000000e8fe0200c1ffe4001000ebfe000064ffffff0800f0ff2200f105f004ffff090008000a00",
-            "warnings": 33
+            "textraw": "090009000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "！！\u0000\n・　　￣・　　\u0000\n，　，　斡　\u0000\n　，￣え　。さ￣　？笹原！？\u0000\n",
+        "text": "！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 34,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +588,25 @@
         "id": 45,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "f9000100f9000100f90023002300090009000a00fdff7fff040002ff01fff6ff9600000032000a00ceff00fffffe050006000700edfffcff66ff57000000f5ffff00b3ff0300f4ff0400daffb2ffedffc0ff0300ffff1000c0ff0400e900100067fffffff6ff0800effe0400c1ffe9001000ebfe000065ff07000800f0ff2e00f105f004ffff23002300f70cdc020e01e400f700170101003806db003602b408c5022101e600ee0002000a00",
-            "warnings": 32
+            "textraw": "f9000100f9000100f90023002300090009000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "な、な、な……！！\u0000\n．４　\u0000\n・：；　ば，．，￣．ず￣？．ず￣　；？笹原……立花みさとよ、私が一体何をした。\u0000\n",
+        "text": "な、な、な……！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 46,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300f70cdc020e01e400f700170101003806db003602b408c5022101e600ee0002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……立花みさとよ、私が一体何をした。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +809,25 @@
         "id": 62,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ffe6001000ebfe000065ff18000800f0ff3f00f105f004ffff23002300fe00f50001000a00f700e2001c01f600cb04fd0093006b0afe00c502f80607016c05f200ee0008000a00",
-            "warnings": 23
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？￣し￣　？笹原……はて、\u0000\nところで件の１年は何処へ行った？\u0000\n",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 63,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300fe00f50001000a00f700e2001c01f600cb04fd0093006b0afe00c502f80607016c05f200ee0008000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……はて、\u0000\nところで件の１年は何処へ行った？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -952,12 +991,25 @@
         "id": 76,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "2900d700d700d700d7002000200020002000090008002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ffe6001000ebfe000065ff26000800f0ff4d00f105f004ffff23002300f900fa00da00c10c4a06f600110108000a00",
-            "warnings": 24
+            "textraw": "2900d700d700d700d7002000200020002000090008002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "（ええええ〜〜〜〜！？）\u0000\n　，　？し￣　？笹原……なにか用事でも？\u0000\n",
+        "text": "（ええええ〜〜〜〜！？）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 77,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300f900fa00da00c10c4a06f600110108000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……なにか用事でも？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1114,6 +1166,19 @@
         "speaker": "みさと",
         "speaker_translation": "",
         "text": "…………。\u0000\n　Ｈ￣。．。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 90,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "23002300ce07fd002a0901000d010d01f9001801fb0002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "……世の中、ままならぬ。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

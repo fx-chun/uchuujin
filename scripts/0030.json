@@ -406,12 +406,12 @@
         "id": 31,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "2505fa07f700370145012d011b00fa000a00820be0001a011e01e000fa00fe00d300da00f900d3002201f600e800da0008000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "2505fa07f700370145012d011b00fa000a00820be0001a011e01e000fa00fe00d300da00f900d3002201f600e800da0008000a00",
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "碁石とサッカ―に\u0000\n分けるわけにはいかないんですか？\u0000\n．",
+        "text": "碁石とサッカ―に\u0000\n分けるわけにはいかないんですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -575,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "23002300fe00d00002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ffec001000ebfe000065ff11000900f0ff2d00cd084105ffff23002300f9001a010a01f80002000a009a033705fd00fa04d500f700d9001901ef00f90002000a00",
-            "warnings": 23
+            "textraw": "23002300fe00d00002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "……はぁ。\u0000\n　，　？￣そ￣　！大工……なるほど。\u0000\n関口の言うとおりだな。\u0000\n",
+        "text": "……はぁ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "23002300f9001a010a01f80002000a009a033705fd00fa04d500f700d9001901ef00f90002000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "……なるほど。\u0000\n関口の言うとおりだな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "9a033705",
-            "textraw": "23002300d10002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1fff1001000ebfe000065ff1e000900f0ff3a00cd084105ffff9a033705200002000a00ec001b01e700120119022505370145012d011b00e7001201f900de00f9001a01ef001c011b0008000a00",
-            "warnings": 22
+            "textraw": "23002300d10002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "……あ。\u0000\n　，　？￣ぢ￣　／！大工関口〜。\u0000\nそれじゃ囲碁サッカ―じゃなくなるだろ―？\u0000\n",
+        "text": "……あ。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "cd084105",
+            "textraw": "9a033705200002000a00ec001b01e700120119022505370145012d011b00e7001201f900de00f9001a01ef001c011b0008000a00",
+            "warnings": 0
+        },
+        "speaker": "大工",
+        "speaker_translation": "",
+        "text": "関口〜。\u0000\nそれじゃ囲碁サッカ―じゃなくなるだろ―？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -906,6 +932,19 @@
         "speaker": "大工",
         "speaker_translation": "",
         "text": "…………すまん。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "9a033705",
+            "textraw": "23002300d300d70002000a00",
+            "warnings": 0
+        },
+        "speaker": "関口",
+        "speaker_translation": "",
+        "text": "……いえ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

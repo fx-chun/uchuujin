@@ -16,12 +16,25 @@
         "id": 1,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "d70008000000c50208000a00fdffedfffcffbeff08011000f4ff1e00beff09011000f4ff1e00beff0a011000ebfe000064ffffff1a00f0ff020057012901f200f00012012201ffff0e01e400f700fd006c0bb602f200f50001000a00d10022010d010707fd002606f2000c01de00f900d3001701fc001b0002000a00",
-            "warnings": 14
+            "textraw": "d70008000000c50208000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "え？　何？\u0000\nべ￣／ぺ￣／ほ￣　。フェっちゃんみさとの部屋って、\u0000\nあんま女の子っぽくないよね―。\u0000\n",
+        "text": "え？　何？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "0e01e400f700fd006c0bb602f200f50001000a00d10022010d010707fd002606f2000c01de00f900d3001701fc001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "みさとの部屋って、\u0000\nあんま女の子っぽくないよね―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -328,12 +341,25 @@
         "id": 26,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "ec0019011201ec00d500170102000a001c07e400de00f5001101100c800bef001101220102000a00fdff7fff040002ff01ff000032000a00cefff6ff960000fffffe050006000700c1ff7d011000ebfe000065ff02001a00f0ff1b0057012901f200f00012012201ffff04011b0022010100ec00d500f9002201ef0002000a00d9001101e6001c01ec001b0002000a00",
-            "warnings": 16
+            "textraw": "ec0019011201ec00d500170102000a001c07e400de00f5001101100c800bef001101220102000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "そりゃそうよ。\u0000\n小さくても本物だもん。\u0000\n．　\u0000\n４・：；￣　。―フェっちゃんふ―ん、そうなんだ。\u0000\nおもしろそ―。\u0000\n",
+        "text": "そりゃそうよ。\u0000\n小さくても本物だもん。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "04011b0022010100ec00d500f9002201ef0002000a00d9001101e6001c01ec001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "ふ―ん、そうなんだ。\u0000\nおもしろそ―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -393,12 +419,25 @@
         "id": 32,
         "internal": {
             "speakerraw": "57012901f200f00012012201",
-            "textraw": "d50022010100ec00d500e8001a01200002000a0023002300d1001b0108000000d1001b01d1001b0108000a00fdffedfffcff1aff04000000630000000a0016ffffff1aff040000006d0000000a0016ffffff1aff04000000630000000a0016ffffff1aff040000006d0000000a0016ffffff1aff04000000680000000a0016ffffffeefe12000400c1ff71011000ebfe000065ff08001900f0ff2100280129015e0139011b00fffff900fa000100f800d500e600ee00fd0008000a00",
-            "warnings": 31
+            "textraw": "d50022010100ec00d500e8001a01200002000a0023002300d1001b0108000000d1001b01d1001b0108000a00",
+            "warnings": 0
         },
         "speaker": "フェっちゃん",
         "speaker_translation": "",
-        "text": "うん、そうする〜。\u0000\n……あれ？　あれあれ？\u0000\n．　　\u0000\n．　　\u0000\n．　　\u0000\n．　　\u0000\n．　　\u0000\n．ワ￣　？〆ウェボシ―なに、どうしたの？\u0000\n",
+        "text": "うん、そうする〜。\u0000\n……あれ？　あれあれ？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 33,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "f900fa000100f800d500e600ee00fd0008000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "なに、どうしたの？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -497,12 +536,25 @@
         "id": 41,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "57012901f200f00012012201010033060d01f200f500090009000a00fdffedfffcff66ff730000001fff0300000000fe0000c1ffa200ff001aff0300000078ff00001e0016ffffffdaffeffe0900f8ff0800edffc1ffffff1000edfffcff67ffffffbcfff0d11000f9ff080066ff56000000f4ff3c00dafff8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffd2d1ff00c1ff0a00ff00c0ff0300a200ff0090ffffff90ffffff67ff150071ff000063ffffff90ffffffedfff9ff0800ebfe000065ff11000400f0ff2a000e01e400f700ffffcd0854074f0b08000a00",
-            "warnings": 67
+            "textraw": "57012901f200f00012012201010033060d01f200f500090009000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "フェっちゃん、止まって！！\u0000\n　，　　Ｆば，　　／！？￣￣？　？　，、　　ば\u0000\nば，Ｆば　？　．）みさと大丈夫？\u0000\n",
+        "text": "フェっちゃん、止まって！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "cd0854074f0b08000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "大丈夫？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -523,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "1e0101001e01ee00e600ef00e000230023000a00e2079407ef00f200ee00fd0023002300fa002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff79011000ebfe000065ff14001a00f0ff2d0057012901f200f00012012201ffff1e011b000100f9002201da00550bec00d50002000a00e200e200fa001a09d300f700e200f200f70002000a00",
-            "warnings": 22
+            "textraw": "1e0101001e01ee00e600ef00e000230023000a00e2079407ef00f200ee00fd0023002300fa002300230002000a00",
+            "warnings": 0
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "わ、わたしだけ……\u0000\n生身だったの……に……。\u0000\n　？￣￣　フェっちゃんわ―、なんか怖そう。\u0000\nここに置いとこっと。\u0000\n",
+        "text": "わ、わたしだけ……\u0000\n生身だったの……に……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "1e011b000100f9002201da00550bec00d50002000a00e200e200fa001a09d300f700e200f200f70002000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "わ―、なんか怖そう。\u0000\nここに置いとこっと。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -718,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "0e01e400f700",
-            "textraw": "230023002300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff7d011000ebfe000065ff24001a00f0ff3d0057012901f200f00012012201fffffc00d700fc00d70001004b067f05d500200008000a00",
-            "warnings": 22
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "みさと",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　？￣￣　フェっちゃんねえねえ、似合う〜？\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "57012901f200f00012012201",
+            "textraw": "fc00d700fc00d70001004b067f05d500200008000a00",
+            "warnings": 0
+        },
+        "speaker": "フェっちゃん",
+        "speaker_translation": "",
+        "text": "ねえねえ、似合う〜？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -854,6 +932,19 @@
         "speaker": "みさと",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "0e01e400f700",
+            "textraw": "23002300d1001b0108000a00",
+            "warnings": 0
+        },
+        "speaker": "みさと",
+        "speaker_translation": "",
+        "text": "……あれ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

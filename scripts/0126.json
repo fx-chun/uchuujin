@@ -393,12 +393,25 @@
         "id": 30,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "800d800dfe00f200090008000000d1001b01f200f5000d01e400da00800d800d090009000a00fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe05000600070067ffffffeefe03000400e8fe020066ff7c000000c1ff70011000ebfe000065ff04001900f0ff1f00280129015e0139011b00ffff230023007b07fa0cef0002004f022c09da001801fd007b07fa0c8606ef0002000a00cd08770bdb07da001801d80cee003b0153012601ef00f20009000a0098ff0000effe030097ff",
-            "warnings": 24
+            "textraw": "800d800dfe00f200090008000000d1001b01f200f5000d01e400da00800d800d090009000a00",
+            "warnings": 0
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "弌弌はっ！？　あれってまさか弌弌！！\u0000\n．\u0000\n４　・：；，．。　ヮ￣　．〆ウェボシ―……侵略だ。宇宙からの侵略者だ。\u0000\n大福星から来たスパイだっ！\u0000\n　，",
+        "text": "弌弌はっ！？　あれってまさか弌弌！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 31,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "230023007b07fa0cef0002004f022c09da001801fd007b07fa0c8606ef0002000a00cd08770bdb07da001801d80cee003b0153012601ef00f20009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "……侵略だ。宇宙からの侵略者だ。\u0000\n大福星から来たスパイだっ！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "23002300d9006f0d0100470ced0cf2000c01d30002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff6d011000ebfe000065ff14001900f0ff2f00280129015e0139011b00ffffee000501220123002300920726060100ef001701fc0002000a00",
-            "warnings": 21
+            "textraw": "23002300d9006f0d0100470ced0cf2000c01d30002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "……お話、無理っぽい。\u0000\n　，　？ル￣　〆｛ウェボシ―たぶん……親子、だよね。\u0000\n",
+        "text": "……お話、無理っぽい。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "ee000501220123002300920726060100ef001701fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "たぶん……親子、だよね。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -666,12 +692,25 @@
         "id": 53,
         "internal": {
             "speakerraw": "280129015e0139011b00",
-            "textraw": "c2031a01da0002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff6d011000ebfe000065ff1b001900f0ff3600280129015e0139011b00ffff23002300c2031c0102000a00f9002201da00130b410cec00d500f9007803e700ef00e60002000a0098ff0000effe0a0097ff",
-            "warnings": 24
+            "textraw": "c2031a01da0002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "ウェボシ―",
         "speaker_translation": "",
-        "text": "帰るか。\u0000\n　，　？ル￣　―〆ウェボシ―……帰ろ。\u0000\nなんか微妙そうな感じだし。\u0000\n　\u0000\n",
+        "text": "帰るか。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 54,
+        "internal": {
+            "speakerraw": "280129015e0139011b00",
+            "textraw": "23002300c2031c0102000a00f9002201da00130b410cec00d500f9007803e700ef00e60002000a0098ff0000effe0a0097ff",
+            "warnings": 3
+        },
+        "speaker": "ウェボシ―",
+        "speaker_translation": "",
+        "text": "……帰ろ。\u0000\nなんか微妙そうな感じだし。\u0000\n　\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },

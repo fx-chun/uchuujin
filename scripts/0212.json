@@ -3,12 +3,38 @@
         "id": 0,
         "internal": {
             "speakerraw": "d900f300dc009500",
-            "textraw": "e400f50001009905d909fe002401750148014c013d016e013101390169017501fa00f300d300f5000a000c08520c2101e400ea00f50011011801d500ed0002000a00fdff71ff04005fff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffdb01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff01002000f0ff0100d900f300dc009500ffffa408fa008f0bdc00ee00d300e200f700fe00d1001a01da0008000a00fdff73ff04007fff0200f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff2d01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff02002000f0ff0200d900f300dc009500ffffe200fd00ae055307fa00d1001a01fd00db0001000a006d011b006e0145014a01fd009408d909fd005e07c90bef0002000a00",
-            "warnings": 77
+            "textraw": "e400f50001009905d909fe002401750148014c013d016e013101390169017501fa00f300d300f5000a000c08520c2101e400ea00f50011011801d500ed0002000a00",
+            "warnings": 0
         },
         "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "さて、今度はアンテナセレクションについて\u0000\n説明をさせてもらうぞ。\u0000\n．，　？　　，、　　ば\u0000\nば　？　、〜、おつき３他に聞きたいことはあるか？\u0000\n．。？　　，、　　カば\u0000\nば　？　。〜。おつき３この左上にあるのが、\u0000\nル―レットの速度の情報だ。\u0000\n",
+        "text": "さて、今度はアンテナセレクションについて\u0000\n説明をさせてもらうぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 1,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "a408fa008f0bdc00ee00d300e200f700fe00d1001a01da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "他に聞きたいことはあるか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "e200fd00ae055307fa00d1001a01fd00db0001000a006d011b006e0145014a01fd009408d909fd005e07c90bef0002000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "この左上にあるのが、\u0000\nル―レットの速度の情報だ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -321,6 +347,19 @@
         "speaker": "おつき３",
         "speaker_translation": "",
         "text": "そうか……。\u0000\n少し寂しい気もするが、仕方が無いな。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 27,
+        "internal": {
+            "speakerraw": "d900f300dc009500",
+            "textraw": "ec001b01f600fe0001000a009905f9021101e600f200da0019014808f200f500c4041001f500de001b01ee000d01d70002000a00",
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "それでは、\u0000\n今回もしっかり狙って決めてくれたまえ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

@@ -208,15 +208,15 @@
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 16,
         "internal": {
-            "speakerraw": "960016ff",
-            "textraw": "e8fe0200ebfe000064ffffff0100f0ff1000fe00da00ea00ffff1e011b001b001b00090008000000e200f200f000d80c1a01f9001b001b0009000a00",
-            "warnings": 6
+            "speakerraw": "fe00da00ea00",
+            "textraw": "1e011b001b001b00090008000000e200f200f000d80c1a01f9001b001b0009000a00",
+            "warnings": 0
         },
-        "speaker": "４",
+        "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "。　、￣はかせわ―――！？　こっち来るな――！\u0000\n",
+        "text": "わ―――！？　こっち来るな――！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -471,12 +471,12 @@
         "id": 36,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "290006010601060109000000db05100cf200ee0018015d06820bdb0098032d02f200f5001a01f200f5000a0000001e01da00f200ee00da0018018d0dfc00f0001201f200f5001a0109002a000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "290006010601060109000000db05100cf200ee0018015d06820bdb0098032d02f200f5001a01f200f5000a0000001e01da00f200ee00da0018018d0dfc00f0001201f200f5001a0109002a000a00",
+            "warnings": 0
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "（ぷぷぷ！　阪本ったら自分が間違ってるって\u0000\n　わかったから豫ねちゃってる！）\u0000\n．",
+        "text": "（ぷぷぷ！　阪本ったら自分が間違ってるって\u0000\n　わかったから豫ねちゃってる！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -640,12 +640,25 @@
         "id": 49,
         "internal": {
             "speakerraw": "db05100ce4002201",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff29001000ebfe000065ff12000100f0ff3200fe00da00ea00ffffdb05100cfd00c4035106f00011011e01da001a0117010200f6001101fe00da00ea00f7000a00d900fc00d700e4002201db00df07e600d300fd00fe00630a1001f900d300f700fc0002000a00",
-            "warnings": 22
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "阪本さん",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？（￣　、はかせ阪本の気持ちもわかるよ。でもはかせと\u0000\nおねえさんが正しいのは認めないとね。\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 50,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "db05100cfd00c4035106f00011011e01da001a0117010200f6001101fe00da00ea00f7000a00d900fc00d700e4002201db00df07e600d300fd00fe00630a1001f900d300f700fc0002000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "阪本の気持ちもわかるよ。でもはかせと\u0000\nおねえさんが正しいのは認めないとね。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -770,12 +783,25 @@
         "id": 60,
         "internal": {
             "speakerraw": "fe00da00ea00",
-            "textraw": "d500220102000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe18000400c1ff2d001000ebfe000065ff1d000100f0ff3d00fe00da00ea00ffff18066c0aef00e000f8000100e2001b01db003602e60afd001f02e504ef00da001801fc0002000a00690afa00fe004f0ae600da00f200ee00da00f9001b0002000a00",
-            "warnings": 25
+            "textraw": "d500220102000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "はかせ",
         "speaker_translation": "",
-        "text": "うん。\u0000\n　，　？．￣　、はかせ残念だけど、これが一般の意見だからね。\u0000\n猫には難しかったかな―。\u0000\n",
+        "text": "うん。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 61,
+        "internal": {
+            "speakerraw": "fe00da00ea00",
+            "textraw": "18066c0aef00e000f8000100e2001b01db003602e60afd001f02e504ef00da001801fc0002000a00690afa00fe004f0ae600da00f200ee00da00f9001b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "はかせ",
+        "speaker_translation": "",
+        "text": "残念だけど、これが一般の意見だからね。\u0000\n猫には難しかったかな―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -867,6 +893,19 @@
         "speaker": "はかせ",
         "speaker_translation": "",
         "text": "（ぷぷぷ。ふて寝してる。\u0000\n　やっぱり猫だなぁ）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 69,
+        "internal": {
+            "speakerraw": "db05100ce4002201",
+            "textraw": "cf00cf00b5000a00",
+            "warnings": 0
+        },
+        "speaker": "阪本さん",
+        "speaker_translation": "",
+        "text": "ｙｙＹ\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

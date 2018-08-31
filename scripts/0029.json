@@ -484,12 +484,12 @@
         "id": 37,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "2900e2001b01fe0060013c01260109000a000000ef0530021208e207fe0098032d02d300f900de002705f802210109002a000a00fdff7fff040002ff01ff",
-            "warnings": 4
+            "textraw": "2900e2001b01fe0060013c01260109000a000000ef0530021208e207fe0098032d02d300f900de002705f802210109002a000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "（これはマズイ！\u0000\n　桜井先生は間違いなく誤解を！）\u0000\n．",
+        "text": "（これはマズイ！\u0000\n　桜井先生は間違いなく誤解を！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -614,12 +614,25 @@
         "id": 47,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "230023002300230002000a00fdffedfffcff67ffffff1aff04000000000200003c0016ffffffedffc0ff0400ffff1000c1ffc6001000ebfe000065ff0f000600f0ff30002a09a2081208e207ffff090008000a00",
-            "warnings": 18
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n．　斡　．￣ｐ￣　：｝中村先生！？\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000eefe10000400c1ffc5001000ebfe000065ff19000600f0ff3a002a09a2081208e207ffffd3000100d300d300f600e800da000800000024016e01fe00ee00ef006001450137011b003a01fd000a004b0dbc06cc082101da0c2201ef00ef00e000f600d100f200f5002300230002000a00",
-            "warnings": 23
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？￣￣．ｏ￣　〆：中村先生い、いいですか？　アレはただマッサ―ジの\u0000\n練習台を頼んだだけであって……。\u0000\n",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "d3000100d300d300f600e800da000800000024016e01fe00ee00ef006001450137011b003a01fd000a004b0dbc06cc082101da0c2201ef00ef00e000f600d100f200f5002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "い、いいですか？　アレはただマッサ―ジの\u0000\n練習台を頼んだだけであって……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -926,12 +952,25 @@
         "id": 73,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "ba061e01f200ee0023002300c5021101da0011012300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ffc5001000ebfe0100adffffff65ff29000600f0ff4a002a09a2081208e207ffff2900e200e200f60062012f01fa00f9001a01f700e4001801fa002705f8022101e2070f0102000a000000320def07fa000100320def07fa00f9001b01090000002a09a208da00f90009002a000a00",
-            "warnings": 24
+            "textraw": "ba061e01f200ee0023002300c5021101da0011012300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "終わった……何もかも……。\u0000\n　，　？￣．ｏ￣、（：中村先生（ここでムキになるとさらに誤解を生む。\u0000\n　冷静に、冷静になれ！　中村かな！）\u0000\n",
+        "text": "終わった……何もかも……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900e200e200f60062012f01fa00f9001a01f700e4001801fa002705f8022101e2070f0102000a000000320def07fa000100320def07fa00f9001b01090000002a09a208da00f90009002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（ここでムキになるとさらに誤解を生む。\u0000\n　冷静に、冷静になれ！　中村かな！）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1244,6 +1283,19 @@
         "speaker": "中村先生",
         "speaker_translation": "",
         "text": "あっ！？　ち、違う！\u0000\nそういう意味じゃな―――い！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 99,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "ef0530021208e2071b001b001b001b00090009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "桜井先生――――！！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

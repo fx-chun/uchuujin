@@ -458,12 +458,12 @@
         "id": 35,
         "internal": {
             "speakerraw": "f105f004",
-            "textraw": "77051901f500d3001c01ef00f70008000a0035013a016f01280101006c05de00c403da002300230008000a0098ff0000effe060097fffdff7fff040002ff01ff05003200",
-            "warnings": 8
+            "textraw": "77051901f500d3001c01ef00f70008000a0035013a016f01280101006c05de00c403da002300230008000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "笹原",
         "speaker_translation": "",
-        "text": "降りていろだと？\u0000\nコジロウ、行く気か……？\u0000\n　：．・",
+        "text": "降りていろだと？\u0000\nコジロウ、行く気か……？\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -562,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "35013a016f012801",
-            "textraw": "090009000a00fdffedfffcff66ff490000001aff03000000000200001e001aff0400000000fe00001e00f5ff080016ffffffedffc1ffffff1000bcfffe01100066ff3f000000dafff6ff0800ebfe0000adffffff65ff10001e00f0ff2c006106ffff230023002300230002000a0098ff0000effe060097ff",
-            "warnings": 29
+            "textraw": "090009000a00",
+            "warnings": 0
         },
         "speaker": "コジロウ",
         "speaker_translation": "",
-        "text": "！！\u0000\n　，　斡　／．　　／？￣梓￣　？　￣／鹿…………。\u0000\n　：",
+        "text": "！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "230023002300230002000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -731,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "ef000100ef000100f308da002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffe6001000ebfe000065ff1e000800f0ff3a00f105f004ffff1d07e600ba08f500010035013a016f01280102000a000d01ef00e200fd00630d880afd006f0dfe00ba061e01f200f500d300f900d30002000a00",
-            "warnings": 21
+            "textraw": "ef000100ef000100f308da002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "だ、だ、誰か……。\u0000\n　，　？し￣　／？笹原少し待て、コジロウ。\u0000\nまだこの老婆の話は終わっていない。\u0000\n",
+        "text": "だ、だ、誰か……。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "1d07e600ba08f500010035013a016f01280102000a000d01ef00e200fd00630d880afd006f0dfe00ba061e01f200f500d300f900d30002000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "少し待て、コジロウ。\u0000\nまだこの老婆の話は終わっていない。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -939,12 +965,25 @@
         "id": 74,
         "internal": {
             "speakerraw": "260141013501",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffe0001000ebfe000065ff2f000800f0ff4b00f105f004ffff0d01d100ba08f50035013a016f01280102000a00ce03bd0cdb006c05de003808fa0001000d01ef00ad08f3000801dc009c06db00d1001a0102000a00",
-            "warnings": 21
+            "textraw": "090008000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "イタコ",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，　？け￣　｛？笹原まあ待てコジロウ。\u0000\n貴様が行く前に、まだ打つべき手がある。\u0000\n",
+        "text": "！？\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 75,
+        "internal": {
+            "speakerraw": "f105f004",
+            "textraw": "0d01d100ba08f50035013a016f01280102000a00ce03bd0cdb006c05de003808fa0001000d01ef00ad08f3000801dc009c06db00d1001a0102000a00",
+            "warnings": 0
+        },
+        "speaker": "笹原",
+        "speaker_translation": "",
+        "text": "まあ待てコジロウ。\u0000\n貴様が行く前に、まだ打つべき手がある。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1101,6 +1140,19 @@
         "speaker": "イタコ",
         "speaker_translation": "",
         "text": "あっ！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 88,
+        "internal": {
+            "speakerraw": "6106",
+            "textraw": "090009000a00",
+            "warnings": 0
+        },
+        "speaker": "鹿",
+        "speaker_translation": "",
+        "text": "！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

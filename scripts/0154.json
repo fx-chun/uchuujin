@@ -315,12 +315,25 @@
         "id": 24,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "29001e010100cf09e4001b01ee001b00f200090008002a000a0098ff0000effe080097fffdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1200eefe10000400c1ff1b011000ebfe000065ff04000c00f0ff19007a05e0051208e207ffff13011a01e600da0023002300f900d300fd00da0008000a00",
-            "warnings": 22
+            "textraw": "29001e010100cf09e4001b01ee001b00f200090008002a000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（わ、渡された―っ！？）\u0000\n　？．４　・：；￣．れ￣　．〆高崎先生やるしか……ないのか？\u0000\n",
+        "text": "（わ、渡された―っ！？）\u0000\n　？",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 25,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "13011a01e600da0023002300f900d300fd00da0008000a00",
+            "warnings": 0
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "やるしか……ないのか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +562,25 @@
         "id": 43,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2900d700d700d700d7001b001b001b001b00f20009000900090008002a000a0098ff0000effe0b0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff16011000ebfe0100adffffff65ff17000c00f0ff2c007a05e0051208e207ffff2900230023001906d30bf900d30002000a0000009a05f200f5001a01990721010507e0001a01fd00db0033042906f200f50011012201ef002a000a0098ff0000effe070097ff",
-            "warnings": 30
+            "textraw": "2900d700d700d700d7001b001b001b001b00f20009000900090008002a000a0098ff0000effe0b0097ff",
+            "warnings": 4
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（ええええ――――っ！！！？）\u0000\n　　？￣ょ￣、高崎先生（……仕方ない。\u0000\n　困ってる人を助けるのが教師ってもんだ）\u0000\n　；",
+        "text": "（ええええ――――っ！！！？）\u0000\n　",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900230023001906d30bf900d30002000a0000009a05f200f5001a01990721010507e0001a01fd00db0033042906f200f50011012201ef002a000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（……仕方ない。\u0000\n　困ってる人を助けるのが教師ってもんだ）\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -835,12 +861,25 @@
         "id": 66,
         "internal": {
             "speakerraw": "7a05e0051208e207",
-            "textraw": "2900260129012901290129013b01e7001201fc001b00090009002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ff16011000ebfe0100adffffff65ff2e000c00f0ff43007a05e0051208e207ffff2900230023001906d30bf900d3000100da0005011a01f700e6001701d5002a000a0098ff0000effe070097ff",
-            "warnings": 28
+            "textraw": "2900260129012901290129013b01e7001201fc001b00090009002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "高崎先生",
         "speaker_translation": "",
-        "text": "（イェェェェスじゃね―！！）\u0000\n　，　？ょ￣、高崎先生（……仕方ない、かぶるとしよう）\u0000\n　；",
+        "text": "（イェェェェスじゃね―！！）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 67,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "2900230023001906d30bf900d3000100da0005011a01f700e6001701d5002a000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "（……仕方ない、かぶるとしよう）\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -997,6 +1036,19 @@
         "speaker": "警察",
         "speaker_translation": "",
         "text": "あ―、そうですか。\u0000\nとりあえず詳しいお話は署でお願いします。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 80,
+        "internal": {
+            "speakerraw": "7a05e0051208e207",
+            "textraw": "d7000100d700d6001b002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "高崎先生",
+        "speaker_translation": "",
+        "text": "え、えぇ―……。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

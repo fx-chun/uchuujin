@@ -146,12 +146,25 @@
         "id": 11,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "ec00d5000100ec00e600f5006505d700e006e600ee00e2001b01db00800d800d0a00240bfa050900000019022505390167011b001b001b001b004a01090009000a00fdffedfffcffedffc1ffffff1000fcff66ffa6000000daff66ff6e000000e8fe0200ebfe000064ffffff1100f0ff0c00ef053002e907ffff090008000a00",
-            "warnings": 19
+            "textraw": "ec00d5000100ec00e600f5006505d700e006e600ee00e2001b01db00800d800d0a00240bfa050900000019022505390167011b001b001b001b004a01090009000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "そう、そして考え出したこれが弌弌\u0000\n必殺！　囲碁シュ――――ト！！\u0000\n￣Ｊ　　。　桜井誠！？\u0000\n",
+        "text": "そう、そして考え出したこれが弌弌\u0000\n必殺！　囲碁シュ――――ト！！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "090008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -159,12 +172,25 @@
         "id": 13,
         "internal": {
             "speakerraw": "53055b091208e207",
-            "textraw": "090008000a00fdffedfffcfffcff66ffa8000000daff1aff03000100000010010a0016ffffff66ff30000000edffc1ffffff1000edfffcfffaff01000000f8ff0800ecfec1ffffff100067fffffff4ff1e00f2fef0febcffdb01100067ff0f00faff01000000f9ff0800e8fe0200c0ff0300b4011000ebfe000065ff00002200f0ff0e0007ffffff190225050100c50211019a039404fc00d7001b00f200090009000a00",
-            "warnings": 41
+            "textraw": "090008000a00",
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "！？\u0000\nＬ　，、　め\u0000\n｝　￣、　？￣／￣、　？。，￣　　囲碁、何も関係ねえ―っ！！\u0000\n",
+        "text": "！？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speakerraw": "07ff",
+            "textraw": "190225050100c50211019a039404fc00d7001b00f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "囲碁、何も関係ねえ―っ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -315,12 +341,12 @@
         "id": 26,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "d100fd0001006c0b5b0909000a0098ff0000effe080097fffdff7fff040002ff01ff05003200",
-            "warnings": 8
+            "textraw": "d100fd0001006c0b5b0909000a0098ff0000effe080097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "あの、部長！\u0000\n　？．・",
+        "text": "あの、部長！\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
     },
@@ -497,12 +523,25 @@
         "id": 40,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "2c016e01fd000a01d500e200ec000100610be0000d01ea002201da001801fc0009000a00fdffedfffcfffcfffaff03000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcffa801ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ff100071ff000063ffffff90ffffffedfffaff04000000f9ff0800c1ff44011000ebfe000065ff11001100f0ff2900ef053002e907ffff2300230017011b00f200e60009000a00e2001b01f6000f07610bfa000f07f500ff006c0b5b0911012300230002000a00",
-            "warnings": 45
+            "textraw": "2c016e01fd000a01d500e200ec000100610be0000d01ea002201da001801fc0009000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "オレのほうこそ、負けませんからね！\u0000\n，　？　，、　　ば\u0000\nば￣　．　？ヂ￣　（桜井誠……よ―っし！\u0000\nこれで勝負に勝てば部長も……。\u0000\n",
+        "text": "オレのほうこそ、負けませんからね！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "2300230017011b00f200e60009000a00e2001b01f6000f07610bfa000f07f500ff006c0b5b0911012300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "……よ―っし！\u0000\nこれで勝負に勝てば部長も……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -536,12 +575,25 @@
         "id": 44,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "6c0b5b09f2000100f0001601f200f700ba08f200f500de00ef00e400d30009000a000501f00016011b001b001b00090009000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1000c1ff44011000ebfe000065ff15001100f0ff2d00ef053002e907ffffd100fd00010052061800f600d300d300da0018010a006c0b4c03f60019022505370145012d011b00fd004b0dbc062101e6000d01ea002201da0008000a00",
-            "warnings": 25
+            "textraw": "6c0b5b09f2000100f0001601f200f700ba08f200f500de00ef00e400d30009000a000501f00016011b001b001b00090009000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "部長っ、ちょっと待ってください！\u0000\nぶちょ―――！！\u0000\n　，　？￣ヂ￣　桜井誠あの、時でいいから\u0000\n部活で囲碁サッカ―の練習をしませんか？\u0000\n",
+        "text": "部長っ、ちょっと待ってください！\u0000\nぶちょ―――！！\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 45,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "d100fd00010052061800f600d300d300da0018010a006c0b4c03f60019022505370145012d011b00fd004b0dbc062101e6000d01ea002201da0008000a00",
+            "warnings": 1
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "あの、時でいいから\u0000\n部活で囲碁サッカ―の練習をしませんか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -680,11 +732,11 @@
         "internal": {
             "speakerraw": "ef053002e907",
             "textraw": "1e01da00f200f5000d01e800f200f50002000a00f00012012201f7007d0cfd009b005206fa00fe00ba061e011801ea000d01e800da00180102000a00",
-            "warnings": 1
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "わかってますって。\u0000\nちゃんと夜の時には終わらせますから。\u0000\n",
+        "text": "わかってますって。\u0000\nちゃんと夜の９時には終わらせますから。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -705,12 +757,25 @@
         "id": 58,
         "internal": {
             "speakerraw": "cd084105",
-            "textraw": "23002300e400e800db0001002a093c03a800b100ab0002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200c1ff44011000ebfe0100adffffff65ff23001100f0ff3b00ef053002e907ffff2900a702e600f500ef001001f90018014402d300f5000e011c0102000a00000019022505370145012d011b00fd006f0dd0082101e006e400e900fa006f0de800ed0009002a000a0098ff0000eefe11000400effe070097ff",
-            "warnings": 28
+            "textraw": "23002300e400e800db0001002a093c03a800b100ab0002000a00",
+            "warnings": 0
         },
         "speaker": "大工",
         "speaker_translation": "",
-        "text": "……さすが、中学ＬＵＯ。\u0000\n　？ヂ￣、…桜井誠（押してだめなら引いてみろ。\u0000\n　囲碁サッカ―の話題を出さずに話すぞ！）\u0000\n　．；",
+        "text": "……さすが、中学ＬＵＯ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 59,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "2900a702e600f500ef001001f90018014402d300f5000e011c0102000a00000019022505370145012d011b00fd006f0dd0082101e006e400e900fa006f0de800ed0009002a000a0098ff0000eefe11000400effe070097ff",
+            "warnings": 5
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "（押してだめなら引いてみろ。\u0000\n　囲碁サッカ―の話題を出さずに話すぞ！）\u0000\n　．；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -861,12 +926,25 @@
         "id": 71,
         "internal": {
             "speakerraw": "ef053002e907",
-            "textraw": "fe00d300090000000d01ee006c0b4c03f60009000a00fdffedfffcfffcffedffc0ff0400ffff1000eefe01000400c1ff4a011000ebfe0000adffffff65ff30001100f0ff4800ef053002e907ffff230023002300230002000a0098ff0000effe060097ff",
-            "warnings": 20
+            "textraw": "fe00d300090000000d01ee006c0b4c03f60009000a00",
+            "warnings": 0
         },
         "speaker": "桜井誠",
         "speaker_translation": "",
-        "text": "はい！　また部活で！\u0000\n．￣、．ト￣　｝桜井誠…………。\u0000\n　：",
+        "text": "はい！　また部活で！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 72,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "230023002300230002000a0098ff0000effe060097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -893,6 +971,19 @@
         "speaker": "桜井誠",
         "speaker_translation": "",
         "text": "（引きすぎた！？）\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 75,
+        "internal": {
+            "speakerraw": "ef053002e907",
+            "textraw": "6c0b5b09f2000100ba08f200f500de00ef00e4001b00d30009000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "桜井誠",
+        "speaker_translation": "",
+        "text": "部長っ、待ってくださ―い！\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

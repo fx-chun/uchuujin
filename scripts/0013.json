@@ -497,12 +497,12 @@
         "id": 38,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "090008000a0098ff0000effe060097fffdff7fff040002ff01ff",
-            "warnings": 7
+            "textraw": "090008000a0098ff0000effe060097ff",
+            "warnings": 3
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "！？\u0000\n　：．",
+        "text": "！？\u0000\n　：",
         "text_translation": "",
         "type": "dialog"
     },
@@ -653,12 +653,25 @@
         "id": 50,
         "internal": {
             "speakerraw": "0e01d900",
-            "textraw": "2900e300100122010100e30010012201fc00230023000a000000ea001001f500230023000c021801da00fa00230023002a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff1200c1ff65001000ebfe000065ff12000300f0ff33000e01d900ffff0d010100ba08f200f50001001501f200e20009000a00ec001b01fe0023002300f200090009000a00",
-            "warnings": 22
+            "textraw": "2900e300100122010100e30010012201fc00230023000a000000ea001001f500230023000c021801da00fa00230023002a000a00",
+            "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "（ごめん、ごめんね……\u0000\n　せめて……安らかに……）\u0000\n　？￣　，みおま、待って、ゆっこ！\u0000\nそれは……っ！！\u0000\n",
+        "text": "（ごめん、ごめんね……\u0000\n　せめて……安らかに……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 51,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "0d010100ba08f200f50001001501f200e20009000a00ec001b01fe0023002300f200090009000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "ま、待って、ゆっこ！\u0000\nそれは……っ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +796,25 @@
         "id": 61,
         "internal": {
             "speakerraw": "2a09730a6007",
-            "textraw": "2900230023007208e207e40022010200f9002201f600010c2101e504f50001000a000000d1002201f900fa00790bfc05f900ab032101e600f500d300ee002201ef001c01d50008002a000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0e00eefe10000400c1ff62001000ebfe000065ff1d000300f0ff3e000e01d900ffff4201010042016301ef00170101000a00de0cf700e600800bfd002a0994070f079c06fa00e504f000120109000a00",
-            "warnings": 23
+            "textraw": "2900230023007208e207e40022010200f9002201f600010c2101e504f50001000a000000d1002201f900fa00790bfc05f900ab032101e600f500d300ee002201ef001c01d50008002a000a00",
+            "warnings": 0
         },
         "speaker": "中之条",
         "speaker_translation": "",
-        "text": "（……相生さん。なんで僕を見て、\u0000\n　あんなに複雑な顔をしていたんだろう？）\u0000\n　？￣．￣　，みおダ、ダメだよ、\u0000\n落とし物の中身勝手に見ちゃ！\u0000\n",
+        "text": "（……相生さん。なんで僕を見て、\u0000\n　あんなに複雑な顔をしていたんだろう？）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 62,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "4201010042016301ef00170101000a00de0cf700e600800bfd002a0994070f079c06fa00e504f000120109000a00",
+            "warnings": 0
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "ダ、ダメだよ、\u0000\n落とし物の中身勝手に見ちゃ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -1023,6 +1049,19 @@
         "speaker": "校内放送",
         "speaker_translation": "",
         "text": "心当たりのある人は、\u0000\n職員室まで取りに来てください。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 81,
+        "internal": {
+            "speakerraw": "0e01d900",
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
+        },
+        "speaker": "みお",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n　，",
         "text_translation": "",
         "type": "dialog"
     }

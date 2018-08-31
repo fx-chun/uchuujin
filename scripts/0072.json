@@ -107,12 +107,25 @@
         "id": 8,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "290038080e01ee00d300fa00f80018013407dc00f600e3000d01da00ec00f200f7002a000a0098ff0000effe0b0097fffdffedfffcfffcffbfff1300100066ff4d000000daff66ff52000000ebfe000064ffffff1300f0ff0900c4092a09ffff3d0175013d011b0002000a00",
-            "warnings": 21
+            "textraw": "290038080e01ee00d300fa00f80018013407dc00f600e3000d01da00ec00f200f7002a000a0098ff0000effe0b0097ff",
+            "warnings": 4
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "（前みたいにどら焼きでごまかそっと）\u0000\n　￣　　　！田中センセ―。\u0000\n",
+        "text": "（前みたいにどら焼きでごまかそっと）\u0000\n　",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 9,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "3d0175013d011b0002000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "センセ―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -289,12 +302,12 @@
         "id": 23,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "2900d500f2001e011b000100e200fd0063073504f800d500e800f200da00f9001b0002000a000000e200d500f900f200ee001801800d800d2a000a00fdff7fff040002ff01ff0000960005003200",
-            "warnings": 5
+            "textraw": "2900d500f2001e011b000100e200fd0063073504f800d500e800f200da00f9001b0002000a000000e200d500f900f200ee001801800d800d2a000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "（うっわ―、この状況どうすっかな―。\u0000\n　こうなったら弌弌）\u0000\n．　４・",
+        "text": "（うっわ―、この状況どうすっかな―。\u0000\n　こうなったら弌弌）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -497,12 +510,51 @@
         "id": 39,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "0a012201f700fa00e2001b010100c502f9002201f600e6001601d50008000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ff54011000ebfe000065ff12001300f0ff2800c4092a09ffffd100f2001b011b0008000a00c502ef001c0135016e01010098032d02d700f0001201f200ee00170102000a00fdffedfffcfffcffbfff1300100066ff4d000000daff66ff52000000ebfe000065ff13001300f0ff2900c4092a09ffffd7001b00f200f70023002300d100010035016e0135016e0102000a00fdffedfffcfffcff67ffffff66ff4e000000c9ff59021000c1ff52011000ebfe000065ff14001300f0ff2a00c4092a09fffffe00d300f2000100f8001b00ed0009000a0098ff0000effe020097ff",
-            "warnings": 57
+            "textraw": "0a012201f700fa00e2001b010100c502f9002201f600e6001601d50008000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "ほんとにこれ、何なんでしょう？\u0000\n　？￣．ヒ￣　田中あっれ―？\u0000\n何だろコレ、間違えちゃったよ。\u0000\n￣　　　（田中え―っと……あ、コレコレ。\u0000\n　臼￣バ￣　）田中はいっ、ど―ぞ！\u0000\n　。",
+        "text": "ほんとにこれ、何なんでしょう？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "d100f2001b011b0008000a00c502ef001c0135016e01010098032d02d700f0001201f200ee00170102000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "あっれ―？\u0000\n何だろコレ、間違えちゃったよ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 41,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "d7001b00f200f70023002300d100010035016e0135016e0102000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "え―っと……あ、コレコレ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 42,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "fe00d300f2000100f8001b00ed0009000a0098ff0000effe020097ff",
+            "warnings": 3
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "はいっ、ど―ぞ！\u0000\n　。",
         "text_translation": "",
         "type": "dialog"
     },
@@ -549,12 +601,38 @@
         "id": 46,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "d1000100fe00d30009000a00fdffedfffcfffcffbfff1300100066ff4d000000daff66ff52000000ebfe000065ff19001300f0ff2f00c4092a09ffff800d800d1701f20009000000fe00f20009000a001701e60001009905d909e200ec0002000a00fdffedfffcfffcff66ff4e000000c9ff59021000effe0b00c0ff04000b011000ebfe0000adffffff65ff1a000b00f0ff3000ef0530021208e207ffff23002300230023002300230002000a00",
-            "warnings": 34
+            "textraw": "d1000100fe00d30009000a00",
+            "warnings": 0
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "あ、はい！\u0000\n￣　　　〆｛田中弌弌よっ！　はっ！\u0000\nよし、今度こそ。\u0000\n　臼￣．ぼ￣　｝桜井先生………………。\u0000\n",
+        "text": "あ、はい！\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "800d800d1701f20009000000fe00f20009000a001701e60001009905d909e200ec0002000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "弌弌よっ！　はっ！\u0000\nよし、今度こそ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 48,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "23002300230023002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "………………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -666,12 +744,25 @@
         "id": 57,
         "internal": {
             "speakerraw": "ef0530021208e207",
-            "textraw": "2900f700e2001c01f600230023000a000000c704470401003806fe00f800d500e8001b01ff00d300d3002201f600e6001601d500da0008002a000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffeefe10000400c1ff54011000ebfe000065ff24001300f0ff3a00c4092a09ffffd1001b0108000a00d900f200da00e600d300f9001b000100c502ef001c0135016e0102000a00",
-            "warnings": 24
+            "textraw": "2900f700e2001c01f600230023000a000000c704470401003806fe00f800d500e8001b01ff00d300d3002201f600e6001601d500da0008002a000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "桜井先生",
         "speaker_translation": "",
-        "text": "（ところで……\u0000\n　結局、私はどうすればいいんでしょうか？）\u0000\n　，　？￣．ヒ￣　田中あれ？\u0000\nおっかしいな―、何だろコレ。\u0000\n",
+        "text": "（ところで……\u0000\n　結局、私はどうすればいいんでしょうか？）\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 58,
+        "internal": {
+            "speakerraw": "c4092a09",
+            "textraw": "d1001b0108000a00d900f200da00e600d300f9001b000100c502ef001c0135016e0102000a00",
+            "warnings": 0
+        },
+        "speaker": "田中",
+        "speaker_translation": "",
+        "text": "あれ？\u0000\nおっかしいな―、何だろコレ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -783,12 +874,25 @@
         "id": 67,
         "internal": {
             "speakerraw": "c4092a09",
-            "textraw": "230023002300230002000a00fdffedfffcff66ff30000000edffc1ffffff1000effe0300e8fe0200ebfe000065ff2e000b00f0ff4400ef0530021208e207ffffd700f20008000000d700d7001b001b001b001b00f200090008000a00",
-            "warnings": 16
+            "textraw": "230023002300230002000a00",
+            "warnings": 0
         },
         "speaker": "田中",
         "speaker_translation": "",
-        "text": "…………。\u0000\n｝　￣，。　桜井先生えっ？　ええ――――っ！？\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "d700f20008000000d700d7001b001b001b001b00f200090008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "えっ？　ええ――――っ！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -802,6 +906,19 @@
         "speaker": "桜井先生",
         "speaker_translation": "",
         "text": "……あの、田中君、大丈夫ですか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 70,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "23002300f8000100f800d500e6001701d5002300230002000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "……ど、どうしよう……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

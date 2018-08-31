@@ -367,12 +367,25 @@
         "id": 28,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "2900f9000100c502db000107da001b01f500d3001a0108000a000000de00f2000100ff02e600d300db000100c403fa00f9001a01ed00230023002a000a00fdff7fff040002ff01ff0a00cefff6ff96000000320000fffffe050006000700c1ffc2001000ebfe0100adffffff65ff05000600f0ff1d002a09a2081208e207ffff2900c403fa00f9001a01f900230023000a0000001701e6000200f0001601f200f7007d0adc00fa006c05f200f5000e011a01da002a000a00",
-            "warnings": 17
+            "textraw": "2900f9000100c502db000107da001b01f500d3001a0108000a000000de00f2000100ff02e600d300db000100c403fa00f9001a01ed00230023002a000a00",
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "（な、何が書かれている？\u0000\n　くっ、悔しいが、気になるぞ……）\u0000\n．\u0000\n４　・：；ｌ￣、・：中村先生（気になるな……\u0000\n　よし。ちょっと覗きに行ってみるか）\u0000\n",
+        "text": "（な、何が書かれている？\u0000\n　くっ、悔しいが、気になるぞ……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 29,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900c403fa00f9001a01f900230023000a0000001701e6000200f0001601f200f7007d0adc00fa006c05f200f5000e011a01da002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（気になるな……\u0000\n　よし。ちょっと覗きに行ってみるか）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -588,12 +601,25 @@
         "id": 46,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "930801009408e800dd0023002300d90001006b09d300f300e000f900d3002300230002000a0098ff0000effe020097fffdffedfffcff1aff04000000680010010a0016ffffff66ff30000000bfff06001000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbcfff701ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff17000b00f0ff2f00ef0530021208e207ffff090008000000d700f200090008000000d700f2000900080000002a09a2081208e207090008000a00",
-            "warnings": 49
+            "textraw": "930801009408e800dd0023002300d90001006b09d300f300e000f900d3002300230002000a0098ff0000effe020097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "足、速すぎ……お、追いつけない……。\u0000\n　。．　め\u0000\n｝　：￣？　　，、　　悪ば\u0000\nば　？　｛桜井先生！？　えっ！？　えっ！？　中村先生！？\u0000\n",
+        "text": "足、速すぎ……お、追いつけない……。\u0000\n　。",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 47,
+        "internal": {
+            "speakerraw": "ef0530021208e207",
+            "textraw": "090008000000d700f200090008000000d700f2000900080000002a09a2081208e207090008000a00",
+            "warnings": 0
+        },
+        "speaker": "桜井先生",
+        "speaker_translation": "",
+        "text": "！？　えっ！？　えっ！？　中村先生！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -601,12 +627,25 @@
         "id": 48,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "230023002300230002000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffbf001000ebfe0100adffffff65ff19000600f0ff31002a09a2081208e207ffff2900c403fa00f9001a0123002300db0001000a000000f30018011b01f500e504fa006c05de00fd001101980def00f9002a000a00",
-            "warnings": 23
+            "textraw": "230023002300230002000a0098ff0000effe030097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，　？ｉ￣、〆：中村先生（気になる……が、\u0000\n　つられて見に行くのも亶だな）\u0000\n",
+        "text": "…………。\u0000\n　，",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 49,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "2900c403fa00f9001a0123002300db0001000a000000f30018011b01f500e504fa006c05de00fd001101980def00f9002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（気になる……が、\u0000\n　つられて見に行くのも亶だな）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
@@ -796,12 +835,25 @@
         "id": 64,
         "internal": {
             "speakerraw": "2a09a2081208e207",
-            "textraw": "3107e4001b01f5001a0109000a0098ff0000effe0a0097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffc0001000ebfe0100adffffff65ff29000600f0ff41002a09a2081208e207ffff29001701e6000200e4001901e100f900de0001000a0000009b02de00da00180150011b004a0121017d0ad300f50013011a012a000a0098ff0000effe070097ff",
-            "warnings": 26
+            "textraw": "3107e4001b01f5001a0109000a0098ff0000effe0a0097ff",
+            "warnings": 3
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "消されてる！\u0000\n　\u0000\n　？ｊ￣、（：中村先生（よし。さりげなく、\u0000\n　遠くからノ―トを覗いてやる）\u0000\n　；",
+        "text": "消されてる！\u0000\n　\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 65,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "29001701e6000200e4001901e100f900de0001000a0000009b02de00da00180150011b004a0121017d0ad300f50013011a012a000a0098ff0000effe070097ff",
+            "warnings": 3
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（よし。さりげなく、\u0000\n　遠くからノ―トを覗いてやる）\u0000\n　；",
         "text_translation": "",
         "type": "dialog"
     },
@@ -906,6 +958,19 @@
         "speaker": "中村先生",
         "speaker_translation": "",
         "text": "（と言うか……）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 74,
+        "internal": {
+            "speakerraw": "2a09a2081208e207",
+            "textraw": "29005d06bc06e6001c011701230023002a000a00",
+            "warnings": 0
+        },
+        "speaker": "中村先生",
+        "speaker_translation": "",
+        "text": "（自習しろよ……）\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

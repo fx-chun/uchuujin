@@ -174,10 +174,10 @@ while True:
                 text_offset = scfile.tell() - 0x2
             text.append(lbs)
     elif magic3:
-        speakerJIS, _ = nichiToJIS(speaker)
+        speakerJIS, warnings_speaker = nichiToJIS(speaker)
         #print("[ %s ]" % speakerJIS)
 
-        textJIS, warnings = nichiToJIS(text)
+        textJIS, warnings_text = nichiToJIS(text)
         #print(textJIS)
 
         textraw = []
@@ -200,7 +200,7 @@ while True:
             "text"                  : textJIS,
             "text_translation"      : "",
             "internal" : {
-                "warnings"      : warnings,
+                "warnings"      : warnings_speaker + warnings_text,
                 "speaker_offset": speaker_offset,
                 "speaker_len"   : len(speakerraw),
                 "text_offset"   : text_offset,

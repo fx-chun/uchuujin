@@ -2,21 +2,25 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "93000100940001009500800d800d0a003c086c0bf00012012201f7005c011b003a019d08f200f5001a01fc0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2096,
+            "text_len": 48,
+            "text_offset": 2102,
             "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "唖、娃、阿弌弌\u0000\n全部ちゃんとペ―ジ揃ってるね。\u0000\n",
+        "text": "１、２、３弌弌\u0000\n全部ちゃんとペ―ジ揃ってるね。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 1,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "d1001b00170dda00f200ee0002000a0036025206fe00f800d500f9001a01e200f700da00f7002b06f200ee00170102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2172,
+            "text_len": 50,
+            "text_offset": 2178,
             "warnings": 0
         },
         "speaker": "みお",
@@ -28,8 +32,10 @@
     {
         "id": 2,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "73071800cd08a70bef00f200ee00e000f80001000a00f9002201f700da00560719010408f200ee001e01e000ef00e60002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2250,
+            "text_len": 52,
+            "text_offset": 2256,
             "warnings": 1
         },
         "speaker": "みお",
@@ -41,21 +47,25 @@
     {
         "id": 3,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "ba061e01f200f5000e011b01ff00170dd3002b06d300e0061701fc0002000a00ee07e506fd0093005c011b003a010100f200f5001301f30008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2330,
+            "text_len": 60,
+            "text_offset": 2336,
             "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
-        "text": "終わってみれば良い思い出よね。\u0000\n青春の唖ペ―ジ、ってやつ？\u0000\n",
+        "text": "終わってみれば良い思い出よね。\u0000\n青春の１ペ―ジ、ってやつ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 4,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "fe001b000100f900fa00fe00f7001101d1001b013602cb04de0c2909f200f70002000a00d100f700fe00e2001b0121019b091001040819010d01f600fa007f081b01ff00800d800d0a00",
+            "speaker_len": 4,
+            "speaker_offset": 2418,
+            "text_len": 74,
+            "text_offset": 2424,
             "warnings": 0
         },
         "speaker": "みお",
@@ -67,8 +77,10 @@
     {
         "id": 5,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2524,
+            "text_len": 12,
+            "text_offset": 2530,
             "warnings": 0
         },
         "speaker": "みお",
@@ -80,8 +92,10 @@
     {
         "id": 6,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "2300230023002300090009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2564,
+            "text_len": 14,
+            "text_offset": 2570,
             "warnings": 0
         },
         "speaker": "みお",
@@ -93,8 +107,10 @@
     {
         "id": 7,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "9b0910010408190123002300090009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2606,
+            "text_len": 18,
+            "text_offset": 2612,
             "warnings": 0
         },
         "speaker": "みお",
@@ -106,8 +122,10 @@
     {
         "id": 8,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "e702dd00f5001a011b001b001b001b00090009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2738,
+            "text_len": 22,
+            "text_offset": 2744,
             "warnings": 0
         },
         "speaker": "みお",
@@ -119,8 +137,10 @@
     {
         "id": 9,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "0e01d90020000100ef0ae300ed0af600dc00f5001a011701200002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2882,
+            "text_len": 30,
+            "text_offset": 2890,
             "warnings": 0
         },
         "speaker": "みお姉",
@@ -132,8 +152,10 @@
     {
         "id": 10,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "fc00200001007e07f5001a01fd00200008000a00e300ed0a320d1001f0001201d5001701200008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2936,
+            "text_len": 42,
+            "text_offset": 2944,
             "warnings": 0
         },
         "speaker": "みお姉",
@@ -145,8 +167,10 @@
     {
         "id": 11,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "99055a0afe000e01d900fd00cd083d05dc00f9002c0162016b0126013b01ef001701200002000a00fc00200008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3002,
+            "text_len": 48,
+            "text_offset": 3010,
             "warnings": 0
         },
         "speaker": "みお姉",
@@ -158,8 +182,10 @@
     {
         "id": 12,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "23002300230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3078,
+            "text_len": 16,
+            "text_offset": 3084,
             "warnings": 0
         },
         "speaker": "みお",

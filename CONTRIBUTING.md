@@ -25,7 +25,14 @@
 - Text is limited to 40 characters x 2 lines for each page in a script.
   - Use a newline character (`\n`) to denote a new line.
   - ```e.g. text : "Hello!\nWorld!"``` 
+- Don't forget to file an issue to let people know you are translating a piece
+  of content!
 
 ## CGs
-- TBD...
-  - CGs and textures will be posted soon.
+- Translate CGs & textures by editing them and saving & commiting the translated version
+  into the `cgs_translated` folder. 
+- Try to not change the palette of images when editing. 
+- Make sure to keep the alpha channel of textures (if there is one).
+- Don't forget to file an issue to let people know you are translating a piece
+  of content!
+

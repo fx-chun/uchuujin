@@ -2,37 +2,73 @@
     {
         "id": 1,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "d900d9000100f300f900db00f200ee00da0002000a000d01e900fe00930052069803e300de001c01d500ef00f200ee00f90002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2314,
+            "text_len": 54,
+            "text_offset": 2324,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "おお、つながったか。\u0000\nまずは唖時間ごくろうだったな。\u0000\n",
+        "text": "おお、つながったか。\u0000\nまずは１時間ごくろうだったな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 2,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "f600fe00010099051f05fd00f00a5008d307e405fa003805e000f50001000a00cf05da00d3006c0b820bfd000c08520c2101e400ea00f50011011801d500ed0002000a00fdff71ff03005fff04000100bcffdb011000ebfe000065ff02002000f0ff0300d900f300dc009500ffffa408fa008f0bdc00ee00d300e200f700fe00d1001a01da0008000a00fdff73ff03007fff0300f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1801ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff03002000f0ff0400d900f300dc009500ffff130905049907fa002d011b003f016d0121017f051e01ea001a01f70001000a00a700a400b100a000fd005e07c90bdb00350b5a06e4001b011a0102000a00",
-            "warnings": 47
+            "speaker_len": 8,
+            "speaker_offset": 2400,
+            "text_len": 68,
+            "text_offset": 2410,
+            "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "では、今後の番組制作に向けて、\u0000\n細かい部分の説明をさせてもらうぞ。\u0000\n，．、￣　。〜，おつき阿他に聞きたいことはあるか？\u0000\n，，？　　，、　　らば\u0000\nば　？　，〜．おつき阿地球人にカ―ソルを合わせると、\u0000\n圧芦或握の情報が表示される。\u0000\n",
+        "text": "では、今後の番組制作に向けて、\u0000\n細かい部分の説明をさせてもらうぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speaker_len": 8,
+            "speaker_offset": 2510,
+            "text_len": 28,
+            "text_offset": 2520,
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "他に聞きたいことはあるか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speaker_len": 8,
+            "speaker_offset": 2660,
+            "text_len": 62,
+            "text_offset": 2670,
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "地球人にカ―ソルを合わせると、\u0000\nＫＨＵＤの情報が表示される。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 5,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "e200fd005e07c90bfa00f300d300f5000c08520c2101e6001701d50002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2748,
+            "text_len": 32,
+            "text_offset": 2758,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "この情報について説明をしよう。\u0000\n",
         "text_translation": "",
@@ -41,76 +77,103 @@
     {
         "id": 6,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "5306fd009500f300fd002a09da00180132082201f600de001b0102000a00fdff5fff08000200ebfe000065ff06002000f0ff0700d900f300dc009500ffff130905049907fa004d0bde0060011b003101ef00db0001003c086c0bf6009500a1062e0d02000a00d300e9001b011101f00a50080701fd006e023f042101f704e600f500d3001a0102000a00",
-            "warnings": 6
+            "speaker_len": 8,
+            "speaker_offset": 2806,
+            "text_len": 30,
+            "text_offset": 2816,
+            "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "次の阿つの中から選んでくれ。\u0000\n？。　：〜；おつき阿地球人に付くマ―クだが、全部で阿種類。\u0000\nいずれも番組への影響を現している。\u0000\n",
+        "text": "次の３つの中から選んでくれ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 7,
+        "internal": {
+            "speaker_len": 8,
+            "speaker_offset": 2868,
+            "text_len": 76,
+            "text_offset": 2878,
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "地球人に付くマ―クだが、全部で３種類。\u0000\nいずれも番組への影響を現している。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 8,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "e200fd009500a1062e0dfa00f300d300f500f706fa000c08520ce6001701d50002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2970,
+            "text_len": 36,
+            "text_offset": 2980,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "この阿種類について順に説明しよう。\u0000\n",
+        "text": "この３種類について順に説明しよう。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 9,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "a700a400b100a0002a09ad04fa00d0095a07e600ee00130905049907ee00f000fe0001000a00e00691028606f700e600f5009907c403db007a050d01f200f500d300de00e200f700fa00f9001a0102000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3038,
+            "text_len": 82,
+            "text_offset": 3048,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "圧芦或握中継に登場した地球人たちは、\u0000\n出演者として人気が高まっていくことになる。\u0000\n",
+        "text": "ＫＨＵＤ中継に登場した地球人たちは、\u0000\n出演者として人気が高まっていくことになる。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 10,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "ec00fd009907c403db007a050d01190101000a0036028c09fd00110921015809d700ee003f02db000100e200fd0037009d00380060011b003101ef0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3146,
+            "text_len": 64,
+            "text_offset": 3156,
             "warnings": 2
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "その人気が高まり、\u0000\n一定の値を超えた印が、この茜マ―クだ。\u0000\n",
+        "text": "その人気が高まり、\u0000\n一定の値を超えた印が、このＡマ―クだ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 11,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "e200fd0037009d00380060011b003101fd00130905049907db00f00a5008fa00d0095a07e8001a01f70001000a003f065209f60cfa0059016b013b01fd003405d202db001e0a18011b011a01ed0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3236,
+            "text_len": 82,
+            "text_offset": 3246,
             "warnings": 2
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "この茜マ―クの地球人が番組に登場すると、\u0000\n視聴率にプラスの効果が得られるぞ。\u0000\n",
+        "text": "このＡマ―クの地球人が番組に登場すると、\u0000\n視聴率にプラスの効果が得られるぞ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 12,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "5306fe0037006001380060011b003101ef0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3350,
+            "text_len": 22,
+            "text_offset": 3360,
             "warnings": 2
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "次はママ―クだ。\u0000\n",
         "text_translation": "",
@@ -119,11 +182,13 @@
     {
         "id": 13,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "e2001b01fe0099050100630126017501e0069102e400ea001a01f70001000a003f0652098606fa00600175014f016c0178032101af0cd700f500e6000d01d5003f02ef0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3398,
+            "text_len": 72,
+            "text_offset": 3408,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "これは今、メイン出演させると、\u0000\n視聴者にマンネリ感を与えてしまう印だ。\u0000\n",
         "text_translation": "",
@@ -132,11 +197,13 @@
     {
         "id": 14,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "a408f6003f065209f60cdb00da00ea00e1001a015a077f05fe0055051e01f900d300db00230023000a003f065209f60cfa00600126014c013b013405d202f900fd00f60031091f02db00240bc70cef00f90002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3496,
+            "text_len": 86,
+            "text_offset": 3506,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "他で視聴率がかせげる場合は構わないが……\u0000\n視聴率にマイナス効果なので注意が必要だな。\u0000\n",
         "text_translation": "",
@@ -145,11 +212,13 @@
     {
         "id": 15,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "9907c403db007a05d300da001801f700fa04f200f500010036029907fd00130905049907fa00da0c1a010a00f00a50085505d807fe000c0be000ee000a01d500db00170dd300ef001c01d50002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3608,
+            "text_len": 80,
+            "text_offset": 3618,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "人気が高いからと言って、一人の地球人に頼る\u0000\n番組構成は避けたほうが良いだろう。\u0000\n",
         "text_translation": "",
@@ -158,11 +227,13 @@
     {
         "id": 16,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "bd051f05fe0037008307380060011b00310102008307d0095a07fd003f02f600f9061001f5000a00630126017501e0069102e8001a015a077f05fa004d0bde0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3720,
+            "text_len": 68,
+            "text_offset": 3730,
             "warnings": 2
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "最後は新マ―ク。新登場の印で初めて\u0000\nメイン出演する場合に付く。\u0000\n",
         "text_translation": "",
@@ -171,11 +242,13 @@
     {
         "id": 17,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "600175014f016c01f700fe00f503fd0057016e01450139016701e400f60001000a003f065209f60cfa0059016b013b01fd003405d202db00be03ba08f600dc001a01ed0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3814,
+            "text_len": 72,
+            "text_offset": 3824,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "マンネリとは逆のフレッシュさで、\u0000\n視聴率にプラスの効果が期待できるぞ。\u0000\n",
         "text_translation": "",
@@ -184,11 +257,13 @@
     {
         "id": 18,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "60011b003101fa00f300d300f500fe0014025307ef0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3912,
+            "text_len": 26,
+            "text_offset": 3922,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "マ―クについては以上だ。\u0000\n",
         "text_translation": "",
@@ -197,11 +272,13 @@
     {
         "id": 19,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "e40bdc0018011b01f900d3001701d500fa009907c40386062101e0069102e400ea00f500d300de0002000a00760a0e01f800e2001c01ef00f7002b06d500db00230023000d010100aa034709f200f500de001b0102000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3964,
+            "text_len": 88,
+            "text_offset": 3974,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "飽きられないように人気者を出演させていく。\u0000\n悩みどころだと思うが……ま、頑張ってくれ。\u0000\n",
         "text_translation": "",
@@ -210,37 +287,43 @@
     {
         "id": 20,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "e504f500fd006e091901a700a400b100a000fa00fe003500d506c70cf900a700a400b100a0003600f7000a0035006e095d07fd00a700a400b100a0003600db009e08d505e600f500d3001a0102000a00",
+            "speaker_len": 8,
+            "speaker_offset": 4176,
+            "text_len": 80,
+            "text_offset": 4186,
             "warnings": 4
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "見ての通り圧芦或握には重要な圧芦或握と\u0000\n通常の圧芦或握が存在している。\u0000\n",
+        "text": "見ての通りＫＨＵＤには重要なＫＨＵＤと\u0000\n通常のＫＨＵＤが存在している。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 21,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "7406fe000100bd05ba06aa09fa009300f00a9907c403ef00f200ee00130905049907fd00f00a500821010a0093005a0afd00bd051f05fa00fc0ce800e200f700fa00f900f200f500d3001a0102000a00",
+            "speaker_len": 8,
+            "speaker_offset": 4282,
+            "text_len": 80,
+            "text_offset": 4292,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "実は、最終的に唖番人気だった地球人の番組を\u0000\n唖日の最後に流すことになっている。\u0000\n",
+        "text": "実は、最終的に１番人気だった地球人の番組を\u0000\n１日の最後に流すことになっている。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 22,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "ef00db00ec00fd00ee001001fa00fe000100ec00fd00130905049907fd00e207dc00bd0cfa000a003b04350c21015106f200f500110118011e01f900e0001b01ff00f9001801f900d30002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 4388,
+            "text_len": 78,
+            "text_offset": 4398,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "だがそのためには、その地球人の生き様に\u0000\n興味を持ってもらわなければならない。\u0000\n",
         "text_translation": "",
@@ -249,63 +332,73 @@
     {
         "id": 23,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "1101e600110101008b04db005901450139016701e600ee00d300130905049907db00d3001a01f90018010a003500d506c70cf900a700a400b100a00036002101e8000801f5002a09ad04e8001a011701d500fa0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 4492,
+            "text_len": 88,
+            "text_offset": 4502,
             "warnings": 2
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "もしも、君がプッシュしたい地球人がいるなら\u0000\n重要な圧芦或握をすべて中継するように。\u0000\n",
+        "text": "もしも、君がプッシュしたい地球人がいるなら\u0000\n重要なＫＨＵＤをすべて中継するように。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 24,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "ec00d500e8001b01ff00010093005a0afd00bd051f05fa00ec00fd00130905049907fd00f00a500821010a00fc0ce800e200f700db00f600dc001a01ef001c01d50002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 4606,
+            "text_len": 70,
+            "text_offset": 4616,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "そうすれば、唖日の最後にその地球人の番組を\u0000\n流すことができるだろう。\u0000\n",
+        "text": "そうすれば、１日の最後にその地球人の番組を\u0000\n流すことができるだろう。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 25,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "1101f0001c0122013500d506c70cf900a700a400b100a000360021013c08f5002a09ad04e600f50011010a00ec00fd00130905049907db003602f00a9907c403f600f900e0001b01ff001f02350cfe00f900d30002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 4702,
+            "text_len": 88,
+            "text_offset": 4712,
             "warnings": 2
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "もちろん重要な圧芦或握を全て中継しても\u0000\nその地球人が一番人気でなければ意味はない。\u0000\n",
+        "text": "もちろん重要なＫＨＵＤを全て中継しても\u0000\nその地球人が一番人気でなければ意味はない。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 26,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "f503fa00fa04d700ff0035006e095d07fd00a700a400b100a0003600f600d100f200f500110101000a00ec001b01db005901450139016701e8001a01130905049907f90018012300230002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 4816,
+            "text_len": 78,
+            "text_offset": 4826,
             "warnings": 2
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "逆に言えば通常の圧芦或握であっても、\u0000\nそれがプッシュする地球人なら……。\u0000\n",
+        "text": "逆に言えば通常のＫＨＵＤであっても、\u0000\nそれがプッシュする地球人なら……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 27,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "9907c40321015307e1001a015307f600cd08dc00f9001f02350cdb00d1001a0102000a002a09ad04fa00d0095a07e8001b01ff0001009907c403fe005307db001a01da001801f90002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 4920,
+            "text_len": 76,
+            "text_offset": 4930,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "人気を上げる上で大きな意味がある。\u0000\n中継に登場すれば、人気は上がるからな。\u0000\n",
         "text_translation": "",
@@ -314,11 +407,13 @@
     {
         "id": 28,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "8b04fd0059016f01490167011b003b01b304ee02fa007f051e01ea00f5000a0053079c06de0032082201f600d300f200f500de001b01ee000d01d70002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5022,
+            "text_len": 64,
+            "text_offset": 5032,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "君のプロデュ―ス計画に合わせて\u0000\n上手く選んでいってくれたまえ。\u0000\n",
         "text_translation": "",
@@ -327,11 +422,13 @@
     {
         "id": 29,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "d900f200f7000100c109d700f500f900da00f200ee00da0002000a003b0148011b0041013b0121013203630ae8001a01d30bd50bef00db00800d800d0a00",
+            "speaker_len": 8,
+            "speaker_offset": 5292,
+            "text_len": 62,
+            "text_offset": 5302,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "おっと、伝えてなかったか。\u0000\nステ―タスを確認する方法だが弌弌\u0000\n",
         "text_translation": "",
@@ -340,24 +437,28 @@
     {
         "id": 30,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "ae00af009c00ad00af005e01410175012101a702e600f5000100f7041b01ee000a0063014d0167011b00fd002a09da0018013b0148011b0041013b0121013208050102000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5386,
+            "text_len": 70,
+            "text_offset": 5396,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "絢綾葵飴綾ボタンを押して、現れた\u0000\nメニュ―の中からステ―タスを選ぶ。\u0000\n",
+        "text": "ＲＳ９ＱＳボタンを押して、現れた\u0000\nメニュ―の中からステ―タスを選ぶ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 31,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "e8001a01f7003b0148011b0041013b01ee025e0cdb00350b5a06e4001b011a0102000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5488,
+            "text_len": 36,
+            "text_offset": 5498,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "するとステ―タス画面が表示される。\u0000\n",
         "text_translation": "",
@@ -366,24 +467,28 @@
     {
         "id": 32,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "e4001801fa00a7005e0141017501ad005e0141017501f600ee025e0c210104081901be08d7001a01f70001000a00130905049907ee00f000fd009907c40321013203630ae8001a01e200f7001101f600dc001a01ed0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5556,
+            "text_len": 90,
+            "text_offset": 5566,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "さらに圧ボタン飴ボタンで画面を切り替えると、\u0000\n地球人たちの人気を確認することもできるぞ。\u0000\n",
+        "text": "さらにＫボタンＱボタンで画面を切り替えると、\u0000\n地球人たちの人気を確認することもできるぞ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 33,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "ec00fd000a01da00010063014d0167011b00fd004a07cf05fa00f300d300f500fe0001000a009c06ef04fa00d1001a01f8020c0801072101270a2201f600de001b0102000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5672,
+            "text_len": 70,
+            "text_offset": 5682,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "そのほか、メニュ―の詳細については、\u0000\n手元にある解説書を読んでくれ。\u0000\n",
         "text_translation": "",
@@ -392,11 +497,13 @@
     {
         "id": 34,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "d1000100d100d1002300230002000a00e400f200dc006c051e011b01ee003700360b8c09fd00d7033800fa00f300d300f500da0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5772,
+            "text_len": 56,
+            "text_offset": 5782,
             "warnings": 2
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "あ、ああ……。\u0000\nさっき行われた評定の儀についてか。\u0000\n",
         "text_translation": "",
@@ -405,50 +512,58 @@
     {
         "id": 35,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "e200fd00f00a5008fd003602f902fd00a700a400b100a000d20b7f08fe000a00dc00f200da00190194009200820bef0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 5942,
+            "text_len": 52,
+            "text_offset": 5952,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "この番組の一回の圧芦或握放送は\u0000\nきっかり娃亜分だ。\u0000\n",
+        "text": "この番組の一回のＫＨＵＤ放送は\u0000\nきっかり２０分だ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 36,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "ec00e600f500930052069803e300f70001000a00f3000d0119010406f902fd00d20b7f08db00ba061e011a01d909fa002300230002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 6020,
+            "text_len": 56,
+            "text_offset": 6030,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "そして唖時間ごと、\u0000\nつまり三回の放送が終わる度に……。\u0000\n",
+        "text": "そして１時間ごと、\u0000\nつまり三回の放送が終わる度に……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 37,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "f808f60943011b006201fd0095009200500cdb00290bfd001101f70007010005ff001b0101000a00360b8c09db00c202e4001b011a0102000a00",
+            "speaker_len": 8,
+            "speaker_offset": 6102,
+            "text_len": 58,
+            "text_offset": 6112,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
-        "text": "担当チ―ムの阿亜名が姫のもとへ呼ばれ、\u0000\n評定が下される。\u0000\n",
+        "text": "担当チ―ムの３０名が姫のもとへ呼ばれ、\u0000\n評定が下される。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 38,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "3f065209f60cdb008509c202e600ee0019010100290bfd00c103d5042101a108fc00f500d3001a01f7000a00f104e600d300f806cd0a2101a706e0001a01e200f700fa00f9001a01db00800d800d0a00",
+            "speaker_len": 8,
+            "speaker_offset": 6186,
+            "text_len": 80,
+            "text_offset": 6196,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "視聴率が低下したり、姫の機嫌を損ねていると\u0000\n厳しい処罰を受けることになるが弌弌\u0000\n",
         "text_translation": "",
@@ -457,11 +572,13 @@
     {
         "id": 39,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "170dd300360bc70221011e0a18011b011b01ff0001000a00ec001b01fa00e5047f05d500df0b4c072101af0cd700f500c202e4001a01ec00d500ef0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 6298,
+            "text_len": 64,
+            "text_offset": 6308,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "良い評価を得られれば、\u0000\nそれに見合う褒賞を与えて下さるそうだ。\u0000\n",
         "text_translation": "",
@@ -470,11 +587,13 @@
     {
         "id": 40,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "6502f600fe000100280145014b012f0167011b005801f7003602ff06fa000a0060040505fa00b30b8b03e4001b01f500d300ee000100c1090c08fd002005f9051801e600d30002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 6394,
+            "text_len": 74,
+            "text_offset": 6404,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "噂では、ウッドキュ―ブと一緒に\u0000\n金庫に保管されていた、伝説の御札らしい。\u0000\n",
         "text_translation": "",
@@ -483,11 +602,13 @@
     {
         "id": 41,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "f9002201f6001101280145014b012f0167011b005801fd006e023f04f60001004c0b2b06e403f9000a001d0ddb002309d70018011b01f500d3001a01800bef00ec00d500ef00db002300230002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 6494,
+            "text_len": 80,
+            "text_offset": 6504,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "なんでもウッドキュ―ブの影響で、不思議な\u0000\n力が蓄えられている物だそうだが……。\u0000\n",
         "text_translation": "",
@@ -496,11 +617,13 @@
     {
         "id": 42,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "f808f60943011b006201db00ec00fd00df0b4c0721011e0a18011b011a011701d50001000a008b041101aa034709f200f500de001b01ee000d01d70002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 6600,
+            "text_len": 64,
+            "text_offset": 6610,
             "warnings": 0
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "担当チ―ムがその褒賞を得られるよう、\u0000\n君も頑張ってくれたまえ。\u0000\n",
         "text_translation": "",
@@ -509,13 +632,30 @@
     {
         "id": 43,
         "internal": {
-            "speakerraw": "d900f300dc009500",
-            "textraw": "d70008000000ec00d500da002300230002000a0073071800f700f006110be600f500d300ee002201ef00db00230023001906d30bf900d300f90002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 6694,
+            "text_len": 62,
+            "text_offset": 6704,
             "warnings": 1
         },
-        "speaker": "おつき阿",
+        "speaker": "おつき３",
         "speaker_translation": "",
         "text": "え？　そうか……。\u0000\n色と準備していたんだが……仕方ないな。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speaker_len": 8,
+            "speaker_offset": 6786,
+            "text_len": 34,
+            "text_offset": 6796,
+            "warnings": 0
+        },
+        "speaker": "おつき３",
+        "speaker_translation": "",
+        "text": "それでは、引き続き頑張ってくれ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

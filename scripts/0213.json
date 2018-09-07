@@ -2,11 +2,13 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "e400f5000100d3001701d3001701bd051f05fd000c08520cef0002000a008007e600f5008f0bd300f500de001b0102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2228,
+            "text_len": 50,
+            "text_offset": 2236,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "さて、いよいよ最後の説明だ。\u0000\n心して聞いてくれ。\u0000\n",
         "text_translation": "",
@@ -15,63 +17,103 @@
     {
         "id": 1,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "ec001b01f600fe00130905049907ee00f000fd009907c403fa009a031e011a0101000a006d011b006d01fd000c08520c2101e400ea00f50011011801d500ed0002000a00fdff71ff05005fff03000000f8ff0800daff73ff0000deff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeff1f01ff00c1ff0a00ff0090ffffff90ffffff90ffffff67fffcff71ff000063ffffff90ffffffedfff9ff0800ebfe000065ff02002300f0ff020096009400f00affff130905049907ee00f000fd009907c403fa009a031e011a016d011b006d01f6000a00a408fa000c08520c21018f0bdc00ee00d300e200f700fe00d1001a01da0008000a00fdff73ff05007fff0200beff18011000ebfe000065ff03002300f0ff030096009400f00affff14023808fa000c08520ce600ee006e0919010100a700a400b100a0002a09ad04fa001701f200f5000a00630126017501130905049907fd009907c403db00240145015901e8001a0102000a00",
-            "warnings": 46
+            "speaker_len": 6,
+            "speaker_offset": 2390,
+            "text_len": 68,
+            "text_offset": 2398,
+            "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
-        "text": "それでは地球人たちの人気に関わる、\u0000\nル―ルの説明をさせてもらうぞ。\u0000\n・，　？　　，、　　ゐば\u0000\nば　？　。…。哀娃番地球人たちの人気に関わるル―ルで\u0000\n他に説明を聞きたいことはあるか？\u0000\n・。ら￣　，…，哀娃番以前に説明した通り、圧芦或握中継によって\u0000\nメイン地球人の人気がアップする。\u0000\n",
+        "text": "それでは地球人たちの人気に関わる、\u0000\nル―ルの説明をさせてもらうぞ。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speaker_len": 6,
+            "speaker_offset": 2580,
+            "text_len": 68,
+            "text_offset": 2588,
+            "warnings": 0
+        },
+        "speaker": "４２番",
+        "speaker_translation": "",
+        "text": "地球人たちの人気に関わるル―ルで\u0000\n他に説明を聞きたいことはあるか？\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 3,
+        "internal": {
+            "speaker_len": 6,
+            "speaker_offset": 2686,
+            "text_len": 76,
+            "text_offset": 2694,
+            "warnings": 0
+        },
+        "speaker": "４２番",
+        "speaker_translation": "",
+        "text": "以前に説明した通り、ＫＨＵＤ中継によって\u0000\nメイン地球人の人気がアップする。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 4,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "34013b014a011309050499071101a700a400b100a000fa00d0095a07e8001a01e200f700f60001000a009907c403240145015901fd00ca02790ad707db00e2070d011b011a01fd00ef00db00800d800d0a00",
+            "speaker_len": 6,
+            "speaker_offset": 2786,
+            "text_len": 82,
+            "text_offset": 2794,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
-        "text": "ゲスト地球人も圧芦或握に登場することで、\u0000\n人気アップの可能性が生まれるのだが弌弌\u0000\n",
+        "text": "ゲスト地球人もＫＨＵＤに登場することで、\u0000\n人気アップの可能性が生まれるのだが弌弌\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 5,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "a700a400b100a000fd005e07c90b6c0b820b21011701de00e504f500cf0ce600d30002000a0034013b014a01fa00fe00000801001e0d0100ee07fd0095007307fd006c0b820bdb00d1001a0102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2892,
+            "text_len": 80,
+            "text_offset": 2900,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
-        "text": "圧芦或握の情報部分をよく見て欲しい。\u0000\nゲストには赤、緑、青の阿色の部分がある。\u0000\n",
+        "text": "ＫＨＵＤの情報部分をよく見て欲しい。\u0000\nゲストには赤、緑、青の３色の部分がある。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 6,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "e200fd0095007307fd006c0b820bfe00ea09340bdb006c051e011b011a01d305fa0001000a00ec001b01ed001b01fd007304c403fd00c2026c0b820bfa001101350b5a06e4001b011a0102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3084,
+            "text_len": 78,
+            "text_offset": 3092,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
-        "text": "この阿色の部分は投票が行われる際に、\u0000\nそれぞれの空気の下部分にも表示される。\u0000\n",
+        "text": "この３色の部分は投票が行われる際に、\u0000\nそれぞれの空気の下部分にも表示される。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 7,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "23002300c4034d0bd300f500de001b01ee001701d500ef00f90002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3186,
+            "text_len": 30,
+            "text_offset": 3194,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "……気付いてくれたようだな。\u0000\n",
         "text_translation": "",
@@ -80,24 +122,28 @@
     {
         "id": 8,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "ec00d5000100a20005009c0005009e000500a6000500b40039013b0148016201fd000a0035009500f300fd007304c4033600fa00b608a602e600f500d3001a011e01e000ef0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3246,
+            "text_len": 74,
+            "text_offset": 3254,
             "warnings": 2
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
-        "text": "そう、旭・葵・穐・梓・安システムの\u0000\n阿つの空気に対応しているわけだ。\u0000\n",
+        "text": "そう、Ｆ・９・Ｂ・Ｊ・Ｘシステムの\u0000\n３つの空気に対応しているわけだ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 9,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "e2001b01fe007304c403fd003405d202f600130905049907ee00f000fd00b8090f03db000a00a70bc302e8001a01ee001001ef00db00800d800df7001101da00de0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3344,
+            "text_len": 70,
+            "text_offset": 3352,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "これは空気の効果で地球人たちの展開が\u0000\n変化するためだが弌弌ともかく。\u0000\n",
         "text_translation": "",
@@ -106,11 +152,13 @@
     {
         "id": 10,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "35009907c403fd005307db001a0134013b014a01fe00ea09340bf600b6084b07db00a70bc302e8001a0136000a00e2001b01fe003403d700f500d900d300f500de001b0102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3438,
+            "text_len": 72,
+            "text_offset": 3446,
             "warnings": 2
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "人気の上がるゲストは投票で対象が変化する\u0000\nこれは覚えておいてくれ。\u0000\n",
         "text_translation": "",
@@ -119,11 +167,13 @@
     {
         "id": 11,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "f000f9000e01fa00010034013b014a01f600240145015901e8001a019907c403fe0001000a00630126017501f600e0069102e8001a015206170119011101f6093b08f900db0018018509d30002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3534,
+            "text_len": 80,
+            "text_offset": 3542,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "ちなみに、ゲストでアップする人気は、\u0000\nメインで出演する時よりも当然ながら低い。\u0000\n",
         "text_translation": "",
@@ -132,11 +182,13 @@
     {
         "id": 12,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "ef00db00010034013b014a01fd00f902c007db00a508e0001b01ff0001000a00470c3f06db00e006d80cf900d300c704d202fa00f900f200f500de001a01ed0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3638,
+            "text_len": 68,
+            "text_offset": 3646,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "だが、ゲストの回数が多ければ、\u0000\n無視が出来ない結果になってくるぞ。\u0000\n",
         "text_translation": "",
@@ -145,11 +197,13 @@
     {
         "id": 13,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "59016f01490167011b0037011b00f700e600f5005901450139016701e600ee00d300130905049907db000a00d3001a015a077f050100ec00fd00e200f7001101ee0b1b01f900d3001701d500fa00f90002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3730,
+            "text_len": 84,
+            "text_offset": 3738,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "プロデュ―サ―としてプッシュしたい地球人が\u0000\nいる場合、そのことも忘れないようにな。\u0000\n",
         "text_translation": "",
@@ -158,11 +212,13 @@
     {
         "id": 14,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "2401750148014c017d0829098606fa00fe0001000a00ec001b01ed001b01db005106f300fe04d707db00d1001a0102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3848,
+            "text_len": 50,
+            "text_offset": 3856,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "アンテナ装着者には、\u0000\nそれぞれが持つ個性がある。\u0000\n",
         "text_translation": "",
@@ -171,11 +227,13 @@
     {
         "id": 15,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "310dd700ff003500db05100c360021017d0829098606fa0032082201ef005a077f0501000a00630126017501130905049907fd00240145015901e8001a019907c403db00cd08dc00de00f9001a0102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3922,
+            "text_len": 82,
+            "text_offset": 3930,
             "warnings": 2
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "例えば阪本を装着者に選んだ場合、\u0000\nメイン地球人のアップする人気が大きくなる。\u0000\n",
         "text_translation": "",
@@ -184,11 +242,13 @@
     {
         "id": 16,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "35005201490125013600f600d1001b01ff0034013b014a01fd009907c4030200350053055b093600f6000a00d1001b01ff00ea09340bfd00340bc007db005307db0019011301e800de00f9001a0102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4028,
+            "text_len": 82,
+            "text_offset": 4036,
             "warnings": 4
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "バディであればゲストの人気。校長で\u0000\nあれば投票の票数が上がりやすくなる。\u0000\n",
         "text_translation": "",
@@ -197,11 +257,13 @@
     {
         "id": 17,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "7d0829098606fd00fe04d707fe00ea09340b2a09fa001101350b5a06e4001b011a0102000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4140,
+            "text_len": 38,
+            "text_offset": 4148,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "装着者の個性は投票中にも表示される。\u0000\n",
         "text_translation": "",
@@ -210,11 +272,13 @@
     {
         "id": 18,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "7d0829098606fd00fe04d7073405d202fa001701f200f500fe000100ec00fd005a07f600f800d5000a00e8001a01da0021016505d7006009e600f5001101d300d300da001101e6001b01f900d300f90002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4202,
+            "text_len": 84,
+            "text_offset": 4210,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "装着者の個性効果によっては、その場でどう\u0000\nするかを考え直してもいいかもしれないな。\u0000\n",
         "text_translation": "",
@@ -223,13 +287,30 @@
     {
         "id": 19,
         "internal": {
-            "speakerraw": "96009400f00a",
-            "textraw": "bd051f05fd000c08520cef00f200ee002201ef00db00230023000d01d100d300d30002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 4314,
+            "text_len": 38,
+            "text_offset": 4322,
             "warnings": 0
         },
-        "speaker": "哀娃番",
+        "speaker": "４２番",
         "speaker_translation": "",
         "text": "最後の説明だったんだが……まあいい。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speaker_len": 6,
+            "speaker_offset": 4380,
+            "text_len": 68,
+            "text_offset": 4388,
+            "warnings": 0
+        },
+        "speaker": "４２番",
+        "speaker_translation": "",
+        "text": "これでもう伝えることは無いはずだ。\u0000\n全力でいい番組を作ってくれ！！\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

@@ -2,8 +2,10 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "0401d400020099055a0afe00020b1b01ee00230023000a00c502d90911016004b70a1901fa00f900f200f500b408db006d09d3002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2090,
+            "text_len": 60,
+            "text_offset": 2096,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -15,8 +17,10 @@
     {
         "id": 1,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "f6001101d100fd00c40bfb05fe001f04cc0ce4001b01ee00da0018010a001101d5006004b70a1901fe00cf03dc00f900d30002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2172,
+            "text_len": 54,
+            "text_offset": 2178,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -28,8 +32,10 @@
     {
         "id": 2,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "1a0ae707fd00c40bfb05fe000100f0001601f200f70018066c0aef00e000f80002000a006c0ce707f700980b0801f5000e01ee00da00f200ee0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2248,
+            "text_len": 62,
+            "text_offset": 2254,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -41,8 +47,10 @@
     {
         "id": 3,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "f600110101001301f200000119016c0ce707fe00d300d3002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2420,
+            "text_len": 32,
+            "text_offset": 2426,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -54,8 +62,10 @@
     {
         "id": 4,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "1a0ae707fe00470cde00f500110101006c0ce707db00d1001a0102000a00ec001b01ef00e000f600d300d30002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2474,
+            "text_len": 48,
+            "text_offset": 2480,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -67,8 +77,10 @@
     {
         "id": 5,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023007e071701d50002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2544,
+            "text_len": 14,
+            "text_offset": 2550,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -80,8 +92,10 @@
     {
         "id": 6,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d9001301e8000e012300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2668,
+            "text_len": 16,
+            "text_offset": 2674,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -93,8 +107,10 @@
     {
         "id": 7,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2710,
+            "text_len": 12,
+            "text_offset": 2716,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -106,8 +122,10 @@
     {
         "id": 8,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d700f20008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2756,
+            "text_len": 8,
+            "text_offset": 2762,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -119,8 +137,10 @@
     {
         "id": 9,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "da0001006004b70a19012300230008000000f800d500e600f500800d800d0a00",
+            "speaker_len": 4,
+            "speaker_offset": 2796,
+            "text_len": 32,
+            "text_offset": 2802,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -132,8 +152,10 @@
     {
         "id": 10,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "090008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2860,
+            "text_len": 6,
+            "text_offset": 2866,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -145,21 +167,40 @@
     {
         "id": 11,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "6c0ce707db00230023000a00e200fd00780334030100d100fd005206f7000f0ae7002300230002000a00fdffedfffcff66ff70000000c0ff030050021000daffe8fe0200c1ffda001000ebfe000065ff0c000700f0ff0c00170c2b02ffff090008000a00",
-            "warnings": 15
+            "speaker_len": 4,
+            "speaker_offset": 2898,
+            "text_len": 42,
+            "text_offset": 2904,
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "木製が……\u0000\nこの感覚、あの時と同じ……。\u0000\n　，烏￣。か￣　；麻衣！？\u0000\n",
+        "text": "木製が……\u0000\nこの感覚、あの時と同じ……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 12,
+        "internal": {
+            "speaker_len": 4,
+            "speaker_offset": 2992,
+            "text_len": 6,
+            "text_offset": 2998,
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 13,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3030,
+            "text_len": 12,
+            "text_offset": 3036,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -171,8 +212,10 @@
     {
         "id": 14,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "a70b1e0119019407da002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3070,
+            "text_len": 18,
+            "text_offset": 3076,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -184,8 +227,10 @@
     {
         "id": 15,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "57015701230023000a00c40bfb05f900db001801b709dc071b012300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3116,
+            "text_len": 34,
+            "text_offset": 3122,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -197,8 +242,10 @@
     {
         "id": 16,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "2300230023002300090009000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3260,
+            "text_len": 14,
+            "text_offset": 3266,
             "warnings": 0
         },
         "speaker": "麻衣",

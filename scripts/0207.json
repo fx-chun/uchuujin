@@ -2,599 +2,841 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "d900f300dc009400",
-            "textraw": "e40899051701190101006f02ee0297034c07f702fd00ad0c8c092101fe03a40da70b5105e6000a002d08400a6e0131016c012a011b00390169017501cd08f70221010f03bb05e8001a0109000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2114,
+            "text_len": 78,
+            "text_offset": 2124,
             "warnings": 0
         },
-        "speaker": "おつき娃",
-        "speaker_translation": "",
+        "speaker": "おつき２",
+        "speaker_translation": "Captain #2",
         "text": "只今より、映画鑑賞会の予定を急佚変更し\u0000\n船内レクリエ―ション大会を開催する！\u0000\n",
-        "text_translation": "",
+        "text_translation": "In lieu of our disappointing film club,\nwe will be hosting a talent show!",
         "type": "dialog"
     },
     {
         "id": 1,
         "internal": {
-            "speakerraw": "d900f300dc009400",
-            "textraw": "290bbd0c21013e03e6000d01ea00ee008606fa00fe00600436026d0b2101af0cd7001a0102000a00ec001b01f600fe00290bbd0c0100d900fa04c50c210102000a00fdffedfffcfffcff1aff03000000000200001e0016ffffffedffc1ffffff10001fff0500000000fe0000c9ff3a01ff001aff05000000f0ff00007800adffffffebfe000065ff02001000f0ff02003b0141011b006b01290bffffd1001b002300230002000a00",
-            "warnings": 22
+            "speaker_len": 8,
+            "speaker_offset": 2224,
+            "text_len": 66,
+            "text_offset": 2234,
+            "warnings": 0
         },
-        "speaker": "おつき娃",
-        "speaker_translation": "",
-        "text": "姫様を楽しませた者には金一封を与える。\u0000\nそれでは姫様、お言葉を。\u0000\n，　斡　／￣・　　ジば・　　　。￣。スタ―ラ姫あ―……。\u0000\n",
-        "text_translation": "",
+        "speaker": "おつき２",
+        "speaker_translation": "Captain #2",
+        "text": "姫様を楽しませた者には金一封を与える。\u0000\nそれでは姫様、お言葉を。\u0000\n",
+        "text_translation": "A gold seal will be awarded to the the\nmost entertaining act! Princess?",
+        "type": "dialog"
+    },
+    {
+        "id": 2,
+        "internal": {
+            "speaker_len": 10,
+            "speaker_offset": 2378,
+            "text_len": 12,
+            "text_offset": 2390,
+            "warnings": 0
+        },
+        "speaker": "スタ―ラ姫",
+        "speaker_translation": "Princess Starla",
+        "text": "あ―……。\u0000\n",
+        "text_translation": "Uh...",
         "type": "dialog"
     },
     {
         "id": 3,
         "internal": {
-            "speakerraw": "3b0141011b006b01290b",
-            "textraw": "23002300230023002300230002000a00",
+            "speaker_len": 10,
+            "speaker_offset": 2432,
+            "text_len": 16,
+            "text_offset": 2444,
             "warnings": 0
         },
         "speaker": "スタ―ラ姫",
-        "speaker_translation": "",
+        "speaker_translation": "Princess Starla",
         "text": "………………。\u0000\n",
-        "text_translation": "",
+        "text_translation": ".........",
         "type": "dialog"
     },
     {
         "id": 4,
         "internal": {
-            "speakerraw": "3b0141011b006b01290b",
-            "textraw": "230610011c0102000a00",
+            "speaker_len": 10,
+            "speaker_offset": 2482,
+            "text_len": 10,
+            "text_offset": 2494,
             "warnings": 0
         },
         "speaker": "スタ―ラ姫",
-        "speaker_translation": "",
+        "speaker_translation": "Princess Starla",
         "text": "始めろ。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Start.",
         "type": "dialog"
     },
     {
         "id": 5,
         "internal": {
-            "speakerraw": "d900f300dc009400",
-            "textraw": "ec000100ec001b01f600fe00e400f200ec00de0023002300bd05f906fe009b009600f00a09000a00",
-            "warnings": 1
+            "speaker_len": 8,
+            "speaker_offset": 2526,
+            "text_len": 40,
+            "text_offset": 2536,
+            "warnings": 0
         },
-        "speaker": "おつき娃",
-        "speaker_translation": "",
-        "text": "そ、それではさっそく……最初は哀番！\u0000\n",
-        "text_translation": "",
+        "speaker": "おつき２",
+        "speaker_translation": "Captain #2",
+        "text": "そ、それではさっそく……最初は９４番！\u0000\n",
+        "text_translation": "...r-right away!\nThe first one up is ... #94!",
         "type": "dialog"
     },
     {
         "id": 6,
         "internal": {
-            "speakerraw": "9b009600f00a",
-            "textraw": "fe00d300090000009b009600f00ad300dc000d01e80009000a00",
-            "warnings": 1
+            "speaker_len": 6,
+            "speaker_offset": 2598,
+            "text_len": 26,
+            "text_offset": 2606,
+            "warnings": 0
         },
-        "speaker": "哀番",
-        "speaker_translation": "",
-        "text": "はい！　哀番いきます！\u0000\n",
-        "text_translation": "",
+        "speaker": "９４番",
+        "speaker_translation": "#94",
+        "text": "はい！　９４番いきます！\u0000\n",
+        "text_translation": "Sir! #94, reporting!",
         "type": "dialog"
     },
     {
         "id": 7,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "240126014601fe003203da0042013a0165016e01ef00f200e00008000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 2688,
+            "text_len": 30,
+            "text_offset": 2692,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "アイツは確かダジャレだっけ？\u0000\n",
-        "text_translation": "",
+        "text_translation": "... hey, isn't that the guy who's good\nwith puns?",
         "type": "dialog"
     },
     {
         "id": 8,
         "internal": {
-            "speakerraw": "09ff",
-            "textraw": "d100d10001006e093c0742013a0165016e01fd009b009600f00a02000a00600436026d0bf600ee00f9000100e2001901120102000a00",
+            "speaker_len": 2,
+            "speaker_offset": 2746,
+            "text_len": 54,
+            "text_offset": 2750,
             "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "ああ、通称ダジャレの哀番。\u0000\n金一封でたな、こりゃ。\u0000\n",
-        "text_translation": "",
+        "text": "ああ、通称ダジャレの９４番。\u0000\n金一封でたな、こりゃ。\u0000\n",
+        "text_translation": "Yep, that's #94, the comedian.\nThis is totally a gold seal.",
         "type": "dialog"
     },
     {
         "id": 9,
         "internal": {
-            "speakerraw": "9b009600f00a",
-            "textraw": "ec001b01f600fe00230610010d01e80009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2848,
+            "text_len": 20,
+            "text_offset": 2856,
             "warnings": 0
         },
-        "speaker": "哀番",
+        "speaker": "９４番",
         "speaker_translation": "",
         "text": "それでは始めます！\u0000\n",
-        "text_translation": "",
+        "text_translation": "...I will begin!",
         "type": "dialog"
     },
     {
         "id": 10,
         "internal": {
-            "speakerraw": "9b009600f00a",
-            "textraw": "0b01f200f00012012201db0001001709fa00de0cf000ee0009000a000b01f200800d800d0a00fdffedfffcfffcff67ffffff66ff04000000f3ff1aff03000100000010010a0016ffffffedffc1ffffff100066ff07000000f8ff0800daff90ffffffdeff0000003003000100ffff67ffffffdbff000063ffffff66ffffff0000daffbeffcc00ff00c1ff0a00ff0090ffffff90ffffff90ffffff67ffffff71ff000063ffffff90ffffffedfff9ff0800e8fe0200ebfe000065ff0b002500f0ff0b009b009600f00affff800d800df00012011b001b001b001b001b001b001b001b00220109000a00",
-            "warnings": 56
+            "speaker_len": 6,
+            "speaker_offset": 2898,
+            "text_len": 38,
+            "text_offset": 2906,
+            "warnings": 0
         },
-        "speaker": "哀番",
+        "speaker": "９４番",
         "speaker_translation": "",
-        "text": "ぼっちゃんが、池に落ちた！\u0000\nぼっ弌弌\u0000\n．　，、　め\u0000\n￣；　？　，、　　畏ば\u0000\nば　？。　哀番弌弌ちゃ――――――――ん！\u0000\n",
-        "text_translation": "",
+        "text": "ぼっちゃんが、池に落ちた！\u0000\nぼっ弌弌\u0000\n",
+        "text_translation": "W-what was the electrician\narrested for? Batter-",
+        "type": "dialog"
+    },
+    {
+        "id": 11,
+        "internal": {
+            "speaker_len": 6,
+            "speaker_offset": 3100,
+            "text_len": 30,
+            "text_offset": 3108,
+            "warnings": 0
+        },
+        "speaker": "９４番",
+        "speaker_translation": "",
+        "text": "弌弌ちゃ――――――――ん！\u0000\n",
+        "text_translation": "AAAAAaaugh!",
         "type": "dialog"
     },
     {
         "id": 12,
         "internal": {
-            "speakerraw": "3b0141011b006b01290b",
-            "textraw": "530602000a00",
+            "speaker_len": 10,
+            "speaker_offset": 3264,
+            "text_len": 6,
+            "text_offset": 3276,
             "warnings": 0
         },
         "speaker": "スタ―ラ姫",
-        "speaker_translation": "",
+        "speaker_translation": "Princess Starla",
         "text": "次。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Next.",
         "type": "dialog"
     },
     {
         "id": 13,
         "internal": {
-            "speakerraw": "920bc808ee00f000",
-            "textraw": "d700d700d700d700d700d700d700d700090008000a00fdffedfffcfffcffedffc1ffffff1000bcffd8011000c1ff90011000ebfe000065ff0e002000f0ff0e00d900f300dc009400ffff5306020095009a00f00a02000a00fdffedfffcfffcffedffc1ffffff1000bcffdb011000e8fe0400ebfe000065ff0f002400f0ff0f0009ffffffd9000100d900d300090000003203da0095009a00f00afe002300230002000a00",
-            "warnings": 35
+            "speaker_len": 8,
+            "speaker_offset": 3404,
+            "text_len": 22,
+            "text_offset": 3414,
+            "warnings": 0
         },
         "speaker": "兵隊たち",
+        "speaker_translation": "Soldiers",
+        "text": "ええええええええ！？\u0000\n",
+        "text_translation": "Whaaaat!?",
+        "type": "dialog"
+    },
+    {
+        "id": 14,
+        "internal": {
+            "speaker_len": 8,
+            "speaker_offset": 3478,
+            "text_len": 14,
+            "text_offset": 3488,
+            "warnings": 0
+        },
+        "speaker": "おつき２",
+        "speaker_translation": "Captain #2",
+        "text": "次。３８番。\u0000\n",
+        "text_translation": "Next. #38.",
+        "type": "dialog"
+    },
+    {
+        "id": 15,
+        "internal": {
+            "speaker_len": 2,
+            "speaker_offset": 3542,
+            "text_len": 32,
+            "text_offset": 3546,
+            "warnings": 1
+        },
+        "speaker": "",
         "speaker_translation": "",
-        "text": "ええええええええ！？\u0000\n￣￣￣　〜おつき娃次。阿逢番。\u0000\n￣￣．　お、おい！　確か阿逢番は……。\u0000\n",
-        "text_translation": "",
+        "text": "お、おい！　確か３８番は……。\u0000\n",
+        "text_translation": "W-wait... isn't #38...",
         "type": "dialog"
     },
     {
         "id": 16,
         "internal": {
-            "speakerraw": "95009a00f00a",
-            "textraw": "d100d10001002c016e01ef0002000a002c016e01fe00230023002c016e01fe006e093c070100c2024f014101fd0095009a00f00a09000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3600,
+            "text_len": 56,
+            "text_offset": 3608,
             "warnings": 0
         },
-        "speaker": "阿逢番",
-        "speaker_translation": "",
-        "text": "ああ、オレだ。\u0000\nオレは……オレは通称、下ネタの阿逢番！\u0000\n",
-        "text_translation": "",
+        "speaker": "３８番",
+        "speaker_translation": "#38",
+        "text": "ああ、オレだ。\u0000\nオレは……オレは通称、下ネタの３８番！\u0000\n",
+        "text_translation": "Oh, it seems that I'm up. Well, you see,\nI'm the one simply known as... #38!",
         "type": "dialog"
     },
     {
         "id": 17,
         "internal": {
-            "speakerraw": "09ff",
-            "textraw": "c2022300230013010100130110011c01f20009000a003107e4001b011a01090000000e08b608fa003107e4001b01f0000d01d50009000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 3694,
+            "text_len": 56,
+            "text_offset": 3698,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "下……や、やめろっ！\u0000\n消される！　絶対に消されちまう！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Crap... S-shut up! You'll die!\nYou'll be absolutely erased!",
         "type": "dialog"
     },
     {
         "id": 18,
         "internal": {
-            "speakerraw": "95009a00f00a",
-            "textraw": "0401f20001008007970ae8001a01f90002002c016e01fe00ef042d015001fd00c7049d056206f6000a00c2024f01410121011301f200ee000f09ef00eb0008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3776,
+            "text_len": 66,
+            "text_offset": 3784,
             "warnings": 0
         },
-        "speaker": "阿逢番",
+        "speaker": "３８番",
         "speaker_translation": "",
         "text": "ふっ、心配するな。オレは元カノの結婚式で\u0000\n下ネタをやった男だぜ？\u0000\n",
-        "text_translation": "",
+        "text_translation": "Don't worry. Remember when I crashed my\nex's wedding with dirty jokes?",
         "type": "dialog"
     },
     {
         "id": 19,
         "internal": {
-            "speakerraw": "d900f300dc009400",
-            "textraw": "95009a00f00a090000006908de00e6001c0102000a00fdffedfffcfffcff1fff0300000000020000c1ff1602ff001aff03000000f0ff00001e0016ffffffc1ff17021000ebfe000065ff14002900f0ff140095009a00f00affff230023001701e60002000a00ec001b01e70012010d01e9000100bc02fd003302f500f500d3001a013c02fd006f0d2101800d800d0a00",
-            "warnings": 17
+            "speaker_len": 8,
+            "speaker_offset": 3954,
+            "text_len": 22,
+            "text_offset": 3964,
+            "warnings": 0
         },
-        "speaker": "おつき娃",
-        "speaker_translation": "",
-        "text": "阿逢番！　早くしろ。\u0000\n，　斡　位ば，　　／依￣　（阿逢番……よし。\u0000\nそれじゃまず、俺の育てている芋の話を弌弌\u0000\n",
-        "text_translation": "",
+        "speaker": "おつき２",
+        "speaker_translation": "Captain #2",
+        "text": "３８番！　早くしろ。\u0000\n",
+        "text_translation": "#38! Hurry it up.",
+        "type": "dialog"
+    },
+    {
+        "id": 20,
+        "internal": {
+            "speaker_len": 6,
+            "speaker_offset": 4046,
+            "text_len": 54,
+            "text_offset": 4054,
+            "warnings": 0
+        },
+        "speaker": "３８番",
+        "speaker_translation": "#38",
+        "text": "……よし。\u0000\nそれじゃまず、俺の育てている芋の話を弌弌\u0000\n",
+        "text_translation": "...right. Well then, why don't I first\ntalk about my sweet potato far-",
         "type": "dialog"
     },
     {
         "id": 21,
         "internal": {
-            "speakerraw": "3b0141011b006b01290b",
-            "textraw": "230023003b04350cf900d30002000a00fdffedfffcfffcff66ff04000000f3ff1aff03000100000010010a0016ffffffedffc1ffffff100066ff07000000e8fe0200ebfe000065ff16002900f0ff160095009a00f00affffd1001b001b001b001b001b001b001b001b001b001b0009000a00",
-            "warnings": 20
+            "speaker_len": 10,
+            "speaker_offset": 4124,
+            "text_len": 16,
+            "text_offset": 4136,
+            "warnings": 0
         },
         "speaker": "スタ―ラ姫",
-        "speaker_translation": "",
-        "text": "……興味ない。\u0000\n．　，、　め\u0000\n￣；　。　（阿逢番あ――――――――――！\u0000\n",
-        "text_translation": "",
+        "speaker_translation": "Princess Starla",
+        "text": "……興味ない。\u0000\n",
+        "text_translation": "I've heard enough.",
+        "type": "dialog"
+    },
+    {
+        "id": 22,
+        "internal": {
+            "speaker_len": 6,
+            "speaker_offset": 4216,
+            "text_len": 26,
+            "text_offset": 4224,
+            "warnings": 0
+        },
+        "speaker": "３８番",
+        "speaker_translation": "#38",
+        "text": "あ――――――――――！\u0000\n",
+        "text_translation": "OOOOooooough!",
         "type": "dialog"
     },
     {
         "id": 23,
         "internal": {
-            "speakerraw": "0cff",
-            "textraw": "66015201260123002300e207d80aca02f900b904f600fe00230023000a002c016e01ee00f0003c0841020100290bfa00800d800d0a00fdffedfffcfffcff66ff04000000f3ff1aff03000100000010010a0016ffffffedffc1ffffff100066ff07000000e8fe0200ebfe000065ff18002700f0ff18000cffffff800d800d3107e4001b011a011b001b001b001b00f20009000a00",
-            "warnings": 22
+            "speaker_len": 2,
+            "speaker_offset": 4378,
+            "text_len": 54,
+            "text_offset": 4382,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
-        "text": "ヤバイ……生半可な芸では……\u0000\nオレたち全員、姫に弌弌\u0000\n．　，、　め\u0000\n￣；　。　弌弌消される――――っ！\u0000\n",
-        "text_translation": "",
+        "text": "ヤバイ……生半可な芸では……\u0000\nオレたち全員、姫に弌弌\u0000\n",
+        "text_translation": "Crap... I can't do this dumb act...\nIs it really our fate to--",
+        "type": "dialog"
+    },
+    {
+        "id": 24,
+        "internal": {
+            "speaker_len": 2,
+            "speaker_offset": 4500,
+            "text_len": 26,
+            "text_offset": 4504,
+            "warnings": 1
+        },
+        "speaker": "",
+        "speaker_translation": "",
+        "text": "弌弌消される――――っ！\u0000\n",
+        "text_translation": "--be erased!?",
         "type": "dialog"
     },
     {
         "id": 25,
         "internal": {
-            "speakerraw": "3b0141011b006b01290b",
-            "textraw": "5306fe00f308ef0008000a00",
+            "speaker_len": 10,
+            "speaker_offset": 4646,
+            "text_len": 12,
+            "text_offset": 4658,
             "warnings": 0
         },
         "speaker": "スタ―ラ姫",
-        "speaker_translation": "",
+        "speaker_translation": "Princess Starla", 
         "text": "次は誰だ？\u0000\n",
-        "text_translation": "",
+        "text_translation": "Who's next?",
         "type": "dialog"
     },
     {
         "id": 26,
         "internal": {
-            "speakerraw": "d900f300dc009400",
-            "textraw": "fe000100fe00d300f20009000a005306fd0086060100fe001301de0013011b01f20009000a00",
+            "speaker_len": 8,
+            "speaker_offset": 4690,
+            "text_len": 38,
+            "text_offset": 4700,
             "warnings": 0
         },
-        "speaker": "おつき娃",
-        "speaker_translation": "",
+        "speaker": "おつき２",
+        "speaker_translation": "Captain #2",
         "text": "は、はいっ！\u0000\n次の者、はやくやれっ！\u0000\n",
-        "text_translation": "",
+        "text_translation": "...o-of course! Someone, quickly!",
         "type": "dialog"
     },
     {
         "id": 27,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "d900d3000100f308da00d300f900d300fd00da00090008000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 4790,
+            "text_len": 26,
+            "text_offset": 4794,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "おい、誰かいないのか！？\u0000\n",
-        "text_translation": "",
+        "text_translation": "Hey, isn't there anyone with an act!?",
         "type": "dialog"
     },
     {
         "id": 28,
         "internal": {
-            "speakerraw": "09ff",
-            "textraw": "ec000100ec002201f900e200f700fa041e011b01f5001101230023000a002c016e011101c2024f014101ef00f200ee00e6002300230002000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 4844,
+            "text_len": 58,
+            "text_offset": 4848,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "そ、そんなこと言われても……\u0000\nオレも下ネタだったし……。\u0000\n",
-        "text_translation": "",
+        "text_translation": "E-even at death's door, I still\ncan't think of an act...",
         "type": "dialog"
     },
     {
         "id": 29,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "2c0101002c016e01fe00c90c1901ef000200ef00e000f800230023000a00f700f5001101e7001201f900d300db00e200e20021015607190104081a015d067a07fe002300230002000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 4930,
+            "text_len": 74,
+            "text_offset": 4934,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "オ、オレは踊りだ。だけど……\u0000\nとてもじゃないがここを乗り切る自信は……。\u0000\n",
-        "text_translation": "",
+        "text_translation": "I-I was going to dance... But... I need\ntime to steel my nerves...",
         "type": "dialog"
     },
     {
         "id": 30,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "f9001801f800d500e8002201ef001701090008000a00e200fd000d010d01e70012012c016e01ee00f00001003c08590cef00ed00090008000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 5036,
+            "text_len": 58,
+            "text_offset": 5040,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "ならどうすんだよ！？\u0000\nこのままじゃオレたち、全滅だぞ！？\u0000\n",
-        "text_translation": "",
+        "text_translation": "Are you serious!? We're all about\nto die!!",
         "type": "dialog"
     },
     {
         "id": 31,
         "internal": {
-            "speakerraw": "09ff",
-            "textraw": "23002300ec00d500ef000900000024016e01fe00f800d500ef0008000a00300165016b01310139011b0048016e015501f7009509a404e600f50096071001f500d300ee00800d800d0a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 5122,
+            "text_len": 74,
+            "text_offset": 5126,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "……そうだ！　アレはどうだ？\u0000\nギャラクシ―テレビと提携して進めていた弌弌\u0000\n",
-        "text_translation": "",
+        "text_translation": "...that's it! What was it again? I\nthink it was called, like, Galaxy TV--",
         "type": "dialog"
     },
     {
         "id": 32,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "37003e07be045800130905040d011a01e504d70048016e0155013800da0009000a00",
-            "warnings": 3
+            "speaker_len": 2,
+            "speaker_offset": 5224,
+            "text_len": 34,
+            "text_offset": 5228,
+            "warnings": 4
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "笑撃地球まる見えテレビか！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Ah, the show that streams video of Earth!",
         "type": "dialog"
     },
     {
         "id": 33,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "3203da00fa0013090504fd006f0dd008f600d1001b01ff0001004f0141011101e10b510bf6000a00290bbd0cfa0011013e03e6002201f600d300ee00ef00e000ec00d500ef00f90002000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 5286,
+            "text_len": 76,
+            "text_offset": 5290,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "確かに地球の話題であれば、ネタも豊富で\u0000\n姫様にも楽しんでいただけそうだな。\u0000\n",
-        "text_translation": "",
+        "text_translation": "There's gotta be something interesting\nenough for her to watch on Earth!",
         "type": "dialog"
     },
     {
         "id": 34,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "23002300e600da00e6000100d1001b01fe000d01ef000a00d20b6f02f006110bfd000e091003e7001201f900da00f200ee00da0008000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 5390,
+            "text_len": 56,
+            "text_offset": 5394,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "……しかし、あれはまだ\u0000\n放映準備の段階じゃなかったか？\u0000\n",
-        "text_translation": "",
+        "text_translation": "... but doesn't it air next Saturday?",
         "type": "dialog"
     },
     {
         "id": 35,
         "internal": {
-            "speakerraw": "09ff",
-            "textraw": "3b0141013a012c012d08fa002c053207e600f500d20b6f0221013808dd09e600e400ea001c0109000a002c016e01ee00f000fd00510cdb00da00da00f200f5001a012201ef0009000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 5478,
+            "text_len": 74,
+            "text_offset": 5482,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
         "text": "スタジオ船に交渉して放映を前倒しさせろ！\u0000\nオレたちの命がかかってるんだ！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Get in contact with the studio & bring\nit forward! Our lives are at stake!",
         "type": "dialog"
     },
     {
         "id": 36,
         "internal": {
-            "speakerraw": "3b0141013a012c012d08fd00920bc808",
-            "textraw": "d300ec00e100090000004a06bc08fe005904fe032101c70ce8001a0109000a00",
+            "speaker_len": 16,
+            "speaker_offset": 5694,
+            "text_len": 32,
+            "text_offset": 5712,
             "warnings": 0
         },
         "speaker": "スタジオ船の兵隊",
-        "speaker_translation": "",
+        "speaker_translation": "Director (GTV)",
         "text": "いそげ！　事態は緊急を要する！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Quickly! The situation is urgent!",
         "type": "dialog"
     },
     {
         "id": 37,
         "internal": {
-            "speakerraw": "6e097a07920b",
-            "textraw": "13090504fa0077051901f500d3001a0109081a0943011b006201fa004e0ddd0c09000a006f02840821016908de000100290bbd0cfd002d0807017f081a012201ef0009000a00fdffedfffcfff8ff0800edffc1ffffff100067fffffff1fef0febcfffd011000f9ff080066ff0f000000aaff0100ff00bcfffe011000aaff00000000f5ff0800bcffff011000f6ff0800ebfe000065ff26002800f0ff260008000800080029009b009900f00a2a00ffff23002300d9001b00d30023002300e504d700f5001a01da002300230002000a00",
-            "warnings": 29
+            "speaker_len": 6,
+            "speaker_offset": 5766,
+            "text_len": 70,
+            "text_offset": 5774,
+            "warnings": 0
         },
         "speaker": "通信兵",
-        "speaker_translation": "",
-        "text": "地球に降りている設置チ―ムに連絡！\u0000\n映像を早く、姫様の船へ送るんだ！\u0000\n？￣鯵￣？　、ば梓￣　　？圧￣？　？？？（姶番）……お―い……見えてるか……。\u0000\n",
-        "text_translation": "",
+        "speaker_translation": "Producer (GTV)",
+        "text": "地球に降りている設置チ―ムに連絡！\u0000\n映像を早く、姫様の船へ送るんだ！\u0000\n",
+        "text_translation": "Get the crew down to earth! Relay the\nbroadcast to the ship ASAP!",
+        "type": "dialog"
+    },
+    {
+        "id": 38,
+        "internal": {
+            "speaker_len": 16,
+            "speaker_offset": 5932,
+            "text_len": 32,
+            "text_offset": 5950,
+            "warnings": 0
+        },
+        "speaker": "？？？（９７番）",
+        "speaker_translation": "???",
+        "text": "……お―い……見えてるか……。\u0000\n",
+        "text_translation": "...hey! See anything?",
         "type": "dialog"
     },
     {
         "id": 39,
         "internal": {
-            "speakerraw": "08000800080029009b009900f00a2a00",
-            "textraw": "23002300d700080000000d01ef0008000a002201e70012010100f0001601f200f7005609da0721012300230002000a00fdffedfffcffaaff0100ff00bcffb7011000c1ff25021000aaff0000000067ff0900ebfe000065ff28002800f0ff28009b009900f00affffe2001b01f600f800d500ef0008000000d1000100f000f9000e01fa002c016e019b009900f00a02000a00ec002201f6006e0cfd003808fa006f02f200f5002201fd00db00800d800d0a00",
-            "warnings": 18
+            "speaker_len": 16,
+            "speaker_offset": 5998,
+            "text_len": 48,
+            "text_offset": 6016,
+            "warnings": 0
         },
-        "speaker": "？？？（姶番）",
-        "speaker_translation": "",
-        "text": "……え？　まだ？\u0000\nんじゃ、ちょっと調整を……。\u0000\n、ば￣異￣　　！　姶番これでどうだ？　あ、ちなみにオレ姶番。\u0000\nそんで目の前に映ってんのが弌弌\u0000\n",
-        "text_translation": "",
+        "speaker": "？？？（９７番）",
+        "speaker_translation": "???",
+        "text": "……え？　まだ？\u0000\nんじゃ、ちょっと調整を……。\u0000\n",
+        "text_translation": "...what? Nothing? Well...\n...let me tune it some more...",
+        "type": "dialog"
+    },
+    {
+        "id": 40,
+        "internal": {
+            "speaker_len": 6,
+            "speaker_offset": 6112,
+            "text_len": 74,
+            "text_offset": 6120,
+            "warnings": 0
+        },
+        "speaker": "９７番",
+        "speaker_translation": "#97",
+        "text": "これでどうだ？　あ、ちなみにオレ９７番。\u0000\nそんで目の前に映ってんのが弌弌\u0000\n",
+        "text_translation": "How's this? Oh, I'm #97, the cameraman,\nand the guy in front of me is--",
         "type": "dialog"
     },
     {
         "id": 41,
         "internal": {
-            "speakerraw": "9b00f00a",
-            "textraw": "fe002000d300090000009b00f00af6001b00e8000200ee00ef00d3000d0113090504f6001b00e80002000a00ec001b01f600fe0001009b00f00a23002300d300dc000d012000e80009000a00",
-            "warnings": 2
+            "speaker_len": 4,
+            "speaker_offset": 6216,
+            "text_len": 76,
+            "text_offset": 6222,
+            "warnings": 0
         },
-        "speaker": "番",
-        "speaker_translation": "",
-        "text": "は〜い！　番で―す。ただいま地球で―す。\u0000\nそれでは、番……いきま〜す！\u0000\n",
-        "text_translation": "",
+        "speaker": "９番",
+        "speaker_translation": "#9",
+        "text": "は〜い！　９番で―す。ただいま地球で―す。\u0000\nそれでは、９番……いきま〜す！\u0000\n",
+        "text_translation": "Yes! This is #9, broadcasting right\nfrom Earth!",
         "type": "dialog"
     },
     {
         "id": 42,
         "internal": {
-            "speakerraw": "9b009900f00a",
-            "textraw": "bc02ee00f000fd002a011b003b0101006e093c073d01310151016b01fd009b00f00a09000a00600436026d0bf6001a01170120000100e2001901120102000a00",
-            "warnings": 1
+            "speaker_len": 6,
+            "speaker_offset": 6314,
+            "text_len": 64,
+            "text_offset": 6322,
+            "warnings": 0
         },
-        "speaker": "姶番",
-        "speaker_translation": "",
-        "text": "俺たちのエ―ス、通称セクハラの番！\u0000\n金一封でるよ〜、こりゃ。\u0000\n",
-        "text_translation": "",
+        "speaker": "９７番",
+        "speaker_translation": "#97",
+        "text": "俺たちのエ―ス、通称セクハラの９番！\u0000\n金一封でるよ〜、こりゃ。\u0000\n",
+        "text_translation": "Our ace reporter, known as #9, the\npervert! This is gold seal material.",
         "type": "dialog"
     },
     {
         "id": 43,
         "internal": {
-            "speakerraw": "d900f300dc009400",
-            "textraw": "23002300d700f20008000000f00001001309050443011b00620101008f0be200d700f5001a01da0009000a00ba08f500f2000100ba08f3002201ef00f20009000a00",
+            "speaker_len": 8,
+            "speaker_offset": 6406,
+            "text_len": 66,
+            "text_offset": 6416,
             "warnings": 0
         },
-        "speaker": "おつき娃",
-        "speaker_translation": "",
+        "speaker": "おつき２",
+        "speaker_translation": "Captain #2",
         "text": "……えっ？　ち、地球チ―ム、聞こえてるか！\u0000\n待てっ、待つんだっ！\u0000\n",
-        "text_translation": "",
+        "text_translation": "...what? Earth team, can you hear me?\nW-wait!",
         "type": "dialog"
     },
     {
         "id": 44,
         "internal": {
-            "speakerraw": "9b00f00a",
-            "textraw": "d7001b00230023000d01e900fe0001000a00bc02db003302f500f500d3001a0101003c02fd006f0dda001801800d800d0a00",
+            "speaker_len": 4,
+            "speaker_offset": 6504,
+            "text_len": 50,
+            "text_offset": 6510,
             "warnings": 0
         },
-        "speaker": "番",
-        "speaker_translation": "",
+        "speaker": "９番",
+        "speaker_translation": "#9",
         "text": "え―……まずは、\u0000\n俺が育てている、芋の話から弌弌\u0000\n",
-        "text_translation": "",
+        "text_translation": "Well, let's see... I guess I can talk\nabout the sweet potato farm--",
         "type": "dialog"
     },
     {
         "id": 45,
         "internal": {
-            "speakerraw": "3b0141011b006b01290b",
-            "textraw": "23002300230023002300230002000a00",
+            "speaker_len": 10,
+            "speaker_offset": 6680,
+            "text_len": 16,
+            "text_offset": 6692,
             "warnings": 0
         },
         "speaker": "スタ―ラ姫",
-        "speaker_translation": "",
+        "speaker_translation": "Princess Starla",
         "text": "………………。\u0000\n",
-        "text_translation": "",
+        "text_translation": ".........",
         "type": "dialog"
     },
     {
         "id": 46,
         "internal": {
-            "speakerraw": "d900f300dc009400",
-            "textraw": "1309050443011b006201090000004f014101fe0a560dfe001101d500d300d30009000a00ef00da001801130110011c0109000000130110011a012201ef0009000a00",
+            "speaker_len": 8,
+            "speaker_offset": 6728,
+            "text_len": 66,
+            "text_offset": 6738,
             "warnings": 0
         },
-        "speaker": "おつき娃",
-        "speaker_translation": "",
+        "speaker": "おつき２",
+        "speaker_translation": "Captain #2",
         "text": "地球チ―ム！　ネタ披露はもういい！\u0000\nだからやめろ！　やめるんだ！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Earth Team! I-it's already a good\nprogram! Stop the commentary! Stop it!",
         "type": "dialog"
     },
     {
         "id": 47,
         "internal": {
-            "speakerraw": "d900f300dc009400",
-            "textraw": "ec001b01170119010100130905049907fa002401750148014c0121014d0be0001a012201ef0009000a00ec001b01db002c016e01fd00800d800dec001b01db002c016e01fd00800d800d09000a00",
+            "speaker_len": 8,
+            "speaker_offset": 6824,
+            "text_len": 78,
+            "text_offset": 6834,
             "warnings": 0
         },
-        "speaker": "おつき娃",
-        "speaker_translation": "",
+        "speaker": "おつき２",
+        "speaker_translation": "Captain #2",
         "text": "それより、地球人にアンテナを付けるんだ！\u0000\nそれがオレの弌弌それがオレの弌弌！\u0000\n",
-        "text_translation": "",
+        "text_translation": "And start filming the Earthlings!\nThat's my... That's my--",
         "type": "dialog"
     },
     {
         "id": 48,
         "internal": {
-            "speakerraw": "3b0141011b006b01290b",
-            "textraw": "23002300230023002300230002000a00",
+            "speaker_len": 10,
+            "speaker_offset": 6932,
+            "text_len": 16,
+            "text_offset": 6944,
             "warnings": 0
         },
         "speaker": "スタ―ラ姫",
-        "speaker_translation": "",
+        "speaker_translation": "Princess Starla",
         "text": "………………。\u0000\n",
-        "text_translation": "",
+        "text_translation": ".........",
         "type": "dialog"
     },
     {
         "id": 49,
         "internal": {
-            "speakerraw": "d900f300dc009400",
-            "textraw": "800d800d2e02fa04ef001b001b001b001b001b001b001b001b001b001b001b001b00f200090009000a00",
+            "speaker_len": 8,
+            "speaker_offset": 7080,
+            "text_len": 42,
+            "text_offset": 7090,
             "warnings": 0
         },
-        "speaker": "おつき娃",
-        "speaker_translation": "",
+        "speaker": "おつき２",
+        "speaker_translation": "Captain #2",
         "text": "弌弌遺言だ――――――――――――っ！！\u0000\n",
-        "text_translation": "",
+        "text_translation": "--will!!",
         "type": "dialog"
     },
     {
         "id": 50,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "fd001e01f200090008000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7332,
+            "text_len": 12,
+            "text_offset": 7340,
             "warnings": 0
         },
         "speaker": "ゆっこ",
-        "speaker_translation": "",
+        "speaker_translation": "Yuuko",
         "text": "のわっ！？\u0000\n",
-        "text_translation": "",
+        "text_translation": "HUH!?",
         "type": "dialog"
     },
     {
         "id": 51,
         "internal": {
-            "speakerraw": "0e01d90054007a05e0051208e207",
-            "textraw": "2300230023002300230023002300230002000a00",
+            "speaker_len": 14,
+            "speaker_offset": 7394,
+            "text_len": 20,
+            "text_offset": 7410,
             "warnings": 0
         },
         "speaker": "みお＆高崎先生",
-        "speaker_translation": "",
+        "speaker_translation": "Mio & Takasaki-sensei",
         "text": "……………………。\u0000\n",
-        "text_translation": "",
+        "text_translation": ".........",
         "type": "dialog"
     },
     {
         "id": 52,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "d100fd0023002300d700d700f200f7002300230002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7472,
+            "text_len": 24,
+            "text_offset": 7480,
             "warnings": 0
         },
         "speaker": "ゆっこ",
         "speaker_translation": "",
         "text": "あの……ええっと……。\u0000\n",
-        "text_translation": "",
+        "text_translation": "... um... uh...",
         "type": "dialog"
     },
     {
         "id": 53,
         "internal": {
-            "speakerraw": "0e01d90054007a05e0051208e207",
-            "textraw": "2300230023002300230023002300230002000a00",
+            "speaker_len": 14,
+            "speaker_offset": 7554,
+            "text_len": 20,
+            "text_offset": 7570,
             "warnings": 0
         },
         "speaker": "みお＆高崎先生",
-        "speaker_translation": "",
+        "speaker_translation": "Mio & Takasaki-sensei",
         "text": "……………………。\u0000\n",
-        "text_translation": "",
+        "text_translation": ".........",
         "type": "dialog"
     },
     {
         "id": 54,
         "internal": {
-            "speakerraw": "1501f200e200",
-            "textraw": "23002300590dc202fa00f70cf200f5000d01e80002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 7622,
+            "text_len": 24,
+            "text_offset": 7630,
             "warnings": 0
         },
         "speaker": "ゆっこ",
-        "speaker_translation": "",
+        "speaker_translation": "Yuuko",
         "text": "……廊下に立ってます。\u0000\n",
-        "text_translation": "",
+        "text_translation": "...I'll go stand in the hallway.",
+        "type": "dialog"
+    },
+    {
+        "id": 55,
+        "internal": {
+            "speaker_len": 6,
+            "speaker_offset": 7770,
+            "text_len": 32,
+            "text_offset": 7778,
+            "warnings": 0
+        },
+        "speaker": "ゆっこ",
+        "speaker_translation": "Yuuko",
+        "text": "……また変な夢、見ちゃったよ。\u0000\n",
+        "text_translation": "Hm. Another bizzare dream.",
         "type": "dialog"
     }
 ]

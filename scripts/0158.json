@@ -2,8 +2,10 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "c50245021101d5002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2138,
+            "text_len": 16,
+            "text_offset": 2144,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -15,8 +17,10 @@
     {
         "id": 1,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d90027090100ec001b01f700110135011b0054011b002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2176,
+            "text_len": 30,
+            "text_offset": 2182,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -28,8 +32,10 @@
     {
         "id": 2,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2232,
+            "text_len": 12,
+            "text_offset": 2238,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -41,21 +47,40 @@
     {
         "id": 3,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "29006e0d6f0b480125011b003f011b004201da00f9002a000a00fdffedfffcff66ff2a000000c0ff0300d00010001fff0400000000020000c0ff04004e0110001aff03000000d2ff00001e001aff040000001a0000001e0067ffffffc9ff6d021000c1ffcd001000ebfe000064ffffff0700f0ff0400170c2b02ffff220108000a00",
-            "warnings": 20
+            "speaker_len": 4,
+            "speaker_offset": 2270,
+            "text_len": 26,
+            "text_offset": 2276,
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "（和風ティ―ソ―ダかな）\u0000\n）　，ぁ￣．　斡　．ヌ￣，　　／．　　／嬰￣異￣　；．麻衣ん？\u0000\n",
+        "text": "（和風ティ―ソ―ダかな）\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 4,
+        "internal": {
+            "speaker_len": 4,
+            "speaker_offset": 2394,
+            "text_len": 6,
+            "text_offset": 2400,
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "ん？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 5,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d100f20002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2438,
+            "text_len": 8,
+            "text_offset": 2444,
             "warnings": 0
         },
         "speaker": "関口",
@@ -67,8 +92,10 @@
     {
         "id": 6,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2484,
+            "text_len": 12,
+            "text_offset": 2490,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -80,34 +107,55 @@
     {
         "id": 7,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00fdffedfffcff1aff0300000078ff00001e001aff04000000680000001e00edffc8ffca004f011000adff0a00ebfe000064ffffff0700f0ff0800170c2b0254009a033705fffff800d500ed0002000a00",
-            "warnings": 15
+            "speaker_len": 4,
+            "speaker_offset": 2528,
+            "text_len": 12,
+            "text_offset": 2534,
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "…………。\u0000\n，　　／．　　／椅ネ￣\u0000\n　；？麻衣＆関口どうぞ。\u0000\n",
+        "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 8,
+        "internal": {
+            "speaker_len": 10,
+            "speaker_offset": 2604,
+            "text_len": 10,
+            "text_offset": 2616,
+            "warnings": 0
+        },
+        "speaker": "麻衣＆関口",
+        "speaker_translation": "",
+        "text": "どうぞ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 9,
         "internal": {
-            "speakerraw": "170c2b0254009a033705",
-            "textraw": "090008000a0098ff0000effe020097ff",
-            "warnings": 3
+            "speaker_len": 10,
+            "speaker_offset": 2666,
+            "text_len": 6,
+            "text_offset": 2678,
+            "warnings": 0
         },
         "speaker": "麻衣＆関口",
         "speaker_translation": "",
-        "text": "！？\u0000\n　。",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 10,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2724,
+            "text_len": 12,
+            "text_offset": 2730,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -119,8 +167,10 @@
     {
         "id": 11,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2768,
+            "text_len": 12,
+            "text_offset": 2774,
             "warnings": 0
         },
         "speaker": "関口",
@@ -132,8 +182,10 @@
     {
         "id": 12,
         "internal": {
-            "speakerraw": "170c2b0254009a033705",
-            "textraw": "f800d500ed0002000a00",
+            "speaker_len": 10,
+            "speaker_offset": 2816,
+            "text_len": 10,
+            "text_offset": 2828,
             "warnings": 0
         },
         "speaker": "麻衣＆関口",
@@ -145,21 +197,25 @@
     {
         "id": 13,
         "internal": {
-            "speakerraw": "170c2b0254009a033705",
-            "textraw": "090008000a0098ff0000effe030097ff",
-            "warnings": 3
+            "speaker_len": 10,
+            "speaker_offset": 2868,
+            "text_len": 6,
+            "text_offset": 2880,
+            "warnings": 0
         },
         "speaker": "麻衣＆関口",
         "speaker_translation": "",
-        "text": "！？\u0000\n　，",
+        "text": "！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 14,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2922,
+            "text_len": 12,
+            "text_offset": 2928,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -171,8 +227,10 @@
     {
         "id": 15,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2966,
+            "text_len": 12,
+            "text_offset": 2972,
             "warnings": 0
         },
         "speaker": "関口",
@@ -184,8 +242,10 @@
     {
         "id": 16,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "e7001201d10001001208fa002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3016,
+            "text_len": 20,
+            "text_offset": 3022,
             "warnings": 0
         },
         "speaker": "関口",
@@ -197,8 +257,10 @@
     {
         "id": 17,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "f9001801380611011208fa0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3064,
+            "text_len": 16,
+            "text_offset": 3070,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -210,8 +272,10 @@
     {
         "id": 18,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "090008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3108,
+            "text_len": 6,
+            "text_offset": 3114,
             "warnings": 0
         },
         "speaker": "関口",
@@ -223,8 +287,10 @@
     {
         "id": 19,
         "internal": {
-            "speakerraw": "170c2b0254009a033705",
-            "textraw": "d700d700f7002300230002000a00",
+            "speaker_len": 10,
+            "speaker_offset": 3150,
+            "text_len": 14,
+            "text_offset": 3162,
             "warnings": 0
         },
         "speaker": "麻衣＆関口",
@@ -236,8 +302,10 @@
     {
         "id": 20,
         "internal": {
-            "speakerraw": "170c2b0254009a033705",
-            "textraw": "f800d500ed0002000a00",
+            "speaker_len": 10,
+            "speaker_offset": 3218,
+            "text_len": 10,
+            "text_offset": 3230,
             "warnings": 0
         },
         "speaker": "麻衣＆関口",
@@ -249,8 +317,10 @@
     {
         "id": 21,
         "internal": {
-            "speakerraw": "53055b091208e207",
-            "textraw": "090008000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3262,
+            "text_len": 6,
+            "text_offset": 3272,
             "warnings": 0
         },
         "speaker": "校長先生",
@@ -262,8 +332,10 @@
     {
         "id": 22,
         "internal": {
-            "speakerraw": "53055b091208e207",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3304,
+            "text_len": 12,
+            "text_offset": 3314,
             "warnings": 0
         },
         "speaker": "校長先生",
@@ -275,8 +347,10 @@
     {
         "id": 23,
         "internal": {
-            "speakerraw": "53055b091208e207",
-            "textraw": "e7001201d1000100d9001208fa002300230002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3348,
+            "text_len": 22,
+            "text_offset": 3358,
             "warnings": 0
         },
         "speaker": "校長先生",
@@ -288,8 +362,10 @@
     {
         "id": 24,
         "internal": {
-            "speakerraw": "170c2b0254009a033705",
-            "textraw": "e7001201d10038061101d9001208fa0002000a00",
+            "speaker_len": 10,
+            "speaker_offset": 3410,
+            "text_len": 20,
+            "text_offset": 3422,
             "warnings": 0
         },
         "speaker": "麻衣＆関口",
@@ -301,8 +377,10 @@
     {
         "id": 25,
         "internal": {
-            "speakerraw": "53055b091208e207",
-            "textraw": "090008000a00",
+            "speaker_len": 8,
+            "speaker_offset": 3476,
+            "text_len": 6,
+            "text_offset": 3486,
             "warnings": 0
         },
         "speaker": "校長先生",
@@ -314,9 +392,11 @@
     {
         "id": 26,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "d5001e01d000090008000a002401750148014c01db002c011b0052011b0054011b004a01e6001301db00f200ee0009000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 3568,
+            "text_len": 50,
+            "text_offset": 3572,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
@@ -327,9 +407,11 @@
     {
         "id": 27,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "23002300f000de00e6001601d50001000a00bc02fd000a0a11012c011b0052011b0054011b004a01e600f5001a01eb0002000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 3664,
+            "text_len": 52,
+            "text_offset": 3668,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
@@ -340,9 +422,11 @@
     {
         "id": 28,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "d700d700d700f200090008000000f9002201f600ef001701090008000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 3736,
+            "text_len": 30,
+            "text_offset": 3740,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
@@ -353,9 +437,11 @@
     {
         "id": 29,
         "internal": {
-            "speakerraw": "08ff",
-            "textraw": "d100fd00510a9907fd00130119019a061901db004f0af802e800dd001a012201ef0009000a00dc00f200f700fa04c50cfd00f00cfa0030041c01e600d300050b3b0c21014b02e600f5001a01ed0009000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 3786,
+            "text_len": 82,
+            "text_offset": 3790,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
@@ -366,9 +452,11 @@
     {
         "id": 30,
         "internal": {
-            "speakerraw": "07ff",
-            "textraw": "230023000e08b6086505d700e800dd00ef00f7002b06d500ed0002000a00",
-            "warnings": 0
+            "speaker_len": 2,
+            "speaker_offset": 3888,
+            "text_len": 30,
+            "text_offset": 3892,
+            "warnings": 1
         },
         "speaker": "",
         "speaker_translation": "",
@@ -379,8 +467,10 @@
     {
         "id": 31,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "c5024808d30008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4014,
+            "text_len": 10,
+            "text_offset": 4020,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -392,8 +482,10 @@
     {
         "id": 32,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d700f20008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4052,
+            "text_len": 8,
+            "text_offset": 4058,
             "warnings": 0
         },
         "speaker": "関口",
@@ -405,8 +497,10 @@
     {
         "id": 33,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "c502210145020f01f3001101190108000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4088,
+            "text_len": 18,
+            "text_offset": 4094,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -418,8 +512,10 @@
     {
         "id": 34,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023006e0d6f0b480125011b003f011b004201210102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4134,
+            "text_len": 26,
+            "text_offset": 4140,
             "warnings": 0
         },
         "speaker": "関口",
@@ -431,8 +527,10 @@
     {
         "id": 35,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023003806110102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4188,
+            "text_len": 12,
+            "text_offset": 4194,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -444,8 +542,10 @@
     {
         "id": 36,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "090008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4228,
+            "text_len": 6,
+            "text_offset": 4234,
             "warnings": 0
         },
         "speaker": "関口",
@@ -457,8 +557,10 @@
     {
         "id": 37,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4266,
+            "text_len": 12,
+            "text_offset": 4272,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -470,8 +572,10 @@
     {
         "id": 38,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4310,
+            "text_len": 12,
+            "text_offset": 4316,
             "warnings": 0
         },
         "speaker": "関口",
@@ -483,8 +587,10 @@
     {
         "id": 39,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "1208fa009f0af200f5001101d300d30008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4350,
+            "text_len": 20,
+            "text_offset": 4356,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -496,8 +602,10 @@
     {
         "id": 40,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "fe000100fe00d30002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4400,
+            "text_len": 12,
+            "text_offset": 4406,
             "warnings": 0
         },
         "speaker": "関口",
@@ -509,8 +617,10 @@
     {
         "id": 41,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4450,
+            "text_len": 12,
+            "text_offset": 4456,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -522,8 +632,10 @@
     {
         "id": 42,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d1002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4490,
+            "text_len": 10,
+            "text_offset": 4496,
             "warnings": 0
         },
         "speaker": "関口",
@@ -535,21 +647,40 @@
     {
         "id": 43,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "23002300a00a190104081b01ee0002000a00fdff7fff040002ff01ff0f00cefff1ff96000000320000fffffe05000600070067ff1700c1ffd0001000ebfe000065ff05000700f0ff2c00170c2b02ffffbd05f906fe0032011b0002000a00",
-            "warnings": 18
+            "speaker_len": 4,
+            "speaker_offset": 4528,
+            "text_len": 18,
+            "text_offset": 4534,
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "……売り切れた。\u0000\n．哀　・：；ぁ￣　・；麻衣最初はグ―。\u0000\n",
+        "text": "……売り切れた。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 44,
+        "internal": {
+            "speaker_len": 4,
+            "speaker_offset": 4608,
+            "text_len": 14,
+            "text_offset": 4614,
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "最初はグ―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 45,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d700f20008000000d700f20008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4656,
+            "text_len": 16,
+            "text_offset": 4662,
             "warnings": 0
         },
         "speaker": "関口",
@@ -561,8 +692,10 @@
     {
         "id": 46,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "e70012012201e00022015f01750102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4700,
+            "text_len": 18,
+            "text_offset": 4706,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -574,8 +707,10 @@
     {
         "id": 47,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "5f01750109000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4750,
+            "text_len": 8,
+            "text_offset": 4756,
             "warnings": 0
         },
         "speaker": "関口",
@@ -587,8 +722,10 @@
     {
         "id": 48,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d100d300e200f6002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4790,
+            "text_len": 16,
+            "text_offset": 4796,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -600,8 +737,10 @@
     {
         "id": 49,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "e6001601f20002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4838,
+            "text_len": 10,
+            "text_offset": 4844,
             "warnings": 0
         },
         "speaker": "関口",
@@ -613,8 +752,10 @@
     {
         "id": 50,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d100d300e200f6002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4880,
+            "text_len": 16,
+            "text_offset": 4886,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -626,8 +767,10 @@
     {
         "id": 51,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "e6001601f20002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4928,
+            "text_len": 10,
+            "text_offset": 4934,
             "warnings": 0
         },
         "speaker": "関口",
@@ -639,8 +782,10 @@
     {
         "id": 52,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d100d300e200f6002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 4970,
+            "text_len": 16,
+            "text_offset": 4976,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -652,8 +797,10 @@
     {
         "id": 53,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "e6001601f20002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5018,
+            "text_len": 10,
+            "text_offset": 5024,
             "warnings": 0
         },
         "speaker": "関口",
@@ -665,8 +812,10 @@
     {
         "id": 54,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d100d300e200f6002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5060,
+            "text_len": 16,
+            "text_offset": 5066,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -678,8 +827,10 @@
     {
         "id": 55,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "e6001601f20002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5108,
+            "text_len": 10,
+            "text_offset": 5114,
             "warnings": 0
         },
         "speaker": "関口",
@@ -691,8 +842,10 @@
     {
         "id": 56,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d100d300e200f6002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5150,
+            "text_len": 16,
+            "text_offset": 5156,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -704,8 +857,10 @@
     {
         "id": 57,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "e6001601f20002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5198,
+            "text_len": 10,
+            "text_offset": 5204,
             "warnings": 0
         },
         "speaker": "関口",
@@ -717,8 +872,10 @@
     {
         "id": 58,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d100d300e200f6002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5240,
+            "text_len": 16,
+            "text_offset": 5246,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -730,8 +887,10 @@
     {
         "id": 59,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "e6001601f20002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5288,
+            "text_len": 10,
+            "text_offset": 5294,
             "warnings": 0
         },
         "speaker": "関口",
@@ -743,8 +902,10 @@
     {
         "id": 60,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d100d300e200f6002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5336,
+            "text_len": 16,
+            "text_offset": 5342,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -756,8 +917,10 @@
     {
         "id": 61,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d100fd002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5382,
+            "text_len": 12,
+            "text_offset": 5388,
             "warnings": 0
         },
         "speaker": "関口",
@@ -769,8 +932,10 @@
     {
         "id": 62,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "220108000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5422,
+            "text_len": 6,
+            "text_offset": 5428,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -782,8 +947,10 @@
     {
         "id": 63,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "1101d5000100130110010d01ea002201da0008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5538,
+            "text_len": 22,
+            "text_offset": 5544,
             "warnings": 0
         },
         "speaker": "関口",
@@ -795,8 +962,10 @@
     {
         "id": 64,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "2300230013011001f900d30002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5582,
+            "text_len": 16,
+            "text_offset": 5588,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -808,21 +977,25 @@
     {
         "id": 65,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a0098ff0000effe030097ff",
-            "warnings": 3
+            "speaker_len": 4,
+            "speaker_offset": 5624,
+            "text_len": 12,
+            "text_offset": 5630,
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "…………。\u0000\n　，",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 66,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "bd05f906fe0032011b0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5668,
+            "text_len": 14,
+            "text_offset": 5674,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -834,21 +1007,40 @@
     {
         "id": 67,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "e70012012201e00022012300230002000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ffffffc1ffd0001000ebfe0000adffffff65ff1d000700f0ff4400170c2b02ffff230023002300230002000a00",
-            "warnings": 23
+            "speaker_len": 4,
+            "speaker_offset": 5704,
+            "text_len": 18,
+            "text_offset": 5710,
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "じゃんけん……。\u0000\n　？ぁ￣　；麻衣…………。\u0000\n",
+        "text": "じゃんけん……。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 68,
+        "internal": {
+            "speaker_len": 4,
+            "speaker_offset": 5784,
+            "text_len": 12,
+            "text_offset": 5790,
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 69,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5828,
+            "text_len": 12,
+            "text_offset": 5834,
             "warnings": 0
         },
         "speaker": "関口",
@@ -860,8 +1052,10 @@
     {
         "id": 70,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "360131010100360131012300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5878,
+            "text_len": 18,
+            "text_offset": 5884,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -873,8 +1067,10 @@
     {
         "id": 71,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5928,
+            "text_len": 12,
+            "text_offset": 5934,
             "warnings": 0
         },
         "speaker": "関口",
@@ -886,8 +1082,10 @@
     {
         "id": 72,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023000401d40002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 5968,
+            "text_len": 12,
+            "text_offset": 5974,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -899,8 +1097,10 @@
     {
         "id": 73,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6012,
+            "text_len": 12,
+            "text_offset": 6018,
             "warnings": 0
         },
         "speaker": "関口",
@@ -912,8 +1112,10 @@
     {
         "id": 74,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d100e1001a0102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6052,
+            "text_len": 10,
+            "text_offset": 6058,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -925,8 +1127,10 @@
     {
         "id": 75,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d700f20008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6096,
+            "text_len": 8,
+            "text_offset": 6102,
             "warnings": 0
         },
         "speaker": "関口",
@@ -938,21 +1142,25 @@
     {
         "id": 76,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "fe00220105012201e20002000a0098ff0000effe0700eefe1100040097ff",
-            "warnings": 5
+            "speaker_len": 4,
+            "speaker_offset": 6132,
+            "text_len": 14,
+            "text_offset": 6138,
+            "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
-        "text": "はんぶんこ。\u0000\n　；．",
+        "text": "はんぶんこ。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 77,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d1000100d90060042300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6190,
+            "text_len": 16,
+            "text_offset": 6196,
             "warnings": 0
         },
         "speaker": "関口",
@@ -964,8 +1172,10 @@
     {
         "id": 78,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d300d30002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6234,
+            "text_len": 8,
+            "text_offset": 6240,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -977,8 +1187,10 @@
     {
         "id": 79,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6294,
+            "text_len": 12,
+            "text_offset": 6300,
             "warnings": 0
         },
         "speaker": "関口",
@@ -990,8 +1202,10 @@
     {
         "id": 80,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "36013101f2002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6334,
+            "text_len": 14,
+            "text_offset": 6340,
             "warnings": 0
         },
         "speaker": "関口",
@@ -1003,8 +1217,10 @@
     {
         "id": 81,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6380,
+            "text_len": 12,
+            "text_offset": 6386,
             "warnings": 0
         },
         "speaker": "関口",
@@ -1016,8 +1232,10 @@
     {
         "id": 82,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d100f20023002300e2001b012300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6420,
+            "text_len": 20,
+            "text_offset": 6426,
             "warnings": 0
         },
         "speaker": "関口",
@@ -1029,21 +1247,40 @@
     {
         "id": 83,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "1e001e001e001e001e000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffff67ff0b00eefe02000400c1ffca001000ebfe000065ff2d000700f0ff5400170c2b02ffffd100e1001a0102000a0098ff0000effe070097ff",
-            "warnings": 24
+            "speaker_len": 4,
+            "speaker_offset": 6550,
+            "text_len": 12,
+            "text_offset": 6556,
+            "warnings": 0
         },
         "speaker": "関口",
         "speaker_translation": "",
-        "text": "／／／／／\u0000\n　？。．椅￣　；＆麻衣あげる。\u0000\n　；",
+        "text": "／／／／／\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 84,
+        "internal": {
+            "speaker_len": 4,
+            "speaker_offset": 6626,
+            "text_len": 10,
+            "text_offset": 6632,
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "あげる。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 85,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "d70008000000f60011012300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6674,
+            "text_len": 18,
+            "text_offset": 6680,
             "warnings": 0
         },
         "speaker": "関口",
@@ -1055,8 +1292,10 @@
     {
         "id": 86,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d300d300da00180102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6720,
+            "text_len": 12,
+            "text_offset": 6726,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -1068,8 +1307,10 @@
     {
         "id": 87,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "23002300d1001901db00f700d500e300e500d3000d01e80002000a00e2001b010100d90060042300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6760,
+            "text_len": 46,
+            "text_offset": 6766,
             "warnings": 0
         },
         "speaker": "関口",
@@ -1081,8 +1322,10 @@
     {
         "id": 88,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "d500220102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6834,
+            "text_len": 8,
+            "text_offset": 6840,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -1094,8 +1337,10 @@
     {
         "id": 89,
         "internal": {
-            "speakerraw": "9a033705",
-            "textraw": "ec001b01f600fe002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6870,
+            "text_len": 16,
+            "text_offset": 6876,
             "warnings": 0
         },
         "speaker": "関口",
@@ -1107,8 +1352,10 @@
     {
         "id": 90,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6942,
+            "text_len": 12,
+            "text_offset": 6948,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -1120,8 +1367,10 @@
     {
         "id": 91,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 6986,
+            "text_len": 12,
+            "text_offset": 6992,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -1133,8 +1382,10 @@
     {
         "id": 92,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "6e0d6f0b480125011b003f011b0042012300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 7026,
+            "text_len": 24,
+            "text_offset": 7032,
             "warnings": 0
         },
         "speaker": "麻衣",
@@ -1146,13 +1397,30 @@
     {
         "id": 93,
         "internal": {
-            "speakerraw": "170c2b02",
-            "textraw": "230023002300230002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 7164,
+            "text_len": 12,
+            "text_offset": 7170,
             "warnings": 0
         },
         "speaker": "麻衣",
         "speaker_translation": "",
         "text": "…………。\u0000\n",
+        "text_translation": "",
+        "type": "dialog"
+    },
+    {
+        "id": 94,
+        "internal": {
+            "speaker_len": 4,
+            "speaker_offset": 7198,
+            "text_len": 20,
+            "text_offset": 7204,
+            "warnings": 0
+        },
+        "speaker": "麻衣",
+        "speaker_translation": "",
+        "text": "ティ―ソ―ダ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

@@ -2,274 +2,316 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "c0ff04006d001000adff0500ebfe000065ff00000300f0ff00000e01d900",
-            "textraw": "ee00ef00d3000d011b0023002300f200f50001000a00d1001b010100d9002406d300f900d300fd0008000a00",
-            "warnings": 0
+            "speaker_len": 30,
+            "speaker_offset": 2094,
+            "text_len": 44,
+            "text_offset": 2126,
+            "warnings": 28
         },
         "speaker": "．￣・　　，　みお",
-        "speaker_translation": "",
+        "speaker_translation": "Mio",
         "text": "ただいま―……って、\u0000\nあれ、お姉いないの？\u0000\n",
-        "text_translation": "",
+        "text_translation": "I'm home...\nIs that you, sis?",
         "type": "dialog"
     },
     {
         "id": 1,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "d900da00e600d300f900230023000a0099055a0afe001208fa00730cf200f5001a01f200f500fa04f200f500ee00fd00fa0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2198,
+            "text_len": 54,
+            "text_offset": 2204,
             "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
         "text": "おかしいな……\u0000\n今日は先に戻ってるって言ってたのに。\u0000\n",
-        "text_translation": "",
+        "text_translation": "That's weird...\nShe said she'd be home first today.",
         "type": "dialog"
     },
     {
-        "id": 0,
+        "id": 2,
         "internal": {
-            "speakerraw": "200016ff",
-            "textraw": "ebfe000065ff02001800f0ff02000e01d9002406ffffd700d300f20009000a0098ff00001aff0300000078ff0000200016ffffff97ff",
-            "warnings": 11
+            "speaker_len": 6,
+            "speaker_offset": 2320,
+            "text_len": 10,
+            "text_offset": 2328,
+            "warnings": 0
         },
-        "speaker": "〜",
-        "speaker_translation": "",
-        "text": "　。。みお姉えいっ！\u0000\n　，　　〜",
-        "text_translation": "",
+        "speaker": "みお姉",
+        "speaker_translation": "Yoshino",
+        "text": "えいっ！\u0000\n",
+        "text_translation": "Hah!",
         "type": "dialog"
     },
     {
         "id": 3,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "1e010100f900fa00f900fa00090008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2398,
+            "text_len": 18,
+            "text_offset": 2404,
             "warnings": 0
         },
         "speaker": "みお",
-        "speaker_translation": "",
+        "speaker_translation": "Mio",
         "text": "わ、なになに！？\u0000\n",
-        "text_translation": "",
+        "text_translation": "Wh- what?",
         "type": "dialog"
     },
     {
         "id": 4,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "0e01d9000100d900da00d70019011b0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2452,
+            "text_len": 20,
+            "text_offset": 2460,
             "warnings": 0
         },
         "speaker": "みお姉",
-        "speaker_translation": "",
+        "speaker_translation": "Yoshino",
         "text": "みお、おかえり―。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Welcome back, Mio--",
         "type": "dialog"
     },
     {
         "id": 5,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "f9000100f9002201ef000100d9002406da00230023000a000201f200de001901e400ea00f900d300f600170102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2502,
+            "text_len": 48,
+            "text_offset": 2508,
             "warnings": 0
         },
         "speaker": "みお",
-        "speaker_translation": "",
+        "speaker_translation": "Mio",
         "text": "な、なんだ、お姉か……\u0000\nびっくりさせないでよ。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Wh-what the heck, sis... \nDon't surprise me like that...",
         "type": "dialog"
     },
     {
         "id": 6,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "e800e300d300fc001b0002000a00590b6e09fd0099079803fa001101f00012012201f700f300e00018011b011a012201ef001b0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2578,
+            "text_len": 56,
+            "text_offset": 2586,
             "warnings": 0
         },
         "speaker": "みお姉",
-        "speaker_translation": "",
+        "speaker_translation": "Yoshino",
         "text": "すごいね―。\u0000\n普通の人間にもちゃんとつけられるんだ―。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Amazing... You can put it on\nnormal people as well...",
         "type": "dialog"
     },
     {
         "id": 7,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "070108000000f900fa00db000100f200f500800d800d0a00",
+            "speaker_len": 4,
+            "speaker_offset": 2664,
+            "text_len": 24,
+            "text_offset": 2670,
             "warnings": 0
         },
         "speaker": "みお",
-        "speaker_translation": "",
+        "speaker_translation": "Mio",
         "text": "へ？　なにが、って弌弌\u0000\n",
-        "text_translation": "",
+        "text_translation": "Eh? What did--",
         "type": "dialog"
     },
     {
         "id": 8,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "f900fa00e2001b011b00090008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2808,
+            "text_len": 16,
+            "text_offset": 2814,
             "warnings": 0
         },
         "speaker": "みお",
-        "speaker_translation": "",
+        "speaker_translation": "Mio",
         "text": "なにこれ―！？\u0000\n",
-        "text_translation": "",
+        "text_translation": "What the heck is this!?",
         "type": "dialog"
     },
     {
         "id": 9,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "d700070107011b000100ca02f001d300f600e600160102000a00f900fd00f00012012201e300f200e2001b008e000a00",
+            "speaker_len": 6,
+            "speaker_offset": 2850,
+            "text_len": 48,
+            "text_offset": 2858,
             "warnings": 1
         },
         "speaker": "みお姉",
-        "speaker_translation": "",
+        "speaker_translation": "Yoshino",
         "text": "えへへ―、可愛いでしょ。\u0000\nなのちゃんごっこ―\u0000\n",
-        "text_translation": "",
+        "text_translation": "Isn't it cute?\nIt's Nano's--",
         "type": "dialog"
     },
     {
         "id": 10,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "ca02f001de00f900d300170109000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2926,
+            "text_len": 16,
+            "text_offset": 2932,
             "warnings": 0
         },
         "speaker": "みお",
-        "speaker_translation": "",
+        "speaker_translation": "Mio",
         "text": "可愛くないよ！\u0000\n",
-        "text_translation": "",
+        "text_translation": "It's not cute!",
         "type": "dialog"
     },
     {
         "id": 11,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "f500da00e2001b01f900fd00f00012012201fd00f600e600160109000a00f800d500e600ee00fd001701090008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 2964,
+            "text_len": 48,
+            "text_offset": 2970,
             "warnings": 0
         },
         "speaker": "みお",
-        "speaker_translation": "",
+        "speaker_translation": "Mio",
         "text": "てかこれなのちゃんのでしょ！\u0000\nどうしたのよ！？\u0000\n",
-        "text_translation": "",
+        "text_translation": "Isn't this Nano's!?\nHow did you get this!?",
         "type": "dialog"
     },
     {
         "id": 12,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "d500220101007406fe00fc001b0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3034,
+            "text_len": 18,
+            "text_offset": 3042,
             "warnings": 0
         },
         "speaker": "みお姉",
         "speaker_translation": "",
         "text": "うん、実はね―。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Yes! In fact--",
         "type": "dialog"
     },
     {
         "id": 13,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "f9001a010a01f800fc00d600230023000a000d01d1000100590b6e09f900fd00f00012012201fa00f702d700ff00c403fa00f9001a011701fc0002000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3186,
+            "text_len": 62,
+            "text_offset": 3192,
             "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
         "text": "なるほどねぇ……\u0000\nまあ、普通なのちゃんに会えば気になるよね。\u0000\n",
-        "text_translation": "",
+        "text_translation": "I see... Well, I better give this\nback the next time I see her.",
         "type": "dialog"
     },
     {
         "id": 14,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "fc0001009905d909d500f000fa00a60cd300f900170102000a00fe00da00ea0011013602ff06fa0002000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3276,
+            "text_len": 44,
+            "text_offset": 3284,
             "warnings": 0
         },
         "speaker": "みお姉",
         "speaker_translation": "",
         "text": "ね、今度うちに誘いなよ。\u0000\nはかせも一緒に。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Hey, let me tag along.\nI wanna meet the professor.",
         "type": "dialog"
     },
     {
         "id": 15,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "3806db00d900d300e600d300d900e1022606e405f200f500d100e1001a01da001801e40009000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3350,
+            "text_len": 40,
+            "text_offset": 3358,
             "warnings": 0
         },
         "speaker": "みお姉",
         "speaker_translation": "",
         "text": "私がおいしいお菓子作ってあげるからさ！\u0000\n",
-        "text_translation": "",
+        "text_translation": "I'll bake something sweet!",
         "type": "dialog"
     },
     {
         "id": 16,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "d1001b0023002300d900e1022606fe0013011001f700d300ee00d30bdb00230023000a00f200f500d300d500da00e400800d800d0a00",
+            "speaker_len": 4,
+            "speaker_offset": 3420,
+            "text_len": 54,
+            "text_offset": 3426,
             "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
         "text": "あ―……お菓子はやめといた方が……\u0000\nっていうかさ弌弌\u0000\n",
-        "text_translation": "",
+        "text_translation": "Oh... You should quit eating sweets...\nI mean--",
         "type": "dialog"
     },
     {
         "id": 17,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "ec001c01ec001c01e2001b0101001403e600f500de002201f900d30008000a00d506de00f500e404e200f200f0001201d500170102000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3502,
+            "text_len": 56,
+            "text_offset": 3508,
             "warnings": 0
         },
         "speaker": "みお",
         "speaker_translation": "",
         "text": "そろそろこれ、外してくんない？\u0000\n重くて肩こっちゃうよ。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Hey, mind taking this off? It's heavy\nand my shoulders' starting to hurt...",
         "type": "dialog"
     },
     {
         "id": 18,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "ec00d50008000000e7001201d1000100e6001601d500db00f900d300fc0002000a002201e6001601230023001701d300e600160123002300d1001b0108000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3586,
+            "text_len": 64,
+            "text_offset": 3594,
             "warnings": 0
         },
         "speaker": "みお姉",
         "speaker_translation": "",
         "text": "そう？　じゃあ、しょうがないね。\u0000\nんしょ……よいしょ……あれ？\u0000\n",
-        "text_translation": "",
+        "text_translation": "Right? I guess I'll take it off.\nHere we... huh?",
         "type": "dialog"
     },
     {
         "id": 19,
         "internal": {
-            "speakerraw": "0e01d900",
-            "textraw": "f900fa000100f800d500e600ee00fd0008000a00",
+            "speaker_len": 4,
+            "speaker_offset": 3680,
+            "text_len": 20,
+            "text_offset": 3686,
             "warnings": 0
         },
         "speaker": "みお",
-        "speaker_translation": "",
+        "speaker_translation": "Mio",
         "text": "なに、どうしたの？\u0000\n",
-        "text_translation": "",
+        "text_translation": "What? What's wrong?",
         "type": "dialog"
     },
     {
         "id": 20,
         "internal": {
-            "speakerraw": "0e01d9002406",
-            "textraw": "230023009a061b01f900de00f900f200f0001201f200ee008e000a00",
+            "speaker_len": 6,
+            "speaker_offset": 3810,
+            "text_len": 28,
+            "text_offset": 3818,
             "warnings": 1
         },
         "speaker": "みお姉",
-        "speaker_translation": "",
+        "speaker_translation": "Yoshino",
         "text": "……取れなくなっちゃった\u0000\n",
-        "text_translation": "",
+        "text_translation": "... I can't take it off.",
         "type": "dialog"
     }
 ]

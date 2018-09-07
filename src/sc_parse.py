@@ -14,6 +14,8 @@ scfile_name = basename( sys.argv[1] )
 
 jsonfile = open( "%s.json" % scfile_name, 'w' ) 
 
+print("dumping script %s ..." % scfile_name)
+
 rawread = None 
 magic1  = None 
 dialog  = None
@@ -21,6 +23,10 @@ speaker = None
 magic2  = None
 text    = None
 magic3  = None
+speaker_offset = None
+text_offset = None
+
+lastdialog = -1
 
 def resetVars():
     global rawread
@@ -30,6 +36,8 @@ def resetVars():
     global magic2
     global text
     global magic3
+    global speaker_offset
+    global text_offset
 
     rawread = []
     magic1 = False
@@ -38,6 +46,8 @@ def resetVars():
     magic2 = False
     text = []
     magic3 = False
+    speaker_offset = -1 
+    text_offset = -1 
 
 resetVars()
 
@@ -131,7 +141,11 @@ while True:
             resetVars()
     elif magic1 and not magic2:
         if dialog < 0:
-            dialog = lbs
+            if lbs > lastdialog:
+                dialog = lbs
+                lastdialog = lbs
+            else:
+                resetVars()
         elif bs[0] == 0xff and bs[1] == 0xff and len(speaker) > 0:
             magic2 = True
         elif bs[0] == 0xff and bs[1] == 0xff:
@@ -143,20 +157,28 @@ while True:
             #output.append(result)
             resetVars()
         else:
+            if speaker_offset < 0:
+                speaker_offset = scfile.tell() - 0x2
             speaker.append(lbs)
     elif magic1 and magic2 and not magic3:
         if bs[0] == 0xfb and bs[1] == 0xff:
             magic3 = True;
+        elif bs[0] == 0xfd and bs[1] == 0xff:
+            magic3 = True;
+        elif bs[0] == 0x98 and bs[1] == 0xff:
+            magic3 = True;
         elif bs[0] == 0xfe and bs[1] == 0xff:
             text.append( ord('\n') )
         else:
+            if text_offset < 0:
+                text_offset = scfile.tell() - 0x2
             text.append(lbs)
     elif magic3:
-        speakerJIS, _ = nichiToJIS(speaker)
-        print("[ %s ]" % speakerJIS)
+        speakerJIS, warnings_speaker = nichiToJIS(speaker)
+        #print("[ %s ]" % speakerJIS)
 
-        textJIS, warnings = nichiToJIS(text)
-        print(textJIS)
+        textJIS, warnings_text = nichiToJIS(text)
+        #print(textJIS)
 
         textraw = []
         for b16 in text:
@@ -178,9 +200,11 @@ while True:
             "text"                  : textJIS,
             "text_translation"      : "",
             "internal" : {
-                "textraw"       : binascii.hexlify(bytearray(textraw)).decode('ascii'),
-                "speakerraw"    : binascii.hexlify(bytearray(speakerraw)).decode('ascii'),
-                "warnings"      : warnings 
+                "warnings"      : warnings_speaker + warnings_text,
+                "speaker_offset": speaker_offset,
+                "speaker_len"   : len(speakerraw),
+                "text_offset"   : text_offset,
+                "text_len"      : len(textraw)
             }
         }
 

@@ -2,8 +2,10 @@
     {
         "id": 0,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "d5001b0023002300e400f200dc00fe006c06900ae600ee00f90002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2144,
+            "text_len": 30,
+            "text_offset": 2154,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -15,8 +17,10 @@
     {
         "id": 1,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "ec0968022101b70b1801d7001a01fe00e900db0001000a00640154012d017501fa00d504f900f700e2001c012101e50418011b01f500e6000d01f200ee0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2206,
+            "text_len": 66,
+            "text_offset": 2216,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -28,8 +32,10 @@
     {
         "id": 2,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "230023001101d500e702dd00ee00e200f700ef0002000a0035011b0054011b00f600110145022201f600ee0b1b011a01da0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2304,
+            "text_len": 54,
+            "text_offset": 2314,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -41,8 +47,10 @@
     {
         "id": 3,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "230023000401d40002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2390,
+            "text_len": 12,
+            "text_offset": 2400,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -54,8 +62,10 @@
     {
         "id": 4,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "1701e60002000a009e091001e900fa00ec096802f900fd002101b70b0d01d7001a01d30bd50b21016505d7001701d50002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2434,
+            "text_len": 52,
+            "text_offset": 2444,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -67,8 +77,10 @@
     {
         "id": 5,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "e200fd003808fe00b307440c860c21011c06c10ce600ee00db0001000a00230023003405dc006e0cfe00470cda00f200ee001701d500ef0002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2518,
+            "text_len": 60,
+            "text_offset": 2528,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -80,21 +92,25 @@
     {
         "id": 6,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "0d01ef00e300f200ec001901ae0cf200f5001a012201ef00db00230023000a0019065c0a1b01e800dd00ee00f90002000a0098ff0000effe060097ff",
-            "warnings": 3
+            "speaker_len": 8,
+            "speaker_offset": 2610,
+            "text_len": 50,
+            "text_offset": 2620,
+            "warnings": 0
         },
         "speaker": "中村先生",
         "speaker_translation": "",
-        "text": "まだごっそり余ってるんだが……\u0000\n仕入れすぎたな。\u0000\n　：",
+        "text": "まだごっそり余ってるんだが……\u0000\n仕入れすぎたな。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
         "id": 7,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "0d01d100b307440c860cfe003405d202f900e6000100f70002000a005306fa00c502da003405dc00ec00d500f900860cfe002300230002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2702,
+            "text_len": 58,
+            "text_offset": 2712,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -106,8 +122,10 @@
     {
         "id": 8,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "ec00d500ef0001003203da00970d1b01860cdb00e200fd00ab0b1901fa002300230002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2802,
+            "text_len": 38,
+            "text_offset": 2812,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -119,8 +137,10 @@
     {
         "id": 9,
         "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "220108000000c502ef002300230002000a00",
+            "speaker_len": 8,
+            "speaker_offset": 2884,
+            "text_len": 18,
+            "text_offset": 2894,
             "warnings": 0
         },
         "speaker": "中村先生",
@@ -132,1001 +152,30 @@
     {
         "id": 10,
         "internal": {
-            "speakerraw": "53055b091208e207",
-            "textraw": "230023002300230002000a00fdffedfffcff1aff05000000f0ff10010a0016ffffff66ff30000000c9ffffff1000c0ff0400c9001000ebfe000064ffffff0600f0ff0b002a09a2081208e207ffffe200010053055b09090008000a00",
-            "warnings": 17
+            "speaker_len": 8,
+            "speaker_offset": 2946,
+            "text_len": 12,
+            "text_offset": 2956,
+            "warnings": 0
         },
         "speaker": "校長先生",
         "speaker_translation": "",
-        "text": "…………。\u0000\n・　め\u0000\n｝　￣．易￣　：中村先生こ、校長！？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 12,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "e2000100e200e200f600c5022101e600f500800d800dd100f20002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "こ、ここで何をして弌弌あっ。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 13,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "230023002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
         "text": "…………。\u0000\n",
         "text_translation": "",
         "type": "dialog"
     },
     {
-        "id": 14,
+        "id": 272,
         "internal": {
-            "speakerraw": "0bff",
-            "textraw": "c502db00d100f200ee00090008000a002c01450137017501db00dd091b01f5000e0ada00f900de00f900f200ee00ed00090008000a00",
-            "warnings": 0
+            "speaker_len": 4,
+            "speaker_offset": 2984,
+            "text_len": 58,
+            "text_offset": 2990,
+            "warnings": 11
         },
-        "speaker": "",
+        "speaker": "\u0000\n",
         "speaker_translation": "",
-        "text": "何があった！？\u0000\nオッサンが倒れて動かなくなったぞ！？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 15,
-        "internal": {
-            "speakerraw": "0cff",
-            "textraw": "1e01da0018012201020035011b0054011b00fa00b305fc0921015c0a1b01f5000a0045022201ef00ef00e000f9002201ef00db00230002000a00",
-            "warnings": 0
-        },
-        "speaker": "",
-        "speaker_translation": "",
-        "text": "わからん。コ―ヒ―に砂糖を入れて\u0000\n飲んだだけなんだが…。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 16,
-        "internal": {
-            "speakerraw": "0bff",
-            "textraw": "ec00d500f900fd00da0002003602b408c502db00230023000a00250af6001101e30718011b01f500d300ee00fd00da0008000a00",
-            "warnings": 0
-        },
-        "speaker": "",
-        "speaker_translation": "",
-        "text": "そうなのか。一体何が……\u0000\n毒でも盛られていたのか？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 17,
-        "internal": {
-            "speakerraw": "0bff",
-            "textraw": "23002300d30013010100ec00fd003808fa000a00f800d500e600f50035011b0054011b00210145020f01240bc70cdb00d100f200ee002201ef0008000a00",
-            "warnings": 0
-        },
-        "speaker": "",
-        "speaker_translation": "",
-        "text": "……いや、その前に\u0000\nどうしてコ―ヒ―を飲む必要があったんだ？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 18,
-        "internal": {
-            "speakerraw": "0cff",
-            "textraw": "d700f2000800000023002300d1000100e8000d01220101000a00bc02fe00470c2e0dfd0035011b0054011b003d05dc00f600f90002000a00",
-            "warnings": 0
-        },
-        "speaker": "",
-        "speaker_translation": "",
-        "text": "えっ？　……あ、すまん、\u0000\n俺は無類のコ―ヒ―好きでな。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 19,
-        "internal": {
-            "speakerraw": "0bff",
-            "textraw": "f9001a010a01f80002005f04de00fa00d100f200ee00da00180101000a00f300d3000100a00bf60045022201e7001201f200ee002201ef00f90002000a00",
-            "warnings": 0
-        },
-        "speaker": "",
-        "speaker_translation": "",
-        "text": "なるほど。近くにあったから、\u0000\nつい、癖で飲んじゃったんだな。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 20,
-        "internal": {
-            "speakerraw": "0cff",
-            "textraw": "e600da00e600af03f900da00f200ee00170102000a001101e600bc02db00d100fd0035011b0054011b00210145022201f600d300ee0018012300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "",
-        "speaker_translation": "",
-        "text": "しかし危なかったよ。\u0000\nもし俺があのコ―ヒ―を飲んでいたら……。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 21,
-        "internal": {
-            "speakerraw": "0bff",
-            "textraw": "d100d1000100d100fd002c014501370175010e01ee00d300fa00dd091b01f500ee00f90002000a000507da00f200ee00eb0002000a00",
-            "warnings": 0
-        },
-        "speaker": "",
-        "speaker_translation": "",
-        "text": "ああ、あのオッサンみたいに倒れてたな。\u0000\n助かったぜ。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 22,
-        "internal": {
-            "speakerraw": "0aff",
-            "textraw": "23002300dd091b01ee00d30bdb0060013901ef00f200ee00f7002b06d500ed0002000a00",
-            "warnings": 0
-        },
-        "speaker": "",
-        "speaker_translation": "",
-        "text": "……倒れた方がマシだったと思うぞ。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 23,
-        "internal": {
-            "speakerraw": "0bff54000cff",
-            "textraw": "090008000a00",
-            "warnings": 0
-        },
-        "speaker": "＆",
-        "speaker_translation": "",
-        "text": "！？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 24,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d900130101002a09a2081208e207f600e600ee00da0002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "おや、中村先生でしたか。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 25,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "fe00d30008000000c502f600e6001601d500da0033040a0a02000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "はい？　何でしょうか教頭。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 26,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d300d7000200d300d300550ad300db00e600ee00fd00f6000a00f30018011b01f500dc00f500e6000d01d3000d01e600f50002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "いえ。いい匂いがしたので\u0000\nつられてきてしまいまして。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 27,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "d300d300550ad30008000a00d100d100010035011b0054011b00fd00550ad300f600e800da0002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "いい匂い？\u0000\nああ、コ―ヒ―の匂いですか。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 28,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d700d7000200e8000e010d01ea002201db003806fa0011010a003602910a5c09e0000d01ea002201da00f90008000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "ええ。すみませんが私にも\u0000\n一杯頂けませんかな？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 29,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "2900720741026e06f6004502100123002300f700fa04d300ee00d300db0001000a00000033040a0a210172089c06fa00fa04d7001a011e01e0001101f900de00230023002a000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "（職員室で飲め……と言いたいが、\u0000\n　教頭を相手に言えるわけもなく……）\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 30,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "1e01da0019010d01e600ee000200f800d500ed0002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "わかりました。どうぞ。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 31,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d1001901db00f700d500e300e500d3000d01e80002000a00b305fc09fe00d10019010d01e800da00fc0008000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "ありがとうございます。\u0000\n砂糖はありますかね？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 32,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "d100d0000100b305fc09fe00e200f200f000fa00800d800d0a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "あぁ、砂糖はこっちに弌弌\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 33,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d90013010100e2001b01da00f90008000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "おや、これかな？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 34,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "d100f2002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "あっ……。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 35,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "230023002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "…………。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 36,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "f90001002a09a2081208e20723002300e2001b01fe003602b4082300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "な、中村先生……これは一体……。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 37,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "2900e6000d01f200ee000900090000003808fa001c06f200f500da0018010a000000e900f200f700bb03fa001a09dc00f2000001f900e600ef00f200ee00230023002a000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "（しまった！！　前に使ってから\u0000\n　ずっと机に置きっぱなしだった……）\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 38,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "29001101e600b307440c860c21010a000000e207cc09fa001c06f200ee00e200f700db0052016e01ee00180101003806fe00230023002a000a00fdff7fff040002ff01ff05003200",
-            "warnings": 5
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "（もし睡眠薬を\u0000\n　生徒に使ったことがバレたら、私は……）\u0000\n．・",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 39,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "f90001002a09a2081208e2070100e200fd00b307440c860c01000a003808fa0011011c061e011b01f500d3001a010e01ee00d300f600e800db002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "な、中村先生、この睡眠薬、\u0000\n前にも使われているみたいですが……。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 40,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "23002300d700d7000200bd055f04440c1b01f900de00f50002000a00860c2101760bc10ce600f500d3001a012201f600e80002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "……ええ。最近眠れなくて。\u0000\n薬を服用しているんです。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 41,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d1000100d100d1000100ec00d500f600e600ee00da0002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "あ、ああ、そうでしたか。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 42,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "4104da00ea00f500e6000d01f200f500e8000e010d01ea00220102000a00f600e800db00d100de000d01f6005d06820bc10cf600e800da00180102000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "驚かせてしまってすみません。\u0000\nですがあくまで自分用ですから。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 43,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d7000100d700d7000100ec00d500f600e800fc0002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "え、ええ、そうですね。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 44,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "e400d10033040a0a020035011b0054011b00f600e80002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "さあ教頭。コ―ヒ―です。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 45,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d1001901db00f700d500e300e500d3000d01e80002000a00f600fe000100b305fc092101800d800d0a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "ありがとうございます。\u0000\nでは、砂糖を弌弌\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 46,
-        "internal": {
-            "speakerraw": "2a09a2081208e207540033040a0a1208e207",
-            "textraw": "090008000a0098ff0000effe060097ff",
-            "warnings": 3
-        },
-        "speaker": "中村先生＆教頭先生",
-        "speaker_translation": "",
-        "text": "！？\u0000\n　：",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 47,
-        "internal": {
-            "speakerraw": "2a09a2081208e207540033040a0a1208e207",
-            "textraw": "2900970d1b01860c090008002a000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生＆教頭先生",
-        "speaker_translation": "",
-        "text": "（亳れ薬！？）\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 48,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "f90001002a09a2081208e20709000000e2000100e2001b01fe00090008000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "な、中村先生！　こ、これは！？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 49,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "de00f2002300230009000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "くっ……！\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 50,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "2900e2001b01fe0023002300e2001b01ff00da001901fe00230023000a0000005d06820bf6001c06d500f700fe00fa04d700f900d30023002300ef00db00230023002a000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "（これは……こればかりは……\u0000\n　自分で使うとは言えない……だが……）\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 51,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "0d0101000d01e400da0001002a09a2081208e207230023000a00e200fd00970d1b01860c11012300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "ま、まさか、中村先生……\u0000\nこの亳れ薬も……。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 52,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "230023002300230009000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "…………！\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 53,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "230023002300230009000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "…………！\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 54,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "230023005d06820bc10cf600e80009000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "……自分用です！\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 55,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "090008000a0098ff0000effe030097ff",
-            "warnings": 3
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "！？\u0000\n　，",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 56,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "0900090009000a00fdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffc8001000ebfe0100adffffff65ff1c000600f0ff39002a09a2081208e207ffff2900d300130101004a05f5001a01f9000200100a1800f700e600f500d3001b01ff000a000000c5021101760cd008f900d3002a000a00",
-            "warnings": 22
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "！！！\u0000\n　？慰￣、：中村先生（いや、慌てるな。堂としていれば\u0000\n　何も問題ない）\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 58,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "29000d01e600f5001301e207cc09fa001c06f200ee00e200f700f900f8000a00000052016e011a01fe00e900db00f900d3002a000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "（ましてや生徒に使ったことなど\u0000\n　バレるはずがない）\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 59,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "2a09a2081208e2070100e200fd00b307440c860cfe003602b4082300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "中村先生、この睡眠薬は一体……。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 60,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "23002300b307440c860cf600e800db000100c502da0008000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "……睡眠薬ですが、何か？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 61,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "f9000100c5020805e200e200fa00b307440c860cdb0008000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "な、何故ここに睡眠薬が？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 62,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "ec001b01fe00e200e200db00ed0cd0026e06ef00da001801f600e80002000a0098ff0000effe070097ff",
-            "warnings": 3
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "それはここが理科室だからです。\u0000\n　；",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 63,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "e600da00e6000100aa064604f600b307440c860c21011c06d500e200f700fe000a00f900d300f7002b06d500fd00f600e800db002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "しかし、授業で睡眠薬を使うことは\u0000\nないと思うのですが……。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 64,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "d700d7000200ec001b01fe00fe049907aa09f9001101fd00f600e800da00180102000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "ええ。それは個人的なものですから。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 65,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "230023002300230008000a00f600fe0001005a0a9805da001801b307440c860c21015106f000b80bd300f500d3001a01f70008000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "…………？\u0000\nでは、日頃から睡眠薬を持ち歩いていると？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 66,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "fe00d3000200c502da00760cd008db0008000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "はい。何か問題が？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 67,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d70008000000d1000100d30013010100a20bfa002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "え？　あ、いや、別に……。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 68,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "230023001208e207fa00fc04f200f500470cd300f700fe002b06d3000d01e800db0001000a00e207cc09fa00b608e600f5001c06d500e200f700fe00d10019010d01ea0022011701fc0008000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "……先生に限って無いとは思いますが、\u0000\n生徒に対して使うことはありませんよね？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 69,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "d300d300d70001001c06d500c403f600e800e000f80002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "いいえ、使う気ですけど。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 70,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d700f200090008000a0098ff0000effe060097ff",
-            "warnings": 3
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "えっ！？\u0000\n　：",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 71,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "c502da00760cd008db0008000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "何か問題が？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 72,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d70008000000d1000100d30013010100a20bfa002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "え？　あ、いや、別に……。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 73,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "f200f5000100760cd008cd0824016c01f600e80009000a004a07e600d3006f0d21018f0bda00ea00f50011011801d3000d01e800170109000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "って、問題大アリです！\u0000\n詳しい話を聞かせてもらいますよ！\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 74,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "090008000a0098ff0000effe030097fffdff67ffffffe7fe0000fdff67ffffffeafee9fef7ff0800fcffffffc1ffc2001000ebfe000065ff2e000600f0ff4b002a09a2081208e207ffff2300230033040a0a0100ec001b01db00b305fc09f600e800170102000a00",
-            "warnings": 22
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "！？\u0000\n　，　？夷￣　：中村先生……教頭、それが砂糖ですよ。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 76,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d700f20008000000f60011010100b307440c860cf7000107da001b01f500800d800d0a0098ff0000effe060097ff",
-            "warnings": 3
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "えっ？　でも、睡眠薬と書かれて弌弌\u0000\n　：",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 77,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "0107d300ee00ef00e000f600e80002000a002a099407fe00b305fc09f600e80002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "書いただけです。\u0000\n中身は砂糖です。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 78,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "230023002300230009000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "…………！\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 79,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "7a07c10cf600dc00f900d300f90018010a0038061101ec001b0121015c0a1b010d01e6001601d50002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "信用できないなら\u0000\n私もそれを入れましょう。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 80,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "230023002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "…………。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 81,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "f600fe0023002300e300de00f20002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "では……ごくっ。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 82,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "090009000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "！！\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 83,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "23002300e3008007970af900de000200ee00ef00fd00b305fc09f600e800da00180102000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "……ご心配なく。ただの砂糖ですから。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 84,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "d1000100d100d10023002300ec00d500f600e600ee00da0002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "あ、ああ……そうでしたか。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 85,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "d700d70002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "ええ。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 86,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "cf00cf00b5002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "維維庵……。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 87,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "090008000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "！？\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 88,
-        "internal": {
-            "speakerraw": "2a09a2081208e207",
-            "textraw": "cf00cf00b50002000a00",
-            "warnings": 0
-        },
-        "speaker": "中村先生",
-        "speaker_translation": "",
-        "text": "維維庵。\u0000\n",
-        "text_translation": "",
-        "type": "dialog"
-    },
-    {
-        "id": 89,
-        "internal": {
-            "speakerraw": "33040a0a1208e207",
-            "textraw": "230023002300230002000a00",
-            "warnings": 0
-        },
-        "speaker": "教頭先生",
-        "speaker_translation": "",
-        "text": "…………。\u0000\n",
+        "text": "｝　￣．ｓ￣　：中村先生こ、校長！？\u0000\n",
         "text_translation": "",
         "type": "dialog"
     }

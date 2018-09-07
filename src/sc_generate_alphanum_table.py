@@ -2,10 +2,10 @@
 
 def alphanumTable():
     table = {}
-    lines = open("kanji.tbl", 'r', encoding="shift-jis").readlines()
+    lines = open("alphanum.tbl", 'r', encoding="shift-jis").readlines()
 
     numcounter = 0x0092
-    for x in range(0, 9):
+    for x in range(0, 10):
         line = lines[x]
         num = int(line[0:4], 16)
         table[numcounter] = num 

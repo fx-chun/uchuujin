@@ -22,7 +22,7 @@
         "speaker": "はかせ",
         "speaker_translation": "Hakase",
         "text": "あっ、起きた。\u0000\n",
-        "text_translation": "Oh, I got up.",
+        "text_translation": "Oh, (you?) woke up.",
         "type": "dialog"
     },
     {
@@ -35,7 +35,7 @@
         "speaker": "なの",
         "speaker_translation": "Nano",
         "text": "うう……はかせ？\u0000\nもう起きてたんですか……？\u0000\n",
-        "text_translation": "Ugh... Hakase?",
+        "text_translation": "Ugh... Hakase? Are you having trouble sleeping again?",
         "type": "dialog"
     },
     {
@@ -85,7 +85,7 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "お、おはようございます。\u0000\nところではかせ……。\u0000\n",
         "text_translation": "Good morning, Hakase. \u0000\nBy the way...\u0000\n",
         "type": "dialog"
@@ -98,9 +98,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "なに―？\u0000\n",
-        "text_translation": "What?\u0000\n",
+        "text_translation": "Hm?\u0000\n",
         "type": "dialog"
     },
     {
@@ -111,7 +111,7 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "起きていきなりでアレですけど、\u0000\nそのボタンで私に何をするつもりですか？\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -124,9 +124,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "なののネジをパワ―アップさせたから\u0000\n新しい機能を試すところだったの。\u0000\n",
-        "text_translation": "",
+        "text_translation": "I was about to try new features,\nso I made the screw on your back power up.",
         "type": "dialog"
     },
     {
@@ -139,7 +139,7 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "えぇっ！？\u0000\nもう何かした後だったんですか！？\u0000\n",
-        "text_translation": "",
+        "text_translation": "Eh!? Did you do something to me again!?",
         "type": "dialog"
     },
     {
@@ -150,9 +150,9 @@
             "warnings": 3
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "何かじゃないよ！\u0000\nパワ―アップさせたの！\u0000\n　；",
-        "text_translation": "",
+        "text_translation": "It's nothing! It's a (power up?)!",
         "type": "dialog"
     },
     {
@@ -163,7 +163,7 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "しないでくださいよ〜。\u0000\nただでさえネジで困ってるのに〜。\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -176,9 +176,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "でもパワ―アップだよ？\u0000\n",
-        "text_translation": "",
+        "text_translation": "But it's a power-up?",
         "type": "dialog"
     },
     {
@@ -189,7 +189,7 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "一番なくしてほしいネジを\u0000\nパワ―アップされても困るんですよ―。\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -202,9 +202,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "阪本さんも何とか言ってくださいよ―。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Sakamoto, say something.",
         "type": "dialog"
     },
     {
@@ -215,9 +215,9 @@
             "warnings": 0
         },
         "speaker": "バディ",
-        "speaker_translation": "",
+        "speaker_translation": "Buddy",
         "text": "…………。\u0000\n",
-        "text_translation": "",
+        "text_translation": "...",
         "type": "dialog"
     },
     {
@@ -228,9 +228,9 @@
             "warnings": 0
         },
         "speaker": "なの＆はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Nano & Hakase",
         "text": "！？　犬だ―――！！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Eh!? It's a dog!!",
         "type": "dialog"
     },
     {
@@ -243,7 +243,7 @@
         "speaker": "",
         "speaker_translation": "",
         "text": "くそっ、猫がいるんだから\u0000\n犬でも誤魔化せると思ったのに！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Damn, because I have a cat, I thought that even a dog could be deviated!",
         "type": "dialog"
     },
     {
@@ -256,7 +256,7 @@
         "speaker": "",
         "speaker_translation": "",
         "text": "あっ！　アンテナが折られた！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Ah! The antenna was broken!",
         "type": "dialog"
     },
     {
@@ -269,7 +269,7 @@
         "speaker": "",
         "speaker_translation": "",
         "text": "……判断を間違えたな。俺よりも\u0000\n地球人たちの方が一枚上手だったらしい。\u0000\n",
-        "text_translation": "",
+        "text_translation": "...looks like I made a mistake. The Earthlings are better than I am.",
         "type": "dialog"
     },
     {
@@ -282,7 +282,7 @@
         "speaker": "",
         "speaker_translation": "",
         "text": "ああ……。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Ah...",
         "type": "dialog"
     },
     {
@@ -295,7 +295,7 @@
         "speaker": "",
         "speaker_translation": "",
         "text": "でも、なんで犬で行ったんだ？\u0000\n最初からいた猫でよくないか？\u0000\n",
-        "text_translation": "",
+        "text_translation": "But why did you choose a dog? Wasn't the cat from the beginning fine?",
         "type": "dialog"
     },
     {
@@ -308,7 +308,7 @@
         "speaker": "",
         "speaker_translation": "",
         "text": "！？\u0000\n",
-        "text_translation": "",
+        "text_translation": "!?",
         "type": "dialog"
     },
     {
@@ -321,7 +321,7 @@
         "speaker": "",
         "speaker_translation": "",
         "text": "……俺よりもお前の方が\u0000\n一枚上手だったらしい。\u0000\n",
-        "text_translation": "",
+        "text_translation": "...You seem to have a better player than me.",
         "type": "dialog"
     },
     {
@@ -334,7 +334,7 @@
         "speaker": "",
         "speaker_translation": "",
         "text": "えええっ！？\u0000\n",
-        "text_translation": "",
+        "text_translation": "Ehh!?",
         "type": "dialog"
     },
     {
@@ -347,7 +347,7 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "改造は許しますから\u0000\nせめてネジを取ってください。\u0000\n",
-        "text_translation": "",
+        "text_translation": "(I'll forgive you for the other modifications), but please remove the key.",
         "type": "dialog"
     },
     {
@@ -358,9 +358,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "あっ、そうだなの―。\u0000\nはかせ、おなかすいた。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Oh, I see... I'm hungry.",
         "type": "dialog"
     },
     {
@@ -373,7 +373,7 @@
         "speaker": "なの",
         "speaker_translation": "",
         "text": "誤魔化さないで、\u0000\n今すぐネジを取ってくださいよ。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Please don't change the topic! Please take it off now!",
         "type": "dialog"
     },
     {
@@ -384,9 +384,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "ごまかしてない！\u0000\nはかせ本当にお腹すいたんだもん！\u0000\n",
-        "text_translation": "",
+        "text_translation": "I'm not lying! I'm really hungry!",
         "type": "dialog"
     },
     {
@@ -397,9 +397,9 @@
             "warnings": 4
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "そうじゃなくて……。\u0000\n．",
-        "text_translation": "",
+        "text_translation": "I didn't mean it like that...",
         "type": "dialog"
     },
     {
@@ -410,9 +410,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "ネジです。ネ・ジ！\u0000\nネジを取ってください！\u0000\n",
-        "text_translation": "",
+        "text_translation": "It's the key. The. Key. Please take off the key!",
         "type": "dialog"
     },
     {
@@ -423,9 +423,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "ちがうもん！\u0000\nネジじゃなくてお腹がすいたの！\u0000\n",
-        "text_translation": "",
+        "text_translation": "(It's different!) It's not about the key, I'm hungry!",
         "type": "dialog"
     },
     {
@@ -436,9 +436,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "だから、ご飯の前にネジを\u0000\n取ってほしいと言ってるんです！\u0000\n",
-        "text_translation": "",
+        "text_translation": "I'm asking you to take off the key before we eat!",
         "type": "dialog"
     },
     {
@@ -449,9 +449,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "やだ！\u0000\n",
-        "text_translation": "",
+        "text_translation": "No!",
         "type": "dialog"
     },
     {
@@ -462,9 +462,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "私ははかせがネジを取ってくれるまで\u0000\n朝ご飯作りませんからね！\u0000\n",
-        "text_translation": "",
+        "text_translation": "I'm not going to make breakfast until you take off my key!",
         "type": "dialog"
     },
     {
@@ -475,9 +475,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "いいもん！\u0000\nなぜなら、お菓子がいっぱいあるから―！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Fine! I'll just have snacks for breakfast.",
         "type": "dialog"
     },
     {
@@ -488,9 +488,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "お菓子を朝ご飯代わりにしちゃダメです！\u0000\n",
-        "text_translation": "",
+        "text_translation": "You shouldn't eat snacks for breakfast!",
         "type": "dialog"
     },
     {
@@ -501,9 +501,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "じゃあ、朝ご飯作って！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Then make breakfast!",
         "type": "dialog"
     },
     {
@@ -514,9 +514,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "わかりました！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Fine!",
         "type": "dialog"
     },
     {
@@ -527,9 +527,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "はい！　朝ご飯ですよ！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Yes! Breakfast!",
         "type": "dialog"
     },
     {
@@ -540,9 +540,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "わ―い！\u0000\nいただきま―す！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Nice! Let's eat!",
         "type": "dialog"
     },
     {
@@ -553,9 +553,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "…………。\u0000\n",
-        "text_translation": "",
+        "text_translation": "...",
         "type": "dialog"
     },
     {
@@ -566,7 +566,7 @@
             "warnings": 3
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "（何、普通に朝ご飯作ったの、私！？）\u0000\n　。",
         "text_translation": "",
         "type": "dialog"
@@ -579,9 +579,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "（違う、そうじゃない。ネジを\u0000\n　取ってもらわないと私は学校にも弌弌）\u0000\n",
-        "text_translation": "",
+        "text_translation": "((?) If I don't get the key off by the time I go to school--)",
         "type": "dialog"
     },
     {
@@ -592,9 +592,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "学校！？\u0000\nい、今何時！？\u0000\n",
-        "text_translation": "",
+        "text_translation": "School!? What time is it now!?",
         "type": "dialog"
     },
     {
@@ -605,9 +605,9 @@
             "warnings": 3
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "ああああ――！？　もう遅刻寸前！！\u0000\nはかせ、行ってきま―す！\u0000\n　，",
-        "text_translation": "",
+        "text_translation": "Ahh!? I'm already late!! Hakase, I'm going!",
         "type": "dialog"
     },
     {
@@ -618,9 +618,9 @@
             "warnings": 17
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "行ってらっしゃ―い！\u0000\n　？￣￣　〆　｝なのネジを取ってください。\u0000\nこれがある限り私は家事をしませんからね。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Goodbye! Nano: Please take off my key. I will not do any chores until it's off.",
         "type": "dialog"
     },
     {
@@ -631,9 +631,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "ならまた別の子作るからいいもん！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Then I will make another robot to do the chores!",
         "type": "dialog"
     },
     {
@@ -644,9 +644,9 @@
             "warnings": 3
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "！？\u0000\n　：",
-        "text_translation": "",
+        "text_translation": "!?",
         "type": "dialog"
     },
     {
@@ -657,9 +657,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "…………。\u0000\n",
-        "text_translation": "",
+        "text_translation": "...",
         "type": "dialog"
     },
     {
@@ -670,9 +670,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "あっ……。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Ah...",
         "type": "dialog"
     },
     {
@@ -683,9 +683,9 @@
             "warnings": 3
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "嘘だよ。はかせは、\u0000\nなの以外は作らないよ。\u0000\n　？",
-        "text_translation": "",
+        "text_translation": "Just kidding. I would never make a replacement for you.",
         "type": "dialog"
     },
     {
@@ -696,9 +696,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "……本当ですか？\u0000\n私、いらない子じゃないんですか？\u0000\n",
-        "text_translation": "",
+        "text_translation": "...really? Am I really irreplaceable?",
         "type": "dialog"
     },
     {
@@ -709,9 +709,9 @@
             "warnings": 3
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "いらなくないよ！\u0000\nはかせ、なのにご飯食べさせて欲しいもん！\u0000\n　！",
-        "text_translation": "",
+        "text_translation": "Of course not! (??)",
         "type": "dialog"
     },
     {
@@ -722,9 +722,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "はかせ……！\u0000\nはい！　私、朝ご飯作ります！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Hakase...! Okay! I'm going to make breakfast!",
         "type": "dialog"
     },
     {
@@ -735,9 +735,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "ごちそうさま―！\u0000\n",
-        "text_translation": "",
+        "text_translation": "Thank you for the meal!",
         "type": "dialog"
     },
     {
@@ -748,9 +748,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "はい。お粗末さまです。\u0000\n",
-        "text_translation": "",
+        "text_translation": "???",
         "type": "dialog"
     },
     {
@@ -761,9 +761,9 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "あっ、なの。\u0000\nそろそろ学校の時間だよ。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Oh, Nano. It's time for school.",
         "type": "dialog"
     },
     {
@@ -774,9 +774,9 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "あっ、本当ですね。\u0000\nじゃあはかせ、行ってきます。\u0000\n",
-        "text_translation": "",
+        "text_translation": "Ah, right. Okay then, I'm going to go.",
         "type": "dialog"
     },
     {
@@ -787,7 +787,7 @@
             "warnings": 19
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "行ってらっしゃ―い。\u0000\n　？，￣　　なのじゃあ、ネジを取ってくれたら\u0000\n朝ご飯作ります。\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -800,7 +800,7 @@
             "warnings": 3
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "やだ！\u0000\n　。",
         "text_translation": "",
         "type": "dialog"
@@ -813,7 +813,7 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "何でですか？\u0000\n朝ご飯食べられないんですよ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -826,7 +826,7 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "だってはかせ、ネジのために\u0000\n早起きして頑張ったんだよ？\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -839,7 +839,7 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "こんなことのために\u0000\n早起きしたんですか……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -852,7 +852,7 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "せっかく頑張ったのに\u0000\nもう取っちゃうなんてヤダ！\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -865,7 +865,7 @@
             "warnings": 3
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "……仕方ないですね。それじゃあ、\u0000\n一回だけ新機能を試してもいいですから。\u0000\n　？",
         "text_translation": "",
         "type": "dialog"
@@ -878,7 +878,7 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "はかせお腹減った……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -891,7 +891,7 @@
             "warnings": 0
         },
         "speaker": "はかせ",
-        "speaker_translation": "",
+        "speaker_translation": "Hakase",
         "text": "疲れてお腹も減ってるのに、\u0000\n朝ご飯食べられないの？\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -904,7 +904,7 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "うっ……。\u0000\n",
         "text_translation": "",
         "type": "dialog"
@@ -917,7 +917,7 @@
             "warnings": 0
         },
         "speaker": "なの",
-        "speaker_translation": "",
+        "speaker_translation": "Nano",
         "text": "……わかりました。\u0000\n先に朝ご飯ですね。\u0000\n",
         "text_translation": "",
         "type": "dialog"

@@ -196,9 +196,7 @@ while True:
             "type"                  : "dialog",
             "id"                    : dialog,
             "speaker"               : speakerJIS,
-            "speaker_translation"   : "",
             "text"                  : textJIS,
-            "text_translation"      : "",
             "internal" : {
                 "warnings"      : warnings_speaker + warnings_text,
                 "speaker_offset": speaker_offset,
@@ -212,3 +210,26 @@ while True:
         resetVars()
 
 json.dump(output, jsonfile, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
+
+print("Generating .po file...")
+
+pofile = open( "%s.po" % scfile_name, 'w' )
+
+for dialog in output:
+    if len(dialog["speaker"]) > 0:
+        pofile.write("\n")
+        pofile.write("#: sc/%s:%d \n" % (scfile_name, dialog["id"]))
+        pofile.write("#  speaker \n")
+        pofile.write("#  warnings: %d \n" % dialog["internal"]["warnings"])
+
+        pofile.write("msgid \"%s\"\n" % dialog["speaker"])
+        pofile.write("msgstr \"\"\n")
+
+    if len(dialog["text"]) > 0:
+        pofile.write("\n")
+        pofile.write("#: sc/%s:%d \n" % (scfile_name, dialog["id"]))
+        pofile.write("#  text \n")
+        pofile.write("#  warnings: %d \n" % dialog["internal"]["warnings"])
+
+        pofile.write("msgid \"%s\"\n" % dialog["text"])
+        pofile.write("msgstr \"\"\n")

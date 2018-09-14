@@ -75,8 +75,6 @@ jisTable = {
     0x002f : 0x816f, # left bracket
     0x0030 : 0x8170, # right bracket
     0x0054 : 0x8195, # ampersand
-
-    ord('\n') : ord('\n')
 }
 
 jisTable.update(kanjiTable())
@@ -91,6 +89,9 @@ def nichiToJIS(bs):
         
         if b in jisTable:           # JIS Table lookup
             b = jisTable[b]
+        elif b == ord('\n'):
+            jis += "\\n"
+            printable = False
         elif 0x00d0 <= b <= 0x0122: # hiragana
             b += 0x81cf
         elif 0x0123 <= b <= 0x0161: # katakana

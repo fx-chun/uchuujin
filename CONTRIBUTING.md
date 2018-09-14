@@ -1,38 +1,26 @@
 # Contributing Guidelines
 
 ## Getting Started
-- Fork & clone this repo!
-- Choose a piece of content to translate.
-- Start an issue for that piece of content to let others know you're working on it.
-  - Scripts: title your issue as `script: ####`
-  - CGs: title your issue as `cg: ####`
-- Translate content.
-- Commit your changes to your fork & push.
-- Open a pull request on this repo
-  - Make sure to reference your issue!
-  - PRs should be for individual units of content. One PR should be for one
-    script/CG/etc.
+All translations are now submitted through our Weblate instance.
+
+1. Make an account.
+  - Go to https://weblate.lolc.at/accounts/register/
+  - Follow the instructions.
+2. Log in at https://weblate.lolc.at/accounts/login/
+3. Translate!
+  - Go to https://weblate.lolc.at/#suggestions
+  - Choose a component.
+  - Click on the `Translate` button for the component.
 
 ## Scripts
-- Scenes are represented by `.json` files in the `scripts/` directory. 
-  - Edit scenes with the text editor (or JSON editor) of your choice.
-- Scenes consist of a series of dialogs. For each dialog:
-  - The `speaker` field contains the name of the person speaking.
-  - Put the translation in the `speaker_translation` field.
-  - The `text` field contains the speech the person is saying.
-  - Put the translation in the `text_translation` field.
-  - Ignore the `internal` object.
-- Text is limited to 40 characters x 2 lines for each page in a script.
-  - Use a newline character (`\n`) to denote a new line.
-  - ```e.g. text : "Hello!\nWorld!"``` 
-- Don't forget to file an issue to let people know you are translating a piece
-  of content!
+- Each component represents a single scene.
+- Translated text should limited to 80 characters.
 
 ## CGs
+- CGs are currently not on Weblate. Please submit a PR for any changes.
 - Translate CGs & textures by editing them and saving & commiting the translated version
   into the `cgs_translated` folder. 
 - Try to not change the palette of images when editing. 
 - Make sure to keep the alpha channel of textures (if there is one).
-- Don't forget to file an issue to let people know you are translating a piece
-  of content!
+- Don't forget to file an issue to let people know you are translating a piece of content!
 

@@ -6,6 +6,8 @@
 
 **Help Translate!** Read [CONTRIBUTING.md](https://github.com/noneucat/uchuujin/blob/master/CONTRIBUTING.md) to get started.
 
+**Weblate server:** https://weblate.lolc.at/
+
 ### Contents
 ```
 uchuujin

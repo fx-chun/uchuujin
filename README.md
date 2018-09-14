@@ -1,4 +1,5 @@
 # *Nichijou: Uchuujin* Translation Project
+[![Translation status](https://weblate.lolc.at/widgets/uchuujin/-/svg-badge.svg)](https://weblate.lolc.at/engage/uchuujin/?utm_source=widget)
 
 ## *(My Ordinary Life: From The Stars)* 
 **Welcome!** This is the main repository of the ongoing translation effort of

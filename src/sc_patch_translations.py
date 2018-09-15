@@ -4,32 +4,56 @@ import json
 import sys
 import io
 import math
+import polib 
 from os.path import basename
 from sc_patch_table import patchTable
 
 sc = open(sys.argv[1], 'rb')
 sc_name = basename(sys.argv[1]) 
-trans = json.load(open(sys.argv[2], 'r'), encoding='shift-jis')
+meta = json.load(open(sys.argv[2], 'r'), encoding='shift-jis')
+po = polib.pofile(sys.argv[3]) 
 patched_f = open(sc_name, 'wb')
 
 patched = sc.read()
 patched_len_orig = len(patched)
 
-def asciiToNichi(str):
+print("patching %s ..." % sc_name)
+
+def asciiToNichi(asc):
     nichi = b''
 
-    for c in list(str):
+    asc = asc.replace("...", chr(0xff))
+
+    for c in list(asc):
+        if c == '\n':
+            if len(nichi) % 2 != 0:
+                nichi += b'\x00'
         nichi += patchTable()[c]
-    
+
+    if len(nichi) % 2 != 0:
+        nichi += b'\x00'
+
     return nichi
 
 net = 0
-for i in range(0, len(trans)):
-    dialog = trans[i]
+for i in range(0, len(meta)):
+    dialog = meta[i]
+
+    speakerTranslation = ""
+    textTranslation = ""
+
+
+    for entry in po:
+        if len(entry.msgstr) > 0: 
+            if entry.msgid == dialog["speaker"]:
+                speakerTranslation = entry.msgstr 
+            
+            if entry.msgid == dialog["text"]:
+                textTranslation = entry.msgstr
 
     # Insert speaker
-    if len(dialog["speaker_translation"]) > 0:
-        speaker = asciiToNichi(dialog["speaker_translation"])
+    if len(speakerTranslation) > 0:
+        speaker = asciiToNichi(speakerTranslation)
         speaker_start = dialog["internal"]["speaker_offset"] + net
         speaker_end = dialog["internal"]["speaker_offset"] + dialog["internal"]["speaker_len"] + net
 
@@ -37,8 +61,8 @@ for i in range(0, len(trans)):
         net += len(speaker) - dialog["internal"]["speaker_len"]
 
     # Insert text
-    if len(dialog["text_translation"]) > 0:
-        text = asciiToNichi(dialog["text_translation"] + '\n')
+    if len(textTranslation) > 0:
+        text = asciiToNichi(textTranslation + '\n')
         text_start = dialog["internal"]["text_offset"] + net
         text_end = dialog["internal"]["text_offset"] + dialog["internal"]["text_len"] + net
 
@@ -46,20 +70,21 @@ for i in range(0, len(trans)):
         net += len(text) - dialog["internal"]["text_len"]
 
 diff = len(patched) - patched_len_orig
-
-print(diff)
+print("growth of file: %d" % diff)
 
 if diff > 0:
-    closest_power = math.ceil( math.log(len(patched), 2) )
-    power = math.floor(math.pow(2, closest_power))
+    #pass
+    patched = patched[:patched_len_orig] # + (b'\x00' * 1) 
 
-    patched = patched + (b'\x00' * (power - len(patched)))
+    # closest_power = math.ceil( math.log(len(patched), 2) )
+    # power = math.floor(math.pow(2, closest_power))
+
+    # patched = patched + (b'\x00' * (power - len(patched)))
 elif diff < 0:
     patched += b'\x00' * diff
 
 # calculate checksum
 fp = io.BytesIO(patched)
-#fp = sc
 fp.seek(0)
 s = len(patched) 
 p1 = 0x11111111

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:19+0000\n"
-"PO-Revision-Date: 2018-09-17 23:34+0000\n"
+"PO-Revision-Date: 2018-09-20 00:15+0000\n"
 "Last-Translator: Rustox Motherboard <rustox@outlook.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0000/en_US/>\n"
@@ -35,7 +35,6 @@ msgstr "Professor"
 #  text 
 #  warnings: 0 
 #: sc/0000:1 
-#, fuzzy
 msgid "あっ、起きた。\n"
 msgstr "Oh, (you?) woke up.\n"
 
@@ -49,7 +48,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:2 
 msgid "うう……はかせ？\nもう起きてたんですか……？\n"
-msgstr "Ugh… Hakase? Are you having trouble sleeping again?\n"
+msgstr ""
+"Ugh… Hakase?\n"
+"Are you having trouble sleeping again?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -266,6 +267,8 @@ msgstr "Ah\n"
 #: sc/0000:22 
 msgid "でも、なんで犬で行ったんだ？\n最初からいた猫でよくないか？\n"
 msgstr ""
+"But why did you choose a dog? \n"
+"Wasn't the cat from the beginning fine?\n"
 
 #  text 
 #  warnings: 1 
@@ -277,13 +280,13 @@ msgstr ""
 #  warnings: 1 
 #: sc/0000:24 
 msgid "……俺よりもお前の方が\n一枚上手だったらしい。\n"
-msgstr ""
+msgstr "…You seem to have a better player than me.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0000:25 
 msgid "えええっ！？\n"
-msgstr ""
+msgstr "Ehh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -294,8 +297,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0000:26 
+#, fuzzy
 msgid "改造は許しますから\nせめてネジを取ってください。\n"
 msgstr ""
+"(I'll forgive you for the other modifications), but please remove the key.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -307,7 +312,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:27 
 msgid "あっ、そうだなの―。\nはかせ、おなかすいた。\n"
-msgstr ""
+msgstr "Oh, I see I'm hungry.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -320,6 +325,8 @@ msgstr ""
 #: sc/0000:28 
 msgid "誤魔化さないで、\n今すぐネジを取ってくださいよ。\n"
 msgstr ""
+"Please don't change the topic!\n"
+"Please take it off now!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -332,6 +339,8 @@ msgstr ""
 #: sc/0000:29 
 msgid "ごまかしてない！\nはかせ本当にお腹すいたんだもん！\n"
 msgstr ""
+"I'm not lying!\n"
+"I'm really hungry!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -343,7 +352,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:30 
 msgid "そうじゃなくて……。\n"
-msgstr ""
+msgstr "I didn't mean it like that\n"
 
 #  speaker 
 #  warnings: 0 
@@ -356,6 +365,8 @@ msgstr ""
 #: sc/0000:31 
 msgid "ネジです。ネ・ジ！\nネジを取ってください！\n"
 msgstr ""
+"It's the key. The. Key.\n"
+"Please take off the key!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,8 +377,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0000:32 
+#, fuzzy
 msgid "ちがうもん！\nネジじゃなくてお腹がすいたの！\n"
 msgstr ""
+"(It's different!) \n"
+"It's not about the key, I'm hungry!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -379,7 +393,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:33 
 msgid "だから、ご飯の前にネジを\n取ってほしいと言ってるんです！\n"
-msgstr ""
+msgstr "I'm asking you to take off the key before we eat!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -403,7 +417,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:35 
 msgid "私ははかせがネジを取ってくれるまで\n朝ご飯作りませんからね！\n"
-msgstr ""
+msgstr "I'm not going to make breakfast until you take off my key!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -415,7 +429,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:36 
 msgid "いいもん！\nなぜなら、お菓子がいっぱいあるから―！\n"
-msgstr ""
+msgstr "Fine! I'll just have snacks for breakfast.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -427,7 +441,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:37 
 msgid "お菓子を朝ご飯代わりにしちゃダメです！\n"
-msgstr ""
+msgstr "You shouldn't eat snacks for breakfast!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -439,7 +453,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:38 
 msgid "じゃあ、朝ご飯作って！\n"
-msgstr ""
+msgstr "Then make breakfast!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -451,7 +465,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:39 
 msgid "わかりました！\n"
-msgstr ""
+msgstr "Fine!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,7 +477,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:40 
 msgid "はい！　朝ご飯ですよ！\n"
-msgstr ""
+msgstr "Yes! Breakfast!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -476,6 +490,8 @@ msgstr ""
 #: sc/0000:41 
 msgid "わ―い！\nいただきま―す！\n"
 msgstr ""
+"Nice!\n"
+"Let's eat!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,8 +526,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0000:44 
+#, fuzzy
 msgid "（違う、そうじゃない。ネジを\n　取ってもらわないと私は学校にも弌弌）\n"
-msgstr ""
+msgstr "((?) If I don't get the key off by the time I go to school--)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -523,7 +540,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:45 
 msgid "学校！？\nい、今何時！？\n"
-msgstr ""
+msgstr "School!? What time is it now!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -535,7 +552,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:46 
 msgid "ああああ――！？　もう遅刻寸前！！\nはかせ、行ってきま―す！\n"
-msgstr ""
+msgstr "Ehh!? I'm already late!! Hakase, I'm going!\n"
 
 #  speaker 
 #  warnings: 0 

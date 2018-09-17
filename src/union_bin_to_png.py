@@ -3,6 +3,7 @@
 import sys
 import zlib 
 import math
+import json
 from os.path import basename, getsize, splitext
 from PIL import Image
 
@@ -89,3 +90,20 @@ for yi in range(0, image_height):
 
 image.save( "%s.png" % binf_name, "PNG" )
 
+# Metadata
+base = binf_name.split('_')[0]
+
+try:
+    meta_f = open('%s.json' % base)
+    meta = json.load(meta_f)
+except FileNotFoundError:
+    meta = {}
+
+meta[binf_name] = {}
+meta_f = open('%s.json' % base, 'w+')
+
+meta[binf_name]["palette_used"] = palette 
+meta[binf_name]["image_width"] = image_width
+meta[binf_name]["image_height"] = image_height
+
+json.dump(meta, meta_f, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))

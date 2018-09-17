@@ -4,6 +4,7 @@ import re
 import sys
 import os
 import zlib
+import json
 
 f_path = sys.argv[1]
 f_name = os.path.basename(f_path)
@@ -20,6 +21,7 @@ for match in re.finditer(b'\x1f\x8b\x08\x00', f_dump):
     gzip_offsets.append(match.start())
 
 # Dump and decompress gzips
+gzip_sizes = []
 subfiles = []
 
 for i in range(0, len(gzip_offsets)):
@@ -34,6 +36,8 @@ for i in range(0, len(gzip_offsets)):
     
     f.seek(offset)
     gzip = f.read(gzip_size)
+
+    gzip_sizes.append(gzip_size)
     subfiles.append(zlib.decompress(gzip, 15+32))
 
 print("subfiles: %d" % len(subfiles))
@@ -45,7 +49,7 @@ images = []
 supposed_subfiles = 0
 
 for match in re.finditer(b'([\x01-\x10]\x00)\x00\x00(...\x00)*(\x1f\x8b\x08)', f_dump, re.DOTALL):
-    if match.start() % 0x1 != 0:
+    if match.start() % 0x10 != 0:
         print("warning: image header not aligned")
 
     no_of_subfiles = int.from_bytes(match.groups()[0], byteorder='little')
@@ -78,3 +82,20 @@ for image in images:
     pltf.write(f.read(0x100 * 4))
 
     image_number += 1
+
+
+# Metadata
+
+try:
+    meta_f = open('%s.json' % f_name)
+    meta = json.load(meta_f)
+except FileNotFoundError:
+    meta = {}
+
+meta_f = open('%s.json' % f_name, 'w+')
+
+meta["gzip_offsets"] = gzip_offsets
+meta["gzip_sizes"] = gzip_sizes
+meta["image_headers"] = image_headers
+
+json.dump(meta, meta_f, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))

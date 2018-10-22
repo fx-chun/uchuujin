@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:19+0000\n"
-"PO-Revision-Date: 2018-09-20 00:16+0000\n"
-"Last-Translator: Andy Chun @noneucat <andy@lolc.at>\n"
+"PO-Revision-Date: 2018-10-23 03:23+0000\n"
+"Last-Translator: Javier Fonseca <javiten@hotmail.es>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0000/en_US/>\n"
 "Language: en_US\n"
@@ -125,6 +125,8 @@ msgstr ""
 #: sc/0000:8 
 msgid "起きていきなりでアレですけど、\nそのボタンで私に何をするつもりですか？\n"
 msgstr ""
+"I woke up suddenly but,\n"
+"what are you going to do with that button?"
 
 #  speaker 
 #  warnings: 0 
@@ -185,7 +187,6 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0000:13 
-#, fuzzy
 msgid "でもパワ―アップだよ？\n"
 msgstr "But it's a power-up?\n"
 
@@ -274,7 +275,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0000:23 
 msgid "！？\n"
-msgstr ""
+msgstr "!?\n"
 
 #  text 
 #  warnings: 1 
@@ -297,10 +298,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0000:26 
-#, fuzzy
 msgid "改造は許しますから\nせめてネジを取ってください。\n"
 msgstr ""
-"(I'll forgive you for the other modifications), but please remove the key.\n"
+"I'll forgive you for the other modifications\n"
+"but please remove the key at least.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -377,10 +378,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0000:32 
-#, fuzzy
 msgid "ちがうもん！\nネジじゃなくてお腹がすいたの！\n"
 msgstr ""
-"(It's different!) \n"
+"It's different!\n"
 "It's not about the key, I'm hungry!\n"
 
 #  speaker 
@@ -515,7 +515,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:43 
 msgid "（何、普通に朝ご飯作ったの、私！？）\n"
-msgstr ""
+msgstr "(What, I usually cook breakfast!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +564,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:47 
 msgid "行ってらっしゃ―い！\n"
-msgstr ""
+msgstr "Welcome!\n"
 
 #  speaker 
 #  warnings: 0 

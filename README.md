@@ -12,6 +12,7 @@
 ### Contents
 ```
 uchuujin
+├── EBOOT.BIN.patch (patch for EBOOT.BIN; apply using bspatch) 
 ├── cgs (original CGs & textures that need translating)
 ├── cgs_translated (translated CGs & textures) 
 ├── scripts (original & translated text)

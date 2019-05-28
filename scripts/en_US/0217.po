@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-19 00:03+0000\n"
-"PO-Revision-Date: 2018-10-04 20:01+0000\n"
-"Last-Translator: Andy Chun @noneucat <andy@lolc.at>\n"
+"PO-Revision-Date: 2019-05-29 18:00+0000\n"
+"Last-Translator: Poro <stephjchoi@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0217/en_US/>\n"
 "Language: en_US\n"
@@ -38,7 +38,7 @@ msgstr "Principal"
 msgid "え―、おはようございます。\n皆さん、今日も１日よろしくお願いします。\n"
 msgstr ""
 "Er, good morning. \n"
-"Thank you for coming today."
+"Everyone, please take care of me today too.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -63,6 +63,8 @@ msgstr ""
 #: sc/0217:3 
 msgid "返事がないようですね。\n皆さんはよろしくしてくれないのでしょうか？\n"
 msgstr ""
+"There's no reply, huh.\n"
+"I guess nobody wants to wish me well?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -86,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0217:5 
 msgid "やっぱり返事がありませんね。\n"
-msgstr ""
+msgstr "And as expected, there's no response.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -111,7 +113,6 @@ msgstr "Mio"
 #  text 
 #  warnings: 0 
 #: sc/0217:7 
-#, fuzzy
 msgid "……う……。\n"
 msgstr ".........\n"
 
@@ -119,7 +120,7 @@ msgstr ".........\n"
 #  warnings: 14 
 #: sc/0217:272 
 msgid "\n"
-msgstr ""
+msgstr "\n"
 
 #  text 
 #  warnings: 14 

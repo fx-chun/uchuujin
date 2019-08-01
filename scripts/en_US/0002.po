@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-08-01 19:53+0000\n"
-"Last-Translator: Scott Oglesby <soglesby@fastmail.net>\n"
+"PO-Revision-Date: 2019-08-02 23:00+0000\n"
+"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0002/en_US/>\n"
 "Language: en_US\n"
@@ -92,7 +92,7 @@ msgstr ""
 msgid "はぁ。ネジに振り回されてばかり……\n一体私はどうなっちゃうんだろう。\n"
 msgstr ""
 "Well. Being swayed about by this key...\n"
-"I wonder what on earth will happen to me."
+"I wonder what on earth will happen to me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -105,6 +105,8 @@ msgstr ""
 #: sc/0002:6 
 msgid "何だか顔が熱くて、ぼ―っとしてきた……\n早くうちに帰ろう。\n"
 msgstr ""
+"Somehow, my face got that hot, \n"
+"I'm sorry.... Let's go home early.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -116,7 +118,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0002:7 
 msgid "お―い、なのちゃ―ん。\n"
-msgstr ""
+msgstr "Oh, no.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -129,6 +131,8 @@ msgstr "Mio"
 #: sc/0002:8 
 msgid "本当に調子悪いみたいだね。\n大丈夫？\n"
 msgstr ""
+"It looks really bad. \n"
+"Are you alright?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -141,6 +145,8 @@ msgstr ""
 #: sc/0002:9 
 msgid "相生さん、長野原さん……\nありがとうございます。大丈夫ですよ。\n"
 msgstr ""
+"Aioi-san, Naganohara-san ...\n"
+"Thank you very much. It's no problem.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -153,6 +159,8 @@ msgstr ""
 #: sc/0002:10 
 msgid "でも、少し熱っぽいんですよ。\n風邪かもしれませんね。\n"
 msgstr ""
+"It's a bit hot.\n"
+"It could be a cold.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -176,7 +184,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:12 
 msgid "あ、大丈夫です。そんなに大袈裟なものじゃ\nないと思いますから。\n"
-msgstr ""
+msgstr "Oh, it's fine. It's not a big deal.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -188,7 +196,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:13 
 msgid "あ、あぁ、うん。ならいいけど。\n"
-msgstr ""
+msgstr "Oh, oh yeah. Be good.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -201,6 +209,8 @@ msgstr ""
 #: sc/0002:14 
 msgid "なのちゃん体強そうだけど、\nちゃんと用心しないと駄目だよ？\n"
 msgstr ""
+"It looks like she's strong.\n"
+"You have to be careful, alright?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -212,7 +222,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:15 
 msgid "はい、ありがとうございます。\n"
-msgstr ""
+msgstr "Yes, thank you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -224,7 +234,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:16 
 msgid "あれ？　こんなところに犬が……？\n"
-msgstr ""
+msgstr "That? Where are the dogs.....?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -237,6 +247,8 @@ msgstr ""
 #: sc/0002:17 
 msgid "本当だ、この犬、最近よく見かけるよね。\nおいでおいで。\n"
 msgstr ""
+"It's true. I see this dog a lot nowadays.\n"
+"Come on!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -249,6 +261,8 @@ msgstr ""
 #: sc/0002:18 
 msgid "軽はずみな行動はやめて！\nその犬は見ため以上に危険なんだから！\n"
 msgstr ""
+"Don't be foolish! Stop that!\n"
+"The dog is more dangerous than it looks!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -260,7 +274,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:19 
 msgid "えええっ！？　そ、そうだったんですか！？\n"
-msgstr ""
+msgstr "Eh!? Oh, is that so!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -273,6 +287,8 @@ msgstr ""
 #: sc/0002:20 
 msgid "何をバカな。大丈夫だよなのちゃん。\nほら、撫でたげて。\n"
 msgstr ""
+"What an idiot. It's alright, Nano-chan.\n"
+"You see, it's boiled.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -284,19 +300,24 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:21 
 msgid "えっ、あ、はい……。\n"
-msgstr ""
+msgstr "Eh, yeah, yeah.....\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0002:22 
+#, fuzzy
 msgid "ふぅ。俺たちのことを見破ったかと思って\nちょっと焦ったな。\n"
 msgstr ""
+"Oh. I wondered if he saw through us.\n"
+"I was a little upset.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0002:23 
 msgid "ああ。けど、もう油断してるみたいだな。\nちょろいもんだ。\n"
 msgstr ""
+"Oh. But you seem to be off guard already.\n"
+"It's a little bit too bad.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -313,8 +334,11 @@ msgstr "!?\n"
 #  text 
 #  warnings: 1 
 #: sc/0002:25 
+#, fuzzy
 msgid "犬の頭を撫でた時に\nアンテナを破壊されました！\n"
 msgstr ""
+"When you brushed the dog's head,\n"
+"the antenna has been destroyed!\n"
 
 #  speaker 
 #  warnings: 2 
@@ -326,7 +350,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0002:26 
 msgid "全然油断してない――！？\n"
-msgstr ""
+msgstr "I am not offended at all-!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -351,6 +375,8 @@ msgstr ""
 #: sc/0002:28 
 msgid "（ま、まただ！？\n　お願いだから今度も不発になって！）\n"
 msgstr ""
+"(Oh, again !?\n"
+"Please do not miss again!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -362,7 +388,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:29 
 msgid "…………！\n"
-msgstr ""
+msgstr ".........!\n"
 
 #  speaker 
 #  warnings: 0 

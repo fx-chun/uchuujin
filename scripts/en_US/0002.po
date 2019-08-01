@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-06-01 14:00+0000\n"
-"Last-Translator: Poro <stephjchoi@gmail.com>\n"
+"PO-Revision-Date: 2019-08-01 19:53+0000\n"
+"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0002/en_US/>\n"
 "Language: en_US\n"
@@ -23,7 +23,6 @@ msgstr "Nano"
 #  text 
 #  warnings: 0 
 #: sc/0002:0 
-#, fuzzy
 msgid "はぁ……今日が半ドンでよかった。\n早くはかせにネジを取ってもらおう。\n"
 msgstr ""
 "... good thing today was a half-day.\n"
@@ -38,7 +37,6 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0002:1 
-#, fuzzy
 msgid "えっ！？　ま、また！？\n"
 msgstr "Eh!? A-again!?\n"
 
@@ -65,6 +63,8 @@ msgstr ""
 #: sc/0002:3 
 msgid "……あれ？\nオルゴ―ルが鳴らない？\n"
 msgstr ""
+".....that?\n"
+"Can't the organ sound?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -77,6 +77,8 @@ msgstr ""
 #: sc/0002:4 
 msgid "不発することもあるんだ……。\n"
 msgstr ""
+"Also, there's the issue\n"
+"of non-emission...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -304,7 +306,7 @@ msgstr "&"
 #  warnings: 2 
 #: sc/0002:24 
 msgid "！？\n"
-msgstr "!?"
+msgstr "!?\n"
 
 #  text 
 #  warnings: 1 

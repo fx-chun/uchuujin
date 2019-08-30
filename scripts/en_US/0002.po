@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-08-30 21:44+0000\n"
-"Last-Translator: Scott Oglesby <soglesby@fastmail.net>\n"
+"PO-Revision-Date: 2019-08-31 23:00+0000\n"
+"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0002/en_US/>\n"
 "Language: en_US\n"
@@ -63,8 +63,8 @@ msgstr ""
 #: sc/0002:3 
 msgid "……あれ？\nオルゴ―ルが鳴らない？\n"
 msgstr ""
-"What?\n"
-"The music box doesn't make a sound?"
+"……What?\n"
+"The music box doesn't play？\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +288,7 @@ msgstr ""
 msgid "何をバカな。大丈夫だよなのちゃん。\nほら、撫でたげて。\n"
 msgstr ""
 "What an idiot. It's alright, Nano-chan.\n"
-"You see, it's boiled.\n"
+"You see, just pet.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -305,11 +305,10 @@ msgstr "Eh, yeah, yeah.....\n"
 #  text 
 #  warnings: 1 
 #: sc/0002:22 
-#, fuzzy
 msgid "ふぅ。俺たちのことを見破ったかと思って\nちょっと焦ったな。\n"
 msgstr ""
-"Oh. I wondered if he saw through us.\n"
-"I was a little upset.\n"
+"Phoo. I thought he saw through us\n"
+"and I almost lost it.\n"
 
 #  text 
 #  warnings: 1 
@@ -323,7 +322,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0002:24 
 msgid "＆"
-msgstr "&"
+msgstr "＆"
 
 #  text 
 #  warnings: 2 
@@ -334,11 +333,10 @@ msgstr "!?\n"
 #  text 
 #  warnings: 1 
 #: sc/0002:25 
-#, fuzzy
 msgid "犬の頭を撫でた時に\nアンテナを破壊されました！\n"
 msgstr ""
-"When you brushed the dog's head,\n"
-"the antenna has been destroyed!\n"
+"When you pet the dog's head,\n"
+"the antenna got destroyed！\n"
 
 #  speaker 
 #  warnings: 2 

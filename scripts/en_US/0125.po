@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:00+0000\n"
-"PO-Revision-Date: 2018-09-20 00:00+0000\n"
-"Last-Translator: Andy Chun @noneucat <andy@lolc.at>\n"
+"PO-Revision-Date: 2019-09-01 18:07+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0125/en_US/>\n"
 "Language: en_US\n"
@@ -23,8 +23,11 @@ msgstr "Yoshino"
 #  text 
 #  warnings: 0 
 #: sc/0125:0 
+#, fuzzy
 msgid "ここカフェになったんだ―。\nへ―、けっこうオシャレじゃない。\n"
 msgstr ""
+"Hey, it looks like this place's been turned into a cafe.\n"
+"Huh, that's pretty trendy, isn't it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +39,7 @@ msgstr "Tamamura"
 #  warnings: 0 
 #: sc/0125:1 
 msgid "いらっしゃいませ―。\n"
-msgstr ""
+msgstr "Welcome!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +51,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:2 
 msgid "あれ、玉村？\n"
-msgstr ""
+msgstr "Eh? Tamamura?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -60,7 +63,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:3 
 msgid "え？　あ、長野原さん？\n"
-msgstr ""
+msgstr "Eh? Oh, Yoshino?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -71,8 +74,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:4 
+#, fuzzy
 msgid "奇遇だね―。玉村、\nここでバイトしてたんだ―。\n"
 msgstr ""
+"Well, this unexpected. Tamamura,\n"
+"you used to work here, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -84,7 +90,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:5 
 msgid "ええ、ほとんど毎日やってますよ。\n"
-msgstr ""
+msgstr "Yes, just about every day.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -95,8 +101,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:6 
+#, fuzzy
 msgid "そうなんだ。あ、わたしカプチ―ノのト―ルに\nア―モンドシロップ入れてね―。\n"
 msgstr ""
+"Is that so. Oh, a tall cappuccino,\n"
+"with almond syrup, please.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -107,8 +116,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:7 
+#, fuzzy
 msgid "は―い。\n"
-msgstr ""
+msgstr "Alright.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -119,8 +129,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:8 
+#, fuzzy
 msgid "お待たせいたしました―。\n"
-msgstr ""
+msgstr "Sorry to have kept you waiting.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -132,7 +143,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:9 
 msgid "ありがと―。\n"
-msgstr ""
+msgstr "Thank you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -155,8 +166,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:11 
+#, fuzzy
 msgid "ええ、そこは。\nそれに今日は特別なんです。\n"
 msgstr ""
+"Yes, that's right.\n"
+"Besides, today is special too.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -174,7 +188,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:13 
 msgid "校長先生"
-msgstr "Principal"
+msgstr "Mr. Principal"
 
 #  text 
 #  warnings: 0 
@@ -203,20 +217,27 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0125:15 
+#, fuzzy
 msgid "私の生徒たちが待っている！\nすぐに学校へ行かなければ――――！！\n"
 msgstr ""
+"My students are waiting!\n"
+"You must to to the school at once!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0125:16 
 msgid "ダメです！　制御不能！\nこちらの指示を受け付けません！\n"
 msgstr ""
+"It's hopeless! Out-of-Control!\n"
+"I can't tolerate these instructions!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0125:17 
 msgid "ええい、俺に代われ！\nこうやって出力を上げて……。\n"
 msgstr ""
+"Oh, I'll go instead!\n"
+"That way, you can raise your output...\n"
 
 #  text 
 #  warnings: 1 
@@ -228,7 +249,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0125:19 
 msgid "＆"
-msgstr ""
+msgstr "＆"
 
 #  text 
 #  warnings: 2 
@@ -318,7 +339,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:26 
 msgid "…………。\n"
-msgstr ".........\n"
+msgstr "………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -780,7 +801,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0125:65 
 msgid "女性客（女性客２）"
-msgstr ""
+msgstr "Female Customer (Female Customer 2)"
 
 #  text 
 #  warnings: 0 

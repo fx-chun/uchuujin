@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:19+0000\n"
-"PO-Revision-Date: 2019-09-09 16:02+0000\n"
+"PO-Revision-Date: 2019-09-19 21:00+0000\n"
 "Last-Translator: Max Ihrén <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0030/en_US/>\n"
@@ -249,6 +249,8 @@ msgstr ""
 #: sc/0030:18 
 msgid "お、おい、どういうことだ！\n今回のアンテナは試作強化タイプのはずだろ！\n"
 msgstr ""
+"N-No, how could this happen! This prototype antenna is supposed to be extra "
+"sturdy!\n"
 
 #  text 
 #  warnings: 1 
@@ -260,7 +262,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0030:20 
 msgid "なら、どうして？\n"
-msgstr ""
+msgstr "Then, why?\n"
 
 #  text 
 #  warnings: 1 
@@ -305,7 +307,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:24 
 msgid "まだどんな競技かよくわからんが、\nとりあえず部活といえば朝練だからな！\n"
-msgstr ""
+msgstr "I'm still not sure what kind of sport this is, but as a\n"
 
 #  speaker 
 #  warnings: 0 
@@ -470,7 +472,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:37 
 msgid "しかも中学ＬＵＯの桜井くんまで\n入部してくれたんだぞ？\n"
-msgstr ""
+msgstr "Even Sakurai who was an MVP in middle school joined us you know?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -575,7 +577,7 @@ msgstr ""
 msgid "……なるほど。\n関口の言うとおりだな。\n"
 msgstr ""
 ".....oh i see. \n"
-"You are quite right Sekiguchi.\n"
+"I agree Sekiguchi.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -587,7 +589,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:46 
 msgid "初心者のオレは無理をせず\nそれぞれ個別に練習した方がいいもんな！\n"
-msgstr "A beginner like me shouldn't force oneself too hard to begin with and\n"
+msgstr ""
+"As a beginner like myself, I shouldn't go all out to begin with. \n"
+"Might be better to simply train with them separetly you know!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -665,7 +669,7 @@ msgstr ""
 msgid "よっ……おっと！\nくっ、意外と……難しいなコレ。\n"
 msgstr ""
 "Oh.....oups!\n"
-"Urg, this it actually.... quite hard.\n"
+"Urgh, this is....surprisingly hard.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -716,6 +720,8 @@ msgstr ""
 #: sc/0030:56 
 msgid "……ところで関口。サッカ―部分はいいとして、\n碁石部分はどう練習すればいいと思う？\n"
 msgstr ""
+"But hold on, Sekiguchi. Leaving the soccer part aside, how am I supposed to "
+"do the training for the Igo part?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -764,8 +770,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0030:60 
+#, fuzzy
 msgid "まったく、しっかりしてくれよ？\n囲碁サッカ―部員としてさぁ。\n"
 msgstr ""
+"Come on. Pull yourself together, as a member of the Igo-soccer club you know."
+"\n"
 
 #  speaker 
 #  warnings: 0 
@@ -777,7 +786,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:61 
 msgid "すみません。\n"
-msgstr "Excuse me.\n"
+msgstr "Sorry.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -790,6 +799,8 @@ msgstr ""
 #: sc/0030:62 
 msgid "まあいいけど。\nさて、そろそろル―ルブックでも読むかな。\n"
 msgstr ""
+"It's fine. \n"
+"Well shall we look in the rulebook perhaps.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -801,7 +812,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:63 
 msgid "ル―ルブックなんてあったんですか？\n"
-msgstr ""
+msgstr "So there are a rulebook for this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -813,7 +824,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:64 
 msgid "ああ、桜井くんが置いてってくれたんだ。\n"
-msgstr ""
+msgstr "Yeah, Sakurai was nice to leave it here.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -826,6 +837,8 @@ msgstr ""
 #: sc/0030:65 
 msgid "わかる！　囲碁サッカ―か。\nなになに……囲碁サッカ―の発祥は……。\n"
 msgstr ""
+"Called \"Igo Soccer 101\"... \n"
+"Hm....the origin of Igo Soccer....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -849,7 +862,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:67 
 msgid "どうしました？\n"
-msgstr "what is it?\n"
+msgstr "What is it?\n"
 
 #  speaker 
 #  warnings: 2 
@@ -862,8 +875,7 @@ msgstr ""
 #: sc/0030:68 
 msgid "プレ―によっては囲碁とサッカ―で\n　練習を分けることも可能です\n"
 msgstr ""
-"Depending on the technique, it is possible to practice Go and Soccer "
-"individually\n"
+"Depending on the technique, it is possible to practice Go and Soccer apart\n"
 
 #  speaker 
 #  warnings: 0 
@@ -875,7 +887,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:69 
 msgid "……分けられるんですね。\n"
-msgstr "......so you can split them up.\n"
+msgstr "......so apparently you can split them up.\n"
 
 #  speaker 
 #  warnings: 0 

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:14+0000\n"
-"PO-Revision-Date: 2019-08-31 07:00+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2019-09-19 23:00+0000\n"
+"Last-Translator: Max Ihrén <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0117/en_US/>\n"
 "Language: en_US\n"
@@ -64,7 +64,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:3 
 msgid "すみませ―ん、関口さ―ん。\n"
-msgstr "Excuse me, Sekiguchi-san?\n"
+msgstr "Excuse me, Sekiguchi-san.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -225,20 +225,21 @@ msgstr ""
 #: sc/0117:16 
 msgid "くそっ、こいつ！\nアンテナが折れちまっただろ！\n"
 msgstr ""
-"Damn, this one!\n"
-"The antenna broke!\n"
+"Damn, this guy!\n"
+"He broke the antenna!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0117:17 
 msgid "バリアで猫は平気だが、万一のことがあったら\nどうするんだよ！　とっちめてやる！！\n"
 msgstr ""
-"Cats are okay with being out, but in an\n"
-"emergency will they do? I'll do it.\n"
+"The cat is safe because of the barrier, but if anything had happend to 'em\n"
+"Then I'll teach him a lesson!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0117:18 
+#, fuzzy
 msgid "……これから？　どうやって？\n"
 msgstr "... from now on? How?\n"
 
@@ -296,9 +297,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0117:24 
 msgid "（あれ……？　会話終わった？）\n"
-msgstr ""
-"(What...? Is the conversation\n"
-"over?)\n"
+msgstr "(What...? Did the conversation end?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -311,8 +310,8 @@ msgstr ""
 #: sc/0117:25 
 msgid "（そういえば、\n　いつもは関口さんと何を話してたっけ？）\n"
 msgstr ""
-"(By the way, what did you talk\n"
-"about with Sekiguchi-san?)\n"
+"(Come to think of it, what do\n"
+"I usually have conversations about with her?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -323,10 +322,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0117:26 
+#, fuzzy
 msgid "（……そうか！\n　いつもは間に部長が居るんだ！）\n"
-msgstr ""
-"(...really! The manager's\n"
-"usually there somewhere!)\n"
+msgstr "(...Right! The cheif is always there inbetween us in conversations!)\n"
 
 #  speaker 
 #  warnings: 0 

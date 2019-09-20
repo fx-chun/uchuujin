@@ -12,10 +12,10 @@ sc = open(sys.argv[1], 'rb')
 sc_name = basename(sys.argv[1]) 
 meta = json.load(open(sys.argv[2], 'r'), encoding='shift-jis')
 po = polib.pofile(sys.argv[3]) 
-patched_f = open(sc_name, 'wb')
 
 patched = sc.read()
 patched_len_orig = len(patched)
+
 
 print("patching %s ..." % sc_name)
 
@@ -131,4 +131,5 @@ checksum = p1 + p2 + p3 + p4
 
 patched = patched[:len(patched) - 16] + checksum
 
+patched_f = open(sc_name, 'wb')
 patched_f.write(patched)

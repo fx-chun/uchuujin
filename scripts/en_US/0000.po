@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:19+0000\n"
-"PO-Revision-Date: 2019-09-22 22:00+0000\n"
-"Last-Translator: Max Ihrén <max.ihren@gmail.com>\n"
+"PO-Revision-Date: 2019-09-27 00:49+0000\n"
+"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0000/en_US/>\n"
 "Language: en_US\n"
@@ -123,11 +123,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0000:8 
-#, fuzzy
 msgid "起きていきなりでアレですけど、\nそのボタンで私に何をするつもりですか？\n"
 msgstr ""
-"I don't like having to say this right after waking up but,\n"
-"what are you going to do to me with that button?\n"
+"I just woke up, but, what are you \n"
+"going to do to me with that button?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -250,7 +249,7 @@ msgstr "What!? It's a dog!!\n"
 #: sc/0000:18 
 msgid "くそっ、猫がいるんだから\n犬でも誤魔化せると思ったのに！\n"
 msgstr ""
-"Damn it, i thought the dog would go \n"
+"Damn it, I thought the dog would go \n"
 "unnoticed since they already have a pet.\n"
 
 #  text 
@@ -262,11 +261,10 @@ msgstr "Ah! The antenna broke!\n"
 #  text 
 #  warnings: 1 
 #: sc/0000:20 
-#, fuzzy
 msgid "……判断を間違えたな。俺よりも\n地球人たちの方が一枚上手だったらしい。\n"
 msgstr ""
-"…looks like I made the wrong judgement.\n"
-"Seems like the earthlings had the upperhand on me.\n"
+"…I was wrong. The earthlings\n"
+"got the upper hand.\n"
 
 #  text 
 #  warnings: 1 
@@ -279,9 +277,8 @@ msgstr "Ah…\n"
 #: sc/0000:22 
 msgid "でも、なんで犬で行ったんだ？\n最初からいた猫でよくないか？\n"
 msgstr ""
-"But, why did you choose to go with the dog? \n"
-"Wouldn't it have been easier to just go with their pet that was there to "
-"begin with?\n"
+"Why go with the dog? \n"
+"Their pet was already there!\n"
 
 #  text 
 #  warnings: 1 
@@ -292,9 +289,10 @@ msgstr "!?\n"
 #  text 
 #  warnings: 1 
 #: sc/0000:24 
-#, fuzzy
 msgid "……俺よりもお前の方が\n一枚上手だったらしい。\n"
-msgstr "…Seems like you too had the upperhand on me aswell.\n"
+msgstr ""
+"…Seems like you too had \n"
+"the upperhand on me.\n"
 
 #  text 
 #  warnings: 1 
@@ -548,7 +546,7 @@ msgstr ""
 msgid "（違う、そうじゃない。ネジを\n　取ってもらわないと私は学校にも弌弌）\n"
 msgstr ""
 "(I have to get a hold of myself. \n"
-"If I don't take it off, everyone at school will-)\n"
+"If I keep it, everyone at school will-)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -586,7 +584,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:47 
 msgid "行ってらっしゃ―い！\n"
-msgstr "See you later Nano!\n"
+msgstr "See you later, Nano!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -599,8 +597,8 @@ msgstr ""
 #: sc/0000:48 
 msgid "ネジを取ってください。\nこれがある限り私は家事をしませんからね。\n"
 msgstr ""
-"Can you please remove the key.\n"
-"I won't do any housework as long its on.\n"
+"Please remove the key.\n"
+"I won’t do any housework while it’s on.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,8 +611,8 @@ msgstr ""
 #: sc/0000:49 
 msgid "ならまた別の子作るからいいもん！\n"
 msgstr ""
-"Then I will make another child again,\n"
-"so I'm fine!\n"
+"Then I’ll make another robot,\n"
+"so Im fine!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -664,7 +662,7 @@ msgstr ""
 msgid "嘘だよ。はかせは、\nなの以外は作らないよ。\n"
 msgstr ""
 "No that was a lie.\n"
-"Hakase won't make none exepting Nano.\n"
+"I wont make anyone but Nano.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -677,8 +675,8 @@ msgstr ""
 #: sc/0000:54 
 msgid "……本当ですか？\n私、いらない子じゃないんですか？\n"
 msgstr ""
-"...It's true?\n"
-"I'm not a no-needed one, am I?\n"
+"……Really?\n"
+"Im not replaceable, am I?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -689,11 +687,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0000:55 
-#, fuzzy
 msgid "いらなくないよ！\nはかせ、なのにご飯食べさせて欲しいもん！\n"
 msgstr ""
-"You're not no-needed!\n"
-"It's that Hakase wants to eat Nano's meal!\n"
+"Youre not useless!\n"
+"It’s that I want to eat your meal!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -707,7 +704,7 @@ msgstr ""
 msgid "はかせ……！\nはい！　私、朝ご飯作ります！\n"
 msgstr ""
 "Hakase...!\n"
-"Yes! I'll make breakfast!\n"
+"Yes! Ill make breakfast!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -731,7 +728,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:58 
 msgid "はい。お粗末さまです。\n"
-msgstr "Yes. I hope meal was good.\n"
+msgstr "Yay! I hope it's good.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -771,7 +768,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:61 
 msgid "行ってらっしゃ―い。\n"
-msgstr "See you Nano!\n"
+msgstr "See you, Nano!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -784,7 +781,7 @@ msgstr ""
 #: sc/0000:62 
 msgid "じゃあ、ネジを取ってくれたら\n朝ご飯作ります。\n"
 msgstr ""
-"So, if you take off the key\n"
+"So, if you take off the key,\n"
 "I'll make breakfast.\n"
 
 #  speaker 
@@ -824,7 +821,7 @@ msgstr ""
 #: sc/0000:65 
 msgid "だってはかせ、ネジのために\n早起きして頑張ったんだよ？\n"
 msgstr ""
-"But Hakase went through the effort of waking up early\n"
+"But I went through the effort of waking up early\n"
 "just to try out the key, you know?\n"
 
 #  speaker 
@@ -838,8 +835,8 @@ msgstr ""
 #: sc/0000:66 
 msgid "こんなことのために\n早起きしたんですか……。\n"
 msgstr ""
-"So you woke up early\n"
-"for such a reason...\n"
+"So that's why you\n"
+"woke up early\n"
 
 #  speaker 
 #  warnings: 0 
@@ -866,8 +863,8 @@ msgstr ""
 #: sc/0000:68 
 msgid "……仕方ないですね。それじゃあ、\n一回だけ新機能を試してもいいですから。\n"
 msgstr ""
-"... I guess there's no choice, then.\n"
-"You can test out the new feature just this once.\n"
+"I guess i have no choice, then.\n"
+"You can test it out just this once.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -879,7 +876,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:69 
 msgid "はかせお腹減った……。\n"
-msgstr "Hakase's tummy is hungry......\n"
+msgstr "My tummy is hungry……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -892,8 +889,8 @@ msgstr ""
 #: sc/0000:70 
 msgid "疲れてお腹も減ってるのに、\n朝ご飯食べられないの？\n"
 msgstr ""
-"I'm tired and hungry,\n"
-"but can I still not eat breakfast?\n"
+"I'm tired and hungry, but \n"
+"I can't even eat breakfast?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -905,7 +902,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:71 
 msgid "うっ……。\n"
-msgstr "Uh....\n"
+msgstr "Uh\n"
 
 #  speaker 
 #  warnings: 0 
@@ -918,8 +915,8 @@ msgstr ""
 #: sc/0000:72 
 msgid "……わかりました。\n先に朝ご飯ですね。\n"
 msgstr ""
-"...okay fine.\n"
-"It's breakfast first.\n"
+"……okay, fine.\n"
+"Breakfast first.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -957,7 +954,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0000:75 
 msgid "それじゃあはかせ、早くネジを弌弌\n"
-msgstr "Now then Hakase, can you take off the key-.\n"
+msgstr ""
+"Now then Hakase, can \n"
+"you take off the key?\n"
 
 #  speaker 
 #  warnings: 0 

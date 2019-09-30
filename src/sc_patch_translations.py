@@ -16,7 +16,6 @@ po = polib.pofile(sys.argv[3])
 patched = sc.read()
 patched_len_orig = len(patched)
 
-
 print("patching %s ..." % sc_name)
 
 def asciiToNichi(asc):
@@ -39,17 +38,24 @@ net = 0
 for i in range(0, len(meta)):
     dialog = meta[i]
 
+    dialog["speaker"] = dialog["speaker"].replace('\\n', '\n');
+    dialog["text"] = dialog["text"].replace('\\n', '\n');
+    
     speakerTranslation = ""
     textTranslation = ""
 
-
     for entry in po:
         if len(entry.msgstr) > 0: 
+            #print("matching...");
+            #print("msgid: %s;\ndialo: %s;\nspeak: %s;\n" % (entry.msgid, dialog["speaker"], dialog["text"]));
+
             if entry.msgid == dialog["speaker"]:
                 speakerTranslation = entry.msgstr 
+                print("speakerMatch: %s -> %s\n" % (entry.msgid.rstrip(), speakerTranslation.rstrip()));
             
             if entry.msgid == dialog["text"]:
                 textTranslation = entry.msgstr
+                print("textMatch: %s -> %s\n" % (entry.msgid.rstrip(), textTranslation.rstrip()));
 
     # Insert speaker
     if len(speakerTranslation) > 0:
@@ -59,6 +65,7 @@ for i in range(0, len(meta)):
 
         patched = patched[:speaker_start] + speaker + patched[speaker_end:]
         net += len(speaker) - dialog["internal"]["speaker_len"]
+        #print("%d %s\n" % (len(speaker), speaker));
 
     # Insert text
     if len(textTranslation) > 0:
@@ -68,6 +75,7 @@ for i in range(0, len(meta)):
 
         patched = patched[:text_start] + text + patched[text_end:]
         net += len(text) - dialog["internal"]["text_len"]
+        #print("%d %s\n" % (len(text), text));
 
 diff = len(patched) - patched_len_orig
 print("growth of file: %d" % diff)

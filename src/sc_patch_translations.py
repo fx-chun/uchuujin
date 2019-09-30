@@ -10,7 +10,7 @@ from sc_patch_table import findPatch
 
 sc = open(sys.argv[1], 'rb')
 sc_name = basename(sys.argv[1]) 
-meta = json.load(open(sys.argv[2], 'r'), encoding='utf-8')
+meta = json.load(open(sys.argv[2], 'r', encoding='utf-8')) 
 po = polib.pofile(sys.argv[3]) 
 
 patched = sc.read()

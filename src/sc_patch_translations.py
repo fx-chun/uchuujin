@@ -6,11 +6,11 @@ import io
 import math
 import polib 
 from os.path import basename
-from sc_patch_table import patchTable
+from sc_patch_table import findPatch 
 
 sc = open(sys.argv[1], 'rb')
 sc_name = basename(sys.argv[1]) 
-meta = json.load(open(sys.argv[2], 'r'), encoding='shift-jis')
+meta = json.load(open(sys.argv[2], 'r'), encoding='utf-8')
 po = polib.pofile(sys.argv[3]) 
 
 patched = sc.read()
@@ -27,7 +27,7 @@ def asciiToNichi(asc):
         if c == '\n':
             if len(nichi) % 2 != 0:
                 nichi += b'\x00'
-        nichi += patchTable()[c]
+        nichi += findPatch(c)
 
     if len(nichi) % 2 != 0:
         nichi += b'\x00'

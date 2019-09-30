@@ -36,3 +36,10 @@ def patchTable():
         counter += 1
 
     return table
+
+def findPatch(i):
+    if (i in patchTable().keys()):
+        return patchTable()[i];
+    else:
+        print("warn: could not find patch for '%s'\n" % (i));
+        return patchTable()['?'];

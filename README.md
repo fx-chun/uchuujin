@@ -8,7 +8,8 @@ This is the main repository of the ongoing translation effort of
 **Help Translate!**  
 Read [CONTRIBUTING.md](https://github.com/noneucat/uchuujin/blob/master/CONTRIBUTING.md) to get started.
 
-**Weblate server:** https://weblate.lolc.at/
+**Weblate server:** https://weblate.lolc.at/  
+[![Translation status](https://weblate.lolc.at/widgets/uchuujin/-/open-graph.png)](https://weblate.lolc.at/engage/uchuujin/?utm_source=widget)
 
 **Scripts for patching the game:**  
 *Windows:* https://github.com/colebob9/UchuujinPatchScripts

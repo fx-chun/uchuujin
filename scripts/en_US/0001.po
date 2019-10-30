@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:19+0000\n"
-"PO-Revision-Date: 2019-09-21 22:03+0000\n"
-"Last-Translator: Max Ihrén <max.ihren@gmail.com>\n"
+"PO-Revision-Date: 2019-10-31 12:43+0000\n"
+"Last-Translator: Max Ihrén @Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0001/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.1.1\n"
+"X-Generator: Weblate 3.9\n"
 
 #  speaker 
 #  warnings: 0 
@@ -79,10 +79,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0001:4 
+#, fuzzy
 msgid "（突然動いたりしないよね？\n　空飛んだりとか腕が取れたりとか……）\n"
 msgstr ""
-"(I don't suddenly start flying,\n"
-"do I? Does my arm come off or…)\n"
+"(I won't suddenly start flying,\n"
+"will I? Does my arm come off or…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -293,7 +294,7 @@ msgstr ""
 #: sc/0001:20 
 msgid "なっ、本当だ。一体どこから。\n"
 msgstr ""
-"Oh, so it is. \n"
+"Oh, you're right.\n"
 "Where the heck did it come from?\n"
 
 #  speaker 
@@ -347,7 +348,7 @@ msgstr ""
 #: sc/0001:25 
 msgid "速い！　地球の人間はこんなに速く\n走れるものなのか！！\n"
 msgstr ""
-"Fast! Is it even possible to run\n"
+"Fast! Can humans even run\n"
 "that fast!?\n"
 
 #  text 

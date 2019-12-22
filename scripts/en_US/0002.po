@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-12-22 22:32+0000\n"
+"PO-Revision-Date: 2019-12-23 02:48+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0002/en_US/>\n"
@@ -89,8 +89,8 @@ msgstr ""
 #: sc/0002:5 
 msgid "はぁ。ネジに振り回されてばかり……\n一体私はどうなっちゃうんだろう。\n"
 msgstr ""
-"Sigh. I'm always getting screwed over by this key.... \n"
-"I wonder what will end up to me.\n"
+"*Sigh*. This key only screws me over…… \n"
+"What the heck is going on with me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -103,8 +103,8 @@ msgstr ""
 #: sc/0002:6 
 msgid "何だか顔が熱くて、ぼ―っとしてきた……\n早くうちに帰ろう。\n"
 msgstr ""
-"Somehow, my head is getting really hot, \n"
-"I better get home early.\n"
+"Somehow, my head is getting hot, and\n"
+"I'm feel faint. I better get home early.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -116,7 +116,7 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0002:7 
 msgid "お―い、なのちゃ―ん。\n"
-msgstr "Hey Nano!\n"
+msgstr "Hey Nano-chan!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -129,7 +129,7 @@ msgstr "Mio"
 #: sc/0002:8 
 msgid "本当に調子悪いみたいだね。\n大丈夫？\n"
 msgstr ""
-"Looks like really weren't feeling well. \n"
+"Looks like really weren't feeling well.\n"
 "Are you alright?\n"
 
 #  speaker 
@@ -143,8 +143,8 @@ msgstr ""
 #: sc/0002:9 
 msgid "相生さん、長野原さん……\nありがとうございます。大丈夫ですよ。\n"
 msgstr ""
-"Aioi-san, Naganohara-san ...\n"
-"Thanks for worrying, but it's no problem.\n"
+"Aioi-san, Naganohara-san…….\n"
+"Thanks for worrying, but I'm okay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,8 +157,8 @@ msgstr ""
 #: sc/0002:10 
 msgid "でも、少し熱っぽいんですよ。\n風邪かもしれませんね。\n"
 msgstr ""
-"But it looks to be some kind of fever. \n"
-"Or could be some sort of  cold.\n"
+"But it looks to be some kind of fever.\n"
+"Or could be some sort of cold.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -182,7 +182,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:12 
 msgid "あ、大丈夫です。そんなに大袈裟なものじゃ\nないと思いますから。\n"
-msgstr "Oh, no but it's fine. I'm pretty sure it's nothing special.\n"
+msgstr ""
+"Oh no, I'm fine. I'm pretty sure\n"
+"it's nothing special.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -207,8 +209,8 @@ msgstr ""
 #: sc/0002:14 
 msgid "なのちゃん体強そうだけど、\nちゃんと用心しないと駄目だよ？\n"
 msgstr ""
-"Nano you seems to be the physically strong type\n"
-"but it's important even for you to take care of yourself.\n"
+"Nano-chan, you seem to be a strong type\n"
+"but remember to take care of yourself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -220,7 +222,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:15 
 msgid "はい、ありがとうございます。\n"
-msgstr "Yes, thank you.\n"
+msgstr "Yes, thank you very much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -232,7 +234,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:16 
 msgid "あれ？　こんなところに犬が……？\n"
-msgstr "Huh? What's a dog doing over here.....?\n"
+msgstr "Huh? What's a dog doing over here……?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -245,7 +247,7 @@ msgstr ""
 #: sc/0002:17 
 msgid "本当だ、この犬、最近よく見かけるよね。\nおいでおいで。\n"
 msgstr ""
-"You're right. I see this dog a lot nowadays.\n"
+"It's true I see this dog a lot nowadays.\n"
 "Come here doggie!\n"
 
 #  speaker 
@@ -259,7 +261,7 @@ msgstr ""
 #: sc/0002:18 
 msgid "軽はずみな行動はやめて！\nその犬は見ため以上に危険なんだから！\n"
 msgstr ""
-"No hold up!\n"
+"No, everybody hold up!\n"
 "That dog is more dangerous than it might look!\n"
 
 #  speaker 
@@ -285,7 +287,7 @@ msgstr ""
 #: sc/0002:20 
 msgid "何をバカな。大丈夫だよなのちゃん。\nほら、撫でたげて。\n"
 msgstr ""
-"Don't be stupid Yuuko. It's alright.\n"
+"Don't be stupid. It's okay Nano-chan.\n"
 "You see, just pet.\n"
 
 #  speaker 
@@ -298,14 +300,14 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:21 
 msgid "えっ、あ、はい……。\n"
-msgstr "Eh, y- yeah.....\n"
+msgstr "Eh, y- yeah…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0002:22 
 msgid "ふぅ。俺たちのことを見破ったかと思って\nちょっと焦ったな。\n"
 msgstr ""
-"Phoo. I thought they saw through us\n"
+"Phew. I thought they saw through us\n"
 "and I got worried there a second.\n"
 
 #  text 
@@ -313,7 +315,7 @@ msgstr ""
 #: sc/0002:23 
 msgid "ああ。けど、もう油断してるみたいだな。\nちょろいもんだ。\n"
 msgstr ""
-"Oh. But they already seem to be off their guard.\n"
+"But, they already seem off their guard.\n"
 "They sure are easy to fool.\n"
 
 #  speaker 
@@ -332,7 +334,9 @@ msgstr "!?\n"
 #  warnings: 1 
 #: sc/0002:25 
 msgid "犬の頭を撫でた時に\nアンテナを破壊されました！\n"
-msgstr "The antenna broke when they pet the dog!\n"
+msgstr ""
+"When the dog's head was pet,\n"
+"the antenna got obliterated!\n"
 
 #  speaker 
 #  warnings: 2 
@@ -344,7 +348,7 @@ msgstr ""
 #  warnings: 2 
 #: sc/0002:26 
 msgid "全然油断してない――！？\n"
-msgstr "Or were they the ones fooling me--!?\n"
+msgstr "Or was the one off their guard me--!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -394,7 +398,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:30 
 msgid "…………！\n"
-msgstr ""
+msgstr "…………!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -406,7 +410,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:31 
 msgid "（ト―ストが射出された！？）\n"
-msgstr "(It shot out a toast?)\n"
+msgstr "(It shot out toast?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -444,7 +448,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:34 
 msgid "な、なのちゃん、今の……。\n"
-msgstr "N- Nano, what was that...\n"
+msgstr "N- Nano-chan, what was that...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -472,7 +476,7 @@ msgstr ""
 msgid "えっ、お、お礼？\nあの、ト―スト？\n"
 msgstr ""
 "Eh, a thank you gift?\n"
-"You mean that toast?\n"
+"You mean the toast?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -483,7 +487,6 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0002:37 
-#, fuzzy
 msgid "はいっ。私の気持ちです。\n食べてください！\n"
 msgstr ""
 "Yes. It's my feeling of gratitude. \n"
@@ -500,8 +503,8 @@ msgstr ""
 #: sc/0002:38 
 msgid "い、いや、気持ちは嬉しいけどさ、\nもう落ちてるし……。\n"
 msgstr ""
-"Well er-, I appreciate the feeling but hasn't it already dropped to the "
-"ground....\n"
+"Well er-, I appreciate the feeling but,\n"
+"hasn't it already dropped to the ground…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -514,7 +517,7 @@ msgstr ""
 #: sc/0002:39 
 msgid "３秒ル―ルです！\n今ならまだ間に合います！\n"
 msgstr ""
-"The 3 second rule still count!\n"
+"The 3 second rule!\n"
 "You can still make it!\n"
 
 #  speaker 
@@ -562,10 +565,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0002:43 
-#, fuzzy
 msgid "ナイスキャッチ！\nこれでセ―フですよ！\n"
 msgstr ""
-"Nice one!\n"
+"Nice catch!\n"
 "Now that should still be safe!\n"
 
 #  speaker 
@@ -591,8 +593,8 @@ msgstr ""
 #: sc/0002:45 
 msgid "アウトだと私のパンは\n食べられないんですか！？\n"
 msgstr ""
-"But if it's not then would that mean that you guys wouldn't be able to eat "
-"my toast then!?\n"
+"If it's no good, would you not\n"
+"be able to eat my toast then!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -616,7 +618,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:47 
 msgid "ん、意外とイケる。\n"
-msgstr "Hmn, this works surprisingly well.\n"
+msgstr "Hmmm, it looks surprisingly good.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -656,7 +658,7 @@ msgstr ""
 msgid "はい！\nそれでは、私は帰りますね。\n"
 msgstr ""
 "Yes you're welcome!\n"
-"Now, I'll be heading home now.\n"
+"Okay, I'll be heading home now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -668,7 +670,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:51 
 msgid "……ゆっこはバカだなぁ。\n"
-msgstr ".....Yuuko, you sure are stupid.\n"
+msgstr "……Yuuko, you really are stupid.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -680,7 +682,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:52 
 msgid "え、えっと、ト―スト、ですけど……。\n"
-msgstr "W- Well,  it's obviously a toast...\n"
+msgstr "B-but, well, it's toast…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -693,8 +695,8 @@ msgstr ""
 #: sc/0002:53 
 msgid "う、うん、ト―ストだね。\nどう見てもト―ストだね。\n"
 msgstr ""
-"Y- Yeah, it sure is a toast.\n"
-"That's pretty undeniable.\n"
+"Y- Yeah, it sure is toast. No matter how\n"
+"you see it, that's undeniable.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -742,7 +744,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:57 
 msgid "相生さん、長野原さん、\n良ければ食べてみませんか？\n"
-msgstr "Aioi-san, Naganohara-san, if you'd like, you can eat it.\n"
+msgstr ""
+"Aioi-san, Naganohara-san, \n"
+"if you'd like, wanna give it a bite?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -756,7 +760,7 @@ msgstr ""
 msgid "あ、あ―、うん、そうだね。\nまた後で食べようかな。\n"
 msgstr ""
 "Ah, Ahhh, yeah sure.\n"
-"But I think I'll eat it later.\n"
+"But I think I'll try to eat it later.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -770,7 +774,7 @@ msgstr ""
 msgid "い、今でもいいんですよ？\n温かいうちに……。\n"
 msgstr ""
 "Is now not a good time?\n"
-"You should eat it while it's still warm...\n"
+"You should eat it while it's still warm…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -783,8 +787,8 @@ msgstr ""
 #: sc/0002:60 
 msgid "わ、私たちジャム派だから。\nだからまた後でジャムつけて食べるから。\n"
 msgstr ""
-"W- We two are jam lovers, we want to put some jam\n"
-"on it when eating it.\n"
+"W-we're jam lovers. Yeah.\n"
+"So we'll put jam on it and eat it later.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -796,7 +800,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:61 
 msgid "あ、はい。わかりました。\n"
-msgstr "Ah, yes. I understand.\n"
+msgstr "Oh, okay. I understand.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +862,7 @@ msgstr ""
 msgid "あ、うん。またね。\nお大事に。\n"
 msgstr ""
 "Ah ok. See you later. \n"
-"And take care of yourself.\n"
+"Take care.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -870,7 +874,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:67 
 msgid "はい。さようなら。\n"
-msgstr "Yes, I will. See you!\n"
+msgstr "Yup. See you!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,7 +910,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:70 
 msgid "ふっくら焼けてる……。\n"
-msgstr "The toast is so fluffy.....\n"
+msgstr "The toast is so fluffy…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -919,8 +923,8 @@ msgstr ""
 #: sc/0002:71 
 msgid "うん……\n一家に一体ほしいね。\n"
 msgstr ""
-"Yes.....\n"
-"I wish I had a toaster like that at home.\n"
+"Yeah……\n"
+"I want a toaster like that at home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -956,7 +960,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:74 
 msgid "で、でもなのちゃん、あのト―スト、\nどうするの？\n"
-msgstr "B-but, Nano-chan, what will you do with that toast?\n"
+msgstr ""
+"B-but, Nano-chan, what will\n"
+"you do with that toast?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -969,8 +975,8 @@ msgstr ""
 #: sc/0002:75 
 msgid "ト、ト―スト？\n何ですか？　私は知りませんよ？\n"
 msgstr ""
-"H-Huh a toast?\n"
-"What do you mean? I don't know what you are talking about?\n"
+"T-toast? What do you mean?\n"
+"What you are talking about?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -983,8 +989,8 @@ msgstr ""
 #: sc/0002:76 
 msgid "い、いや、でも今さっき\n思いっきりなのちゃんの頭から……。\n"
 msgstr ""
-"N- No but I just saw one come straight out from your head just a moment "
-"ago.....\n"
+"N-No but just a moment ago I saw one\n"
+"come straight out from your head…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -996,7 +1002,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:77 
 msgid "わ、私、お米派ですから！\n"
-msgstr "I- I'm not a bread eater, I go with rice!\n"
+msgstr "I, I'm no bread lover! I stick to rice!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1008,7 +1014,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:78 
 msgid "えっ？　あっ、うん……。\n"
-msgstr "Huh? Ah, sure......\n"
+msgstr "Huh? Ah, sure…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1020,7 +1026,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:79 
 msgid "ゆっこ……。\n"
-msgstr "Yukko.....\n"
+msgstr "Yukko…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1032,7 +1038,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:80 
 msgid "……うん。\n"
-msgstr ".....yeah.\n"
+msgstr ".....Yeah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1046,7 +1052,7 @@ msgstr ""
 msgid "なのちゃん、また明日。\n風邪、早く治してね。\n"
 msgstr ""
 "Nano-chan, see you tomorrow. \n"
-"Hope your flu gets better soon.\n"
+"Hope your cold gets better soon.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1059,7 +1065,7 @@ msgstr ""
 #: sc/0002:82 
 msgid "はい。\nそれではさようなら。\n"
 msgstr ""
-"Yes. \n"
+"Okay. \n"
 "Good bye then.\n"
 
 #  speaker 
@@ -1096,7 +1102,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0002:85 
 msgid "なのちゃん、あれでも\nバレてないって、思ってるんだね。\n"
-msgstr "And Nano-chan still thinks people haven't noticed.\n"
+msgstr ""
+"And yet after that, Nano-chan\n"
+"still thinks we haven't noticed.\n"
 
 #  speaker 
 #  warnings: 0 

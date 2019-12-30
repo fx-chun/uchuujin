@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2019-12-29 06:09+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2019-12-31 11:46+0000\n"
+"Last-Translator: Max Ihrén @Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0003/en_US/>\n"
 "Language: en_US\n"
@@ -357,6 +357,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0003:28 
+#, fuzzy
 msgid "（腕が飛んでいった！？\n　意外と普通だ！！）\n"
 msgstr ""
 "（My arm flew away!?\n"
@@ -450,7 +451,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:35 
 msgid "なんと、娘。お主は奇術師であったか！\n"
-msgstr "What a girl! Are you a magician?\n"
+msgstr "What a girl! So you were a magician?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -463,7 +464,7 @@ msgstr ""
 #: sc/0003:36 
 msgid "はい！　今のは１日に２回しか使えない\n手首飛ばしのマジックです！\n"
 msgstr ""
-"Yes! That can only used twice a day.\n"
+"Yes! And that was a trick I can only pull off twice a day.\n"
 "It's the wrist flying magic trick!\n"
 
 #  speaker 
@@ -489,10 +490,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0003:38 
+#, fuzzy
 msgid "ありがとうございます！\nではサ―ビスでもう一回行きます！\n"
 msgstr ""
 "Thank you very much!\n"
-"I'll be heading home then!\n"
+"So for you being so humble I'll show it once more!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -517,8 +519,8 @@ msgstr ""
 #: sc/0003:40 
 msgid "この笹原を个らせるとは恐れ入った。\n将来は良い奇術師になれるであろう。\n"
 msgstr ""
-"I'm afraid to share this with Sasahara.\n"
-"You're going to be a good magician.\n"
+"How emarrasing of me to be caught off guard by such a trick \n"
+"You'll become a great magician.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -529,10 +531,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0003:41 
+#, fuzzy
 msgid "ありがとうございます！\nそれでは私はこれで！！\n"
 msgstr ""
 "Thank you very much!\n"
-"Then I'll be… With this!!\n"
+"Then I'll be going!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -558,7 +561,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:43 
 msgid "ああああ！？　両手が無い！！\n"
-msgstr "AAAAAH!? I don't have my hands!!\n"
+msgstr "AAAAAH!? Both my hands are gone!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -607,7 +610,7 @@ msgstr ""
 #: sc/0003:47 
 msgid "稀に見る美しいコ―クスクリュ―だ。\nなかなかやりおるな。\n"
 msgstr ""
-"That was a very rarely seen barrel roll.\n"
+"It's not often you cross by such an elegant corkscrew punch.\n"
 "Considerably done too.\n"
 
 #  speaker 
@@ -634,7 +637,7 @@ msgstr ""
 msgid "（何だかよくわからないけど\n　手が飛んだことを変に思ってない？）\n"
 msgstr ""
 "(I don't really understand but,\n"
-"is it not weird that my hands flew?)\n"
+"is he not thinking it was weird that my hands flew?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -674,7 +677,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:52 
 msgid "（飛んでいった手を回収しないと）\n"
-msgstr "（I have to retrieve my blasted hands.）\n"
+msgstr "（I have to retrieve my blasted hand.）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -688,7 +691,7 @@ msgstr ""
 msgid "……しかし、手が飛ぶとは、\n面妖な娘であった。\n"
 msgstr ""
 "……However, a flying hand is,\n"
-"weird for a girl.\n"
+"weird to say the least.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -725,7 +728,7 @@ msgstr ""
 #: sc/0003:56 
 msgid "そういえば何か音がした気がしますけど。\n何かあったんでしょうか？\n"
 msgstr ""
-"On that subject, I did hear something.\n"
+"If I think about it, I did hear something.\n"
 "Did something happen?\n"
 
 #  speaker 
@@ -750,7 +753,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:58 
 msgid "プッ。ワハハハハハハ！！\n"
-msgstr "Pff! MWUAHAHAHAHAHAHA!!\n"
+msgstr "Pff! HAHAHAHAHAHA!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -802,7 +805,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:62 
 msgid "あっ、もしかしてこっちの手ですか？\n"
-msgstr "Oh, then perhaps these hands are\n"
+msgstr "Ah, or do you perhaps mean my other hand?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -814,9 +817,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:63 
 msgid "これは男の人には見えないように\nなってるんですよ？\n"
-msgstr ""
-"This is not something that is\n"
-"likely to be seen, is it?\n"
+msgstr "This hand is made so it can't be visible by men.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -841,8 +842,8 @@ msgstr ""
 #: sc/0003:65 
 msgid "ワハハハハハ！\nそうか、そうであったか。\n"
 msgstr ""
-"MWHAHAHAHAHA!\n"
-"I see! So this is it.\n"
+"HAHAHAHAHA!\n"
+"I see! So that was the case.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -880,4 +881,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:68 
 msgid "フフッ、ぬかしおるよ、あの娘。\n"
-msgstr "That girl has no fear in saying that.\n"
+msgstr ""

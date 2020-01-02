@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:21+0000\n"
-"PO-Revision-Date: 2019-12-30 06:56+0000\n"
+"PO-Revision-Date: 2020-01-02 20:50+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0207/en_US/>\n"
@@ -23,6 +23,7 @@ msgstr "Otsuki #2"
 #  text 
 #  warnings: 0 
 #: sc/0207:0 
+#, fuzzy
 msgid "只今より、映画鑑賞会の予定を急佚変更し\n船内レクリエ―ション大会を開催する！\n"
 msgstr ""
 "Listen everyone, we are now canceling the movie viewing event and\n"
@@ -42,7 +43,7 @@ msgid "姫様を楽しませた者には金一封を与える。\nそれでは�
 msgstr ""
 "Those who succeed in entertaining the Princess will be rewarded with money. "
 "\n"
-"Well, let us hear from the Princess herself\n"
+"Well, let us hear from the Princess herself.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -90,7 +91,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:5 
 msgid "そ、それではさっそく……最初は９４番！\n"
-msgstr "R-right away! The first one up is… No. 94！\n"
+msgstr "R-right away! The first one is… No. 94！\n"
 
 #  speaker 
 #  warnings: 0 
@@ -190,13 +191,13 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:14 
 msgid "次。３８番。\n"
-msgstr "Next. #38\n"
+msgstr "Next. No. 38\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:15 
 msgid "お、おい！　確か３８番は……。\n"
-msgstr "W-wait... isn't #38...\n"
+msgstr "W-wait... isn't No. 38...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -207,19 +208,17 @@ msgstr "#38"
 #  text 
 #  warnings: 0 
 #: sc/0207:16 
-#, fuzzy
 msgid "ああ、オレだ。\nオレは……オレは通称、下ネタの３８番！\n"
 msgstr ""
-"Oh, it seems that I'm up. You see,\n"
-"I'm the one simply known as... Dirty joke comedian #38!\n"
+"Oh, it seems that I'm up. You see, my\n"
+"street name is…dirty joke comedian #38!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:17 
-#, fuzzy
 msgid "下……や、やめろっ！\n消される！　絶対に消されちまう！\n"
 msgstr ""
-"Dirty j... S-shut! You'll die!\n"
+"Dirty... S-shut! You'll die!\n"
 "You'll be absolutely erased!\n"
 
 #  speaker 
@@ -259,7 +258,7 @@ msgstr ""
 #: sc/0207:20 
 msgid "……よし。\nそれじゃまず、俺の育てている芋の話を弌弌\n"
 msgstr ""
-"...aight. Well then, why don't I first\n"
+"...Aight. Well then, why don't I first\n"
 "talk about my potato farm--\n"
 
 #  speaker 
@@ -291,14 +290,14 @@ msgstr "OOOOooooough!\n"
 #: sc/0207:23 
 msgid "ヤバイ……生半可な芸では……\nオレたち全員、姫に弌弌\n"
 msgstr ""
-"Crap... I can't do this dumb act...\n"
-"Is it really our fate to--\n"
+"Crap…… I can't do this dumb act……\n"
+"Is it really our fate to——\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:24 
 msgid "弌弌消される――――っ！\n"
-msgstr "--be erased!?\n"
+msgstr "——be erased!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -322,7 +321,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:26 
 msgid "は、はいっ！\n次の者、はやくやれっ！\n"
-msgstr "...o-of course! Someone, quickly!\n"
+msgstr "Of, of course! Someone, quickly!\n"
 
 #  text 
 #  warnings: 1 
@@ -336,14 +335,14 @@ msgstr "Hey, isn't there anyone with an act!?\n"
 msgid "そ、そんなこと言われても……\nオレも下ネタだったし……。\n"
 msgstr ""
 "E-even at death's door, I still\n"
-"can't think of an act...\n"
+"can't think of an act…….\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:29 
 msgid "オ、オレは踊りだ。だけど……\nとてもじゃないがここを乗り切る自信は……。\n"
 msgstr ""
-"I-I was going to dance... But... I need\n"
+"I, I was going to dance…but…I need\n"
 "time to steel my nerves...\n"
 
 #  text 
@@ -351,23 +350,22 @@ msgstr ""
 #: sc/0207:30 
 msgid "ならどうすんだよ！？\nこのままじゃオレたち、全滅だぞ！？\n"
 msgstr ""
-"Are you serious!? We're all about\n"
-"to die!!\n"
+"Are you serious!? \n"
+"We're all about to die!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0207:31 
 msgid "……そうだ！　アレはどうだ？\nギャラクシ―テレビと提携して進めていた弌弌\n"
 msgstr ""
-"...that's it! What was it again? I\n"
-"think it was called, like, Galaxy TV--\n"
+"…That's it! What was it again? I\n"
+"think it was called, like, Galaxy TV——\n"
 
 #  text 
 #  warnings: 4 
 #: sc/0207:32 
-#, fuzzy
 msgid "笑撃地球まる見えテレビか！\n"
-msgstr "The Laugh Attack Great Earth TV show！\n"
+msgstr "The Laugh Attack ☆ Great Earth TV show！\n"
 
 #  text 
 #  warnings: 1 
@@ -380,10 +378,9 @@ msgstr ""
 #  text 
 #  warnings: 1 
 #: sc/0207:34 
-#, fuzzy
 msgid "……しかし、あれはまだ\n放映準備の段階じゃなかったか？\n"
 msgstr ""
-"...not to bum you out or anything,\n"
+"…Not to bum you out or anything,\n"
 "but doesn't it air next Saturday?\n"
 
 #  text 
@@ -391,8 +388,8 @@ msgstr ""
 #: sc/0207:35 
 msgid "スタジオ船に交渉して放映を前倒しさせろ！\nオレたちの命がかかってるんだ！\n"
 msgstr ""
-"Get in contact with the studio & bring\n"
-"it forward! Our lives are at stake!\n"
+"Get in contact with the studio and make\n"
+"it air! Our lives are at stake!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -430,7 +427,7 @@ msgstr "???"
 #  warnings: 0 
 #: sc/0207:38 
 msgid "……お―い……見えてるか……。\n"
-msgstr "...hey! See anything?\n"
+msgstr "……Hey! See……anything?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -443,8 +440,8 @@ msgstr ""
 #: sc/0207:39 
 msgid "……え？　まだ？\nんじゃ、ちょっと調整を……。\n"
 msgstr ""
-"...what? Nothing? Well...\n"
-"...let me tune it some more...\n"
+"…What? Nothing? Well…\n"
+"…let me tune it some more…\n"
 
 #  speaker 
 #  warnings: 0 
@@ -457,8 +454,8 @@ msgstr "#97"
 #: sc/0207:40 
 msgid "これでどうだ？　あ、ちなみにオレ９７番。\nそんで目の前に映ってんのが弌弌\n"
 msgstr ""
-"How's this? Oh, by the way I'm #97, the cameraman,\n"
-"and the guy in front of me is--\n"
+"How's this? Oh, by the way I'm #97, the\n"
+"cameraman, and the person you see is——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -471,8 +468,8 @@ msgstr "#9"
 #: sc/0207:41 
 msgid "は〜い！　９番で―す。ただいま地球で―す。\nそれでは、９番……いきま〜す！\n"
 msgstr ""
-"Yes! #9, reporting.\n"
-"Broadcasting right from Earth!\n"
+"Yes～! #9, reporting. Broadcasting\n"
+"right from Earth! Here we go～!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -485,8 +482,8 @@ msgstr ""
 #: sc/0207:42 
 msgid "俺たちのエ―ス、通称セクハラの９番！\n金一封でるよ〜、こりゃ。\n"
 msgstr ""
-"Our ace reporter #9, the pervert!\n"
-"This is gold seal material.\n"
+"Our ace reporter the perverted #9! This\n"
+"is gold seal material～. Take a look.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -499,8 +496,8 @@ msgstr ""
 #: sc/0207:43 
 msgid "……えっ？　ち、地球チ―ム、聞こえてるか！\n待てっ、待つんだっ！\n"
 msgstr ""
-"...what? Earth team, can you hear me?\n"
-"W-wait!\n"
+"…What? Team Earth, can you hear me?\n"
+"W-wait! Hold on!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -566,7 +563,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0207:48 
 msgid "………………。\n"
-msgstr "..........\n"
+msgstr "……\n"
 
 #  speaker 
 #  warnings: 0 

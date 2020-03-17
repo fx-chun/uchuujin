@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:07+0000\n"
-"PO-Revision-Date: 2020-02-06 03:47+0000\n"
+"PO-Revision-Date: 2020-03-18 03:47+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0034/en_US/>\n"
@@ -23,9 +23,8 @@ msgstr "Daiku"
 #  text 
 #  warnings: 1 
 #: sc/0034:0 
-#, fuzzy
 msgid "いや―、囲碁サッカ―って中楽しいな。\n"
-msgstr "//String is incorrect. Has a typo. Should be 中々楽しいな。in the end.\n"
+msgstr "Whoo—! Igo-Soccer is pretty fun.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -38,6 +37,8 @@ msgstr "Makoto"
 #: sc/0034:1 
 msgid "そうでしょう？\nこれほど奥が深いスポ―ツ他にありませんよ！\n"
 msgstr ""
+"Right? There is no other\n"
+"sport that is this deep!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -62,6 +63,8 @@ msgstr ""
 #: sc/0034:3 
 msgid "いや―、でも今日の練習は残念だった。\n盛り上がってきた所で下校時間なんてな。\n"
 msgstr ""
+"Yeah, practice was a shame. You can't\n"
+"leave when it's about to get warmed up.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,7 +88,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:5 
 msgid "お、桜井くん、あそこに公園があるぞ！\n"
-msgstr ""
+msgstr "Sakurai-kun, there's a park over there!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -97,7 +100,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:6 
 msgid "……やります？\n"
-msgstr ""
+msgstr "……Wanna play?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -110,6 +113,8 @@ msgstr ""
 #: sc/0034:7 
 msgid "ああ！\n関口もやるよな？\n"
 msgstr ""
+"Aah!\n"
+"Will you also play Sekiguchi?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,7 +126,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:8 
 msgid "私はいいです。\n"
-msgstr ""
+msgstr "I'm fine.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,7 +138,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:9 
 msgid "そっか……じゃあ関口はマネ―ジャ―だな！\n"
-msgstr ""
+msgstr "I see…… Well, you can be manager then!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,7 +150,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:10 
 msgid "それも嫌です。\n"
-msgstr ""
+msgstr "That's also a no.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -158,6 +163,8 @@ msgstr ""
 #: sc/0034:11 
 msgid "も―、そういうこと言うなって。\nとりあえずオレたちは練習してくから！\n"
 msgstr ""
+"Jeez, so that's how it is.\n"
+"For time being we're going to practice!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,7 +176,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:12 
 msgid "とりあえずリフティングからやりましょうか。\n"
-msgstr ""
+msgstr "Let's start with lifting the ball.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -182,6 +189,8 @@ msgstr ""
 #: sc/0034:13 
 msgid "よっ、は……っ！\nここで碁石を……っと！\n"
 msgstr ""
+"Hmph, ha……!\n"
+"Now, Igo…… Hold on, now!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -193,7 +202,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:14 
 msgid "よしっ、ここで高く上げて……！\n"
-msgstr ""
+msgstr "Alright, now we'll raise it……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,7 +226,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:16 
 msgid "ここでシュ―ト！！\n"
-msgstr ""
+msgstr "Now shoot!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -241,7 +250,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:18 
 msgid "あっ、危ない！！\n"
-msgstr ""
+msgstr "Ah, watch out!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -253,7 +262,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:19 
 msgid "だ、誰か、当たった！？\n"
-msgstr ""
+msgstr "Wh-who scored!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,7 +274,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:20 
 msgid "うわっ、校長先生ですよ！？\n"
-msgstr ""
+msgstr "Uwah, the principal!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,37 +286,41 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:21 
 msgid "だ、大丈夫ですか……？\n"
-msgstr ""
+msgstr "A-are you alright……?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0034:22 
 msgid "アンテナが折れた―！？\n"
-msgstr ""
+msgstr "The antenna broke—!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0034:23 
 msgid "くそっ、あの球体はこの星の兵器なのか！？\n"
-msgstr ""
+msgstr "Is that sphere a weapon of this planet?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0034:24 
 msgid "いや、誰がどう見てもサッカ―ボ―ルだろ！\nただの遊び道具だ！\n"
 msgstr ""
+"No matter how you look at it, that's\n"
+"a soccer ball! It's just a play thing!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0034:25 
 msgid "そんな、じゃあアンテナの\n強度に問題があったとでも！？\n"
 msgstr ""
+"No way.\n"
+"One that damaged our strong antenna!?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0034:26 
 msgid "どう考えてもそうだ！\n"
-msgstr ""
+msgstr "No matter how you see it, that's right!\n"
 
 #  text 
 #  warnings: 1 

@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
 "PO-Revision-Date: 2020-04-09 20:50+0000\n"
-"Last-Translator: Max Ihrén @Mican <max.ihren@gmail.com>\n"
+"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0029/en_US/>\n"
 "Language: en_US\n"
@@ -37,6 +37,8 @@ msgstr ""
 #: sc/0029:1 
 msgid "なんだかんだで、気分転換どころか\n逆に気疲れしてしまったな……。\n"
 msgstr ""
+"In the end, this was far from a change\n"
+"of pace. But, now I'm exhausted……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,7 +50,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:2 
 msgid "まあいいか。\n"
-msgstr ""
+msgstr "Well, whatever.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +63,8 @@ msgstr ""
 #: sc/0029:3 
 msgid "持ち帰りの大福もある。\nあとは理科室で、ゆっくり楽しもう。\n"
 msgstr ""
+"I still have to-go Daifuku. Gonna savor\n"
+" those in the science room after this.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -72,7 +76,7 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0029:4 
 msgid "あ、あの〜、中村先生……。\n"
-msgstr ""
+msgstr "Ah, um～, Nakamura-sensei…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +89,8 @@ msgstr ""
 #: sc/0029:5 
 msgid "はい？　……ああ、桜井先生。\nどうかしましたか？\n"
 msgstr ""
+"Yes? ……Oh, Sakurai-sensei.\n"
+"What's the matters?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -96,7 +102,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:6 
 msgid "あっ、あの……えっと……。\n"
-msgstr "Ah, um…… Eh…….\n"
+msgstr "Ah, um…… You see…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -133,6 +139,8 @@ msgstr ""
 #: sc/0029:9 
 msgid "（……なんだ？　用があるなら\n　早く済ませてほしいんだが……）\n"
 msgstr ""
+"(……What's up? If there's something,\n"
+"I'd like her to spit it out soon……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +153,8 @@ msgstr ""
 #: sc/0029:10 
 msgid "あの……ああいうことは……\n風紀が乱れるので…………。\n"
 msgstr ""
+"You see…… How should I put it…… Because\n"
+"the school's morality is declining………….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +167,8 @@ msgstr ""
 #: sc/0029:11 
 msgid "…………？　すみません、\n言ってることがよくわからないのですが。\n"
 msgstr ""
+"…………? Sorry, but I don't\n"
+"really get want you're saying though.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -192,7 +204,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:14 
 msgid "あっ、また……。\n"
-msgstr ""
+msgstr "Oh, again……….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -204,7 +216,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:15 
 msgid "（また？　……あ、犬だ）\n"
-msgstr ""
+msgstr "(Again? ……Ah, the dog.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,6 +229,8 @@ msgstr ""
 #: sc/0029:16 
 msgid "……ああ、もしかして風紀とは\nこの犬のことですか？\n"
 msgstr ""
+"……Ah, could the morality have\n"
+"something to do with the dog?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -277,36 +291,46 @@ msgstr ""
 #: sc/0029:21 
 msgid "……ん？\n大福の袋に何か当たったか？\n"
 msgstr ""
+"……Hmm? Did I win\n"
+"something from the Daifuku bag?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0029:22 
 msgid "えっ？　今ので折れたのか！？\n脆すぎるだろっ！！！\n"
 msgstr ""
+"Ah! Did that just break it!?\n"
+"It's way too brittle!!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0029:23 
 msgid "くそ、アンテナ作ったやつ呼び出せ！\nいくらなんでも手抜きすぎだろ！？\n"
 msgstr ""
+"Dang it, call in the guys who made\n"
+"the antenna! They totally gypped us!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0029:24 
 msgid "本部、応答せよ！　本部！\n技術班に繋げてくれ！　対策を弌弌\n"
 msgstr ""
+"HQ, respond! HQ! Connect us to the\n"
+"technical crew! Then make adjustments—.\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0029:25 
 msgid "留守電"
-msgstr ""
+msgstr "Answering Machine"
 
 #  text 
 #  warnings: 0 
 #: sc/0029:25 
 msgid "ただいま都合により通話をお受けできません。\n発信音のあとにメッセ―ジをどうぞ。\n"
 msgstr ""
+"We cannot accept calls at this moment.\n"
+"Please leave a message after the tone.\n"
 
 #  speaker 
 #  warnings: 2 
@@ -390,7 +414,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:32 
 msgid "い、いや！　誤解です！　それは弌弌\n"
-msgstr ""
+msgstr "No! It's a misunderstanding! You see——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -402,7 +426,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:33 
 msgid "ひっ！\n"
-msgstr ""
+msgstr "*Gasp*!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -451,6 +475,8 @@ msgstr ""
 #: sc/0029:37 
 msgid "（これはマズイ！\n　桜井先生は間違いなく誤解を！）\n"
 msgstr ""
+"(This is bad! Sakurai-sensei\n"
+"definitely misunderstood!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -474,7 +500,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:39 
 msgid "ひっ……！\n"
-msgstr ""
+msgstr "*Gasp*……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -522,7 +548,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:43 
 msgid "あっ……ス、スイマセン……。\n"
-msgstr ""
+msgstr "Ah, ……p-pardon me…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -594,7 +620,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:49 
 msgid "桜井先生！　逃げないでください！\n"
-msgstr ""
+msgstr "Sakurai-sensei! Please don't run away!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -606,7 +632,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:50 
 msgid "わぁっ！？\n"
-msgstr ""
+msgstr "Waaah!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -618,7 +644,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:51 
 msgid "捕まえた！！\n"
-msgstr ""
+msgstr "I got you!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -642,7 +668,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:53 
 msgid "さあ、ちゃんと話を聞いてもらいますよ。\n"
-msgstr ""
+msgstr "Hey, really listen to what I'm saying.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +704,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:56 
 msgid "ううぅ……。\n"
-msgstr ""
+msgstr "Ugggggh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -714,7 +740,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:59 
 msgid "マッサ―ジ……ですか？\n"
-msgstr ""
+msgstr "A…… massage?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -738,7 +764,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:61 
 msgid "ほ、本当ですか？\n"
-msgstr ""
+msgstr "R-really?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -858,7 +884,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:71 
 msgid "あっ！？　桜井先生！！\n"
-msgstr ""
+msgstr "Ah!? Sakurai-sensei!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -882,7 +908,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:73 
 msgid "終わった……何もかも……。\n"
-msgstr ""
+msgstr "It's over…… Everything…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -919,6 +945,8 @@ msgstr ""
 #: sc/0029:76 
 msgid "……桜井先生、大福でも食べませんか？\n"
 msgstr ""
+"……Sakurai-sensei,\n"
+"won't you eat some Daifuku?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -930,7 +958,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:77 
 msgid "えっ？　だ、大福ですか？\n"
-msgstr ""
+msgstr "Eh? Da-daifuku?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -954,7 +982,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:79 
 msgid "あ、は、はい……頂きます。\n"
-msgstr ""
+msgstr "Ah, yes…… I'm grateful for this meal.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -978,7 +1006,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:81 
 msgid "はむっ……。\n"
-msgstr ""
+msgstr "*Chomp*…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -990,7 +1018,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:82 
 msgid "わぁ、おいしい……！\n"
-msgstr ""
+msgstr "Wah, it's delicious……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1051,6 +1079,8 @@ msgstr ""
 #: sc/0029:87 
 msgid "うまい店なら何件か知ってますよ。\nこの後、一緒に食事でもどうですか？\n"
 msgstr ""
+"I know some good restaurants.\n"
+"After this, how about dinner together?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1062,7 +1092,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:88 
 msgid "えっ？　食事ですか？\n"
-msgstr ""
+msgstr "Eh? Dinner?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1158,7 +1188,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:96 
 msgid "えっ？　桜井先生？\n"
-msgstr ""
+msgstr "Eh? Sakurai-sensei?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1194,4 +1224,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0029:99 
 msgid "桜井先生――――！！\n"
-msgstr ""
+msgstr "Sakurai-sensei————!!\n"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:07+0000\n"
-"PO-Revision-Date: 2020-03-29 00:49+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-06-14 00:00+0000\n"
+"Last-Translator: Max Ihrén @Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0034/en_US/>\n"
 "Language: en_US\n"
@@ -24,7 +24,7 @@ msgstr "Daiku"
 #  warnings: 1 
 #: sc/0034:0 
 msgid "いや―、囲碁サッカ―って中楽しいな。\n"
-msgstr "Whoo—! Igo-Soccer is pretty fun.\n"
+msgstr "Hey—! Igo-Soccer is actually pretty fun.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -63,8 +63,8 @@ msgstr ""
 #: sc/0034:3 
 msgid "いや―、でも今日の練習は残念だった。\n盛り上がってきた所で下校時間なんてな。\n"
 msgstr ""
-"Yeah, practice was a shame. You can't\n"
-"leave when it's about to get warmed up.\n"
+"Man, today's practice was a shame. We have to head back to school \n"
+"just as things started to get interesting.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -77,6 +77,7 @@ msgstr ""
 #: sc/0034:4 
 msgid "オレも高崎先生に教わったこと、\nもっと試したかったんですけど……。\n"
 msgstr ""
+"And I wanted to try out more of what Takasaki-sensei taught me before……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -112,9 +113,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:7 
 msgid "ああ！\n関口もやるよな？\n"
-msgstr ""
-"Aah!\n"
-"Will you also play Sekiguchi?\n"
+msgstr "Right, will you also play Sekiguchi?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -163,8 +162,8 @@ msgstr ""
 #: sc/0034:11 
 msgid "も―、そういうこと言うなって。\nとりあえずオレたちは練習してくから！\n"
 msgstr ""
-"Jeez, so that's how it is.\n"
-"For time being we're going to practice!\n"
+"C'mon, no need to say that.\n"
+"Well we will go and do some practice!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -190,7 +189,7 @@ msgstr ""
 msgid "よっ、は……っ！\nここで碁石を……っと！\n"
 msgstr ""
 "Hmph, ha……!\n"
-"Now, Igo…… Hold on, now!\n"
+"And then the Igo-stones…… uf!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -202,7 +201,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:14 
 msgid "よしっ、ここで高く上げて……！\n"
-msgstr "Alright, now we'll raise it……!\n"
+msgstr "Alright, now lift them up high and……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -226,7 +225,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:16 
 msgid "ここでシュ―ト！！\n"
-msgstr "Now shoot!!\n"
+msgstr "Now a shoot!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -262,7 +261,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:19 
 msgid "だ、誰か、当たった！？\n"
-msgstr "Wh-who scored!?\n"
+msgstr "Did someone got hit!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -274,7 +273,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:20 
 msgid "うわっ、校長先生ですよ！？\n"
-msgstr "Uwah, the principal!?\n"
+msgstr "Uwah, it's the principal!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -314,7 +313,7 @@ msgstr ""
 msgid "そんな、じゃあアンテナの\n強度に問題があったとでも！？\n"
 msgstr ""
 "No way.\n"
-"One that damaged our strong antenna!?\n"
+"Was there any problem with the strenght of the antenna perhaps!?\n"
 
 #  text 
 #  warnings: 1 
@@ -325,14 +324,17 @@ msgstr "No matter how you see it, that's right!\n"
 #  text 
 #  warnings: 1 
 #: sc/0034:27 
+#, fuzzy
 msgid "なんせ、ザ・ズボラと呼ばれる俺が\n組み立てたんだからな！\n"
 msgstr ""
+"Well the one that assembled the antenna was none other than me, \"The "
+"sloppy\".\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0034:28 
 msgid "（そんなヤツに任せるなよ……）\n"
-msgstr ""
+msgstr "(Don't leave it up to someone like that……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -344,7 +346,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:29 
 msgid "ふぅ……これくらいにしとこうか。\n"
-msgstr ""
+msgstr "Phew……let's call it day.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -356,7 +358,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:30 
 msgid "そうですね。\n"
-msgstr ""
+msgstr "Yeah.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -380,7 +382,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:32 
 msgid "何だ関口、待っててくれたのか？\n"
-msgstr ""
+msgstr "Oh Sekiguchi, so you waited for us?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -392,7 +394,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:33 
 msgid "これを。\n"
-msgstr ""
+msgstr "Here you go.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -405,6 +407,8 @@ msgstr ""
 #: sc/0034:34 
 msgid "あ、タオルとジュ―スだ。\nありがとうございます。\n"
 msgstr ""
+"Ah, a towel and a juice packet.\n"
+"Thank you so much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -416,7 +420,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:35 
 msgid "部長も、どうぞ。\n"
-msgstr ""
+msgstr "For you Club President too. Here you go.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -428,7 +432,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:36 
 msgid "なんだ、用意いいじゃないか関口。\n"
-msgstr ""
+msgstr "Wow, you are good at preparing Sekiguchi.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -440,7 +444,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:37 
 msgid "待ってる間、暇だったので。\n"
-msgstr ""
+msgstr "Well I got bored just waiting so.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -464,7 +468,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:39 
 msgid "なあ、関口。\n"
-msgstr ""
+msgstr "Hey, Sekiguchi.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -476,7 +480,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:40 
 msgid "やっぱりお前、マネ―ジャ―向いてるよ！\n"
-msgstr ""
+msgstr "You really fit as a manager!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -488,7 +492,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:41 
 msgid "……言うと思いました。\n"
-msgstr ""
+msgstr "……That's what I thought you'd say.\n"
 
 #  speaker 
 #  warnings: 1 
@@ -500,7 +504,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0034:42 
 msgid "ってことはつまり、\n実はやる気満だったんだな？\n"
-msgstr ""
+msgstr "Which means then, you really wanted to be it then?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -512,7 +516,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:43 
 msgid "いえ、やる気は無いです。\n"
-msgstr ""
+msgstr "No, I don't have any motivation for that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -524,7 +528,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:44 
 msgid "なんだよそれ―、変なヤツだな―。\n"
-msgstr ""
+msgstr "Hey what's that about then. You sure are weird.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -536,7 +540,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:45 
 msgid "……そうだ、部長！\n"
-msgstr ""
+msgstr "……Oh right, hey Club President!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -548,7 +552,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:46 
 msgid "どうした桜井くん。\n"
-msgstr ""
+msgstr "What is it Sakurai-kun.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -561,6 +565,8 @@ msgstr ""
 #: sc/0034:47 
 msgid "だったら、これはどうですか？\n……ごにょごにょ。\n"
 msgstr ""
+"In that case, how about this?\n"
+"……whisper whisper.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -584,7 +590,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:49 
 msgid "嫌な予感がするので先に断ってもいいですか？\n"
-msgstr ""
+msgstr "I have a bad feeling about this so is it ok if I say no already.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -597,6 +603,8 @@ msgstr ""
 #: sc/0034:50 
 msgid "いいから聞け。\n関口はマネ―ジャ―が嫌なんだよな？\n"
 msgstr ""
+"It's fine, just hear.\n"
+"Sekiguchi, you don't want to be a manager right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -608,7 +616,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:51 
 msgid "いえ、マネ―ジャ―がと言うわけでは弌弌\n"
-msgstr ""
+msgstr "Well no, it's just that I don't want to be called that--\n"
 
 #  speaker 
 #  warnings: 0 
@@ -621,6 +629,7 @@ msgstr ""
 #: sc/0034:52 
 msgid "今日からお前は\n時定高校囲碁サッカ―部の監督だ！！\n"
 msgstr ""
+"From today, I here by assign you as the supervisor of the Igo-soccer club!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -632,7 +641,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:53 
 msgid "監督？\n"
-msgstr ""
+msgstr "Supervisor?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -645,6 +654,8 @@ msgstr ""
 #: sc/0034:54 
 msgid "そう！　高崎先生はあくまで臨時顧問！\nつまりうちの部には監督が居ないんだ！\n"
 msgstr ""
+"Yeah! Takasaki-sensei is after all only our advisor temporarily!\n"
+"So basically our club does not have a supervisor.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -657,6 +668,7 @@ msgstr ""
 #: sc/0034:55 
 msgid "そこで関口さんが監督になってくれれば\n全部解決するんですよ！\n"
 msgstr ""
+"So if you were the supervisor then it would clear up a lot of problems!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -668,7 +680,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:56 
 msgid "全然解決してないような……。\n"
-msgstr ""
+msgstr "I feel like that doesn't solve anything though……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -681,6 +693,8 @@ msgstr ""
 #: sc/0034:57 
 msgid "おいおい何言ってんだよ監督！\n明日、就任の挨拶をしてもらうからな！\n"
 msgstr ""
+"Hey hey, what are you saying supervisor!\n"
+"Tomorrow let me hearing greeting from you as that role!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -692,7 +706,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:58 
 msgid "これで必要な役職が全部揃いましたね！\n"
-msgstr ""
+msgstr "With this we have all the neccesary roles assigned!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -704,7 +718,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:59 
 msgid "ああ、これでうちの部も安泰だ！\n"
-msgstr ""
+msgstr "Yeah, with this our club's future is secured!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -728,7 +742,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:61 
 msgid "やっぱマネ―ジャ―に向いてるよ。\n"
-msgstr ""
+msgstr "You really fit as the role as manager.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -740,7 +754,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:62 
 msgid "なりませんから。\n"
-msgstr ""
+msgstr "I will not do it so you know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -753,6 +767,8 @@ msgstr ""
 #: sc/0034:63 
 msgid "わかってる！\nもうマネ―ジャ―になれとは言わないって。\n"
 msgstr ""
+"I know!\n"
+"I won't call you that from now on.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -764,7 +780,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:64 
 msgid "その代わり、\n俺にマネ―ジャ―のやり方を教えてくれ！\n"
-msgstr ""
+msgstr "But instead, please teach me how to be a manager!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -788,7 +804,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:66 
 msgid "えぇっ！？\n"
-msgstr ""
+msgstr "Huh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -800,7 +816,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:67 
 msgid "部長兼マネ―ジャ―とか凄くないか？\n"
-msgstr ""
+msgstr "Club President and manager, doesn't that sound amazing?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -813,6 +829,8 @@ msgstr ""
 #: sc/0034:68 
 msgid "ついでに囲碁サッカ―自体もちょっとやるから\nなんとプレイングマネ―ジャ―だぞ！\n"
 msgstr ""
+"And also I will do some playing too so I will be a playing manager on top of "
+"that!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -824,7 +842,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:69 
 msgid "え、え―っと……プレイングマネ―ジャ―って\nそういう意味でしたっけ？\n"
-msgstr ""
+msgstr "Eh, Ahem……is that really what it means to be a play\n"
 
 #  speaker 
 #  warnings: 0 
@@ -849,6 +867,8 @@ msgstr ""
 #: sc/0034:71 
 msgid "そうだろ？\nだから関口、俺にマネ―ジャ―道を……。\n"
 msgstr ""
+"I'm pretty sure?\n"
+"So Sekiguchi, could you please teach me in the ways of managing....\n"
 
 #  speaker 
 #  warnings: 0 
@@ -860,7 +880,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:72 
 msgid "私がやります。\n"
-msgstr ""
+msgstr "No I will do it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -872,7 +892,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:73 
 msgid "いや、関口今やらないって。\n"
-msgstr ""
+msgstr "Ah well, you said earlier that you didn't wanted to do it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -884,7 +904,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:74 
 msgid "私がやりますから。\n"
-msgstr ""
+msgstr "No but I will do it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -896,7 +916,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:75 
 msgid "そうか、ならお前に任せるよ。\n"
-msgstr ""
+msgstr "Alright, then I will leave it to you then.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -908,7 +928,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:76 
 msgid "よ―し、マネ―ジャ―も決まったことだし、\nそろそろ帰ろうぜ！\n"
-msgstr ""
+msgstr "Sweet, now we have the manager is decided. Well guys let's go home!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -932,7 +952,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:78 
 msgid "……お疲れ様です。\n"
-msgstr ""
+msgstr "……Thanks for putting up with it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -944,7 +964,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:79 
 msgid "やっぱりマネ―ジャ―、やってくれないか？\n"
-msgstr ""
+msgstr "So will you really not be the manager?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -956,7 +976,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:80 
 msgid "無理ですよ。\n"
-msgstr ""
+msgstr "No it's not possible.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -968,7 +988,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:81 
 msgid "そう言わずにさ―。\n"
-msgstr ""
+msgstr "No need to say it like that-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -980,7 +1000,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:82 
 msgid "そう言われても……。\n"
-msgstr ""
+msgstr "Even if you it so...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -992,7 +1012,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:83 
 msgid "めんどくさい仕事押し付けないからさ―。\n"
-msgstr ""
+msgstr "I won't request any bothersome work for you or anything-\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1004,7 +1024,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:84 
 msgid "めんどくさいからってわけでは\nないんですが……やはりちょっと。\n"
-msgstr ""
+msgstr "Well it's not because of the workload……well it's just a little..\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1016,7 +1036,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:85 
 msgid "どうしても？\n"
-msgstr ""
+msgstr "So there's no way?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1028,7 +1048,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:86 
 msgid "どうしてもです。\n"
-msgstr ""
+msgstr "Yeah no way.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1040,7 +1060,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:87 
 msgid "なってくれたら\n言うこと何でも聞くって言っても？\n"
-msgstr ""
+msgstr "Even if you become it I'd listen to whatever you say from then on.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1064,7 +1084,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:89 
 msgid "なりません。\n"
-msgstr ""
+msgstr "I will not do it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1076,19 +1096,21 @@ msgstr ""
 #  warnings: 0 
 #: sc/0034:90 
 msgid "（今一瞬悩んだ！？）\n"
-msgstr ""
+msgstr "(Did she just think about it for a second!?)\n"
 
 #  speaker 
 #  warnings: 0 
 #: sc/0034:91 
 msgid "大工"
-msgstr ""
+msgstr "xDaiku"
 
 #  text 
 #  warnings: 0 
 #: sc/0034:91 
 msgid "それじゃしょうがないな！\nさ、帰ろうぜ！\n"
 msgstr ""
+"Well it can't be helped!\n"
+"Hey, let's go home guys!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1112,4 +1134,4 @@ msgstr "Sakurai Makoto"
 #  warnings: 0 
 #: sc/0034:93 
 msgid "（いいの！？）\n"
-msgstr ""
+msgstr "(She's fine with that!?)\n"

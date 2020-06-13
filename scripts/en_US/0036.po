@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:13+0000\n"
-"PO-Revision-Date: 2020-04-09 20:49+0000\n"
-"Last-Translator: Zygottwo Ensnigg <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-06-13 23:57+0000\n"
+"Last-Translator: Max Ihrén @Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0036/en_US/>\n"
 "Language: en_US\n"
@@ -63,7 +63,7 @@ msgstr ""
 #: sc/0036:3 
 msgid "何故……僕の髪の毛が\nこんな風になってるんだ……！！\n"
 msgstr ""
-"Why… has my hair\n"
+"So why… has my hair\n"
 "become like this……!!\n"
 
 #  speaker 
@@ -78,7 +78,7 @@ msgstr ""
 msgid "何か違和感があると思ったら……\nうっすらと透けている……！！\n"
 msgstr ""
 "I thought my hair looked off today…\n"
-"And yeah, it's slightly transparent…!!\n"
+"like it's slightly transparent…!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -91,8 +91,8 @@ msgstr ""
 #: sc/0036:5 
 msgid "ここに確かにあるのに……\n触ることができない……！\n"
 msgstr ""
-"It's supposed to be here…\n"
-"But I can't touch it……!\n"
+"It's definitely here but…\n"
+"I can't touch it……!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,11 +169,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0036:11 
-#, fuzzy
 msgid "それが今だ……悲観に走る暇があるのなら\n学校に行くまでに問題を解決しないと。\n"
 msgstr ""
-"And now is one of those moments....I can't be all pessimistic about this all "
-"day. I have to solve this problem before I go to school.\n"
+"And now is one of those moments....I can't be troubled about this all day. \n"
+"I have to solve this problem before I go to school.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -310,19 +309,18 @@ msgstr ""
 #  text 
 #  warnings: 1 
 #: sc/0036:23 
-#, fuzzy
 msgid "ほらみろ！　機械だから水には弱いんだぞ！\n不用意に変なのつけるんじゃないって！\n"
 msgstr ""
-"See what I mean! It's a machine so it's weak to water. How stupid do you "
-"have to be to put wierd stuff on your head like that!\n"
+"See what I mean! It's electronic so it's weak to water. \n"
+"Can't just carelessly put weird stuff on your head like that!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0036:24 
 msgid "へ、変とはなんだ！\n偉大なる聖水を侮辱するな――っ！\n"
 msgstr ""
-"D-did you say weird! Don't you dare talk shit about the great holy water of "
-"hair growth.\n"
+"D-did you just say it's weird! Don't you dare talk shit about the great holy "
+"water of hair growth.\n"
 
 #  text 
 #  warnings: 1 
@@ -371,11 +369,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0036:29 
-#, fuzzy
 msgid "ま、まあ、使ったところで\nすぐに生えてくるわけじゃないけど……。\n"
 msgstr ""
-"W- Well like if it matters, it's not like it will grow out right away when I "
-"put it on though.\n"
+"W- Well it's not like it will grow out right away when I put it on though.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -399,7 +395,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0036:31 
 msgid "チュ、チュ―リップになった！？\n"
-msgstr "It became a T-Tulip!?\n"
+msgstr "It sprouted a T-Tulip!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -437,7 +433,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0036:34 
 msgid "も、もう一回……！\n"
-msgstr "O- Once more.....!\n"
+msgstr "O-Once more.....!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -547,7 +543,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0036:43 
 msgid "だけど育毛剤の効果はあるのか……。\n"
-msgstr "But, did the formula have an effect….\n"
+msgstr "But, the formula had an effect….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -571,7 +567,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0036:45 
 msgid "なら、水をあげれば……。\n"
-msgstr "What if, I added some water…….\n"
+msgstr "Then what if I added some water…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -619,7 +615,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0036:49 
 msgid "ど、どうしよう……。\n"
-msgstr "W- What should I do…….\n"
+msgstr "W-What should I do…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -645,7 +641,7 @@ msgstr "Nakanojo-san"
 msgid "おい、剛。\nそろそろ学校に行かなくていいのか？\n"
 msgstr ""
 "Hey, Tsuyoshi. \n"
-"Don't you have to head to school soon?\n"
+"Don't you have to go to school soon?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -737,7 +733,7 @@ msgstr "(Th- This is bad, I can't let my mom see me like this aswell!)\n"
 #  warnings: 0 
 #: sc/0036:59 
 msgid "中之条"
-msgstr "Nakanojou"
+msgstr "Nakanojo"
 
 #  text 
 #  warnings: 0 

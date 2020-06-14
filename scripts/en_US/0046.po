@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:18+0000\n"
-"PO-Revision-Date: 2020-06-14 00:00+0000\n"
+"PO-Revision-Date: 2020-06-15 00:53+0000\n"
 "Last-Translator: Max Ihrén @Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0046/en_US/>\n"
@@ -25,7 +25,7 @@ msgstr "Takasaki-sensei"
 #: sc/0046:0 
 msgid "ふう……昼食がすっかり遅くなってしまった。\nさて、もうひと頑張りするとしよう。\n"
 msgstr ""
-"Hmm……   Lunch has gotten awfully late.\n"
+"Phew……   Lunch has gotten awfully late.\n"
 "Well, all I can do is try my best.\n"
 
 #  speaker 
@@ -113,8 +113,8 @@ msgstr ""
 #: sc/0046:7 
 msgid "それが今回は桜井先生が行方不明なんですけど！\n"
 msgstr ""
-"Then, Sakurai-sensei's whereabouts are\n"
-"unknown at this time!\n"
+"No this time, Sakurai-sensei's whereabouts are\n"
+"unknown!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -198,13 +198,13 @@ msgstr "Hey, I have good news and bad news.\n"
 #  warnings: 1 
 #: sc/0046:15 
 msgid "……いいニュ―スから頼む。\n"
-msgstr "……Let's start with the good news.\n"
+msgstr "……Start with the good news.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0046:16 
 msgid "猫はバリアのおかげで無事だ。\n"
-msgstr "Thanks to the wall of cats, I'm fine.\n"
+msgstr "Thanks to the protective barrier on the cat, it's fine.\n"
 
 #  text 
 #  warnings: 1 
@@ -216,7 +216,7 @@ msgstr "……And the bad news?\n"
 #  warnings: 1 
 #: sc/0046:18 
 msgid "アンテナを守るのを忘れてた。\n"
-msgstr "I forgot to protect the antenna.\n"
+msgstr "The barrier didn't protect the antenna.\n"
 
 #  text 
 #  warnings: 1 
@@ -235,8 +235,8 @@ msgstr ""
 #: sc/0046:20 
 msgid "わかった！　桜井先生の危機と聞いたら\nこうしてはいられん！\n"
 msgstr ""
-"I got it! When I heard Sakurai-sensei's\n"
-"crisis, it wasn't this way!\n"
+"I got it! Hearing that Sakurai-sensei might \n"
+"be in danger, I have to do something about it!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -284,7 +284,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:24 
 msgid "桜井先生の居場所に心当たりないんですけど！\n"
-msgstr "I don't know where Sakurai-sensei is!\n"
+msgstr "I have no clue where she could be!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -308,7 +308,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:26 
 msgid "高崎先生、知ってるんですか！？\n"
-msgstr "Mr. Takasaki do you know where she is!?\n"
+msgstr "Mr. Takasaki do you know where she could be!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -356,7 +356,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:30 
 msgid "桜井先生の居場所は……知らん！\n"
-msgstr "I also don't know where Ms. Sakurai is!\n"
+msgstr "For the place she could be at……absolutely no idea!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -428,7 +428,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:36 
 msgid "ええ―――っ！！？\n"
-msgstr "Huh———！！？\n"
+msgstr "Ehhhh———！！？\n"
 
 #  speaker 
 #  warnings: 0 
@@ -440,7 +440,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:37 
 msgid "手がかりが無いからって何だ！\n"
-msgstr ""
+msgstr "It does not matter that we don't have any clue!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -453,6 +453,8 @@ msgstr ""
 #: sc/0046:38 
 msgid "教育者として人が行方不明なら何が何でも探す！\nそれが……その、教育者だ！！\n"
 msgstr ""
+"As an educator, if someone gets lost you \n"
+"should look for them, that you know……as being a teacher!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -464,7 +466,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:39 
 msgid "でも、何か今桜井先生が歩いてたんですけど。\n"
-msgstr ""
+msgstr "But, right now I just saw her passing by.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -524,7 +526,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:44 
 msgid "安中、職員室まで来なさい。\n"
-msgstr ""
+msgstr "Annaka, please follow me to the staff room.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -536,7 +538,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:45 
 msgid "ハイ。\n"
-msgstr ""
+msgstr "Yes.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -549,6 +551,8 @@ msgstr ""
 #: sc/0046:46 
 msgid "ヒント無しか……。\nこれは地道に聞き込むしか……そうだ！\n"
 msgstr ""
+"No hints huh……\n"
+"we just have to ask people then……I know!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -561,6 +565,8 @@ msgstr ""
 #: sc/0046:47 
 msgid "安中、中之条を呼んできてくれ！\n失价といえばアイツだ！\n"
 msgstr ""
+"Annaka, tell Nakanojo to come here!\n"
+"If there is someone that is an expert at disappearing  then it's him!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -572,7 +578,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:48 
 msgid "いってきます！\n"
-msgstr ""
+msgstr "I will go!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -584,7 +590,7 @@ msgstr "Nakanojo"
 #  warnings: 0 
 #: sc/0046:49 
 msgid "何ですか先生。\n"
-msgstr ""
+msgstr "What's the matter teacher.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -597,6 +603,8 @@ msgstr ""
 #: sc/0046:50 
 msgid "中之条、桜井先生が失价した。\nお前、居場所を知ってるんじゃないか？\n"
 msgstr ""
+"Nakanojo, Sakurai-sensei has disappeared. \n"
+"Do you know where she could be?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -608,7 +616,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:51 
 msgid "あ、ハイ。知ってますけど。\n"
-msgstr ""
+msgstr "Ah, yes. I do know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -621,6 +629,8 @@ msgstr ""
 #: sc/0046:52 
 msgid "（ええ―――っ！！？\n　勢いで言ったのに知ってるのかよ！）\n"
 msgstr ""
+"(Ehh———!!?\n"
+"I just said it by the spur of the moment. To think he would actually know!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -632,7 +642,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:53 
 msgid "今こっちに来る時、すれ違いました。\n"
-msgstr ""
+msgstr "I just passed her by while coming here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -656,7 +666,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:55 
 msgid "……あ、そういえば見たような気が。\n"
-msgstr ""
+msgstr "……Ah, I just had the feeling I did too.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -695,6 +705,8 @@ msgstr ""
 #: sc/0046:58 
 msgid "（そうさ、安中も悪気があったわけじゃない。\n　むしろ桜井先生を心配した結果だ）\n"
 msgstr ""
+"(That's right, Annaka didn't have any bad intent for it. \n"
+"Rather it was her being worried for her that lead to the situation.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -707,6 +719,8 @@ msgstr ""
 #: sc/0046:59 
 msgid "（それを怒れるはずがない。\n　それが教師ってもんだろ？）\n"
 msgstr ""
+"(There's no way I can fault her for that. \n"
+"That's what it means to be a teacher right?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -718,7 +732,7 @@ msgstr "Nakanojo"
 #  warnings: 0 
 #: sc/0046:60 
 msgid "……あの―、呼ばれたのってそれだけ？\n"
-msgstr ""
+msgstr "……uhm, was I asked to come just for that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -731,6 +745,8 @@ msgstr ""
 #: sc/0046:61 
 msgid "……知らん！！\nだが、１つだけわかることがある。\n"
 msgstr ""
+"……I don't know!!\n"
+"But, I do know one thing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -742,7 +758,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:62 
 msgid "な、何ですか？\n"
-msgstr ""
+msgstr "A-And what is that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -754,7 +770,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:63 
 msgid "桜井先生の居場所を見つける手がかりだ。\n"
-msgstr ""
+msgstr "A way to find out where she could be.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -766,7 +782,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:64 
 msgid "今日の昼休み、\nオレは桜井先生と話をしていたんだが……。\n"
-msgstr ""
+msgstr "During this lunch break, I had a short chat with her……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -779,6 +795,8 @@ msgstr ""
 #: sc/0046:65 
 msgid "たしか、そう！\n桜井先生は早上がりだと言っていた！\n"
 msgstr ""
+"Oh yes, right!\n"
+"She said that was finishing work early today!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -790,7 +808,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0046:66 
 msgid "た、高崎先生っ。\n"
-msgstr ""
+msgstr "T-Takasaki-sensei\n"
 
 #  speaker 
 #  warnings: 0 
@@ -803,6 +821,7 @@ msgstr ""
 #: sc/0046:67 
 msgid "それって、桜井先生は家に帰っちゃってるって\n意味に聞こえるんですけど。\n"
 msgstr ""
+"Then by the sound of that it would mean that Sakurai-sensei has gone home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -838,4 +857,4 @@ msgstr "Annaka"
 #  warnings: 0 
 #: sc/0046:70 
 msgid "あっ、高崎せんせ――――っ！？\n"
-msgstr ""
+msgstr "Ah, Takasaki-sensei———!?\n"

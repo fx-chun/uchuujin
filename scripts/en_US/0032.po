@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2020-06-17 10:59+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-06-26 18:57+0000\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0032/en_US/>\n"
 "Language: en_US\n"
@@ -26,7 +26,7 @@ msgstr "Daiku"
 msgid "さ―て、全員揃ったな。\n早速会議を始めるぞ！\n"
 msgstr ""
 "Well, now we're all here.\n"
-"Let's begin the meeting.\n"
+"Let's begin the meeting!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -39,7 +39,7 @@ msgstr ""
 #: sc/0032:1 
 msgid "え―、まず大切なのは練習試合まで\n時間が無いってことだ。\n"
 msgstr ""
-"Well, first of all, the most important is that we \n"
+"To start, what's most important is that we \n"
 "don't have that much time until we have the practice match.\n"
 
 #  speaker 
@@ -53,8 +53,8 @@ msgstr "Makoto"
 #: sc/0032:2 
 msgid "そうですね、日程的にちょっと怖いです。\nあ、あとそれに関わることなんですけど。\n"
 msgstr ""
-"Suppose so. It's scary schedule wise.\n"
-"And, about something related to that.\n"
+"I guess so. It's scary schedule wise.\n"
+"And, about that...\n"
 
 #  speaker 
 #  warnings: 0 
@@ -79,8 +79,8 @@ msgstr ""
 #: sc/0032:4 
 msgid "オレが部長のコ―チするのはいいですけど、\n自分のための練習時間が減るんですよ。\n"
 msgstr ""
-"I'm fine with being the coach for you, but it would mean\n"
-"my own practice time would shrink.\n"
+"I'm fine with coaching you guys, but it would mean\n"
+"that I couldn't practice as much.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -108,7 +108,7 @@ msgstr ""
 msgid "……顧問の先生か。\nでも、高崎先生には断られたんだろ？\n"
 msgstr ""
 "……An advising teacher, huh.\n"
-"But, Takasaki-sensei  did refuse didn't he?\n"
+"Didn't Mr. Takasaki refuse?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -134,9 +134,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:8 
 msgid "オレだけじゃなく部長も居れば\n高崎先生も考えを変えてくれると思うんです。\n"
-msgstr ""
-"If it's not only me but you come too \n"
-"i think maybe he will change his opinion about it.\n"
+msgstr "If we both try to convince him, we might win him over.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -148,7 +146,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:9 
 msgid "それに、試合までなら\n引き受けてくれるかもしれませんし。\n"
-msgstr "Besides, he could accept it if it's only for this upcoming match.\n"
+msgstr ""
+"Besides, he might accept knowing \n"
+"it's only for this upcoming match.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -174,7 +174,7 @@ msgstr ""
 msgid "よし、行くぞ桜井くん！\n関口は留守番を頼む！\n"
 msgstr ""
 "Sweet, let's go Sakurai-kun! Sekiguchi,\n"
-"I'll count on you to take messages!\n"
+"watch the club room for us!\n"
 
 #  text 
 #  warnings: 1 
@@ -186,23 +186,21 @@ msgstr "Don't get too close that door. That's dangerous.\n"
 #  warnings: 1 
 #: sc/0032:13 
 msgid "な―に、大丈夫だって。それに、\nこう覗き込ませた方が潜入感がでるんだよ。\n"
-msgstr ""
-"Pfft, it's fine. Feels more like an infiltration this way peaking through "
-"like this.\n"
+msgstr "Pfft, it's fine. Peeking through the crack makes me feel like a spy.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0032:14 
 msgid "あ、おい！　こいつら移動するぞ！\n早く猫をドアから離せ！\n"
 msgstr ""
-"Ah, hey! They are going gonna move now!\n"
+"Hey! They're gonna move now!\n"
 "Get the cat away from the door!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0032:15 
 msgid "ダ、ダメだ。間に合わない！！\n"
-msgstr "N-No I can't make it in time!!\n"
+msgstr "N-No, I can't make it in time!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -226,7 +224,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:17 
 msgid "でも、何もありませんよ？\n"
-msgstr "But, there's nothing here though.\n"
+msgstr "Didn't I hear something?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -238,7 +236,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:18 
 msgid "じゃ、気のせいか―。\n"
-msgstr "Well, might have just been my imagination.\n"
+msgstr "Eh, it was probably just my imagination.\n"
 
 #  text 
 #  warnings: 1 
@@ -262,7 +260,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:21 
 msgid "弌弌と、いうわけなんです。\n"
-msgstr "--So that's the reason for it.\n"
+msgstr "--So that's why we need you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -312,7 +310,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:25 
 msgid "……やっぱりダメみたいですよ、部長。\n"
-msgstr "....It seems like its not possible, club president.\n"
+msgstr "....I guess he won't join, club president.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -325,8 +323,8 @@ msgstr ""
 #: sc/0032:26 
 msgid "いや、まだチャンスはある。\nここは手っ取り早く短期決戦で行こう。\n"
 msgstr ""
-"No, there still is a way.\n"
-"Let's swiftly go with another approach.\n"
+"No, we can still get him.\n"
+"Let's go with another approach.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -338,7 +336,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0032:27 
 msgid "何か作戦があるんですか？\n"
-msgstr "So you've got any plan?\n"
+msgstr "You've got a plan?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -366,7 +364,7 @@ msgstr ""
 msgid "先生！　お願いします！！\n次の試合まで、それまででいいですから！！\n"
 msgstr ""
 "Teacher! I beg you!!\n"
-"If it's fine if you are only it for the next upcoming match!!\n"
+"It'll just be for the next upcoming match!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -431,6 +429,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0032:34 
+#, fuzzy
 msgid "先生、それじゃあ！\n"
 msgstr "Teacher, in that case!\n"
 

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:20+0000\n"
-"PO-Revision-Date: 2020-06-27 20:58+0000\n"
+"PO-Revision-Date: 2020-06-30 21:51+0000\n"
 "Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0035/en_US/>\n"
@@ -25,7 +25,7 @@ msgstr "Makoto Sakurai"
 #: sc/0035:0 
 msgid "それじゃ、オレはこっちなんで。\nお疲れ様でした！　また明日！\n"
 msgstr ""
-"Well, I'm heading this way so.\n"
+"Well, I gotta head this way.\n"
 "Thank you for your hard work!  See you tomorrow!\n"
 
 #  speaker 
@@ -50,7 +50,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0035:2 
 msgid "お疲れ様です。\n"
-msgstr "Thank you for your hard work!\n"
+msgstr "Thank you for your hard work.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -208,7 +208,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0035:15 
 msgid "うわっ！　つかまっちまった！\n"
-msgstr "Uwa! I've been found out!\n"
+msgstr "Uwa! They found him!\n"
 
 #  text 
 #  warnings: 1 
@@ -294,7 +294,7 @@ msgstr ""
 msgid "ああ、もちろんだ。\nこんなに面白いもんほっとけないだろ？\n"
 msgstr ""
 "Yeah, of course I am!\n"
-"There's no way I can ignore something this fun, right?\n"
+"There's no way I can ignore something that fun, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -318,7 +318,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0035:24 
 msgid "え？　オレは試合に出ないよ？\n"
-msgstr "Huh? I'm not participating in the match though?\n"
+msgstr "Huh? I'm not participating in the match.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -460,7 +460,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0035:35 
 msgid "ああ、ボ―ドゲ―ムやってるぐらい\n楽しかったしな！\n"
-msgstr "Yeah, because it was just as fun as playing the board game!\n"
+msgstr "Yeah, because it was just as fun as playing the board games!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -573,6 +573,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0035:44 
+#, fuzzy
 msgid "そりゃ付き合いだからに決まってるだろ？\nぶっちゃけ練習とかめんどくさいしさ。\n"
 msgstr ""
 "Well it's obviously part of socializing.\n"
@@ -587,9 +588,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0035:45 
+#, fuzzy
 msgid "でも、人集めといて何もしないのは\n上に立つものとしてどうかと思うしな。\n"
 msgstr ""
-"But as we brought in people and not doing anything, \n"
+"But doing nothing with a big group, \n"
 "as the head of the club, I'm not sure how I feel about that.\n"
 
 #  speaker 
@@ -628,7 +630,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0035:48 
 msgid "その……失礼ですけど、\nもっと不真面目な人だと思ってました。\n"
-msgstr "Well……excuse me, but I thought you were just a frivolous person.\n"
+msgstr "Well……excuse me, but I didn't think you were so serious.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -716,7 +718,7 @@ msgstr ""
 msgid "一生懸命やってる桜井くんも居るし、\nいまは下手なコレもできないだろ。\n"
 msgstr ""
 "But seeing Sakurai doing his best, \n"
-"It wouldn't be fair for me to do just that!\n"
+"It wouldn't be fair for find the easy way out!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -818,7 +820,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0035:63 
 msgid "関口、もし何か聞かれても\n知らないって言ってくれよ？\n"
-msgstr "Sekiguchi, if someone asks you, say that you didn't know, ok?\n"
+msgstr ""
+"Sekiguchi, if someone asks you, \n"
+"don't tell anyone what we talked about.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -854,7 +858,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0035:66 
 msgid "みんなのためですか？\n"
-msgstr "Well so you are doing it for everyone?\n"
+msgstr "So you're doing it for the club?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -879,8 +883,8 @@ msgstr ""
 #: sc/0035:68 
 msgid "初心者なのに一から部活を立ち上げた\n練習熱心な部長。\n"
 msgstr ""
-"A club president who even as a complete beginner started up the club from "
-"the ground up and trains with passion.\n"
+"I'm club president who, even as a complete beginner, \n"
+"started up club activities and trains with passion.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -893,8 +897,8 @@ msgstr ""
 #: sc/0035:69 
 msgid "しかも顧問は元高校ＬＵＯ、\n後輩は中学ＬＵＯときたもんだ。\n"
 msgstr ""
-"Also, having a club advisor that was the MVP at high school, and a freshman "
-"that used to be the MVP at his prior middle school.\n"
+"Also, I have a club advisor that was the MVP at high school, and a \n"
+"freshman that used to be the MVP at his prior middle school.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -906,7 +910,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0035:70 
 msgid "これはおいしいだろ？\n"
-msgstr "Doesn't this sound interesting?\n"
+msgstr "Don't I sound interesting?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -932,7 +936,7 @@ msgstr ""
 msgid "県大会にも出たし、\nあとは全国で勝ったりした日には凄いぞ。\n"
 msgstr ""
 "We've been in the regional tournament,\n"
-"after we end up winning the national then we would be quite the tale.\n"
+"and after we win the national, we'll be quite the tale.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -944,7 +948,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0035:73 
 msgid "もしかしたら推薦とかイケるかもな？\n"
-msgstr "Perhaps we might get a reccomendation?\n"
+msgstr "Maybe we'll even get a recommendation?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -969,8 +973,8 @@ msgstr ""
 #: sc/0035:75 
 msgid "関口も副部長とかやらないか？\nかなりおいしいポストだと思うんだよ。\n"
 msgstr ""
-"Sekiguchi you too could be the Vice President. \n"
-"I do think that sounds like a pretty sweet offer.\n"
+"Sekiguchi, you could even be the Vice President. \n"
+"That sounds like a pretty sweet offer.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -982,7 +986,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0035:76 
 msgid "……あの、部長。\n"
-msgstr "……um, club president.\n"
+msgstr "……Um, club president.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1006,7 +1010,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0035:78 
 msgid "似合ってないですよ。\n"
-msgstr "It doesn't suit you.\n"
+msgstr "This doesn't suit you.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1018,7 +1022,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0035:79 
 msgid "……なんだよ、バレバレかよ―！\n"
-msgstr "....You saw right through me huh.\n"
+msgstr "....You saw right through me, huh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1031,8 +1035,8 @@ msgstr ""
 #: sc/0035:80 
 msgid "だって内申書のためだったら\n普通の部に入ればいいですし。\n"
 msgstr ""
-"Well if you cared about your school record then you could just join a normal "
-"club to begin with.\n"
+"Well, if you cared about your school record,\n"
+"you would just join a normal club to start.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1045,7 +1049,7 @@ msgstr ""
 #: sc/0035:81 
 msgid "あ―、それもそっか。……よし！\n弌弌じゃあ今から野球部に入部してくるわ！\n"
 msgstr ""
-"Ah, yeah you have a point there. ……Alright!\n"
+"Ah, yeah, you have a point there. ……Alright!\n"
 "--Then I'll go and join the baseball club today then!\n"
 
 #  speaker 
@@ -1097,8 +1101,8 @@ msgstr ""
 #: sc/0035:85 
 msgid "（みんなのためなのを認めるのが\n　恥ずかしいんだ……）\n"
 msgstr ""
-"(So he think it's embarrassing to admitting it's for everyone that he does "
-"it…)\n"
+"(So he think it's embarrassing to \n"
+"admit he cares about us...)\n"
 
 #  speaker 
 #  warnings: 0 

@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:19+0000\n"
 "PO-Revision-Date: 2020-06-29 19:58+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"Last-Translator: Ethan <zygotyou@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0030/en_US/>\n"
 "Language: en_US\n"
@@ -25,7 +25,8 @@ msgstr "Daiku"
 #: sc/0030:0 
 msgid "お、どうしたんだ関口。\nこんな朝から部室にいるなんて。\n"
 msgstr ""
-"Oh Sekiguchi. What are you up to being here this early in the morning?\n"
+"Oi, Sekiguchi. What are \n"
+"you doing so early in the morning?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,7 +38,7 @@ msgstr "Sekiguchi"
 #  warnings: 0 
 #: sc/0030:1 
 msgid "ここ、静かで読書にいいんです。\n"
-msgstr "This place is quiet so it's nice for reading.\n"
+msgstr "It's nice and quiet here, so I like to read here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -49,7 +50,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0030:2 
 msgid "部長こそどうしたんですか？\n"
-msgstr "What about you Club Leader?\n"
+msgstr "What about you, Club President?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -86,8 +87,8 @@ msgstr ""
 #: sc/0030:5 
 msgid "当たり前だろ！　囲碁サッカ―部なんだ。\nそれ以外のわけがない！\n"
 msgstr ""
-"Well of course! We are the Igo-soccer club after all. What other reason is "
-"needed.\n"
+"Well, of course! We are the Igo-soccer club, after all.\n"
+"What other reason do I need?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -203,7 +204,7 @@ msgstr ""
 msgid "……おお、すげぇ。\nアンテナだ。誰がどう見てもアンテナだな。\n"
 msgstr ""
 "……Oh, sick. \n"
-"It is an antenna. No doubt about it.\n"
+"That's an antenna. No doubt about it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -217,7 +218,7 @@ msgstr ""
 msgid "あ、部長。\nあんまり触ったら弌弌\n"
 msgstr ""
 "Ah, club president.\n"
-"If you pet to much——\n"
+"If you pet too much——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -248,22 +249,20 @@ msgstr "——I tried to say it was going to break.\n"
 #: sc/0030:18 
 msgid "お、おい、どういうことだ！\n今回のアンテナは試作強化タイプのはずだろ！\n"
 msgstr ""
-"N-No, how could it! This prototype\n"
+"N-No, how could it break!? This prototype\n"
 "antenna is supposed to be extra sturdy!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0030:19 
 msgid "おう、それぞれのパ―ツは\n格段に強度アップしているぞ！\n"
-msgstr ""
-"Oh! Every part adds to\n"
-"a remarkable up in strength!\n"
+msgstr "Every part is supposed to be super strong!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0030:20 
 msgid "なら、どうして？\n"
-msgstr "Then, why?\n"
+msgstr "Then why did it break?\n"
 
 #  text 
 #  warnings: 1 

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:22+0000\n"
-"PO-Revision-Date: 2020-06-29 20:52+0000\n"
+"PO-Revision-Date: 2020-07-08 21:38+0000\n"
 "Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0007/en_US/>\n"
@@ -24,7 +24,9 @@ msgstr "Yuuko"
 #  warnings: 0 
 #: sc/0007:0 
 msgid "（はぁ……朝からブル―だ……）\n"
-msgstr "（Sigh……I've felt blue since morning……）\n"
+msgstr ""
+"(*Sigh*……\n"
+"I've felt blue since this morning……)\n"
 
 #  speaker 
 #  warnings: 1 
@@ -37,7 +39,8 @@ msgstr ""
 #: sc/0007:1 
 msgid "（あんなに清しい気持ちだったのが\n　今ではこの変わり様……）\n"
 msgstr ""
-"（I was such in high spirits earlier but now how things have changed…… ）\n"
+"(I was such in high spirits earlier,\n"
+"but now how things have changed……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -48,11 +51,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0007:2 
-#, fuzzy
 msgid "（今日は良い日になる気がしたんだけど、\n　あの犬のせいで悪い予感しかしない）\n"
 msgstr ""
-"（I had the feeling today was gonna be a good day, but ever since that dog "
-"showed up I have had nothing but a bad feeling.）\n"
+"(I felt like today was gonna be a good.\n"
+"But thanks to that dog, all I feel is anxiety)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -65,8 +67,8 @@ msgstr "Takasaki-sensei"
 #: sc/0007:3 
 msgid "……であるからして、\nこの漢文はこのように訳せるわけだ。\n"
 msgstr ""
-"……And concequently, this is how you would translate this Chinese classical "
-"writing.\n"
+"…therefore, this is how you'd translate\n"
+"this Chinese classical writing.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -77,11 +79,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0007:4 
-#, fuzzy
 msgid "（気分が乗らないと授業の話も\n　右から左に抜けるだけだ……）\n"
 msgstr ""
-"（And since I'm not really in the mood, the teachers explanations just goes "
-"in one ear and out the other.）\n"
+"(I'm not feeling up for this lecture. So, it'll\n"
+"just go in one ear and out the other…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -93,7 +94,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:5 
 msgid "（……ま、普段から\n　右から左に抜けてるけどね。ふふっ）\n"
-msgstr "（……Well, that's usually the case for me all the time though. Hehe）\n"
+msgstr ""
+"(……Well, that's usually the\n"
+"case for me all the time though. Hehe)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -105,7 +108,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0007:6 
 msgid "（……おっ？　今ちょっと面白かった？）\n"
-msgstr "（……Oh? Was I a bit funny there?）\n"
+msgstr "(……Oh? Was I a bit funny there?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -116,11 +119,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0007:7 
-#, fuzzy
 msgid "（……そうか。私はあの犬に怯えて\n　いつもの力が出せなかったんだ）\n"
 msgstr ""
-"（……Oh I get it. Maybe it was because I felt frightened by that dog that I "
-"couldn't bring out my ususal strenght）\n"
+"(……Oh, I see. Has my fear of that\n"
+"dog hampered my usual comedic powers?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -131,9 +133,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0007:8 
-#, fuzzy
 msgid "（ということは、\n　今ボケたら笑いが取れたりして？）\n"
-msgstr "（That might mean if I make a joke now I can get a laugh or two?）\n"
+msgstr ""
+"(Could that mean that if I make a\n"
+"joke now, I could get a laugh or two?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -316,11 +319,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0007:25 
-#, fuzzy
 msgid "授業の邪魔をするなら廊下に立ってろ！\n"
 msgstr ""
-"If you're going to be a hindrance for the class, you should stand in the "
-"hallway!\n"
+"If you're going to be a hindrance for\n"
+"the class, go stand in the hallway!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -356,11 +358,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0007:28 
-#, fuzzy
 msgid "（でも、今はボケたい！\n　ボケて、みおちゃんを笑わせたい！）\n"
 msgstr ""
-"（But, right now I want to tell a joke! \n"
-"Tell it, and make Mio laugh!）\n"
+"(But, right now I want to tell a joke!\n"
+"Tell it, and then make Mio-chan laugh!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -505,9 +506,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0007:40 
-#, fuzzy
 msgid "キノコが、生き残った―――！！\n"
-msgstr "[MUSHROOM PUN———!!]\n"
+msgstr ""
+"Mushroom puns are good on any occasion.\n"
+"Why? Because they're portabella———!!\n"
 
 #  speaker 
 #  warnings: 0 

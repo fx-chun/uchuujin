@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2020-06-29 20:54+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-08 21:51+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0003/en_US/>\n"
 "Language: en_US\n"
@@ -37,7 +37,7 @@ msgstr ""
 #: sc/0003:1 
 msgid "まったく。はかせのせいで\n今日はひどい１日になっちゃった。\n"
 msgstr ""
-"Man, thanks to the professor,\n"
+"Man, thanks to Hakase,\n"
 "today ended up as a terrible day.\n"
 
 #  speaker 
@@ -219,10 +219,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0003:15 
+#, fuzzy
 msgid "……ふむ。そうであったか。\nお主の顔が暗いのは校長が原因だな？\n"
 msgstr ""
-"……Hmm. So, it has come to this.\n"
-"The dark face of the principal's?\n"
+"……Hmm. I see how it is.\n"
+"It's because of the principal you are having such a gloomy expression.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -234,7 +235,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:16 
 msgid "えっ？\n"
-msgstr "Eh…?\n"
+msgstr "Huh…?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -245,6 +246,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0003:17 
+#, fuzzy
 msgid "みなまで言わずとも良い。\n笹原家長男として、校長を退治してくれよう！\n"
 msgstr ""
 "You may stop, it goes without saying.\n"
@@ -357,10 +359,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0003:28 
+#, fuzzy
 msgid "（腕が飛んでいった！？\n　意外と普通だ！！）\n"
 msgstr ""
 "(My arm flew away!?\n"
-"Nothing less would surprise me!!)\n"
+"It was more ordinary than I expected!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -373,8 +376,8 @@ msgstr ""
 #: sc/0003:29 
 msgid "（あっ、違う！\n　今のはコ―クスクリュ―仕様だ！！）\n"
 msgstr ""
-"(Ah! No way!\n"
-"That was just a corkscrew!!)\n"
+"(Ah! No wait!\n"
+"This time it's a corkscrew!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -424,7 +427,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:33 
 msgid "い、今のは……。\n"
-msgstr "T-that was just…….\n"
+msgstr "W-What was that…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -437,7 +440,7 @@ msgstr ""
 #: sc/0003:34 
 msgid "い、今のは、マジックです！\n腕を飛ばすマジック！\n"
 msgstr ""
-"T-that was just a magic trick!\n"
+"T-that was a magic trick!\n"
 "A floating arm magic trick!\n"
 
 #  speaker 
@@ -504,7 +507,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:39 
 msgid "うむ！　見事だ！\n"
-msgstr "Hmm! Splendid work!\n"
+msgstr "Ohh! Splendid work!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -876,4 +879,4 @@ msgstr ""
 #  warnings: 0 
 #: sc/0003:68 
 msgid "フフッ、ぬかしおるよ、あの娘。\n"
-msgstr "Haha, the audacity.\n"
+msgstr "Haha, what a strange girl that was!\n"

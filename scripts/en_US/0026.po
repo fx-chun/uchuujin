@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2020-07-09 22:52+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-07-13 12:55+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0026/en_US/>\n"
 "Language: en_US\n"
@@ -39,8 +39,8 @@ msgstr ""
 #: sc/0026:1 
 msgid "東雲なの捕獲作戦が朝から進まなかったが\nようやく光明が見えそうだ。\n"
 msgstr ""
-"Capture operation didn't commence,\n"
-"but at last the dawn's early light.\n"
+"This morning's plan to capture Nano didn't work out \n"
+"but at last there looks to be hope.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -53,8 +53,8 @@ msgstr ""
 #: sc/0026:2 
 msgid "マッサ―ジの練習台を頼むだけなら、\n東雲も嫌とは言わんだろうしな。\n"
 msgstr ""
-"If I just ask Shinonome to be my mas-\n"
-"sage test subject, she wouldn't say no.\n"
+"If I just ask Shinonome to be my massage \n"
+"test subject, she probably wouldn't say no.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -169,6 +169,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0026:11 
+#, fuzzy
 msgid "お―……いいかも。\nこれを続けたら小顔に弌弌\n"
 msgstr ""
 "Oh! ……This could work.\n"
@@ -250,7 +251,7 @@ msgstr "＆!?\n"
 #  warnings: 1 
 #: sc/0026:18 
 msgid "こ、攻撃でオッサンが気絶！？\n"
-msgstr "F-fainted in the attack!?\n"
+msgstr "H-He fainted in the attack!?\n"
 
 #  text 
 #  warnings: 1 
@@ -273,16 +274,16 @@ msgstr ""
 #: sc/0026:21 
 msgid "俺もだ。あんなに恥ずかしがっちゃって……\n可愛いとこあるよな！\n"
 msgstr ""
-"Me too. With that embarrassing thing……\n"
-"It's so cute, huh!\n"
+"Me too. With her being so embarrassed about it……\n"
+"So she has a cute side to her too!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0026:22 
 msgid "持ってくも何も、もう墓場に\n片足突っ込んでるだろうが――っ！\n"
 msgstr ""
-"No matter what you bring you're already\n"
-"putting one foot into the grave! But——!\n"
+"Either way you we already\n"
+"have put one foot into the grave!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -322,7 +323,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:25 
 msgid "（来た！）\n"
-msgstr "(She came!)\n"
+msgstr "(She's here!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -443,8 +444,8 @@ msgstr ""
 #: sc/0026:34 
 msgid "（あっ！？　ダメだ！\n　ネジを近くで見られちゃう！）\n"
 msgstr ""
-"（Ah!? No!\n"
-"　She'll see the key closeup!）\n"
+"(Ah!? No!\n"
+"She'll see the key closeup!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -458,8 +459,8 @@ msgstr ""
 #, fuzzy
 msgid "（それに、さわられた所にへんな機能があったら\n　ロボだって確実にバレちゃうよ……）\n"
 msgstr ""
-"(Also if the place she touches has some weird function\n"
-"I will surely be exposed as a robot.)\n"
+"(Also if the place she touches has some weird robot-function\n"
+"she will find out that I'm a robot.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -542,8 +543,8 @@ msgstr ""
 #: sc/0026:41 
 msgid "（……なぜ東雲は嫌がっているんだ？\n　もしかして私の考えがバレている？）\n"
 msgstr ""
-"(……Why is Shinonome  against it?\n"
-"Could does she perhaps knows what I'm up to?）\n"
+"(……Why is Shinonome against it?\n"
+"Could it be that she knows what I'm up to?）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -554,11 +555,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0026:42 
-#, fuzzy
 msgid "東雲……腕だけでもいいので\n協力してくれないか？\n"
 msgstr ""
-"Shinonome… Just your arms will be okay.\n"
-"So, could you work with me?\n"
+"Shinonome… Then what about the arm.\n"
+"Would that be ok?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -694,7 +694,7 @@ msgstr ""
 msgid "だから触らせろと言ったまでだ。\n何もおかしいことは言っていないぞ？\n"
 msgstr ""
 "That's why I said to let me touch you.\n"
-"I didn't say anything weird, alright?\n"
+"There's nothing weird about that, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -706,7 +706,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:54 
 msgid "は、はぁ……。\n"
-msgstr "Ah, hah…….\n"
+msgstr "Y-Yeah…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -820,7 +820,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:63 
 msgid "……ふう。\n"
-msgstr "……sigh.\n"
+msgstr "……*sigh*.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -978,7 +978,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:75 
 msgid "くっ……。\n"
-msgstr "argh…….\n"
+msgstr "hghh…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -990,7 +990,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:76 
 msgid "えっ？　中村先生？？\n"
-msgstr "Oh? Nakamura Sensei??\n"
+msgstr "Oh? Nakamura-sensei??\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1028,7 +1028,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0026:79 
 msgid "は、はぁ……\n"
-msgstr "Ah huh……\n"
+msgstr "Ah i see……\n"
 
 #  speaker 
 #  warnings: 0 

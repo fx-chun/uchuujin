@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:34+0000\n"
-"PO-Revision-Date: 2020-06-27 21:12+0000\n"
-"Last-Translator: Ethan <zygotyou@gmail.com>\n"
+"PO-Revision-Date: 2020-07-13 12:56+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0017/en_US/>\n"
 "Language: en_US\n"
@@ -37,12 +37,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0017:1 
-#, fuzzy
 msgid "原稿は全部で２３ペ―ジ。\nだからあと１枚あれば応募できる。\n"
 msgstr ""
-"There was 23 in total. \n"
-"So that means I just need to find the last one for me to being able to "
-"submit it.\n"
+"There was 23 in total. So that means I just need \n"
+"to find the last one to submit it them.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -56,7 +54,7 @@ msgstr ""
 msgid "タイムリミットも迫ってきたし、\n最悪、描き直しというのもアリだけど……。\n"
 msgstr ""
 "The search is reaching it's time limit,\n"
-"and worst case, it could just redraw it…….\n"
+"and in the worst case, it could just redraw it but…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -68,7 +66,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0017:3 
 msgid "や、でもその前にこの辺りを調べよう。\n"
-msgstr "But no, I'll search this area before I head home.\n"
+msgstr "No, I'll search this area before I head home.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -117,11 +115,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0017:7 
-#, fuzzy
 msgid "いつぞやの娘だな。\nその節は世話になった。\n"
 msgstr ""
 "Oh you are the girl from the other day. \n"
-"Thank you for that time.\n"
+"Thank you for earlier.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -146,7 +143,7 @@ msgstr ""
 #: sc/0017:9 
 msgid "（どうしよう〜！\n　笹原先輩とこんなところで会うなんて！）\n"
 msgstr ""
-"(What do I do～! To meet up with\n"
+"(What do I do~! To meet up with\n"
 "Sasahara-senpai in a place like this!)\n"
 
 #  speaker 
@@ -160,8 +157,8 @@ msgstr ""
 #: sc/0017:10 
 msgid "（こ、これはお話しするチャンスかも……\n　で、でも、今は原稿も大事だし……）\n"
 msgstr ""
-"(T-this might be my chanse to talk……\n"
-"but the manuscript is also important……)\n"
+"(T-this might be my chance to talk……\n"
+"but the draft page is also important……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -293,17 +290,16 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0017:21 
-#, fuzzy
 msgid "あ、はい。\n最近よく見かける犬なんですけど弌弌\n"
 msgstr ""
 "Ah yes. \n"
-"Recently I've seen this dog a lot--\n"
+"Recently I've seen this dog in a lot of\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0017:22 
 msgid "ああっ、鹿とヤギが激突した―！\n"
-msgstr "Ahh, the deer and the goat is having a fight-!\n"
+msgstr "Ahh, the deer and the goat is having a fight—!\n"
 
 #  text 
 #  warnings: 1 
@@ -501,7 +497,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0017:38 
 msgid "お腹壊しちゃダメですから、取りますね。\n"
-msgstr "Can't let that goat get a stomachache. So I'll take it the.\n"
+msgstr "Can't let that goat get a stomachache. So I'll take it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -513,7 +509,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0017:39 
 msgid "うむ、すまないな娘よ。\n"
-msgstr "Yes, sorry for the trouble.\n"
+msgstr "Yes, thank you for letting me know.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -525,7 +521,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0017:40 
 msgid "いえ！\n"
-msgstr "No not at all!\n"
+msgstr "No, it was nothing!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -589,7 +585,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0017:45 
 msgid "うむ。何とも面妖な話で弌弌ん？\n"
-msgstr "Certainly. And it sure was a peculiar story to say the-- Hm?\n"
+msgstr "Certainly. And it sure was a peculiar story to say the Hm?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -662,7 +658,7 @@ msgstr ""
 #: sc/0017:51 
 msgid "あ、あの、笹原先輩、\n大事な話があるんです！\n"
 msgstr ""
-"Ah, the thing is Sasahara senpai, \n"
+"Ah, the thing is Sasahara-senpai, \n"
 "I have something important I want to tell you!\n"
 
 #  speaker 
@@ -847,7 +843,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0017:66 
 msgid "娘よ。コジロウを……\n大切にしてやってくれ。\n"
-msgstr "Miss, please take care of Kojirou ok.\n"
+msgstr "Miss, please take care of Kojirou, ok.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -988,7 +984,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0017:77 
 msgid "（なのに、私は笹原先輩を使って\n　マンガなんか描いて……）\n"
-msgstr "(And still, I'm just using him for own sake in my manga....)\n"
+msgstr "(And still, I'm just using him for my own sake in my manga....)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1037,7 +1033,7 @@ msgstr ""
 #: sc/0017:81 
 msgid "それは誤解だ、立花みさと。\n私はイジメていたわけではない。\n"
 msgstr ""
-"You are misunderstanding, Tachibana Misato. \n"
+"You are misunderstanding, Misato Tachibana. \n"
 "I was not bullying her.\n"
 
 #  speaker 
@@ -1051,8 +1047,8 @@ msgstr ""
 #: sc/0017:82 
 msgid "この者の体調がすぐれぬようなので、\n心配して弌弌\n"
 msgstr ""
-"This person looked like they weren't feeling so well I was just taking "
-"notice--\n"
+"This person looked like they weren't feeling so well.\n"
+"I was just taking notice--\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1141,7 +1137,7 @@ msgstr ""
 #: sc/0017:89 
 msgid "立花みさとも悪気があったわけではないのだ。\n許してやってくれ。\n"
 msgstr ""
-"Tachibana Misato didn't do it with any ill intent. \n"
+"Misato Tachibana didn't do it with any ill intent. \n"
 "So please forgive her.\n"
 
 #  speaker 
@@ -1155,7 +1151,7 @@ msgstr "Misato"
 #: sc/0017:90 
 msgid "あ、ちょっと笹原待ちなさい！\n話はまだ終わってないわよ！\n"
 msgstr ""
-"Ah, hey where do you think you're going Sasahara!\n"
+"Ah, hey where do you think you're going, Sasahara!\n"
 "I'm not done with you!\n"
 
 #  speaker 

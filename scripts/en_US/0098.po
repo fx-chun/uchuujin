@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:01+0000\n"
-"PO-Revision-Date: 2020-07-29 01:22+0000\n"
-"Last-Translator: Timothy Jackson <18tjackson1@gmail.com>\n"
+"PO-Revision-Date: 2020-10-10 09:25+0000\n"
+"Last-Translator: Mican <max.ihren@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0098/en_US/>\n"
 "Language: en_US\n"
@@ -189,7 +189,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0098:13 
 msgid "おい、オッサンになんてこと言わせてんだよ！\n"
-msgstr "Hey, let's make the old man say something!\n"
+msgstr "Hey, what did you just make him say!\n"
 
 #  text 
 #  warnings: 1 
@@ -197,21 +197,22 @@ msgstr "Hey, let's make the old man say something!\n"
 msgid "で、でも！\nお前もそう思うだろ？\n"
 msgstr ""
 "B-But!\n"
-"Do you really think so?\n"
+"Don't you think it was the case?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0098:15 
+#, fuzzy
 msgid "ああ、いつも悪巧みしてるし、\n信じられないって！\n"
 msgstr ""
-"Yes. He's always pulling fast ones.\n"
+"Yes. Usually she's always scheming over something evil.\n"
 "It's unbelievable!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0098:16 
 msgid "まぁ、確かにそうだが弌弌\n"
-msgstr "Though, that's for sure–—\n"
+msgstr "Yeah , that's true–—\n"
 
 #  text 
 #  warnings: 1 
@@ -259,7 +260,7 @@ msgstr ""
 msgid "（さてと、残った時間で私は\n　東雲なのの捕獲方法でも……）\n"
 msgstr ""
 "(Now, with the remaining time, I might\n"
-"be able to capture Nano Shinonome……)\n"
+"be able to think of a plan to capture Nano Shinonome……)\n"
 
 #  speaker 
 #  warnings: 1 
@@ -479,7 +480,7 @@ msgstr ""
 msgid "（逃げた！？　ということはあのノ―トには\n　私に見られるとかなりまずいことが！？）\n"
 msgstr ""
 "(She ran away!? Then that means that that\n"
-"notebook has something I shouldn't see!?)\n"
+"notebook has something it would be bad for me to see!?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -491,7 +492,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:38 
 msgid "逃がすかっ！　待て相生！！\n"
-msgstr "I'm gonna lose her! Wait, Aioi!!\n"
+msgstr "You can't run from this! Wait, Aioi!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -590,8 +591,8 @@ msgstr ""
 #: sc/0098:46 
 msgid "足、速すぎ……お、追いつけない……。\n"
 msgstr ""
-"My feet. It's too fast……\n"
-"I, I can't catch up…….\n"
+"My feet. She's too fast……\n"
+"I- I can't catch up…….\n"
 
 #  speaker 
 #  warnings: 0 
@@ -640,6 +641,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0098:50 
+#, fuzzy
 msgid "（しかし一度気にしてしまうと\n　見たくて見たくてたまらなくなるな……）\n"
 msgstr ""
 "(Once I start caring about something,\n"
@@ -657,7 +659,7 @@ msgstr ""
 msgid "ねえゆっこ、ここはもっと\nこうした方がいいんじゃない？\n"
 msgstr ""
 "Hey Yukko, here, do you think\n"
-"it'd be better to try it like this?\n"
+"it'd be better to do it like this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -670,7 +672,7 @@ msgstr ""
 #: sc/0098:52 
 msgid "おお！　流石みお先生！\nさっきよりも全然良くなったよ。\n"
 msgstr ""
-"Oh!! Spot on, teacher!\n"
+"Oh!! Spot on, teacher Mio!\n"
 "It's way much better than before.\n"
 
 #  speaker 
@@ -695,7 +697,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:54 
 msgid "（な、何だ、一体何が\n　さっきよりも良くなったんだ？）\n"
-msgstr "(W-What? How is it better than before?)\n"
+msgstr "(W-What? What is it that got better than before?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -720,10 +722,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0098:56 
+#, fuzzy
 msgid "（あっ、終わった……\n　結局ノ―トの中身は見られずじまいか）\n"
 msgstr ""
-"(Yes, it's over…… Finally, the content\n"
-"of that notebook will be unearthed)\n"
+"(Ah, it's over…… In the end, the content\n"
+"of that notebook won't be unearthed)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -735,7 +738,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:57 
 msgid "（…………あ、そうだ）\n"
-msgstr "(…………Ah, I see.)\n"
+msgstr "(…………Ah, I know.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -863,7 +866,7 @@ msgstr "Yukko"
 #  warnings: 0 
 #: sc/0098:67 
 msgid "でさ、こんな感じじゃないかな？\n"
-msgstr "So, I think went like, this?\n"
+msgstr "So, I think it's more like this maybe?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -886,10 +889,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0098:69 
+#, fuzzy
 msgid "（ここからノ―トを……！）\n"
-msgstr ""
-"(I'll be taking\n"
-"notebooks from here on……!)\n"
+msgstr "(Looking at the notebook from here……!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -925,7 +927,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:72 
 msgid "（似てね――――！！）\n"
-msgstr "(They're not at ALL similar————!!)\n"
+msgstr "(It's not similar at all————!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -937,7 +939,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0098:73 
 msgid "（と言うか……）\n"
-msgstr "(Or, how should I put it……)\n"
+msgstr "(Or, rather……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -948,5 +950,6 @@ msgstr "Ms. Nakamura"
 #  text 
 #  warnings: 0 
 #: sc/0098:74 
+#, fuzzy
 msgid "（自習しろよ……）\n"
-msgstr "(I need to study this privately……)\n"
+msgstr "(study for the test instead……)\n"

@@ -4,8 +4,7 @@
 # Usage: sc_parse.py <sc file>
 
 # TODO
-# BUG: Control characters and warnings flood terminal on certain scripts
-# BUG: Warning unknown characters: 0x18, 0x8e
+# BUG: Warning unknown characters: 0x18, 0x8e, etc
 
 # Import libraries
 import os
@@ -26,8 +25,37 @@ po_dir = json_dir + "en_US/"
 sc_dumps_dir = "sc_dumps/"
 
 
+# Class to define and reset vars
+class parsingVars():
+    # Default vars
+    def __init__(self):
+        self.rawread = []
+        self.magic1 = False
+        self.dialog = -1
+        self.speaker = []
+        self.magic2 = False
+        self.text = []
+        self.magic3 = False
+        self.speaker_offset = -1
+        self.text_offset = -1
+
+    def reset(self):
+        self.__init__()
+
+
+v = parsingVars()
+
+# Testing class
+print(vars(v))
+v.magic1 = True
+print(vars(v))
+# print(v.magic1)
+v.reset()
+print(vars(v))
+
+
+# ---------------------------- Convert sc to json ----------------------- #
 def sc_parse(scFile):
-    # ---------------------------- Convert sc to json ----------------------- #
     # Open sc file
     scfile = open(scFile, 'rb')
     scfile_name = basename(scFile)
@@ -37,40 +65,9 @@ def sc_parse(scFile):
     jsonfile = open(json_dir + "%s.json" % scfile_name, 'w', encoding='UTF-8')
     print("Dumping script %s ..." % scfile_name)
 
-    rawread = []
-    magic1 = False
-    dialog = -1
-    speaker = []
-    magic2 = False
-    text = []
-    magic3 = False
-    speaker_offset = -1
-    text_offset = -1
-
     lastdialog = -1
 
-    def resetVars():
-        # global rawread
-        # global magic1
-        # global dialog
-        # global speaker
-        # global magic2
-        # global text
-        # global magic3
-        # global speaker_offset
-        # global text_offset
-
-        rawread = []
-        magic1 = False
-        dialog = -1
-        speaker = []
-        magic2 = False
-        text = []
-        magic3 = False
-        speaker_offset = -1
-        text_offset = -1
-
-    resetVars()
+    v.reset()
 
     output = []
 
@@ -144,14 +141,14 @@ def sc_parse(scFile):
         if len(bs) < 2:
             break
 
-        rawread.append(bs[0])
-        rawread.append(bs[1])
+        v.rawread.append(bs[0])
+        v.rawread.append(bs[1])
 
         lbs = int.from_bytes(bs, byteorder='little')
 
-        if not magic1:
+        if not v.magic1:
             if bs[0] == 0xf0 and bs[1] == 0xff:
-                magic1 = True
+                v.magic1 = True
             else:
                 result = {
                     "type": "raw_pair",
@@ -159,77 +156,77 @@ def sc_parse(scFile):
                 }
 
                 # output.append(result)
-                resetVars()
-        elif magic1 and not magic2:
-            if dialog < 0:
+                v.reset()
+        elif v.magic1 and not v.magic2:
+            if v.dialog < 0:
                 if lbs > lastdialog:
-                    dialog = lbs
+                    v.dialog = lbs
                     lastdialog = lbs
                 else:
-                    resetVars()
-            elif bs[0] == 0xff and bs[1] == 0xff and len(speaker) > 0:
-                magic2 = True
+                    v.reset()
+            elif bs[0] == 0xff and bs[1] == 0xff and len(v.speaker) > 0:
+                v.magic2 = True
             elif bs[0] == 0xff and bs[1] == 0xff:
                 result = {
                     "type": "raw_chunk",
                     "data":
-                        binascii.hexlify(bytearray(rawread)).decode('ascii')
+                        binascii.hexlify(bytearray(v.rawread)).decode('ascii')
                 }
 
                 # output.append(result)
-                resetVars()
+                v.reset()
             else:
-                if speaker_offset < 0:
-                    speaker_offset = scfile.tell() - 0x2
-                speaker.append(lbs)
-        elif magic1 and magic2 and not magic3:
+                if v.speaker_offset < 0:
+                    v.speaker_offset = scfile.tell() - 0x2
+                v.speaker.append(lbs)
+        elif v.magic1 and v.magic2 and not v.magic3:
             if bs[0] == 0xfb and bs[1] == 0xff:
-                magic3 = True
+                v.magic3 = True
             elif bs[0] == 0xfd and bs[1] == 0xff:
-                magic3 = True
+                v.magic3 = True
             elif bs[0] == 0x98 and bs[1] == 0xff:
-                magic3 = True
+                v.magic3 = True
             elif bs[0] == 0xfe and bs[1] == 0xff:
-                text.append(ord('\n'))
+                v.text.append(ord('\n'))
             else:
-                if text_offset < 0:
-                    text_offset = scfile.tell() - 0x2
-                text.append(lbs)
-        elif magic3:
-            speakerJIS, warnings_speaker = nichiToJIS(speaker)
+                if v.text_offset < 0:
+                    v.text_offset = scfile.tell() - 0x2
+                v.text.append(lbs)
+        elif v.magic3:
+            speakerJIS, warnings_speaker = nichiToJIS(v.speaker)
             # print("[ %s ]" % speakerJIS)
 
-            textJIS, warnings_text = nichiToJIS(text)
+            textJIS, warnings_text = nichiToJIS(v.text)
             # print(textJIS)
 
             textraw = []
-            for b16 in text:
+            for b16 in v.text:
                 msb, lsb = struct.pack('<H', b16)
                 textraw.append(msb)
                 textraw.append(lsb)
 
             speakerraw = []
-            for b16 in speaker:
+            for b16 in v.speaker:
                 msb, lsb = struct.pack('<H', b16)
                 speakerraw.append(msb)
                 speakerraw.append(lsb)
 
             result = {
                 "type": "dialog",
-                "id": dialog,
+                "id": v.dialog,
                 "speaker": speakerJIS,
                 "text": textJIS,
                 "internal": {
                     "warnings": warnings_speaker + warnings_text,
-                    "speaker_offset": speaker_offset,
+                    "speaker_offset": v.speaker_offset,
                     "speaker_len": len(speakerraw),
-                    "text_offset": text_offset,
+                    "text_offset": v.text_offset,
                     "text_len": len(textraw)
                 }
             }
 
             output.append(result)
-            resetVars()
+            v.reset()
 
     json.dump(output, jsonfile, ensure_ascii=False,
               sort_keys=True, indent=4, separators=(',', ': '))
@@ -239,23 +236,26 @@ def sc_parse(scFile):
 
     pofile = open(po_dir + "%s.po" % scfile_name, 'w', encoding='UTF-8')
 
-    for dialog in output:
-        if len(dialog["speaker"]) > 0:
+    for v.dialog in output:
+        if len(v.dialog["speaker"]) > 0:
             pofile.write("\n")
-            pofile.write("#: sc/%s:%d \n" % (scfile_name, dialog["id"]))
+            pofile.write("#: sc/%s:%d \n" % (scfile_name, v.dialog["id"]))
             pofile.write("#  speaker \n")
-            pofile.write("#  warnings: %d \n" % dialog["internal"]["warnings"])
+            pofile.write("#  warnings: %d \n"
+                         % v.dialog["internal"]["warnings"])
 
-            pofile.write("msgid \"%s\"\n" % dialog["speaker"])
+            pofile.write("msgid \"%s\"\n" % v.dialog["speaker"])
             pofile.write("msgstr \"\"\n")
 
-        if len(dialog["text"]) > 0:
+        if len(v.dialog["text"]) > 0:
             pofile.write("\n")
-            pofile.write("#: sc/%s:%d \n" % (scfile_name, dialog["id"]))
+            pofile.write("#: sc/%s:%d \n"
+                         % (scfile_name, v.dialog["id"]))
             pofile.write("#  text \n")
-            pofile.write("#  warnings: %d \n" % dialog["internal"]["warnings"])
+            pofile.write("#  warnings: %d \n"
+                         % v.dialog["internal"]["warnings"])
 
-            pofile.write("msgid \"%s\"\n" % dialog["text"])
+            pofile.write("msgid \"%s\"\n" % v.dialog["text"])
             pofile.write("msgstr \"\"\n")
 
     print("Done!\n")

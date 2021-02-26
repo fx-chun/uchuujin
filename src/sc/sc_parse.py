@@ -11,24 +11,23 @@ from os.path import basename
 from sc_generate_kanji_table import kanjiTable
 from sc_generate_alphanum_table import alphanumTable
 
-
+# ---------------------------- Convert sc to json --------------------------- #
 # Open sc file
 scfile = open(sys.argv[1], 'rb')
 scfile_name = basename(sys.argv[1])
 
 jsonfile = open("%s.json" % scfile_name, 'w')
-
 print("Dumping script %s ..." % scfile_name)
 
-rawread = None
-magic1 = None
-dialog = None
-speaker = None
-magic2 = None
-text = None
-magic3 = None
-speaker_offset = None
-text_offset = None
+# rawread = None
+# magic1 = None
+# dialog = None
+# speaker = None
+# magic2 = None
+# text = None
+# magic3 = None
+# speaker_offset = None
+# text_offset = None
 
 lastdialog = -1
 

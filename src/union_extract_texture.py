@@ -26,14 +26,14 @@ subfiles = []
 
 for i in range(0, len(gzip_offsets)):
     offset = gzip_offsets[i]
-    
+
     if i + 1 == len(gzip_offsets):
         next_offset = f_size
     else:
         next_offset = gzip_offsets[i + 1]
-    
+
     gzip_size = next_offset - offset
-    
+
     f.seek(offset)
     gzip = f.read(gzip_size)
 
@@ -42,13 +42,14 @@ for i in range(0, len(gzip_offsets)):
 
 print("subfiles: %d" % len(subfiles))
 
-# Create image 
+# Create image
 image_headers = []
 images = []
 
 supposed_subfiles = 0
 
-for match in re.finditer(b'([\x01-\x10]\x00)\x00\x00(...\x00)*(\x1f\x8b\x08)', f_dump, re.DOTALL):
+for match in re.finditer(b'([\x01-\x10]\x00)\x00\x00(...\x00)*(\x1f\x8b\x08)',
+                         f_dump, re.DOTALL):
     if match.start() % 0x10 != 0:
         print("warning: image header not aligned")
 
@@ -64,21 +65,22 @@ for match in re.finditer(b'([\x01-\x10]\x00)\x00\x00(...\x00)*(\x1f\x8b\x08)', f
     supposed_subfiles += no_of_subfiles
 
 if supposed_subfiles != len(subfiles):
-    print("warning: headers lie, says there's only %s subfiles ..." % supposed_subfiles)
+    print("warning: headers lie, says there's only %s subfiles ..."
+          % supposed_subfiles)
 
 print("images: %d" % len(images))
 
 # Parse palettes
 
-# Dump .bin and .plt files 
+# Dump .bin and .plt files
 f.seek(0)
 
 image_number = 1
 for image in images:
-    binf = open( "%s_%d.bin" % (f_name, image_number), 'wb' )
+    binf = open("%s_%d.bin" % (f_name, image_number), 'wb')
     binf.write(image)
 
-    pltf = open( "%s_%d.plt" % (f_name, image_number), 'wb' )
+    pltf = open("%s_%d.plt" % (f_name, image_number), 'wb')
     pltf.write(f.read(0x100 * 4))
 
     image_number += 1
@@ -98,4 +100,5 @@ meta["gzip_offsets"] = gzip_offsets
 meta["gzip_sizes"] = gzip_sizes
 meta["image_headers"] = image_headers
 
-json.dump(meta, meta_f, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
+json.dump(meta, meta_f, ensure_ascii=False,
+          sort_keys=True, indent=4, separators=(',', ': '))

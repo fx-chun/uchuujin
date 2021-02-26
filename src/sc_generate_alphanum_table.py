@@ -8,7 +8,7 @@ def alphanumTable():
     for x in range(0, 10):
         line = lines[x]
         num = int(line[0:4], 16)
-        table[numcounter] = num 
+        table[numcounter] = num
         numcounter += 1
 
     capcounter = 0x009c
@@ -22,7 +22,7 @@ def alphanumTable():
     for x in range(35, 61):
         line = lines[x]
         low = int(line[0:4], 16)
-        table[lowcounter] = low 
+        table[lowcounter] = low
         lowcounter += 1
 
     return table

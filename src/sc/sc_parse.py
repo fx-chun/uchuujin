@@ -5,6 +5,10 @@
 
 # TODO
 # BUG: Warning unknown characters: 0x18, 0x8e, etc
+# ADD: Log every WARNING character
+# ADD: Progress bar for all arg, use Rich lib
+# Change vars to camelCase or underscored, but not both
+# Change all %s strings to f
 
 # Import libraries
 import os
@@ -23,6 +27,7 @@ from sc_generate_alphanum_table import alphanumTable
 json_dir = "scripts/"
 po_dir = json_dir + "en_US/"
 sc_dumps_dir = "sc_dumps/"
+logs_dir = "logs/"
 
 
 # Class to define and reset vars
@@ -55,15 +60,21 @@ print(vars(v))
 
 
 # ---------------------------- Convert sc to json ----------------------- #
-def sc_parse(scFile):
+def sc_parse(scFilePath):
+    # Set up logging
+    logFilePath = logs_dir + os.path.split(scFilePath)[-1] + ".txt"
+    print(logFilePath)
+    log_file = open(logFilePath, "w+")
+
     # Open sc file
-    scfile = open(scFile, 'rb')
-    scfile_name = basename(scFile)
+    scfile = open(scFilePath, 'rb')
+    scfile_name = basename(scFilePath)
 
     # Create json var
+    jsonFilePath = json_dir + scfile_name + ".json"
     # encoding can also be "Shift-JIS", same for pofile
-    jsonfile = open(json_dir + "%s.json" % scfile_name, 'w', encoding='UTF-8')
-    print("Dumping script %s ..." % scfile_name)
+    jsonfile = open(jsonFilePath, 'w', encoding='UTF-8')
+    print(f"Dumping script {scfile_name} ...")
 
     lastdialog = -1
 
@@ -118,16 +129,22 @@ def sc_parse(scFile):
                 b += 0x821e
             elif 0x01eb <= b <= 0x1abc:  # uncaught kanji
                 print("WARNING: unknown kanji %s" % hex(b))
+                log_file.write(f"Unknown kanji {hex(b)} at {bs}\n")
                 printable = False
                 warnings += 1
+                # log_file.write(f'Warnings: {warnings}\n')
             elif 0xf000 <= b <= 0xffff:  # control characters
                 print("NOTE: control character %s" % hex(b))
+                log_file.write(f"Control character {hex(b)} at {bs}\n")
                 printable = False
                 warnings += 1
+                # log_file.write(f'Warnings: {warnings}\n')
             else:                       # unknown
-                print("WARNING: unknown character %s" % hex(b))
+                print(f"WARNING: unknown character {hex(b)}")
+                log_file.write(f"Unknown character {hex(b)} at {bs}\n")
                 printable = False
                 warnings += 1
+                # log_file.write(f'Warnings: {warnings}\n')
 
             if printable:
                 b = b.to_bytes(2, 'big')
@@ -230,11 +247,13 @@ def sc_parse(scFile):
 
     json.dump(output, jsonfile, ensure_ascii=False,
               sort_keys=True, indent=4, separators=(',', ': '))
+    print(f"{jsonFilePath} dumped!")
 
     # ---------------------------- Generate .po file ------------------------ #
     print("Generating .po file...")
 
-    pofile = open(po_dir + "%s.po" % scfile_name, 'w', encoding='UTF-8')
+    poFilePath = po_dir + "%s.po" % scfile_name
+    pofile = open(poFilePath, 'w', encoding='UTF-8')
 
     for v.dialog in output:
         if len(v.dialog["speaker"]) > 0:
@@ -257,6 +276,8 @@ def sc_parse(scFile):
 
             pofile.write("msgid \"%s\"\n" % v.dialog["text"])
             pofile.write("msgstr \"\"\n")
+
+    print(f"{poFilePath} generated!")
 
     print("Done!\n")
 

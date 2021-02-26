@@ -2,22 +2,23 @@
 
 import string
 
+
 def patchTable():
     table = {
         '\n': b'\xfe\xff',
-        '?' : b'\x08',
-        '!' : b'\x09',
-        '.' : b'\x04',
-        ' ' : b'\x00',
-        '-' : b'\x1b',
-        ',' : b'\x03',
-        "'" : b'\x03', # todo
-        '#' : b'\x00', # todo
-        '(' : b'\x29',
-        ')' : b'\x2a',
-        '&' : b'\x54',
-        
-        chr(0xff) : b'\x23'
+        '?': b'\x08',
+        '!': b'\x09',
+        '.': b'\x04',
+        ' ': b'\x00',
+        '-': b'\x1b',
+        ',': b'\x03',
+        "'": b'\x03',  # todo
+        '#': b'\x00',  # todo
+        '(': b'\x29',
+        ')': b'\x2a',
+        '&': b'\x54',
+
+        chr(0xff): b'\x23'
     }
 
     counter = 0x009C
@@ -37,9 +38,10 @@ def patchTable():
 
     return table
 
+
 def findPatch(i):
     if (i in patchTable().keys()):
-        return patchTable()[i];
+        return patchTable()[i]
     else:
-        print("warn: could not find patch for '%s'\n" % (i));
-        return patchTable()['?'];
+        print("warn: could not find patch for '%s'\n" % (i))
+        return patchTable()['?']

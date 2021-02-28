@@ -5,9 +5,8 @@
 
 # TODO
 # BUG: Warning unknown characters: 0x18, 0x8e, etc
-# ADD: Log every WARNING character
 # ADD: Progress bar for all arg, use Rich lib
-# Change vars to camelCase or underscored, but not both
+# Change vars to camelCase or underscored, but not both, extension?
 # Change all %s strings to f
 
 # Import libraries
@@ -59,12 +58,85 @@ v.reset()
 print(vars(v))
 
 
+# Update jisTable
+jisTable = {
+    0x0000: 0x8140,  # nul
+    0x0001: 0x8141,  #
+    0x0002: 0x8142,  # period
+    0x0003: 0x8143,  # comma
+    0x0004: 0x8144,  # period
+    0x0005: 0x8145,  #
+    0x0006: 0x8146,  # colon
+    0x0007: 0x8147,  # semicolon
+    0x0008: 0x8148,  # question mark
+    0x0009: 0x8149,  # exclamation point
+    0x0010: 0x8150,  #
+    0x0019: 0x8159,  #
+    0x001b: 0x815c,  # emdash
+    0x001e: 0x815e,  # slash
+    0x0020: 0x8160,  # tilde
+    0x0023: 0x8163,  # ellipses
+    0x0029: 0x8169,  # left paren
+    0x002a: 0x816a,  # right paren
+    0x002f: 0x816f,  # left bracket
+    0x0030: 0x8170,  # right bracket
+    0x0054: 0x8195,  # ampersand
+}
+jisTable.update(kanjiTable())
+jisTable.update(alphanumTable())
+
+
+# Convert Nichijou text characters to Shift-JIS
+def nichiToJIS(bs, logFile):
+    jis = ""
+    warnings = 0
+
+    for b in bs:
+        printable = True
+
+        if b in jisTable:            # JIS Table lookup
+            b = jisTable[b]
+        elif b == ord('\n'):
+            jis += "\\n"
+            printable = False
+        elif 0x00d0 <= b <= 0x0122:  # hiragana
+            b += 0x81cf
+        elif 0x0123 <= b <= 0x0161:  # katakana
+            b += 0x821d
+        elif 0x0162 <= b <= 0x0178:  # katakana (1 byte JIS offset)
+            b += 0x821e
+        elif 0x01eb <= b <= 0x1abc:  # uncaught kanji
+            print("WARNING: unknown kanji %s" % hex(b))
+            logFile.write(f"Unknown kanji {hex(b)} at {bs}\n")
+            printable = False
+            warnings += 1
+            # logFile.write(f'Warnings: {warnings}\n')
+        elif 0xf000 <= b <= 0xffff:  # control characters
+            print("NOTE: control character %s" % hex(b))
+            logFile.write(f"Control character {hex(b)} at {bs}\n")
+            printable = False
+            warnings += 1
+            # logFile.write(f'Warnings: {warnings}\n')
+        else:                       # unknown
+            print(f"WARNING: unknown character {hex(b)}")
+            logFile.write(f"Unknown character {hex(b)} at {bs}\n")
+            printable = False
+            warnings += 1
+            # logFile.write(f'Warnings: {warnings}\n')
+
+        if printable:
+            b = b.to_bytes(2, 'big')
+            jis += b.decode("shift-jis")
+
+    return jis, warnings
+
+
 # ---------------------------- Convert sc to json ----------------------- #
 def sc_parse(scFilePath):
     # Set up logging
     logFilePath = logs_dir + os.path.split(scFilePath)[-1] + ".txt"
     print(logFilePath)
-    log_file = open(logFilePath, "w+")
+    logFile = open(logFilePath, "w+")
 
     # Open sc file
     scfile = open(scFilePath, 'rb')
@@ -82,82 +154,15 @@ def sc_parse(scFilePath):
 
     output = []
 
-    jisTable = {
-        0x0000: 0x8140,  # nul
-        0x0001: 0x8141,  #
-        0x0002: 0x8142,  # period
-        0x0003: 0x8143,  # comma
-        0x0004: 0x8144,  # period
-        0x0005: 0x8145,  #
-        0x0006: 0x8146,  # colon
-        0x0007: 0x8147,  # semicolon
-        0x0008: 0x8148,  # question mark
-        0x0009: 0x8149,  # exclamation point
-        0x0010: 0x8150,  #
-        0x0019: 0x8159,  #
-        0x001b: 0x815c,  # emdash
-        0x001e: 0x815e,  # slash
-        0x0020: 0x8160,  # tilde
-        0x0023: 0x8163,  # ellipses
-        0x0029: 0x8169,  # left paren
-        0x002a: 0x816a,  # right paren
-        0x002f: 0x816f,  # left bracket
-        0x0030: 0x8170,  # right bracket
-        0x0054: 0x8195,  # ampersand
-    }
-
-    jisTable.update(kanjiTable())
-    jisTable.update(alphanumTable())
-
-    def nichiToJIS(bs):
-        jis = ""
-        warnings = 0
-
-        for b in bs:
-            printable = True
-
-            if b in jisTable:           # JIS Table lookup
-                b = jisTable[b]
-            elif b == ord('\n'):
-                jis += "\\n"
-                printable = False
-            elif 0x00d0 <= b <= 0x0122:  # hiragana
-                b += 0x81cf
-            elif 0x0123 <= b <= 0x0161:  # katakana
-                b += 0x821d
-            elif 0x0162 <= b <= 0x0178:  # katakana (1 byte JIS offset)
-                b += 0x821e
-            elif 0x01eb <= b <= 0x1abc:  # uncaught kanji
-                print("WARNING: unknown kanji %s" % hex(b))
-                log_file.write(f"Unknown kanji {hex(b)} at {bs}\n")
-                printable = False
-                warnings += 1
-                # log_file.write(f'Warnings: {warnings}\n')
-            elif 0xf000 <= b <= 0xffff:  # control characters
-                print("NOTE: control character %s" % hex(b))
-                log_file.write(f"Control character {hex(b)} at {bs}\n")
-                printable = False
-                warnings += 1
-                # log_file.write(f'Warnings: {warnings}\n')
-            else:                       # unknown
-                print(f"WARNING: unknown character {hex(b)}")
-                log_file.write(f"Unknown character {hex(b)} at {bs}\n")
-                printable = False
-                warnings += 1
-                # log_file.write(f'Warnings: {warnings}\n')
-
-            if printable:
-                b = b.to_bytes(2, 'big')
-                jis += b.decode("shift-jis")
-
-        return jis, warnings
-
     while True:
+        # bs = sc file, arg "2" is num of bytes read
         bs = scfile.read(2)
 
+        # If sc file is less than 2 bytes, break loop
         if len(bs) < 2:
             break
 
+        # Put 2 bytes into separate entries in rawread list var
         v.rawread.append(bs[0])
         v.rawread.append(bs[1])
 
@@ -210,10 +215,10 @@ def sc_parse(scFilePath):
                     v.text_offset = scfile.tell() - 0x2
                 v.text.append(lbs)
         elif v.magic3:
-            speakerJIS, warnings_speaker = nichiToJIS(v.speaker)
+            speakerJIS, warnings_speaker = nichiToJIS(v.speaker, logFile)
             # print("[ %s ]" % speakerJIS)
 
-            textJIS, warnings_text = nichiToJIS(v.text)
+            textJIS, warnings_text = nichiToJIS(v.text, logFile)
             # print(textJIS)
 
             textraw = []

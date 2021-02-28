@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
+
+# Reads kanji.tbl and returns it as a dict
 def kanjiTable():
-    counter = 0x01eb
+    counter = 0x01eb  # 491
 
     table = {}
 

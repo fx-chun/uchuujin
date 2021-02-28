@@ -17,10 +17,10 @@ import json
 import sys
 from os.path import basename
 
-
 # Import modules
 from sc_generate_kanji_table import kanjiTable
 from sc_generate_alphanum_table import alphanumTable
+
 
 # Directory vars
 json_dir = "scripts/"
@@ -58,7 +58,8 @@ v.reset()
 print(vars(v))
 
 
-# Update jisTable
+# Update jisTable for punctuation
+# Eventually create .tbl file like the others?
 jisTable = {
     0x0000: 0x8140,  # nul
     0x0001: 0x8141,  #
@@ -155,30 +156,36 @@ def sc_parse(scFilePath):
     output = []
 
     while True:
-        # bs = sc file, arg "2" is num of bytes read
+        # bs = First 2 bytes of sc file
         bs = scfile.read(2)
 
         # If sc file is less than 2 bytes, break loop
         if len(bs) < 2:
             break
 
-        # Put 2 bytes into separate entries in rawread list var
+        # Put each byte into separate entries in rawread list var
         v.rawread.append(bs[0])
         v.rawread.append(bs[1])
 
+        # Takes bs bytes and converts to int
         lbs = int.from_bytes(bs, byteorder='little')
 
+        # If magic1 var is not True, ???
         if not v.magic1:
             if bs[0] == 0xf0 and bs[1] == 0xff:
                 v.magic1 = True
             else:
                 result = {
                     "type": "raw_pair",
+                    # Convert bs bytes to their 2-digit hex representation,
+                    # then to ascii
                     "data": binascii.hexlify(bs).decode('ascii')
                 }
 
                 # output.append(result)
                 v.reset()
+
+        #
         elif v.magic1 and not v.magic2:
             if v.dialog < 0:
                 if lbs > lastdialog:

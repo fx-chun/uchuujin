@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:02+0000\n"
-"PO-Revision-Date: 2021-03-11 21:31+0000\n"
+"PO-Revision-Date: 2021-03-12 22:31+0000\n"
 "Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0054/en_US/>\n"
@@ -181,10 +181,9 @@ msgstr "!?\n"
 #  text 
 #  warnings: 1 
 #: sc/0054:13 
-#, fuzzy
 msgid "突然倒れたぞ！？\nど、どうしよう！\n"
 msgstr ""
-"She fell!\n"
+"She collapsed!?\n"
 "Wa— What should we do?\n"
 
 #  text 
@@ -198,7 +197,6 @@ msgstr ""
 #  text 
 #  warnings: 1 
 #: sc/0054:15 
-#, fuzzy
 msgid "でも、それってセクハラじゃないのか？\nこのお年頃の女の子は難しいって聞くぞ？\n"
 msgstr ""
 "But, isn't that sexual harassment?\n"
@@ -234,36 +232,48 @@ msgstr ""
 #: sc/0054:19 
 msgid "……そうだよな！　それが人の道だよな！\nよし、早速この子を助け弌弌\n"
 msgstr ""
+"……Right on! That's how people act!\n"
+"OK, go help that girl at once——!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:20 
+#, fuzzy
 msgid "どわ―っ！？　少し目を離してた隙に、\n警官に捕まった――っ！！！\n"
 msgstr ""
+"Dwa—!? I take my eyes off her for a \n"
+"second, and the police arrest her!!!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:21 
 msgid "そ、そうか！　倒れた女の子の前に\nオッサンがいたら、俺ならオッサンを疑う！\n"
 msgstr ""
+"I– I see! If I saw a middle-aged man \n"
+"in front of a fallen girl, I'd suspect him!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:22 
+#, fuzzy
 msgid "……すまない……オッサン！\n俺たちも同罪だと言うのに……。\n"
 msgstr ""
+"I'm……sorry……middle-aged man!\n"
+"I'd say we're just as guilty as you……\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:23 
 msgid "大丈夫さ。\n天罰は、俺たちにも用意されてるみたいだぜ？\n"
 msgstr ""
+"It's fine.\n"
+"Looks like we're in for a bit of divine punishment, huh?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0054:24 
 msgid "え……まさか、それって……。\n"
-msgstr ""
+msgstr "Eh……It can't be, not like that……\n"
 
 #  text 
 #  warnings: 2 
@@ -304,11 +314,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0054:28 
-#, fuzzy
 msgid "（あ、でも右手しか動かさないで\n　金縛りを伝えるのは……）\n"
 msgstr ""
-"(Ah, but how can I tell her I'm \n"
-"paralyzed using only my right hand……)\n"
+"(Ah, but how can I tell her I'm paralyzed\n"
+"if I can only move my right hand……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -346,8 +355,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0054:31 
+#, fuzzy
 msgid "……ばり？　かなばり？\n金針？　金張り？\n"
 msgstr ""
+"L  – ? Parallel? \n"
+"Paralegal? Parality?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -506,6 +518,8 @@ msgstr ""
 #: sc/0054:44 
 msgid "ん？　これは……普通に手招き？\n顔近付けろって？\n"
 msgstr ""
+"Hm? Is this…… your normal way of beckoning?\n"
+"You want me to move my face closer?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -592,10 +606,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0054:51 
+#, fuzzy
 msgid "長い！　麻衣ちゃん、携帯にしよ？\n携帯で文字打とう？\n"
 msgstr ""
-"!  Mai-chan, what about a cell phone?\n"
-"Can you try using the keyboard?\n"
+"That's taking too long! Mai-chan, what about\n"
+"a phone? Can you try using the keyboard?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -658,6 +673,8 @@ msgstr ""
 #: sc/0054:56 
 msgid "あっ、金縛りにあってたんだ！\nなんだも―、それなら早く言ってよ―。\n"
 msgstr ""
+"Ah, so it was paralysis!\n"
+"Well then, why didn't you say so sooner—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -706,6 +723,8 @@ msgstr ""
 #: sc/0054:60 
 msgid "あ、違った？\nじゃあ、えっと……。\n"
 msgstr ""
+"Ah, was it something else?\n"
+"Well, err……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -717,7 +736,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:61 
 msgid "あっ！　かなりバリバリ！！\n"
-msgstr ""
+msgstr "Ah! Parappa the rappa!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -742,6 +761,8 @@ msgstr ""
 #: sc/0054:63 
 msgid "……ごめん。\n麻衣ちゃんはそんなボケしないよね。\n"
 msgstr ""
+"……Sorry.\n"
+"You wouldn't make a joke like that, heh.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -765,7 +786,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0054:65 
 msgid "ちょっとだけ時間ちょうだい！\n"
-msgstr ""
+msgstr "Just give me a minute!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -776,8 +797,9 @@ msgstr "Yukko"
 #  text 
 #  warnings: 0 
 #: sc/0054:66 
+#, fuzzy
 msgid "絶対に麻衣ちゃんからのパスで\nシュ―トを決めるから！\n"
-msgstr ""
+msgstr "I'll definitely shoot it with a pass from Mai-chan!\n"
 
 #  speaker 
 #  warnings: 0 

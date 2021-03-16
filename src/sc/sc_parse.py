@@ -58,6 +58,8 @@ v.reset()
 print(vars(v))
 
 
+# Main var for jis lookups
+
 # Update jisTable for punctuation
 # Eventually create .tbl file like the others?
 jisTable = {
@@ -83,6 +85,7 @@ jisTable = {
     0x0030: 0x8170,  # right bracket
     0x0054: 0x8195,  # ampersand
 }
+# Read in other tables and add onto the existing dict
 jisTable.update(kanjiTable())
 jisTable.update(alphanumTable())
 

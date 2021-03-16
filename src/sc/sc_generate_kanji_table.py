@@ -3,7 +3,7 @@
 
 # Reads kanji.tbl and returns it as a dict
 def kanjiTable():
-    counter = 0x01eb  # 491
+    counter = 0x01eb
 
     table = {}
 

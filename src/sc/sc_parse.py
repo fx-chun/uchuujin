@@ -3,12 +3,6 @@
 # Parses sc unpacked script files from sc.cpk
 # Usage: sc_parse.py <sc file>
 
-# TODO
-# BUG: Warning unknown characters: 0x18, 0x8e, etc
-# ADD: Progress bar for all arg, use Rich lib
-# Change vars to camelCase or underscored, but not both, extension?
-# Change all %s strings to f
-
 # Import libraries
 import os
 import struct

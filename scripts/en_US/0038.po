@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-05-17 16:15+0000\n"
+"PO-Revision-Date: 2021-06-23 00:02+0000\n"
 "Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0038/en_US/>\n"
@@ -153,7 +153,7 @@ msgstr ""
 msgid "（何かと思ったらそんなこと……\n　まあ気付かれるよりはいいか）\n"
 msgstr ""
 "(To think it was only about something like that……\n"
-"Ah, it's better than being noticed.)\n"
+"Well, it's better than being noticed.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -166,8 +166,8 @@ msgstr ""
 #: sc/0038:11 
 msgid "保護者同伴だから\n親にも怒られないぞ。\n"
 msgstr ""
-"We are being accompanied by an guadian, \n"
-"so parents don't have to worry.\n"
+"We'll have a chaperone, \n"
+"so don't worry about getting your parents.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,8 +180,8 @@ msgstr ""
 #: sc/0038:12 
 msgid "保護者？\n田中君のお父さん？\n"
 msgstr ""
-"Guardian?\n"
-"Your dad?\n"
+"A chaperone?\n"
+"Is it going to be your dad?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -230,9 +230,10 @@ msgstr ""
 #  text 
 #  warnings: 1 
 #: sc/0038:17 
+#, fuzzy
 msgid "いいって。\nどうせ霊なんか出ないし。\n"
 msgstr ""
-"It's good.\n"
+"It's fine.\n"
 "Besides, there's no spirit anyway.\n"
 
 #  text 
@@ -266,7 +267,7 @@ msgstr "W-what is it?\n"
 #: sc/0038:22 
 msgid "別に？　……あ、そうだ！\nこれも中継してやろうぜ。\n"
 msgstr ""
-"Nothing? ……Ah, that's right！\n"
+"Nothing? ……Ah, that's right!\n"
 "Let's broadcast this too, heh.\n"
 
 #  text 
@@ -278,9 +279,10 @@ msgstr "Ehh!?\n"
 #  text 
 #  warnings: 1 
 #: sc/0038:24 
+#, fuzzy
 msgid "怪談とか苦手なやつも、強制参加！\n面白そうじゃね？\n"
 msgstr ""
-"People that are bad with ghost stories are forced to come as well!\n"
+"Even if you're scared of ghost stories, you have to come!\n"
 "Doesn't that sound fun?\n"
 
 #  text 
@@ -336,7 +338,7 @@ msgstr ""
 #: sc/0038:29 
 msgid "悪いけど、興味ないよ。\n僕は幽霊って信じてないんだ。\n"
 msgstr ""
-"Sorry but, I have no interest.\n"
+"I sorry, but I'm not interested.\n"
 "I don't believe in ghosts.\n"
 
 #  speaker 
@@ -364,7 +366,7 @@ msgstr ""
 #: sc/0038:31 
 msgid "いないよ。この世のものは全て\n科学で説明できるんだからね。\n"
 msgstr ""
-"Nope! Since all things in this world\n"
+"Not at all. Everything in this world\n"
 "can be explained with science.\n"
 
 #  speaker 
@@ -378,8 +380,8 @@ msgstr ""
 #: sc/0038:32 
 msgid "（とは言え、今の僕の髪の毛を\n　科学で説明できるのだろうか……？）\n"
 msgstr ""
-"(Speaking of, I wonder if my hair\n"
-"can be explained by science……?)\n"
+"(Speaking of which, I wonder if science \n"
+"can explain what happened to my hair……?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -392,8 +394,8 @@ msgstr ""
 #: sc/0038:33 
 msgid "（ダ、ダメだ。科学を疑うんじゃない。\n　科学の力なら何でも解明できる）\n"
 msgstr ""
-"(No, no. Don't doubt science. The power\n"
-"of science can clarify all things.)\n"
+"(No, no. You can't doubt science. \n"
+"It has the power to clarify anything!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -405,7 +407,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:34 
 msgid "そういうわけだから、僕は遠慮しておくよ。\n"
-msgstr "For this reason, I'd rather not.\n"
+msgstr "For that reason, I'd rather not.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -419,7 +421,7 @@ msgstr ""
 msgid "（それに、実は……ちょっと怖いんだよね。\n　いないんだけど、雰囲気的なものが……）\n"
 msgstr ""
 "(But to be frank…… I'm a little scared.\n"
-"They don't exist but the atmosphere of it……)\n"
+"Ghosts don't exist, but there's just something……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -443,7 +445,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:37 
 msgid "（だ、誰だ！？　ま、まさか幽霊！？）\n"
-msgstr "（Wh- Who!? C-Could it be a ghosts!?）\n"
+msgstr "（Wh- Who is it!? C-Could it be a ghost!?）\n"
 
 #  speaker 
 #  warnings: 0 
@@ -456,8 +458,8 @@ msgstr ""
 #: sc/0038:38 
 msgid "（振り返るな！　こういうとき、\n　振り返ったら呪われる！）\n"
 msgstr ""
-"(Don't look back! At times like this,\n"
-"if I look back, I'll be cursed!)\n"
+"(Don't turn around! This is when \n"
+"people look back and get cursed!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -590,7 +592,7 @@ msgstr ""
 #: sc/0038:49 
 msgid "あ、あの、中之条くんのノ―ト……\n返し忘れたので……。\n"
 msgstr ""
-"Um, eh, these are your notebook……\n"
+"Um, um, here is your notebook……\n"
 "I forgot to return it……\n"
 
 #  speaker 
@@ -723,7 +725,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0038:60 
 msgid "あ、は、はい。何ですか田中君。\n"
-msgstr "Aha, yes. What is it Tanaka?\n"
+msgstr "Aha, yes. What is it, Tanaka?\n"
 
 #  speaker 
 #  warnings: 0 

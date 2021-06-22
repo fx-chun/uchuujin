@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:06+0000\n"
-"PO-Revision-Date: 2021-03-23 03:45+0000\n"
-"Last-Translator: Mican <max.ihren@gmail.com>\n"
+"PO-Revision-Date: 2021-06-23 00:02+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0041/en_US/>\n"
 "Language: en_US\n"
@@ -116,7 +116,7 @@ msgstr "Itako"
 #  warnings: 0 
 #: sc/0041:7 
 msgid "見〜つ〜け〜た〜。\n"
-msgstr "I. FOUND. YOU～。\n"
+msgstr "I〜 FOUND〜 YOU～\n"
 
 #  speaker 
 #  warnings: 0 
@@ -164,7 +164,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0041:11 
 msgid "ちょっ！　ま、待て、おい！？\n"
-msgstr "H-Hey! Ah W-Wait, huh!?\n"
+msgstr "Hey! W-Wait, huh!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -216,7 +216,7 @@ msgstr ""
 #  warnings: 1 
 #: sc/0041:17 
 msgid "そうだそうだ！\n"
-msgstr "Yeah, like what the heck?\n"
+msgstr "Yeah, like what the hell?\n"
 
 #  text 
 #  warnings: 1 
@@ -273,8 +273,8 @@ msgstr ""
 #: sc/0041:22 
 msgid "さあ、払ってもらうよ。前の分と\nさっきの分を合わせて１万円だ。\n"
 msgstr ""
-"Now it's time to pay. With the one from last time and the one just now, that "
-"will be 10,000 yen.\n"
+"Now it's time to pay up. Between last time \n"
+"and the one just now, it's 10,000 yen.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -359,7 +359,7 @@ msgstr ""
 #: sc/0041:29 
 msgid "（お、織田信長……\n　降ろせるようになったのか）\n"
 msgstr ""
-"(O- Oda Nobunaga......\n"
+"(Oda Nobunaga......\n"
 "So she managed to call him down)\n"
 
 #  speaker 
@@ -373,8 +373,8 @@ msgstr ""
 #: sc/0041:30 
 msgid "（いや、ハッタリだ。所詮は老体、\n　走れば逃げ切ることは可能！）\n"
 msgstr ""
-"(No, she's bluffing. After all she is an elder, \n"
-"if I want it it should be possible to escape by running!)\n"
+"(No, she's bluffing. After all, she's old, so if I run \n"
+"there's a chance I'll be able to get away!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -423,8 +423,8 @@ msgstr ""
 #: sc/0041:34 
 msgid "（な、何でだ！？\n　老体についてこれるスピ―ドでは……）\n"
 msgstr ""
-"(W-Why is that!? What's with her being to keep the pace despite being an "
-"elder……)\n"
+"(W-What the!? How's she keeping pace \n"
+"despite being an elder……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -460,7 +460,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0041:37 
 msgid "今度はスプリンタ―の霊を降ろした。\n"
-msgstr "This time I called down the spirit of a sprinter.\n"
+msgstr "This time I called upon the spirit of a sprinter.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -486,7 +486,7 @@ msgstr ""
 msgid "だ、だから、どこまで逃げても、\n無駄……だから、早く止まって……。\n"
 msgstr ""
 "S -So that's why … there is no use in trying \n"
-"to run away. So, that's why you should, stop running……\n"
+"to run away. So, that's why you should, stop running, fast……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -510,7 +510,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0041:41 
 msgid "と、止まれ……止まらんと……呪う……。\n"
-msgstr "W-wait up……stop or I'll……curse you……\n"
+msgstr "W-wait……stop or I'll……curse you……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -533,6 +533,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0041:43 
+#, fuzzy
 msgid "（織田信長は無理だったのに……\n　降ろせるようになっている！！）\n"
 msgstr ""
 "(She said it was impossible to bring \n"

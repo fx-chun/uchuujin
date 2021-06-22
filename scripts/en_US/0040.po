@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:11+0000\n"
-"PO-Revision-Date: 2021-03-23 03:45+0000\n"
-"Last-Translator: Mican <max.ihren@gmail.com>\n"
+"PO-Revision-Date: 2021-06-23 00:02+0000\n"
+"Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0040/en_US/>\n"
 "Language: en_US\n"
@@ -25,8 +25,8 @@ msgstr "Nakanojo"
 #: sc/0040:0 
 msgid "この症状がどうやれば治るのか、\n本当に治るのかすらもわからない。\n"
 msgstr ""
-"What should I do to fix this condition,\n"
-"I don't even know if it can be in the first place.\n"
+"How can I cure this condition...\n"
+"I'm not actually sure if I can.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -39,8 +39,8 @@ msgstr ""
 #: sc/0040:1 
 msgid "だけど、こんな心霊現象に負けていたら\n将来科学者になるなんて無理だ！\n"
 msgstr ""
-"But if I loose to some psychic phenomenon like this\n"
-"it's impossible for me to become a scientist in the future!\n"
+"But if I were to lose to a psychic phenomenon like this\n"
+"There'd be no point in trying to become a scientist!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -54,7 +54,7 @@ msgstr ""
 msgid "明日まで、まだ時間はたっぷりある。\n自分一人の力で治してやる！\n"
 msgstr ""
 "There is still plenty of time until tomorrow!\n"
-"I will cure it with my own power!\n"
+"I will cure this with my own power!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -92,7 +92,7 @@ msgstr ""
 msgid "あんたは……あの時の！\n今日こそあの時の代金、払ってもらうよ。\n"
 msgstr ""
 "You are…… from that one time! Today,\n"
-"I'll let you pay for the money you owe.\n"
+"I'll let you pay the money you owe me.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -103,6 +103,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0040:6 
+#, fuzzy
 msgid "（くそっ、なんだってこんな時に！\n　僕には時間もお金も無いってのに……！）\n"
 msgstr ""
 "(Damn it, why in a time like this!\n"
@@ -154,7 +155,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0040:10 
 msgid "校長？　なら代わりに払ってもらうよ。\n"
-msgstr "Principal? Then I will let you pay for him instead.\n"
+msgstr "A Principal? Then I will let you pay for him instead.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -180,7 +181,7 @@ msgstr ""
 msgid "あんたのところの生徒の分だ。\n校長だったら払って当然だろう？\n"
 msgstr ""
 "It's for the student of yours. \n"
-"Of course you should pay if you are the principal?\n"
+"Of course you should pay, if you are the principal.\n"
 
 #  text 
 #  warnings: 1 
@@ -194,17 +195,18 @@ msgstr ""
 #  warnings: 1 
 #: sc/0040:14 
 msgid "あの少年、\nこのばあさんに何をしたんだ？\n"
-msgstr "That boy, what did you do to this old lady?\n"
+msgstr "Boy, what did you do to this old lady?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0040:15 
 msgid "何だろうな……借金とか？\n"
-msgstr "I do wonder that too……he left her with debt?\n"
+msgstr "I do wonder that too……a debt, or something?\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0040:16 
+#, fuzzy
 msgid "手堅くきたな。\nだが、食い逃げという可能性もある。\n"
 msgstr ""
 "That would be rough. \n"
@@ -216,7 +218,7 @@ msgstr ""
 msgid "なるほど……\nあっ、じゃあインチキ商売とか？\n"
 msgstr ""
 "I see……\n"
-"Ah, what about fraud business then?\n"
+"Ah, maybe he scammed her?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -228,7 +230,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0040:18 
 msgid "インチキじゃない！\n"
-msgstr "It's not a fraud!\n"
+msgstr "I didn't scam her!\n"
 
 #  speaker 
 #  warnings: 2 
@@ -265,8 +267,8 @@ msgstr ""
 #: sc/0040:22 
 msgid "お金は払いません！\nあんなのインチキじゃないですか！\n"
 msgstr ""
-"I will not pay you!\n"
-"What you do is just plain trickery!\n"
+"I'm not going to pay you!\n"
+"What you do is just plain deception!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -279,8 +281,8 @@ msgstr ""
 #: sc/0040:23 
 msgid "インチキじゃありません。\n私は本当に霊を降ろせるんです。\n"
 msgstr ""
-"It is not trickery. \n"
-"I can really communicate with spirits.\n"
+"It is not deception. \n"
+"I can really call down spirits.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -292,7 +294,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0040:24 
 msgid "じゃあ大福の霊を降ろしてください！\n"
-msgstr "Then bring me the spirit of Daifuku !\n"
+msgstr "Then bring me the spirit of Daifuku!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -315,6 +317,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0040:26 
+#, fuzzy
 msgid "どうです、できないでしょう？\n"
 msgstr "How's that, that you can't do right?\n"
 
@@ -341,7 +344,7 @@ msgstr ""
 #: sc/0040:28 
 msgid "ほら、やっぱりインチキだ。\nだからお金は払いません！\n"
 msgstr ""
-"See, it's trickery as I said. \n"
+"See, it's deception as I said. \n"
 "That's why I won't pay you!\n"
 
 #  speaker 
@@ -416,8 +419,7 @@ msgstr ""
 msgid "はぁ、はぁ！\n物の霊を降ろすのは３秒が限界だ……。\n"
 msgstr ""
 "Huff, huff!\n"
-"To bring down the spirits of  an object, three seconds is the maximum for "
-"that……\n"
+"The limit for calling down the spirit of an object is three seconds……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -442,8 +444,8 @@ msgstr ""
 #: sc/0040:36 
 msgid "３秒ですが、降ろせましたよ？\nお金を払ってください。\n"
 msgstr ""
-"It was just three seconds, but I did bring you it.\n"
-"So could you please pay.\n"
+"It was just three seconds, but I did call it down.\n"
+"So, please pay.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -491,7 +493,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0040:40 
 msgid "（霊を降ろしたのに……降ろしたのに！！）\n"
-msgstr "(She brought down a spirit…she did do that but!!)\n"
+msgstr "(She brought down a spirit…she did, but!!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -502,6 +504,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0040:41 
+#, fuzzy
 msgid "（私は大福の神って間違えたじゃないか！！）\n"
 msgstr "(She mistook it with the god of daifuku instead!!)\n"
 
@@ -517,7 +520,7 @@ msgstr ""
 msgid "（か、勝った……！\n　これで僕はお金を払わなくても……）\n"
 msgstr ""
 "(I- I won……!\n"
-"With this I don't have to pay her money…)\n"
+"I won't have to pay her anything…)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -541,7 +544,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0040:44 
 msgid "わ、私は……ケ―キの霊……。\n"
-msgstr "I-I am……the cake spirit……\n"
+msgstr "I-I am……the spirit of cake……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -565,7 +568,9 @@ msgstr ""
 #  warnings: 0 
 #: sc/0040:46 
 msgid "いや、ケ―キじゃなくて、\n大福の霊ですよ！\n"
-msgstr "No, it's not cake, it should be daiku!\n"
+msgstr ""
+"No, it's cake, \n"
+"it should be the spirit of daifuku!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -590,8 +595,8 @@ msgstr ""
 #: sc/0040:48 
 msgid "私は……大福よりケ―キが好きだから……\nケ―キの霊を降ろした。\n"
 msgstr ""
-"Well……I prefer cake more than daifuku so I brought down the cake spirit "
-"instead.\n"
+"Well……I like cake more than daifuku…… \n"
+"so I brought down the cake spirit instead.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -614,6 +619,7 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0040:50 
+#, fuzzy
 msgid "大体、ケ―キが好きなことは\nブログを見れば一目瞭然でしょうに……。\n"
 msgstr "Well to begin with, it would be obvious if you were reading my blog…\n"
 
@@ -640,8 +646,8 @@ msgstr ""
 #: sc/0040:52 
 msgid "ケ―キ好きに大福なんて年寄りくさい霊を\n降ろせるわけ無いでしょう。\n"
 msgstr ""
-"And on top of that, there's no way I can bring down something as old "
-"fashioned as a daifuku spirit.\n"
+"And on top of that, there's no way I can bring down \n"
+"something as old fashioned as a daifuku spirit.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -678,7 +684,7 @@ msgstr ""
 #: sc/0040:55 
 msgid "その歳で……その見た目で……\nイタコなんてやってて……！\n"
 msgstr ""
-"With that age…and with that look…\n"
+"With that age…and looking like that…\n"
 "while also being a medium……!\n"
 
 #  speaker 
@@ -691,7 +697,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0040:56 
 msgid "なんでスィ―ツブログなんて\nやってるんだ……！！\n"
-msgstr "Why would you be having a dessert blog…!!\n"
+msgstr "Why would you run a dessert blog…!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -715,7 +721,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0040:58 
 msgid "あ―あ―。どうも―、大福で―っす。\n"
-msgstr "Ah-Ah. Hey nice to meet you, it's me daifuku.\n"
+msgstr "Ah-Ah. Wazzap, it's Daifuku here.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -751,7 +757,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0040:61 
 msgid "（またこのパタ―ンか……）\n"
-msgstr "(So it's pattern again……)\n"
+msgstr "(It's the same pattern again……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -764,7 +770,7 @@ msgstr ""
 #: sc/0040:62 
 msgid "大福で―す。\n血液型は９型〜。\n"
 msgstr ""
-"Hey I'm Daifuku. \n"
+"Hey, I'm Daifuku. \n"
 "My blood type is A~\n"
 
 #  speaker 
@@ -790,8 +796,8 @@ msgstr ""
 #: sc/0040:64 
 msgid "９ＭＭＪＮだけに９型―。\nなんちゃって―。\n"
 msgstr ""
-"A as in \"ANNKO\"\n"
-"am I right\n"
+"A as in \"ANNKO\"—\n"
+"…Not!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -839,4 +845,4 @@ msgstr "Nakanojou"
 #  warnings: 0 
 #: sc/0040:68 
 msgid "なんちゃってじゃないよ……！！\n"
-msgstr "What do you mean \"Am I right-\"!!\n"
+msgstr "What do you mean \"Not!\"……!!\n"

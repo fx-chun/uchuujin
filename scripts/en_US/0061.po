@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-14 04:20+0000\n"
-"PO-Revision-Date: 2021-03-11 21:31+0000\n"
+"PO-Revision-Date: 2021-07-04 01:03+0000\n"
 "Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0061/en_US/>\n"
@@ -36,7 +36,7 @@ msgstr "Male student #1"
 #  warnings: 0 
 #: sc/0061:1 
 msgid "桜井先生〜、さようなら〜。\n"
-msgstr "Sakurai-sensei～, goodbye～.\n"
+msgstr "Ms. Sakurai～, goodbye～.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,6 +61,8 @@ msgstr ""
 #: sc/0061:3 
 msgid "（あっ、ボタンの一番上、外れてる……\n　あ、でももう放課後だし、いいのかな？）\n"
 msgstr ""
+"(Ah, the top button's come undone……\n"
+"Well, school's over, so it'll probably be fine.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,6 +75,8 @@ msgstr ""
 #: sc/0061:4 
 msgid "（……ううん、放課後だからって見逃してたら\n　ますます風紀が乱れていっちゃう）\n"
 msgstr ""
+"(……No. If I overlook it just because it's after school,\n"
+"people will get more and more brazen.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -85,6 +89,8 @@ msgstr ""
 #: sc/0061:5 
 msgid "（私は生活指導担当なんだから。\n　例え放課後でも厳しく注意しないと！）\n"
 msgstr ""
+"(I'm the guidance councilor. \n"
+"I need to give warnings, even if it's after school!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -145,6 +151,8 @@ msgstr ""
 #: sc/0061:10 
 msgid "（髪型や服装は大丈夫だけど……\n　ネジが……）\n"
 msgstr ""
+"(Her hair and uniform are fine,\n"
+"but that key……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +165,8 @@ msgstr ""
 #: sc/0061:11 
 msgid "（あ、でも、東雲さんはロボットだから\n　いいのかな……）\n"
 msgstr ""
+"(Oh, but, she's a robot……\n"
+"I wonder if I it would be okay……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -181,6 +191,8 @@ msgstr ""
 #: sc/0061:13 
 msgid "……え、えっと、\n気をつけて帰ってくださいね。\n"
 msgstr ""
+"……Uh, uhm,\n"
+"Have a nice afternoon.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -265,6 +277,8 @@ msgstr ""
 #: sc/0061:20 
 msgid "（この髪型は風紀的にダメだよね……\n　注意しないと……）\n"
 msgstr ""
+"(That hair style is not fit for school……\n"
+"I need to say something about it……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -288,7 +302,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0061:22 
 msgid "（髪のことを言ったら傷つけちゃうかも……）\n"
-msgstr ""
+msgstr "I might hurt his feelings if I talk about his hair……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -300,7 +314,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0061:23 
 msgid "桜井先生？　どうかしたんですか？\n"
-msgstr ""
+msgstr "Ms. Sakurai? Is something wrong?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,6 +327,8 @@ msgstr ""
 #: sc/0061:24 
 msgid "え、えっと……\n気をつけて帰ってくださいね。\n"
 msgstr ""
+"Ah, uhm……\n"
+"Have a nice afternoon.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -324,7 +340,7 @@ msgstr "Nakanojou"
 #  warnings: 0 
 #: sc/0061:25 
 msgid "はい。さようなら先生。\n"
-msgstr ""
+msgstr "Okay! See you tomorrow.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -349,6 +365,8 @@ msgstr ""
 #: sc/0061:27 
 msgid "（全然注意できないけど……いいのかな？）\n"
 msgstr ""
+"(I wasn't able to warn him at all……\n"
+"I wonder if it's alright.)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -397,6 +415,8 @@ msgstr ""
 #: sc/0061:31 
 msgid "こ、こら！\n勝手に入ってきちゃダメでしょ。えい。\n"
 msgstr ""
+"He- Hey!\n"
+"You can't just come in here like that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -414,13 +434,13 @@ msgstr "Woof!\n"
 #  warnings: 1 
 #: sc/0061:33 
 msgid "来るぞ！\n"
-msgstr ""
+msgstr "Coming through!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0061:34 
 msgid "うわあああ！！\n"
-msgstr ""
+msgstr "Uwaaaaa!!\n"
 
 #  text 
 #  warnings: 1 
@@ -433,30 +453,36 @@ msgstr ""
 #: sc/0061:36 
 msgid "しかし、あのアンテナは強度アップの実験で\nできた試作品だったはずなんだが……。\n"
 msgstr ""
+"But that antenna is just a prototype for \n"
+"experiments on increased strength……\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0061:37 
 msgid "何？　ということは……。\n"
-msgstr ""
+msgstr "What? That means……\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0061:38 
 msgid "軽い一撃に見えて、\n実はかなりの破壊力があったんだ！\n"
 msgstr ""
+"Even though it didn't look that bad,\n"
+"It was really damaging to the antenna!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0061:39 
 msgid "うお――！　達人だ――！！\n"
-msgstr ""
+msgstr "Woah――! A true master――!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0061:40 
 msgid "……いや、強度アップの実験が、\n失敗だっただけだと思うぞ。\n"
 msgstr ""
+"……well, as for strength experiments,\n"
+"I guess they failed.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -480,7 +506,7 @@ msgstr "Tanaka"
 #  warnings: 0 
 #: sc/0061:42 
 msgid "あっ、センセ―、ばいば―い。\n"
-msgstr ""
+msgstr "Oh, Sakurai. Adios.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -492,7 +518,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0061:43 
 msgid "（あっ、田中君……）\n"
-msgstr ""
+msgstr "(Oh, Tanaka-kun……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -516,7 +542,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0061:45 
 msgid "あの、田中君。ちょっと……。\n"
-msgstr ""
+msgstr "Um, Tanaka-kun. Your, um……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -528,7 +554,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0061:46 
 msgid "ん？　な―に？\n"
-msgstr "Hm? What is it?\n"
+msgstr "Hm? What's up?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -553,6 +579,8 @@ msgstr ""
 #: sc/0061:48 
 msgid "そ、その髪型、\n変えることはできませんか？\n"
 msgstr ""
+"Y- your hair,\n"
+"would it not be possible for you to change it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -564,7 +592,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0061:49 
 msgid "（や、やった、言えた！）\n"
-msgstr ""
+msgstr "(Ye- yes! I was able to say it!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -577,6 +605,8 @@ msgstr ""
 #: sc/0061:50 
 msgid "この髪型を？\n気に入ってるんだけど、変かな―？\n"
 msgstr ""
+"My hair?\n"
+"I like it, but is it weird?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -588,7 +618,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0061:51 
 msgid "あっ、い、いえ……。\n"
-msgstr ""
+msgstr "Oh, n-, not at all……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -599,8 +629,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0061:52 
+#, fuzzy
 msgid "（えっ？　ちょっとショック受けてる？\n　もしかして厳しく言い過ぎた……？）\n"
 msgstr ""
+"(Huh? I'm a bit in shock?\n"
+"Maybe I was a bit too hash……?)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -613,6 +646,8 @@ msgstr ""
 #: sc/0061:53 
 msgid "あっ、そ、その……\n変じゃないと思いますよ。\n"
 msgstr ""
+"Ah, uh, um……\n"
+"I don't think that it's weird.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -713,6 +748,8 @@ msgstr ""
 #: sc/0061:61 
 msgid "その髪型なんですけど……\n風紀的に……その……。\n"
 msgstr ""
+"Your hair is just, um……\n"
+"In terms of appropriateness……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -737,6 +774,8 @@ msgstr ""
 #: sc/0061:63 
 msgid "えっと……だから……\n生徒指導担当としては……その……。\n"
 msgstr ""
+"Uhm…… so……\n"
+"I'm the guidance councilor, so……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -748,7 +787,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0061:64 
 msgid "センセ―。\n"
-msgstr "Teacher—.\n"
+msgstr "Sakurai—.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -857,6 +896,8 @@ msgstr ""
 #: sc/0061:73 
 msgid "（あっ、でも、もし田中君も\n　髪型を注意されて傷付いたら……）\n"
 msgstr ""
+"(Ah, but, if I were to also hurt Tanaka-kun's\n"
+"feelings with my warning……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -904,7 +945,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0061:77 
 msgid "……センセ―？\n"
-msgstr ""
+msgstr "……Sakurai?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -952,7 +993,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0061:81 
 msgid "……き、気をつけて帰ってくださいね。\n"
-msgstr ""
+msgstr "……Ha- have a nice afternoon.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -965,6 +1006,8 @@ msgstr ""
 #: sc/0061:82 
 msgid "あっ、うん。\nじゃあね、センセ―。\n"
 msgstr ""
+"Ah, aight.\n"
+"See ya, Sakurai―.\n"
 
 #  speaker 
 #  warnings: 0 

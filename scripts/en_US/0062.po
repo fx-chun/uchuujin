@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 00:01+0000\n"
-"PO-Revision-Date: 2021-07-04 01:02+0000\n"
+"PO-Revision-Date: 2021-07-05 23:02+0000\n"
 "Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0062/en_US/>\n"
@@ -25,6 +25,8 @@ msgstr "Sakurai Sensei"
 #: sc/0062:0 
 msgid "（う―……生徒の気持ちを考えたら\n　声もかけれなくなっちゃった……）\n"
 msgstr ""
+"(Ah—……If I think about the students' \n"
+"feelings, I'm unable to say anything……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -37,6 +39,8 @@ msgstr ""
 #: sc/0062:1 
 msgid "……はぁ。立派な先生になるために\n生活指導担当になったのに、これじゃあ……。\n"
 msgstr ""
+"……*sigh*. I became the life guidance \n"
+"counselor to be a better teacher, but now……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -63,6 +67,8 @@ msgstr ""
 #: sc/0062:3 
 msgid "あっ、高崎先生。実は、風紀が乱れないように\n生徒に指導をしていたんですけど……。\n"
 msgstr ""
+"Oh, Mr. Takasai. Actually, 風紀が乱れないように\n"
+"生徒に指導をしていたんですけど……。\n"
 
 #  speaker 
 #  warnings: 0 
@@ -73,8 +79,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0062:4 
+#, fuzzy
 msgid "なんと！　放課後でも指導にあたるとは\n素晴らしい心がけです！\n"
 msgstr ""
+"What a surprise!　Giving instruction even after school—\n"
+"What a great attitude!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -87,6 +96,8 @@ msgstr ""
 #: sc/0062:5 
 msgid "で、でも……私、気が弱くて\nなかなか声をかけれなくて……。\n"
 msgstr ""
+"Bu- but…… I'm so timid,\n"
+"I don't really say anything……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -99,6 +110,8 @@ msgstr ""
 #: sc/0062:6 
 msgid "高崎先生みたいに物怖じしないようになるには\nどうしたらいいんでしょうか……？\n"
 msgstr ""
+"What do you think I could do to \n"
+"not be so bashful, like how you are?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -110,7 +123,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:7 
 msgid "そ、そうですね……。\n"
-msgstr ""
+msgstr "Uhm, well……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -121,8 +134,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0062:8 
+#, fuzzy
 msgid "（おどおどと小動物を侈侏とさせる姿が\n　桜井先生の魅力ではあるのだが……）\n"
 msgstr ""
+"(Ms. Sakurai's charm is in how \n"
+"she acts like a timid, small animal……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -135,6 +151,8 @@ msgstr ""
 #: sc/0062:9 
 msgid "（だが桜井先生は本気で悩んでいるんだ。\n　ここは真面目に答えてあげなければ！）\n"
 msgstr ""
+"(But this is really troubling Ms. Sakurai.\n"
+"I have to give her a serious answer!)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -160,7 +178,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:11 
 msgid "敬語をですか？\n"
-msgstr ""
+msgstr "Like if I was speaking to family?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -173,6 +191,8 @@ msgstr ""
 #: sc/0062:12 
 msgid "はい。相手を桜井……あ、いや、弟の桜井誠と\n思えば気軽に話せるのでは？\n"
 msgstr ""
+"Yes. It might work to pretend like you're \n"
+"talking to Izu— I mean, your brother Makoto.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -185,6 +205,8 @@ msgstr ""
 #: sc/0062:13 
 msgid "マコ……弟と思ってですか……\nそれならできそうな気がします。\n"
 msgstr ""
+"Mako…… Think of them as my brother?\n"
+"I think I can do that.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -197,6 +219,8 @@ msgstr ""
 #: sc/0062:14 
 msgid "ありがとうございました！\n私、がんばってみます！\n"
 msgstr ""
+"Thank you very much!\n"
+"I'll try it out!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -208,7 +232,7 @@ msgstr "Mr. Takasaki"
 #  warnings: 0 
 #: sc/0062:15 
 msgid "はい、がんばってください！\n"
-msgstr ""
+msgstr "Yes, I hope it works!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -246,7 +270,7 @@ msgstr "Makoto"
 #  warnings: 0 
 #: sc/0062:18 
 msgid "よっ、ほっ……。\n"
-msgstr ""
+msgstr "Huff, huff……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -258,7 +282,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:19 
 msgid "（あっ、マコちゃんだ……）\n"
-msgstr "(Oh, It's Mako-chan……)\n"
+msgstr "(Oh, it's Mako-chan……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -284,7 +308,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:21 
 msgid "うわっ！？　姉ちゃん！？\n"
-msgstr ""
+msgstr "Whoa!　Sis!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -296,7 +320,7 @@ msgstr "Makoto Sakurai"
 #  warnings: 0 
 #: sc/0062:22 
 msgid "弌弌あっ、ボ―ルが！\n"
-msgstr ""
+msgstr "——Ah, the ball—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -313,20 +337,27 @@ msgstr "!?\n"
 #  text 
 #  warnings: 1 
 #: sc/0062:24 
+#, fuzzy
 msgid "あっはっはっはっはっは……こんな形で\nアンテナが折れると笑うしかないな―。\n"
 msgstr ""
+"Ah ha ha ha……There's nothing to do but \n"
+"laugh when the antenna breaks like this—\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0062:25 
 msgid "あははは、そうだな。\nこの中に、よほど不運なやつがいるんだな。\n"
 msgstr ""
+"Ahaha, indeed.\n"
+"One of these guys must be very unlucky.\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0062:26 
 msgid "それかこのオッサンが不運なのかもな。\nアハハハハハハハハ！！\n"
 msgstr ""
+"Or maybe this old man is just unlucky.\n"
+"AHAHAHAHAHAHAHA!!!\n"
 
 #  text 
 #  warnings: 1 
@@ -420,7 +451,7 @@ msgstr ""
 msgid "こ、こら―！\n待ちなさ―い！！\n"
 msgstr ""
 "H-hey—!\n"
-"Wait—!!\n"
+"Stop—!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -447,6 +478,8 @@ msgstr ""
 #: sc/0062:36 
 msgid "ど、どうしたじゃないでしょ。\nそ……それ、何持ってるの？\n"
 msgstr ""
+"Th- there isn't anything going on.\n"
+"Wh……what are you holding?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -458,7 +491,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:37 
 msgid "それ？　あ、これですか？\n"
-msgstr "That? Oh, this?\n"
+msgstr "What? Oh, this?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -471,6 +504,8 @@ msgstr ""
 #: sc/0062:38 
 msgid "そうだよ。そんなもの持ってくるなんて\n校則違反でしょ！\n"
 msgstr ""
+"Yes, that. You know carrying that here \n"
+"is a violation of the student handbook!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -482,7 +517,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:39 
 msgid "あ、はい……。\n"
-msgstr "Ah, yes…….\n"
+msgstr "Oh, is it……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -509,6 +544,8 @@ msgstr ""
 #: sc/0062:41 
 msgid "もう、他の人が見て\n真似しちゃったらどうするの？\n"
 msgstr ""
+"Oh, but what if people see me acting \n"
+"less politely and start doing the same?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -520,7 +557,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:42 
 msgid "ご、ごめんなさい……。\n"
-msgstr ""
+msgstr "Pl- please excuse me……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -531,8 +568,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0062:43 
+#, fuzzy
 msgid "また次も見つけたら今よりも何倍もきつく\nお説教だからね。わかった？　マコちゃん。\n"
 msgstr ""
+"The next time, I'm going to lecture you \n"
+"a lot harder than I already have. Got it? Mako-chan.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -593,6 +633,8 @@ msgstr ""
 #: sc/0062:48 
 msgid "（あうう、せっかく上手くいってたのに\n　名前を間違えちゃった……）\n"
 msgstr ""
+"(Augh. I finally was able to warn a student,\n"
+"but I said the wrong name……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -604,7 +646,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:49 
 msgid "先生、マコちゃんって誰ですか？\n"
-msgstr ""
+msgstr "Ms. Sakurai, who is Mako-chan?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -641,6 +683,8 @@ msgstr ""
 #: sc/0062:52 
 msgid "は、話を替えないの！\n今は立花さんのことでしょ！\n"
 msgstr ""
+"Do- don't you dare change the subject!\n"
+"We're talking about what you did now!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -652,7 +696,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:53 
 msgid "えっ？　あ、はい！\n"
-msgstr ""
+msgstr "Huh? Uh, alright!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -663,8 +707,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0062:54 
+#, fuzzy
 msgid "危ない物を持ってるのもダメだけど、\n人に向けてるところもよく見るよ？\n"
 msgstr ""
+"Bringing dangerous things to school is bad enough,\n"
+"But I also see you pointing them at people, you know?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -687,8 +734,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0062:56 
+#, fuzzy
 msgid "女の子なんだから、\nもっとお淑やかにね。わかった？\n"
 msgstr ""
+"You're a girl, \n"
+"so act like one. Got it?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -712,7 +762,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:58 
 msgid "はい。それじゃあ行っていいよ。\n"
-msgstr ""
+msgstr "That's all. You can go on now.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -724,7 +774,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:59 
 msgid "はい、失礼します……。\n"
-msgstr ""
+msgstr "Yes, see you later……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -749,6 +799,8 @@ msgstr ""
 #: sc/0062:61 
 msgid "（うう、相手をマコちゃんだと思うと\n　次と言いたい事が言えたけど……）\n"
 msgstr ""
+"(Ugh, I can say what I want when I pretend \n"
+"that the other person is Mako-chan, but……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -772,7 +824,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:63 
 msgid "胃が痛い……。\n"
-msgstr ""
+msgstr "I feel sick now……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -784,7 +836,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:64 
 msgid "あの、私の名前はみさとなんですけど。\n"
-msgstr ""
+msgstr "Uhm, my name is Misato……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -797,6 +849,8 @@ msgstr ""
 #: sc/0062:65 
 msgid "あっ、はい。\n立花みさとさんですよね。\n"
 msgstr ""
+"Ah, yes.\n"
+"Misato Tachibana, right?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -808,7 +862,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:66 
 msgid "誰ですか？　マコちゃんって。\n"
-msgstr ""
+msgstr "Mako-chan? Who's that?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -821,6 +875,8 @@ msgstr ""
 #: sc/0062:67 
 msgid "あ、それは、私の弟のことで……\n誠って名前なんですけど……。\n"
 msgstr ""
+"Oh, that's, he's my brother……\n"
+"His name is Makoto, but……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -832,7 +888,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:68 
 msgid "へ―。それでマコちゃんって\n呼んでるんですか。\n"
-msgstr ""
+msgstr "Ok— so you call him Mako-chan?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -845,6 +901,8 @@ msgstr ""
 #: sc/0062:69 
 msgid "はい。でもマコちゃんって呼ばれるの、\nあんまり好きじゃないみたいですけど。\n"
 msgstr ""
+"Yes. \n"
+"But he doesn't really like when I do it.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -857,6 +915,8 @@ msgstr ""
 #: sc/0062:70 
 msgid "男の子ですからね。\nちゃん付けは嫌だと思いますよ。\n"
 msgstr ""
+"It's because he's a boy.\n"
+"They don't like being called \"-chan\".\n"
 
 #  speaker 
 #  warnings: 0 
@@ -869,6 +929,8 @@ msgstr ""
 #: sc/0062:71 
 msgid "そうみたいですね。\nいつも怒られちゃって……。\n"
 msgstr ""
+"Yes, that's right.\n"
+"He always tells me off……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -880,7 +942,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:72 
 msgid "え―、本当ですか？\n"
-msgstr ""
+msgstr "Eh— really?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -893,6 +955,8 @@ msgstr ""
 #: sc/0062:73 
 msgid "あ、そろそろ行かないと。\nそれじゃ先生、さようなら―。\n"
 msgstr ""
+"Oh, I better get going soon.\n"
+"Well Ms. Sakurai, goodbye—\n"
 
 #  speaker 
 #  warnings: 0 
@@ -904,7 +968,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:74 
 msgid "あっ、はい。さようなら。\n"
-msgstr ""
+msgstr "Oh, yes. Goodbye.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -941,6 +1005,8 @@ msgstr ""
 #: sc/0062:77 
 msgid "あっ……\nお説教のこと忘れてた……。\n"
 msgstr ""
+"Oh……\n"
+"I forgot to scold her……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -953,6 +1019,8 @@ msgstr ""
 #: sc/0062:78 
 msgid "（マ、マコちゃんだと思って喋ってたから\n　名前間違えちゃった……）\n"
 msgstr ""
+"(I- I thought she was Mako-chan, \n"
+"so I said the wrong name……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -965,6 +1033,8 @@ msgstr ""
 #: sc/0062:79 
 msgid "（う―、せっかくビシッと決められたのに……\n　恥ずかしいよ……）\n"
 msgstr ""
+"(Ugh... I could've scolded her so well……\n"
+"It's embarrassing……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1000,7 +1070,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0062:82 
 msgid "あ、はい。\n"
-msgstr "Oh, sure.\n"
+msgstr "Oh, yes?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1013,6 +1083,8 @@ msgstr ""
 #: sc/0062:83 
 msgid "その……こういう物は\n風紀が乱れちゃうので……。\n"
 msgstr ""
+"Well……things like that are\n"
+"sort of inappropriate for school……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1037,6 +1109,8 @@ msgstr "Ms. Sakurai"
 #: sc/0062:85 
 msgid "あの、学校にはできるだけ……\n持ってこないように……。\n"
 msgstr ""
+"Uhm, well, just in school, if you can……\n"
+"Please try not to bring things like that……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1060,4 +1134,4 @@ msgstr "Misato"
 #  warnings: 0 
 #: sc/0062:87 
 msgid "（あっ、いつもの桜井先生に戻ってる）\n"
-msgstr ""
+msgstr "(Ah, she's back to the usual Ms. Sakurai.)\n"

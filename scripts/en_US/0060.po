@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-17 23:35+0000\n"
-"PO-Revision-Date: 2021-07-01 21:03+0000\n"
+"PO-Revision-Date: 2021-07-05 23:03+0000\n"
 "Last-Translator: DS <jonathandds123@gmail.com>\n"
 "Language-Team: English (United States) <https://weblate.lolc.at/projects/"
 "uchuujin/script-0060/en_US/>\n"
@@ -24,7 +24,7 @@ msgstr "Female student #1"
 #  warnings: 0 
 #: sc/0060:0 
 msgid "弌弌でね、電車で１時間もかかっちゃって！\n"
-msgstr ""
+msgstr "——And the train took an hour to get there!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -36,7 +36,7 @@ msgstr "Sakurai Sensei"
 #  warnings: 0 
 #: sc/0060:1 
 msgid "うわ―、大変だったんですね〜。\n"
-msgstr ""
+msgstr "Wow— that must've been rough〜\n"
 
 #  speaker 
 #  warnings: 0 
@@ -61,11 +61,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0060:3 
-#, fuzzy
 msgid "は―い！\nじゃあね、先生。\n"
 msgstr ""
 "Alright―!\n"
-"See you, teach.\n"
+"See ya, teach.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -77,7 +76,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0060:4 
 msgid "授業、しっかり受けてくださいね。\n"
-msgstr ""
+msgstr "Please pay attention in class.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -114,9 +113,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0060:7 
-#, fuzzy
 msgid "……それとも\n校内の見回りでもした方がいいかな？\n"
-msgstr "……or maybe I should patrol the school?\n"
+msgstr ""
+"……or maybe I should \n"
+"make my rounds of the school?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -157,6 +157,8 @@ msgstr ""
 #: sc/0060:10 
 msgid "もしも、なにか問題があったら、\n生活指導担当としてビシッと対応しないと！\n"
 msgstr ""
+"If anything does, I need to be there to \n"
+"deal with it, as the guidance counselor!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -238,25 +240,27 @@ msgstr ""
 #  warnings: 1 
 #: sc/0060:17 
 msgid "是非とも俺を撫でてくれ！\n"
-msgstr ""
+msgstr "By all means, pet me!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0060:18 
 msgid "いや待て！　俺が先だ！\n"
-msgstr ""
+msgstr "No, wait!   Me first!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0060:19 
 msgid "落ち着けお前ら！\n一番は俺に決まってるだろ！\n"
 msgstr ""
+"Calm down, you guys!\n"
+"It's obvious that I should be first!\n"
 
 #  text 
 #  warnings: 1 
 #: sc/0060:20 
 msgid "何だと！　若造は引っ込んでろ！\n"
-msgstr ""
+msgstr "What the hell!　Stay out of this, newbie!\n"
 
 #  text 
 #  warnings: 1 
@@ -267,8 +271,11 @@ msgstr "Yeah, like what the hell?\n"
 #  text 
 #  warnings: 1 
 #: sc/0060:22 
+#, fuzzy
 msgid "もう！　後で俺が撫でてやるから！\n今の状況を理解しろぉぉお！\n"
 msgstr ""
+"Come on!　I'll pet you later!\n"
+"Just understand what's going on noooow!\n"
 
 #  speaker 
 #  warnings: 3 
@@ -370,11 +377,10 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0060:30 
-#, fuzzy
 msgid "そうなんですか……\nダメですよ、宿題はちゃんとしてこないと。\n"
 msgstr ""
 "Is that so……\n"
-"ダメですよ、宿題はちゃんとしてこないと。\n"
+"Well, you know you have to do your homework.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -387,6 +393,8 @@ msgstr ""
 #: sc/0060:31 
 msgid "いやあ、やろうやろうとは思うんですけど、\nなかなかやる気になれなくて……。\n"
 msgstr ""
+"No, I really was going to do it, \n"
+"but I couldn't really get motivated to……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -449,6 +457,8 @@ msgstr ""
 #: sc/0060:36 
 msgid "あ、あの……校内の見回りをしていて……\nそしたら相生さんがいて……。\n"
 msgstr ""
+"Oh, um……I was making my rounds……\n"
+"And then Aioi-san was there……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -472,7 +482,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0060:38 
 msgid "なっ！？　ほ、本当ですか！？\n"
-msgstr ""
+msgstr "Wha!?　Re- really!?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -484,7 +494,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0060:39 
 msgid "は、はい……スイマセン！\n"
-msgstr ""
+msgstr "Ye- yes…… I'm sorry!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -507,8 +517,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0060:41 
+#, fuzzy
 msgid "更に相生をしかってくれて……\nなのに俺ってやつは失礼にも怒鳴ったりして！\n"
 msgstr ""
+"She even went so far as to scold Aioi……\n"
+"And yet I'm the one who usually yells at her!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -556,7 +569,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0060:45 
 msgid "いや、桜井先生が立つことはないでしょ！\n"
-msgstr "No, there's no need for you to stand in the hall too!\n"
+msgstr "No, there's no need for you to stand in the hall!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -593,6 +606,8 @@ msgstr ""
 #: sc/0060:48 
 msgid "わかりました！　では桜井先生の分も俺が！\n相生、バケツに水入れて持って来い！\n"
 msgstr ""
+"Understood! I'll do Ms. Sakurai's part as well!\n"
+"Aioi, bring me a bucket of water!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -604,7 +619,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0060:49 
 msgid "えっ？　あ、はい！\n"
-msgstr ""
+msgstr "Huh? Uh, alright!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -629,6 +644,8 @@ msgstr ""
 #: sc/0060:51 
 msgid "よしっ！　ぬおお！！\nこの重さが桜井先生の分……！！\n"
 msgstr ""
+"Okay!　Nrggg!!\n"
+"This is for Ms. Sakurai……!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -641,6 +658,8 @@ msgstr ""
 #: sc/0060:52 
 msgid "相生さん！\n私にも同じもの持って来てください！\n"
 msgstr ""
+"Aioi!\n"
+"Please bring me a bucket of water too!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -704,7 +723,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0060:57 
 msgid "ううう―！\n"
-msgstr ""
+msgstr "Oomph―!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -716,7 +735,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0060:58 
 msgid "うおおお―――！！\n"
-msgstr ""
+msgstr "Uwagg―――!!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -728,7 +747,7 @@ msgstr "Mio"
 #  warnings: 0 
 #: sc/0060:59 
 msgid "（授業しろよ……）\n"
-msgstr ""
+msgstr "(You should be teaching……)\n"
 
 #  speaker 
 #  warnings: 0 
@@ -779,6 +798,8 @@ msgstr ""
 #: sc/0060:63 
 msgid "高崎先生―、\n授業やらないんですか？\n"
 msgstr ""
+"Mr. Takasaki—\n"
+"Aren't you going to teach class?\n"
 
 #  speaker 
 #  warnings: 0 
@@ -791,6 +812,8 @@ msgstr ""
 #: sc/0060:64 
 msgid "今それどころじゃない！\n国語の授業なんか、後回しだ！\n"
 msgstr ""
+"This is not the time for that!\n"
+"I'll get to teaching Japanese class later!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -827,6 +850,8 @@ msgstr ""
 #: sc/0060:67 
 msgid "俺は……俺はなんてバカなことを……\n注意してくれた桜井先生にどなるなんて……。\n"
 msgstr ""
+"How could…… how could I do something so stupid……\n"
+"I can't believe I yelled at Ms. Sakurai for warning me……\n"
 
 #  speaker 
 #  warnings: 0 
@@ -850,7 +875,7 @@ msgstr ""
 #  warnings: 0 
 #: sc/0060:69 
 msgid "……え、えっと。\n"
-msgstr ""
+msgstr "……uh, uhm.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -951,8 +976,9 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0060:77 
+#, fuzzy
 msgid "これで問題ありません！\n"
-msgstr ""
+msgstr "This isn't problem!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -977,6 +1003,8 @@ msgstr ""
 #: sc/0060:79 
 msgid "授業が終わるまでずっと立ってます！\nですので、桜井先生は引き続き見回りを！\n"
 msgstr ""
+"I'll be standing here until class is over!\n"
+"So, Ms. Sakurai, continue to make your rounds!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1023,8 +1051,11 @@ msgstr ""
 #  text 
 #  warnings: 0 
 #: sc/0060:83 
+#, fuzzy
 msgid "……見回りも無事に終わったから、\nちょうど良かったかな。\n"
 msgstr ""
+"……見回りも無事に終わったから、\n"
+"It was just as well, I guess.\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1037,6 +1068,8 @@ msgstr ""
 #: sc/0060:84 
 msgid "あ、そういえば、高崎先生は弌弌\n"
 msgstr ""
+"Oh, come to think of it,\n"
+"Mr. Takasaki is still——\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1049,6 +1082,8 @@ msgstr "Mr. Takasaki"
 #: sc/0060:85 
 msgid "ぬおおおお！！\nバケツに……バケツに負けてたまるか―っ！\n"
 msgstr ""
+"Ngrrrrgh!!\n"
+"I can't…… I can't let these buckets beat me—!\n"
 
 #  speaker 
 #  warnings: 0 
@@ -1060,4 +1095,4 @@ msgstr "Ms. Sakurai"
 #  warnings: 0 
 #: sc/0060:86 
 msgid "え――っ！？\n"
-msgstr ""
+msgstr "Eh——!?\n"
